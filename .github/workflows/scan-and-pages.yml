@@ -1,0 +1,41 @@
+name: Mamak tarama ve yayın
+on:
+  schedule:
+    - cron: "*/5 * * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+concurrency:
+  group: pages
+  cancel-in-progress: false
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Açık kaynakları tara
+        run: python scripts/fetch_events.py
+      - name: Sonuç değiştiyse kaydet
+        run: |
+          git config user.name "mamak-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/events.json
+          git diff --cached --quiet || (git commit -m "Olay verisini güncelle" && git push)
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: .
+      - id: deployment
+        uses: actions/deploy-pages@v4
+        with:
+          token: ${{ github.token }}
+          timeout: 600000
+environment:
+  name: github-pages
