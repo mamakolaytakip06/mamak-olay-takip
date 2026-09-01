@@ -17,8 +17,8 @@ SOCIAL=[
 ("Instagram","site:instagram.com/mamak.sondakika Mamak"),("Instagram","site:instagram.com/ankaradantrafik Mamak"),
 ("Instagram","site:instagram.com/ankarasondakikahaberleri.06 Mamak"),
 ("YouTube","site:youtube.com Mamak Ankara son dakika olay"),
-("TikTok","site:tiktok.com Mamak Ankara kaza yangın polis"),
-("Threads","site:threads.net Mamak Ankara son dakika")
+("TikTok","site:tiktok.com Mamak Ankara kaza yangın polis")
+
 ]
 C=[("Cinayet","⚫",["cinayet","öldürüldü","öldürdü","ölü bulundu"]),("Taciz","🟣",["taciz","cinsel saldırı","istismar"]),("Düğünde Silah","🔫",["düğün","havaya ateş","maganda"]),("Silahlı Olay","🔫",["silahlı","silah","kurşun","ateş aç"]),("Kavga","🥊",["kavga","darp","saldırı"]),("Trafik Kazası","🚗",["trafik kazası","kaza","çarpış","araç devr"]),("Hırsızlık","🕵️",["hırsız","çaldı","gasp"]),("Dolandırıcılık","💳",["dolandır"]),("Uyuşturucu","🚔",["uyuşturucu","narkotik"]),("Kayıp Kişi","👤",["kayıp","aranıyor"]),("Yangın","🔥",["yangın","duman","alev"]),("Sağlık","🚑",["ambulans","yaralı","sağlık"]),("Yol","🚧",["yol kapalı","yol çalışma"]),("Altyapı","⚡",["elektrik","su kesinti","doğalgaz"])]
 def clean(s): return re.sub(r"<[^>]+>"," ",s or "").strip()
@@ -50,7 +50,7 @@ try:
 except:old=[]
 merged={};cut=now-timedelta(days=365)
 for e in old+new:
- if e.get("platform")=="Telegram":continue
+ if e.get("platform") in ("Telegram","Threads"):continue
  try:
   if datetime.fromisoformat(e["published"])<cut:continue
  except:continue
@@ -58,4 +58,4 @@ for e in old+new:
  merged[key]=e
 items=sorted(merged.values(),key=lambda x:x["published"],reverse=True)[:1500]
 for i,e in enumerate(items,1):e["id"]=i
-with open("data/events.json","w",encoding="utf-8") as f:json.dump({"updated_at":now.isoformat(),"events":items,"sources":["Google News RSS","X (indekslenen açık gönderiler)","Facebook (indekslenen açık sayfa/gruplar)","Instagram","YouTube","TikTok","Threads"]},f,ensure_ascii=False,indent=2)
+with open("data/events.json","w",encoding="utf-8") as f:json.dump({"updated_at":now.isoformat(),"events":items,"sources":["Google News RSS","X (indekslenen açık gönderiler)","Facebook (indekslenen açık sayfa/gruplar)","Instagram","YouTube","TikTok"]},f,ensure_ascii=False,indent=2)
