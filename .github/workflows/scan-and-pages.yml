@@ -15,6 +15,9 @@ concurrency:
 jobs:
   scan:
     runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
@@ -34,8 +37,3 @@ jobs:
           path: .
       - id: deployment
         uses: actions/deploy-pages@v4
-        with:
-          token: ${{ github.token }}
-          timeout: 600000
-environment:
-  name: github-pages
