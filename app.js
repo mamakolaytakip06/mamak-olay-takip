@@ -1,6 +1,6 @@
 let all=[],range="today",cat="Tümü",left=300,firstLoad=true,audioOn=localStorage.getItem("mamakAudio")==="1";
 const $=s=>document.querySelector(s);
-const cats=["Tümü","Cinayet","Kavga","Trafik Kazası","Taciz","Silahlı Olay","Hırsızlık","Dolandırıcılık","Uyuşturucu","Kayıp Kişi","Yangın","Sağlık","Yol","Altyapı","Diğer"];
+const cats=["Tümü","Cinayet","Kavga","Trafik Kazası","Taciz","Silahlı Olay","Düğünde Silah","Hırsızlık","Dolandırıcılık","Uyuşturucu","Kayıp Kişi","Yangın","Sağlık","Yol","Altyapı","Diğer"];
 $("#cats").innerHTML=cats.map((x,i)=>`<button class="${i?"":"active"}" data-cat="${x}">${x}</button>`).join("");
 function esc(s){return String(s||"").replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]))}
 function inRange(e){const d=new Date(e.published),now=new Date();if(range==="today")return d.toDateString()===now.toDateString();if(range==="yesterday"){const y=new Date(now);y.setDate(y.getDate()-1);return d.toDateString()===y.toDateString()}return now-d<=Number(range)*60000}
