@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-02T02:22:51.699985+03:00",
+  "updated_at": "2026-09-02T02:27:56.123917+03:00",
   "events": [
     {
       "category": "Cinayet",
@@ -89,6 +89,9 @@
     },
     {
       "category": "Yangın",
+      "categories": [
+        "Yangın"
+      ],
       "icon": "🔥",
       "title": "Ankara Mamak'ta Ağaçlık Alanda Alevler Yükseldi: İtfaiye Ekipleri Seferber Oldu - habervitrini.com",
       "location": "Mamak / Ankara",
@@ -431,6 +434,9 @@
     },
     {
       "category": "Trafik Kazası",
+      "categories": [
+        "Trafik Kazası"
+      ],
       "icon": "🚗",
       "title": "Ankara Mamak'ta Trafik Kazası: Aynı Aileden 3 Kişi Yaralandı - Haber TR",
       "location": "Mamak / Ankara",
@@ -624,13 +630,13 @@
         "Sağlık"
       ],
       "icon": "🚗",
-      "title": "Mamak’ta feci kaza: 8 yaralı - Takvim",
+      "title": "Mamak’ta feci kaza: 8 yaralı - takvim.com.tr",
       "location": "Mamak / Ankara",
       "published": "2026-06-30T10:00:00+03:00",
       "confidence": 75,
       "sources": 1,
       "status": "Muhtemel",
-      "summary": "Takvim üzerinden bulunan herkese açık kayıt.",
+      "summary": "takvim.com.tr üzerinden bulunan herkese açık kayıt.",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOZFk2bHhFY01uRU11VS14bEpaTjZGbXlFOXliRmxBYi1GdjZubDFpcUU0RDFuTEw5NlM5RG94Z04yRHZoMkFWOUpUNGNIVTJxTGhMYUU0TDl3bF9wdndJcVVZdFVQcDBRenJUMjB5ZTZsQTZhTm9xRWtUYkhQNEZSbzdUNkEzMDd3allqcFV3Vk50UEtNSWFjbDNWRng3Q0dfSXlpaEkwWXE4dDlvenZPcVpibHhTeE4xWmdSdXF4QUVDRlEz?oc=5",
       "platform": "Haber",
       "id": 37
@@ -693,19 +699,22 @@
         "Silahlı Olay"
       ],
       "icon": "🔫",
-      "title": "Mamak’ta vahşet: Önünü kesip kurşun yağdırdıkları anlar kamerada! - Takvim",
+      "title": "Mamak’ta vahşet: Önünü kesip kurşun yağdırdıkları anlar kamerada! - takvim.com.tr",
       "location": "Mamak / Ankara",
       "published": "2026-06-14T10:00:00+03:00",
       "confidence": 75,
       "sources": 1,
       "status": "Muhtemel",
-      "summary": "Takvim üzerinden bulunan herkese açık kayıt.",
+      "summary": "takvim.com.tr üzerinden bulunan herkese açık kayıt.",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPdjJ5WUtkcmg4YUJHOFZrNTB1YzQtSTZFenV4WkxkWG5JWjdZWUJ4RmR2aUdpVHVhUFpZaGNHUEtZTk8wSXhoTjlNT05tWHNod0RXOVlSNl9zVkt0Uk5yVGZkYjJRY2dEMFlGVTFwczhMVVZlQkhpM1RhT3J4Mmw0bUY2QmxoRFBxTGk3NzJDSkJObXpFSWVxallqUEF4RDNDZXNR?oc=5",
       "platform": "Haber",
       "id": 41
     },
     {
       "category": "Trafik Kazası",
+      "categories": [
+        "Trafik Kazası"
+      ],
       "icon": "🚗",
       "title": "Ankara Mamak'ta Trafik Kazası Araçlar birbirine girdi - NNC Haber",
       "location": "Mamak / Ankara",
@@ -1234,13 +1243,13 @@
         "Cinayet"
       ],
       "icon": "⚫",
-      "title": "12 yıllık sır perdesi aralanıyor! Mamak’ta faili meçhul cinayet dosyası yeniden açıldı, sanıklar hakim karşısında - milliyet.com.tr",
+      "title": "12 yıllık sır perdesi aralanıyor! Mamak’ta faili meçhul cinayet dosyası yeniden açıldı, sanıklar hakim karşısında - Milliyet",
       "location": "Mamak / Ankara",
       "published": "2025-09-24T10:00:00+03:00",
       "confidence": 75,
       "sources": 1,
       "status": "Muhtemel",
-      "summary": "milliyet.com.tr üzerinden bulunan herkese açık kayıt.",
+      "summary": "Milliyet üzerinden bulunan herkese açık kayıt.",
       "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQV3JWNTRpblZ2bVB4MDVydXpJUktvbGpkbUVEeUlSVG91eUJsNy1vS1lTSklVd3U3ZHY1d1laZk95dmJhS29Vd1YyUVI0TWZQSl9wcjZvMmpnVVhFaVNSLWZ6dzJ1TmVxVEJKMDNieTdZUlZaOGMxTWg0TElJVHRPR2lGR3hoMlZQTWxKWWNieE5mMHMxYzBFX0s1Y1VtdVcxemY3RWNnQjVDSlZLRThfcW1ZT3dmWlNWQ3ZrOTNfd1lwZlNQZURjT044clJ3cHZ4ZTZJWWNPalE1ajJERV9tTjJ3Vmc2UVIw?oc=5",
       "platform": "Haber",
       "id": 73
