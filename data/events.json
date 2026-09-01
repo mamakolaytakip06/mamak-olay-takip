@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-02T02:09:49.259171+03:00",
+  "updated_at": "2026-09-02T02:19:59.075663+03:00",
   "events": [
     {
       "category": "Diğer",
@@ -18,7 +18,21 @@
     {
       "category": "Diğer",
       "icon": "⚠️",
-      "title": "MAMAK - Updated September 2026 - 1986 Photos & 871 Reviews ...",
+      "title": "Mamak stall - Wikipedia",
+      "location": "Mamak / Ankara",
+      "published": "2026-09-01T21:02:00+03:00",
+      "confidence": 60,
+      "sources": 1,
+      "status": "Sosyal medya / doğrulanmamış",
+      "summary": "TikTok üzerinden bulunan herkese açık kayıt.",
+      "url": "https://en.wikipedia.org/wiki/Mamak_stall",
+      "platform": "TikTok",
+      "id": 2
+    },
+    {
+      "category": "Diğer",
+      "icon": "⚠️",
+      "title": "MAMAK - Updated September 2026 - 1986 Photos & 871 Reviews - Yelp",
       "location": "Mamak / Ankara",
       "published": "2026-09-01T20:54:00+03:00",
       "confidence": 60,
@@ -27,7 +41,7 @@
       "summary": "TikTok üzerinden bulunan herkese açık kayıt.",
       "url": "https://www.yelp.com/biz/mamak-doraville-3",
       "platform": "TikTok",
-      "id": 2
+      "id": 3
     },
     {
       "category": "Diğer",
@@ -41,7 +55,35 @@
       "summary": "TikTok üzerinden bulunan herkese açık kayıt.",
       "url": "https://mamakeats.com/",
       "platform": "TikTok",
-      "id": 3
+      "id": 4
+    },
+    {
+      "category": "Diğer",
+      "icon": "⚠️",
+      "title": "Mamak",
+      "location": "Mamak / Ankara",
+      "published": "2026-09-01T15:25:00+03:00",
+      "confidence": 60,
+      "sources": 1,
+      "status": "Sosyal medya / doğrulanmamış",
+      "summary": "TikTok üzerinden bulunan herkese açık kayıt.",
+      "url": "https://www.mamak.com.au/",
+      "platform": "TikTok",
+      "id": 5
+    },
+    {
+      "category": "Diğer",
+      "icon": "⚠️",
+      "title": "Mamak Doraville | Authentic Malaysian-Chinese Street Food on Buford Highway",
+      "location": "Mamak / Ankara",
+      "published": "2026-09-01T05:17:00+03:00",
+      "confidence": 60,
+      "sources": 1,
+      "status": "Sosyal medya / doğrulanmamış",
+      "summary": "TikTok üzerinden bulunan herkese açık kayıt.",
+      "url": "https://mamakmalaysiacuisine.com/",
+      "platform": "TikTok",
+      "id": 6
     },
     {
       "category": "Diğer",
@@ -55,7 +97,7 @@
       "summary": "TikTok üzerinden bulunan herkese açık kayıt.",
       "url": "https://restaurantguru.com/Mamak-House-Jersey-City",
       "platform": "TikTok",
-      "id": 4
+      "id": 7
     },
     {
       "category": "Diğer",
@@ -69,21 +111,7 @@
       "summary": "TikTok üzerinden bulunan herkese açık kayıt.",
       "url": "https://en.wikipedia.org/wiki/Mamak_people",
       "platform": "TikTok",
-      "id": 5
-    },
-    {
-      "category": "Diğer",
-      "icon": "⚠️",
-      "title": "Mamak stall - Wikipedia",
-      "location": "Mamak / Ankara",
-      "published": "2026-08-31T20:06:00+03:00",
-      "confidence": 60,
-      "sources": 1,
-      "status": "Sosyal medya / doğrulanmamış",
-      "summary": "TikTok üzerinden bulunan herkese açık kayıt.",
-      "url": "https://en.wikipedia.org/wiki/Mamak_stall",
-      "platform": "TikTok",
-      "id": 6
+      "id": 8
     },
     {
       "category": "Diğer",
@@ -97,7 +125,21 @@
       "summary": "TikTok üzerinden bulunan herkese açık kayıt.",
       "url": "https://www.mamakhouse.com/",
       "platform": "TikTok",
-      "id": 7
+      "id": 9
+    },
+    {
+      "category": "Diğer",
+      "icon": "⚠️",
+      "title": "Home - Mamak Malaysian Restaurant",
+      "location": "Mamak / Ankara",
+      "published": "2026-08-31T03:16:00+03:00",
+      "confidence": 60,
+      "sources": 1,
+      "status": "Sosyal medya / doğrulanmamış",
+      "summary": "TikTok üzerinden bulunan herkese açık kayıt.",
+      "url": "https://mamakmalaysian.com/",
+      "platform": "TikTok",
+      "id": 10
     },
     {
       "category": "Diğer",
@@ -111,7 +153,7 @@
       "summary": "TikTok üzerinden bulunan herkese açık kayıt.",
       "url": "https://mamaknj.com/",
       "platform": "TikTok",
-      "id": 8
+      "id": 11
     },
     {
       "category": "Cinayet",
@@ -125,7 +167,7 @@
       "summary": "Son Dakika üzerinden bulunan herkese açık kayıt.",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQZmlIZXo3aWV2dXJvZ0ZfeG4ybXVqX29OY0VZbERHMzllOHZjck5CalZfdzMtN0RuQnhLdDVLSkppbXB0ZDFUd1RrUlNKTjc2cndvdWdudWdrSlFFTXdjUldKaklJdXhISnFfSkNpOGhHTHRydmpmMFJnaFgwUDhSbkdVNnNOajYwb0FtWXB30gGOAUFVX3lxTFBmaUhlejdpZXZ1cm9nRl94bjJtdWpfb05jRVlsREczOWU4dmNyTkJqVl93My03RG5CeEt0NUtKSmltcHRkMVR3VGtSU0pONzZyd291Z251Z2tKUUVNd2NSV0pqSUl1eEhKcV9KQ2k4aEdMdHJ2amYwUmdoWDBQOFJuR1U2c05qNjBvQW1ZcHc?oc=5",
       "platform": "Haber",
-      "id": 9
+      "id": 12
     },
     {
       "category": "Cinayet",
@@ -139,7 +181,21 @@
       "summary": "Son Dakika üzerinden bulunan herkese açık kayıt.",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOVE9XSFUwTDdOTkxIZ1ZldUZBSkhCdkJySnRXR2JUWTNCUkpOZF9pb0trM1NfaGJQSFdfQm91aHBjZVNJXzhPT3dhQkczVWI2X0NqekxfaEdMN0RGQlcwNG9LU0h6aFhkdV9sOVFMaVkzM1BFWm1IMWRMVVd1RmNzdzZpTmF1SXA1elhtU9IBiAFBVV95cUxNVkZ6VkdyNHA4OXBYODhRM3ZLOFlKYVZ4N2xoZldiVl9sWVByUEg1R19zNUdmVGg2R2x4Yi15ZzBjbFd6Z2FpRnY1dzJQVm9qbWN0RHl6LXBvekpUeHplTmtfU20tbHpMdUgtUC1CT2phZEMyWmh0bEtKZHI5bWFMTVkwcHE1amtW?oc=5",
       "platform": "Haber",
-      "id": 10
+      "id": 13
+    },
+    {
+      "category": "Diğer",
+      "icon": "⚠️",
+      "title": "Mamak Asian Street Food",
+      "location": "Mamak / Ankara",
+      "published": "2026-08-29T14:46:00+03:00",
+      "confidence": 60,
+      "sources": 1,
+      "status": "Sosyal medya / doğrulanmamış",
+      "summary": "TikTok üzerinden bulunan herkese açık kayıt.",
+      "url": "https://www.yelp.com/biz/mamak-asian-street-food-orlando-2",
+      "platform": "TikTok",
+      "id": 14
     },
     {
       "category": "Diğer",
@@ -153,7 +209,7 @@
       "summary": "TikTok üzerinden bulunan herkese açık kayıt.",
       "url": "https://www.mamakvegan.com/",
       "platform": "TikTok",
-      "id": 11
+      "id": 15
     },
     {
       "category": "Yangın",
@@ -167,7 +223,7 @@
       "summary": "NNC Haber üzerinden bulunan herkese açık kayıt.",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQNF9TajVPQ2F6VkV4a243bGdNQ3Q2Y3JjU1EwZDBYWTluT0NWNVRLN2h1SGIxT2FlaS1RUER0d3J1clhFYm82b2txSVozWVFQamJjeV9VNzlBSVAzc3NTMUlnOEdza1ZZc3FKbzFxTVJCeHR5bWl0LTBHVmVsTmhsd1ZXbGUyUDh3M2fSAY8BQVVfeXFMTUFJZklYcWxjbjFBV1V1YWs5Y25rdHF5YVJnT3h3VUZDb0djbE16cFhzUko5OTZSUUpEUDFkcFBScTUyb2NLVVYxQWliY1MyRzZRcUlBNS1INGFsSk1qblB5Z2FJcGktOGhvZG5QRmRycVZvemxxTzM4TERldjFGU2RRZEJjMFRfTE9rSjdlVzg?oc=5",
       "platform": "Haber",
-      "id": 12
+      "id": 16
     },
     {
       "category": "Diğer",
@@ -181,21 +237,21 @@
       "summary": "TikTok üzerinden bulunan herkese açık kayıt.",
       "url": "https://www.yelp.com/biz/mamak-house-jersey-city-2",
       "platform": "TikTok",
-      "id": 13
+      "id": 17
     },
     {
       "category": "Yangın",
       "icon": "🔥",
-      "title": "Ankara'nın Mamak ilçesinde yangın! - egedesonsoz.com",
+      "title": "Ankara'nın Mamak ilçesinde yangın! - Ege'de Sonsöz",
       "location": "Mamak / Ankara",
       "published": "2026-08-23T23:55:00+03:00",
       "confidence": 75,
       "sources": 1,
       "status": "Muhtemel",
-      "summary": "egedesonsoz.com üzerinden bulunan herkese açık kayıt.",
+      "summary": "Ege'de Sonsöz üzerinden bulunan herkese açık kayıt.",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9DczVoYVNkQUVPQ0pHY3JLM29EUDRIOTh6TGUybGE2V0s3ZV9vbEpQYV9KR0sySHpIYktqSFNHWWRzVUtCNkZuYmJjejNlYldhQ0NqVXREUC16Q0EtOXhNYWpQbGpPdm5rOUFQQw?oc=5",
       "platform": "Haber",
-      "id": 14
+      "id": 18
     },
     {
       "category": "Yangın",
@@ -209,7 +265,7 @@
       "summary": "Mersin Haber üzerinden bulunan herkese açık kayıt.",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQczJjY0dyTUVKTk1xZG1iWjRHQzY0ZTdOWlZTWnRiUUs4bk0ycVN6aXNkd1dreS1aNEJJMGVUaFM4YnlNMDlSaWFjcmJvZ2NGcnhZSkFneVFrUF9FWmRXUUVrXzVtV09MdkN1bENFMEVzZnFLdXp1WkxCem01bWlPZG43dFBITmdsUWoyeWZGc0lhTU54YTZSZjVZaWF4RUgxQzZNN0huOUZmTXfSAVdBVV95cUxNYXY5d2NTdFFRVGtsOGJnQ1doUXFKSERodW1NMm9FbnRkd2VIRURteWF6TV9BaXR4UUlmZHQtTUxnUkRTbXRXb1hmd0x6ZlJJd2xEQzl5dG8?oc=5",
       "platform": "Haber",
-      "id": 15
+      "id": 19
     },
     {
       "category": "Yangın",
@@ -223,7 +279,7 @@
       "summary": "habervitrini.com üzerinden bulunan herkese açık kayıt.",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNdUFVMnZ2UzFtTXVLZTJyOVdQS2lQdGx3MjZkQUJ3bFlhYWNqR3RqWENUZXpnU3dEQ0lIRmNnckJHTTZfRTJsOVRQY0MxWFJLTTJDdm9GSkIzeGVvdE8yd29nVmYxNnNIRzVRcENSN3N1WEZ4NFJGQ2JScGRRX2E4VWZqbGpfWTE3Wi1yNTNmNG5zcm03RGdjNG9Da0NncTFHUXg1RlQ1UWVjT1I4bmxpZ1hyU2V0VkRoblNyRW1jNzZtRzFU?oc=5",
       "platform": "Haber",
-      "id": 16
+      "id": 20
     },
     {
       "category": "Yangın",
@@ -237,7 +293,7 @@
       "summary": "Son Dakika üzerinden bulunan herkese açık kayıt.",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE44aVNuRHF3VUtQZTZzdm5ZS2hmUENDRTZLRHY5Y2lscUZmeS10UmZoNnczalBTQm9BckNGTF9QV2JHTFBrWHltbFd1Ylo0dmlCc0UxV2tQNlBDUVRQSkRFbXJTOEZfY2JzeG1hbHF1Qi1XVWU0SUFaZ3c4Z1bSAXdBVV95cUxPLWFJVE8xWU1YSURHODF0YlMtLTQ1ei1DTkIxVGtHVVVUQVk5T1gtNXl5LVJPdnMzdVk3VmFSTHdQTlU4NlJlMGtWUU1UMm1xWV9ldktzYWw2M0xSRldFcGNQRW5UaHdSVlVVZ3FwV1RRRVRMcng2QQ?oc=5",
       "platform": "Haber",
-      "id": 17
+      "id": 21
     },
     {
       "category": "Yangın",
@@ -251,7 +307,7 @@
       "summary": "Alanya Postası üzerinden bulunan herkese açık kayıt.",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNY2tObm5lZTR2UnR0ZU1CUW1ud1NKWFQ1NWdVcGxXTHFCVGtNUXFmS2kzWkl2WjdPNzNya01iQlE5NG01M0R4RUZiN29rM0FUVVBmM01kbjZGZl9haXczTFFxUDhsdHlXTWR2QnJLRjhqSXl4NzZtdTlmcGxhdDNjUGxRQWNhS2xhQlFKWlpsZ0dKdw?oc=5",
       "platform": "Haber",
-      "id": 18
+      "id": 22
     },
     {
       "category": "Yangın",
@@ -265,7 +321,7 @@
       "summary": "Mersin Haber üzerinden bulunan herkese açık kayıt.",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQYjU4cEt2MjRmNVBYdjRWUjFqMXZKZmRVN09ydlBiSHI3U0E2WUFJR1JvY1VzMmoxandIMTNKY3k4SWFIV0x0cE8yeGRrRFp0b2xrSXpOazBYbFlDUVVINVZjZm9rUjBRaUVuQ1FxcElKNFB5YkdzZGVMR3R4QWZudVRwejE5b2FfUWN4WENWaWR0V1JGQUJ1S1VfQk5sWTd6ZzV3X0xNZjZmbFdpWlNGSnJwbkJ6cTVuLUgyNmdIeE3SAVdBVV95cUxOMDcwUk1Ic3ltYkE4TGM3eEFmeXRIMU5IaWlFZy1xV293MXlhV2RrdTE4bm9tLUNkYU1fSnZ5Rzdjd2pXQ1FkQ1htRGlfay1RTUFMWkx4ejg?oc=5",
       "platform": "Haber",
-      "id": 19
+      "id": 23
     },
     {
       "category": "Yangın",
@@ -279,7 +335,7 @@
       "summary": "Ankara Net Haber üzerinden bulunan herkese açık kayıt.",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQUko4dnZwTnVNM3ZLOWE3RlA0QXkzaHlrZ1JHbVh5bFRJekNfXzExNVloUHRVelV2NWlnVDlVRDFHNWZwTWQ0ZW9UV3J4ZGJmeE1sTGZ3ODJ2VWZhb1BVMEdVbVpUOGM3S3VKa180bjZPOUlnYUo3aGdHYm9Pa09BSVNpb1lvMEZfM3ZWWkk2ZENMcnBrUG55NExsSjF4UQ?oc=5",
       "platform": "Haber",
-      "id": 20
+      "id": 24
     },
     {
       "category": "Yangın",
@@ -293,7 +349,7 @@
       "summary": "Son Dakika üzerinden bulunan herkese açık kayıt.",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5RYUEySVhpM1ZxRDZGbUl4aHJCQVpQSnpHNVlFcm15V21CTHh5ZV93aEE4a2F3TVJ6dmZoTUk2MEFDejJSOVlISkx2bE80TWpvdVNkS1FWRF9MZUlmSk9YYUw2b1E2TUg4b2NYWVExLV9vM29IY3hMWlBn0gF2QVVfeXFMTkV6UVVsQkllSUV1eGV5QWNEanhXbVc1bUs2WWtJd2l5cVVtdXNhajVNTGRuMlJvd2FBWm80aVNyUXI5WTJ0V2xrYlpIUU92aUt5WGU2d1BDWDhlc3ZXS3JHU2pzRzdmemw1MFB3Y1p1VFk3aG5KQQ?oc=5",
       "platform": "Haber",
-      "id": 21
+      "id": 25
     },
     {
       "category": "Diğer",
@@ -307,7 +363,7 @@
       "summary": "Aksiyon.com.TR üzerinden bulunan herkese açık kayıt.",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOVEY5V2hDcG1ObHFTX19NNVlhdWNnQmZHbXVROGp6Nm1MdHZ6ZUh2SEhnMERZX3I1UVpPbGttUUI5d3lpYkdaMXRCOG1OOEdfay1sdU5EM3RMZEhxU0czSVJBTU9KV2hxNDBsRHdnbWhKWllGeXdyVk9SQzZDTUVQMHRyN3ZPU2hzX083cm9Zb0lLX0R3TzZobzBR0gGfAUFVX3lxTE1kcktXbVcwdV8ySHM3WTF3MGdKaEtKaXNuMVgzSWExOTlOMFh2UXB5a0ZfeVpjOGZ1Q2hzUkx3cU9EZFdlOERnaWdSbDRpZWdiYlc3R3NwY1BibmJUMXV0cW5NNl83SjJneHh2T0tpZnd0UDFsdTFXX2cybUpHR0hjM1pyNXd1cE43Zl9xQlRsTVUzMTZWY2l1bEM1dFBsMA?oc=5",
       "platform": "Haber",
-      "id": 22
+      "id": 26
     },
     {
       "category": "Diğer",
@@ -321,7 +377,7 @@
       "summary": "Yeni Ankara üzerinden bulunan herkese açık kayıt.",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNWnc2a2QyOGt2WjVxR3RjTTQ4Yi1Pb3E0NFB5R2UtdmxCcTJmRC00cS1OT1Rjc3dORXh3VEVwR25TSXc3RU5UUmpMQ3F6eEhnQXByMVV0c0NRQ0ZuNHBYQTBIOVdyVTNtM3lTdWhMdDBWZEd1ekZpb1ZfYWNaRWpvWVNsaDdNR3dzWWRoSHU1dGFwX2t0WDRIYUdaa3E3aWxPVDRxUHpuemxDSElN0gGyAUFVX3lxTE5CMDhraU90eVYyWnlMdDVtRExrR1NyOVU1TkxpeFlvTWVGSG43Xy1nSnJ0Q0xRSGhkd2J6ZWJwTGxlR3AxXzRzYU1RQjBFQTZDeVU3a2x3R0FKNFlJdlg0eFFsOGRsX0ZYWEVjTTRaaTNYeVEwMlpmTklrT1BjSkJyRGZyemNQbGJlcUxnNkFheTZqb2twMGRoV3RZQWZ4VGlMRnVFakNHNmt0M3BQcFhUS1E?oc=5",
       "platform": "Haber",
-      "id": 23
+      "id": 27
     },
     {
       "category": "Diğer",
@@ -335,7 +391,7 @@
       "summary": "Son Dakika üzerinden bulunan herkese açık kayıt.",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOR2EyXzlIMk1xNkhwa29DV0pUbkxjWEl0Ym14czRab3M2dkw5eGRfWXNTSTlZaDhURlV1YzZrZldFdnA5bUVob292blRjNklqSnRQSFBoWVdpVVFtdzZwYUhuSGc4Y20yczh0SGdIR1FzZkstV0JGXzZadTZMeTZUVWFzQdIBfkFVX3lxTE90X1lkaGFKZkNGX0xpN3RCTFVZek1zUXRJVzBjSlRsS2M2SEllaFJsWGs2STl2Nm9zVHlYSFdRQkVjVDhlNzhablZzR2Rhc29SNnpCUXVhcW1yaGl2V0FFZmNZX0NnTDZMTFFEQU5wWElpRkZsendaZ3lVaWtHQQ?oc=5",
       "platform": "Haber",
-      "id": 24
+      "id": 28
     },
     {
       "category": "Diğer",
@@ -349,7 +405,7 @@
       "summary": "Yeni Ankara üzerinden bulunan herkese açık kayıt.",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxONjN6MkVlTWpwUkVZY3RQUFhlWk5PUDVndDBjMzYxOXVucm9FZFNmNWJBeVdZOU1hRnU2ck5rWHZVVmhKcm8yc0ZKWnZRa1hRdU14VV82aWJCQUJXeFpkWkU0VW1XUk5nNlpFckY2Y1A1ZkQyZXdxZW9LY0lLM3VoakowMWNzS1NHTUgtcUlUV3ZWQ1lOTnBJMmVzOUpQNUl6U1FhX1U1MGtROWE00gGyAUFVX3lxTE03ZnpLNTI0cXlleGVjcFlBYUhWNm1XVUtqMGlOQno4YXQ1OXduaTM4bHpCX1VfYUZWdmlRT01jb1U1QXktT0c0UmQxOU9MT1lTaUVPd1V1dklxSTk4UVpfQjBEY1ZwVFlRbW9HbkdYaENCTWV3anN1dDQtU1o1dkZ6ZVZmLWZ0d1JwZVRhak8zOE5zQkpEcFZsVDFiLVFvdnV3ZVoyOUJ6Z193RDdsQWhNSGc?oc=5",
       "platform": "Haber",
-      "id": 25
+      "id": 29
     },
     {
       "category": "Taciz",
@@ -363,7 +419,7 @@
       "summary": "Sabah üzerinden bulunan herkese açık kayıt.",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZHpfRkd5UW4waWJLeEV1Y0YtOVpGb1ZmQ0ZiVlpmNUdtNXFFRVNNNzREUl9hcFd2UHhJUWNEd2dsbWxEYlN6RVcxR2tJemlmRE1PaGsxLTIwZHE0T1hBZFRSQlpZSEl0NFR4SS1Ud1RvdXFwbEY4RlBjV3JwU19yYjhCdHdlQVdYYWVMbXJhRjNGbFBteXJhS0owV2ZkWFdWRm54b1duckhsZVpLMTByNUx3MlY1Zll5?oc=5",
       "platform": "Haber",
-      "id": 26
+      "id": 30
     },
     {
       "category": "Diğer",
@@ -377,7 +433,7 @@
       "summary": "A Haber üzerinden bulunan herkese açık kayıt.",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxObWRlQ01IbWJKM2ZXdm50UjZsdWtBMG5VR3NWQ3VQblNzZ19RNE5DQlZnaXI2clVVYWdEeVpfSl9aMVZvb0xwTHlqdWNQTHpsYUpEU3pJV2wyUWJIV0NtU1MyLVdpdFJBOVdEaXdkaEEyNER1ZFNQS1oxQ3lDcXE3eTF6d2thVzJQRzh5NA?oc=5",
       "platform": "Haber",
-      "id": 27
+      "id": 31
     },
     {
       "category": "Taciz",
@@ -391,7 +447,7 @@
       "summary": "Son Dakika üzerinden bulunan herkese açık kayıt.",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQSWFZV0FoRGV0SlB6dXFYdlhseGxSQVNnMFN1Q3ZJUml1cnpwMTBIeTZZdTBYckJVellDWl83WUgtNVQyUVU3ajBob3pmTUhJckxZQnMxRWJRSmwyVTAzb1RnSG4zNUxzdW94cnBtdjAtQ2d2cktQWmhmUEZNdnQ4WTZnc9IBf0FVX3lxTFBfaENQUVVndFo1U1hkdWRHanY4NzNBa05Tdlh1Qm40WW9FZmdOMWU0RWJiQjFOTmk2dm1VU0tMZ1hSOUVnSXoxRzhKMlpQUXdSZFg3Yk5SRXJvc2Fxd254d1ZKNVN3TWNBbGs4TWhpaVNnVjJXM29aem5teHRJR00?oc=5",
       "platform": "Haber",
-      "id": 28
+      "id": 32
     },
     {
       "category": "Taciz",
@@ -405,7 +461,7 @@
       "summary": "Son Dakika üzerinden bulunan herkese açık kayıt.",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPSkRaYklMQ0M3elZuSjNuWEprNVZxRU5FM3pPbHo0eDI2MDY2aUplZHVNSmhUVTZSRWt3NF9hcGpNODRwUm9xWU5QZWdBVzM2MExmQkM0MmtzdDZESFJ2Nlp1ZXRCbU5reE9GRmxqTldRMGZZTkxJWDhsTlpXakR2cWJsQnRyMjMzWkVicWNoNE5oVGloR2VLZnd5a07SAZcBQVVfeXFMTjVTOXZFYV85Y203enB2X2pOQ082ZGxSd3I0d1FaX21rTVhIN0tvdWVuYk9hRjZTWHNKR2FZSFdrWTVzaGVjYUI3a3JVbXMtVzA3MkFWUWNUZWRBTlNTQXpWNDltM0pEdVZWMkQ4bWkwLWN1enl3V3pWdmlHQlNieEJmSlR1enJyT3Vzemt2ZG14ZXE1QVhiOA?oc=5",
       "platform": "Haber",
-      "id": 29
+      "id": 33
     },
     {
       "category": "Diğer",
@@ -419,7 +475,7 @@
       "summary": "Son Dakika üzerinden bulunan herkese açık kayıt.",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPMVM2ZTktaG9sN0kxOThSZTJzRWs1QVk2TFNFMnVSS2RFeG5mc3ZfTWg2NERlY2dkZFlHaGVsczdTWHRzOU1hdWJWYU1YUVQtZ0t0clBSdG5RdHc5eEI1M1NseDZBR1p4T1ZBcUlIYlozaFhEU2k5UHVXZU10TmQzMlpwZ1JJRWdLOU5fMDNXaHRZTmd2cnQ4SGlybV9BQdIBmgFBVV95cUxPOGwzM215c1c3Vml5WERWSERQVDdsR3JZQmRSMk1DSUl2dGpldzYyNWFMUHhiLVpaVW5CYU1qbkpJVEhEUDZQSTcyVktjODh5c0NydFQ1Yl96VXVwS2pXSXcwM042RUdjZHg1bDdFbWQ1XzVWRm11Y1B4U0lmNHNJUGJvYk90SktsdlBSZTZMazFrYTZKeEN5UHVB?oc=5",
       "platform": "Haber",
-      "id": 30
+      "id": 34
     },
     {
       "category": "Yangın",
@@ -433,7 +489,7 @@
       "summary": "Son Dakika üzerinden bulunan herkese açık kayıt.",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQZml2ZTdRbXVkdTVtcDN3SU1pbEhpcjFZTEk0Y2l3S2liOTRyNDhVU0VnOWMycGZiYVhETkcwazFTRUlCVDhNM1UtdFBQSnVCcWMtNWFNb09RQ1lEUlpNM1FOZ3ZfZkg3TUtnLU5GYlpfRDRlN1lzREMwYjVMT0NiR0N30gF_QVVfeXFMTnhKX09uS3E0NXUtTExGN3dKeml4dlo4QWJpZHBLUVp4d1B2UGY0YmlWSXJnUFBLVkh1bHM1aXd6SEVqOXRDY3hNUk1UNlVZWmpDcWRqZGZPRGRoU1J2VE9wWUNrUHpTQlAzVGh2VmhWdmZ3VmtfWjZJWlo4YkRhQQ?oc=5",
       "platform": "Haber",
-      "id": 31
+      "id": 35
     },
     {
       "category": "Yangın",
@@ -447,7 +503,7 @@
       "summary": "Son Dakika üzerinden bulunan herkese açık kayıt.",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPRnBzeVVLN19oM0FUTXdYa25CUnRlQzB4ZExON3ZJbkRqMUJjOHlYZjRfQXJOcW5RQmF1dkZTS1JPMW9BRVl6VlE2VHFJRGs1QkhmWFRDSWI5bW5CTUw2UUZFUklJU2NWdVppTEdMdmw5U2otakJmc3dsY2JFNndHR01QMUcwTXdXY3NDM3JwSlE2RDFpZmdfR3k2SVduUFlt0gGcAUFVX3lxTFBHOFRVYndsVG1FaEJtWTAzSE1SbHExWGVZdUNoX0tXOWtUdUdrbnFzZnY0b2xraXd2Vk9rT3huTWZTUHNRSnVsZDZoRHljSHlKOUh1bWdsalc1d21EdGdNbjBGZzFoWF9TajUxdy1LRktNdmpmNmRXWm45X3ZGSm4xR2tXZnpPUFJBVmNfM25iUGJUUy0tYTRCLW1WZQ?oc=5",
       "platform": "Haber",
-      "id": 32
+      "id": 36
     },
     {
       "category": "Altyapı",
@@ -461,7 +517,7 @@
       "summary": "Milliyet üzerinden bulunan herkese açık kayıt.",
       "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPM2hrMUpiQnVaWm5LcGkyZktvMTZ4VTVzY2RsSnZIV1VRMGRCZnhJQkViUF9tTG9DYTVZUkttSjFfejh0cVl6SThycTFMeWZRQ3h0VlF5QXZSclNjOTVXM1E0ZTFxZjRCMW1yTUJQaUtjRmU0WWpySi1tWi1Ydm05QzFRS0pKbUYzV0RVVG1EWVNKVnFIdHJ3bjZUa24wZzIwa3g3dkhOQW9WbVZ2YlROS1VITng1TnRiVFVRNWtheG41NmlKVk9RZGw1ekF2b3I1eGszY0t4ZWRmUFNHeUF2UVByd2xKc2pYZnZrMA?oc=5",
       "platform": "Haber",
-      "id": 33
+      "id": 37
     },
     {
       "category": "Diğer",
@@ -475,7 +531,7 @@
       "summary": "Yeni Ankara üzerinden bulunan herkese açık kayıt.",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOVFNBb0s2WVdJMDBVaTItd3A1Nkd1TWlNYlpiRUdZSDFxaGNEOTdnZDlQdEpNdkJhQVFMZk55MWxEeWRmdUhJd3BRSzhRMmNoUE4ySnRxQVg1bjN6ellENVRLemdpUFZpX1U1LXhSbHRlaHNkdnp0cUNqdEdObk1Oa2xxMWZXVFZEZW1xSEVfUlFTX1FNZXp0QjMwZ0tDMXpQMjdJaDFjNWJzUHM0bEZ1ZXBLR2VTSThuV3J5NHQ0Njc5UjNWYUZQSl8wa19xQdIB0wFBVV95cUxOVXhsTGFsa3NfeEsyUVlVNGhKMDBuV0JRS0FZRS1nVlRrUXJMSGotNkYzZ0YxaG1vM2swZmowSWs5YS1QaTVJUVNVRnRvSzgwNld0WHhZZWRLc29ONnJiYTdxV281cEZWaTJjSjhvTGhWYnh4dUhYWWIwUzBHdUVwY2FUdFZtZzlHdHFLMU41d21NS2NMc3ZqRWlrcTl4R2gwZ0xXRTRJc3FmS2wzS2FOdHVjNVdRMi1naUgtS1JUU1Y4VGVydTJuLVhxLXlvc1EzVFA4?oc=5",
       "platform": "Haber",
-      "id": 34
+      "id": 38
     },
     {
       "category": "Altyapı",
@@ -489,7 +545,7 @@
       "summary": "Milliyet üzerinden bulunan herkese açık kayıt.",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQclRIQkNMeUhhTHhJSGhlV3B2aHFNcWV0ZjFzVkpzTEhCZlQzdmdlTlBJeG4yOHhKWHNySmZYT2NUQjA0c3NuZnR0cy1hMGtIY2c4WHBCTW0wa19ZR3FFaWl0NmU3OXQ3MmYwVWRGdy1tLXlJQWZQQ2toUEs0bnpVWTU3YjB3eUFPa2JTVmJsMzlTeEx1ZFdwMzg3TXRPeGxWUVQwT0Fn?oc=5",
       "platform": "Haber",
-      "id": 35
+      "id": 39
     },
     {
       "category": "Altyapı",
@@ -503,7 +559,7 @@
       "summary": "Habertürk üzerinden bulunan herkese açık kayıt.",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZ2dIdU1MTFJvLWNYVmpxUWZYVEpLR0F5ZGZRbmt0MXNxekZWS1p3ZVd5ejJBMm5ZMWxlQm1jVWdlaUtOMDJIamJYclYycXB0NG5xZUVHLTZPTTg2ajRDMThwc1VXUW5VVWFzZ19pQnJYaTM4ZVZzTFlMX19sS2wwNXc1dGtUZzFma2VIREtyY3dhUHdwdmt5eC1WY0xfbGd5Nk43LTZR?oc=5",
       "platform": "Haber",
-      "id": 36
+      "id": 40
     },
     {
       "category": "Diğer",
@@ -517,7 +573,7 @@
       "summary": "NNC Haber üzerinden bulunan herkese açık kayıt.",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE0xckJuLVQxWFFMVTFNYUlWU0lsSjc0UWpwQkVGTkdxWmJLX0RRbVBOZm9jZi1XT0Z3NGxwem5qWjMwSUw0RVNYLWJuN0ZaQkhLV1RUY2VZVkJHZXhqcU1hUXl0V2lnR1RpTnlhaDRLNXRja3JvRlhTUlQ0Y9IBgAFBVV95cUxQQ0NxaXFjckdRRzFNX3h1bUZ2NXpXTExldzQwZ25rVXB4ekh2Sm5SdXpsOXBFWVNsYTNSa3ZfT0RVZFpUbGxOWE50eWJCWXdKbHF5TFVjdkNwWjFJQnlETThpX0F2cHJNcTBEMkJkZWdyaERWZ1JlMTNxX1FyT21iWA?oc=5",
       "platform": "Haber",
-      "id": 37
+      "id": 41
     },
     {
       "category": "Diğer",
@@ -531,7 +587,7 @@
       "summary": "Aksiyon.com.TR üzerinden bulunan herkese açık kayıt.",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZkljd19lOG81cWVTQndzYUZ2clhqUlRhZ1RzaG8zS3dGc0tiWUtwMkZrbDVvQ3hLaFhWcTRLdXFpSjZqNF9xMFp5V2VRUzE2U2R5cFV1dzhsNUVGb0tOTkNuNkNGcER5X3FTYm4yMWItN3dYM0ZQUkREZzJ3eW1JaDNPVFhsVXZCLXRkNEltekp5NWpwUzhPa9IBngFBVV95cUxOZG1zamVpT3JHSkczS3pGUFZkbXA1XzgzZWItMW5pMXMweU9faWM4TFVpLXc2anpuci1RaE9kYlV0X3k5aTdrZVJoUDlKLXNKRE5Zc3diSWtTQXpQaUI1S181RENndFpzd2VFMndLNEFXcG5WWFZVWHZlVjE2bUw0YWNDWjVlbW1LOTJUV3BheV9FLWJhM281UkxKal9hZw?oc=5",
       "platform": "Haber",
-      "id": 38
+      "id": 42
     },
     {
       "category": "Diğer",
@@ -545,21 +601,21 @@
       "summary": "Aydınlık üzerinden bulunan herkese açık kayıt.",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPWjlFbC15Q3F1TmI2dUZHODhWNU53amUxWWlSbXQ4SHhVWnpkX1NSazQ0YVZkNTlGaGZtV0Jxc0ZiTlQ2MU82ZVNyQ1ZFWmRhX3RMN0FRRFhTNzFEVm5ic3ZjbWdaYzIwb1lQQ2xRYXJmeHJ1SlhNYjRqYjc5T3JBOGVmN1pRSjEzZ2NKTVFCY25fUV9aM3QtLWhPZC1GRmZFQ1lIONIBqgFBVV95cUxNMms4cEllQVpuSm9xMWVaMFVkRHRZbmt0YnJBRVJEOHpnaGJzQnVhdERNb1dma2d3Nk1NcFJIa291ekY3TXlDYmU1RzRfRWxMQkZEZ1JBd3N4aUFCRzdNbjBPSUNZUnowWC05NHNHYW41NjU4RHUwbUdUcnpHMndtSFY2ajEtZG1xbUFIc3ZMeFBpY2VQN01NcGZMUEFZMjYwc29RZXd3SHVFUQ?oc=5",
       "platform": "Haber",
-      "id": 39
+      "id": 43
     },
     {
       "category": "Diğer",
       "icon": "⚠️",
-      "title": "Mamak'ta yağmur paniği: Siyasetin gündemine altyapı eksikliği oturdu - Gündem Atlas",
+      "title": "Mamak'ta yağmur paniği: Siyasetin gündemine altyapı eksikliği oturdu - gundematlas.com",
       "location": "Mamak / Ankara",
       "published": "2026-07-25T10:00:00+03:00",
       "confidence": 75,
       "sources": 1,
       "status": "Muhtemel",
-      "summary": "Gündem Atlas üzerinden bulunan herkese açık kayıt.",
+      "summary": "gundematlas.com üzerinden bulunan herkese açık kayıt.",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOYkpIS0JZQ3J6STIydXNkY1pLdWd5R01fTDRpNkdHdGM3TkZvNFVxcnc0UTB6YlR4U3lyT1pDazg0WlBnc0NFZ2xzWlp6RGJ3TlpiSFU4X2xBeVEyaTY2NEpwNGVMMzRabzRadElXd1BSbUh3cXF5X1p6RE5jcHVnOTJfVFQ0dm5pSVBuUTBpcU1LYW9pRXl2d1pVa2VsbGhlUjJRSzRrZGNDZw?oc=5",
       "platform": "Haber",
-      "id": 40
+      "id": 44
     },
     {
       "category": "Yangın",
@@ -573,7 +629,7 @@
       "summary": "Sabah üzerinden bulunan herkese açık kayıt.",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQVDhWWTZrdDJFa3ltcHl1YkNyM1VCRThCQnNJakl5X2lDX1ZCc2xPSEtCYkI5aFN3bW5RN3JQQUYxS0ZLM2hURDFwdVctdjIzR2Rlbi0wd0xHR2hJY0M0LUREcjQ4Q3FhdGk2S1lpbllzMFNvMGh6ckFBb3Vzc3hwZHFqU3FibFNRNWFpS3VfbW5kdGRYdnc?oc=5",
       "platform": "Haber",
-      "id": 41
+      "id": 45
     },
     {
       "category": "Yangın",
@@ -587,7 +643,7 @@
       "summary": "Son Dakika üzerinden bulunan herkese açık kayıt.",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOWFN6eGhqUmp0ZUlVMUxadmF5MldHUlh4aUpGc1k2TERQb0hjZE9pTWd2RGVxVDkzR1RIMmhGMmFoZFV0VmloeG9DMVd2TENFcldyY1J2aTBxb2JJck04NWtabUxFVWF0cEoxSnN3UzBtclU3cjBrSXNkNG9GdXpxd0g5cHlNVlpiUzlz0gGHAUFVX3lxTFBfd3I4RXNjbzgyZkZXMFJTUkJiZGxTT2JnRG9nN0hRVUdwYldMX1NqbzdmMHM5aHdxV1hRX1ktTk1EZUZXRlU0YTJaaGNkWnFsc1RlaXFTNkJmSFNwUF9sYm5oRy1FeThScm1kWHRUTEtZVUpkMUNyZGIxZEtrSTRvNVBNX1NnWQ?oc=5",
       "platform": "Haber",
-      "id": 42
+      "id": 46
     },
     {
       "category": "Trafik Kazası",
@@ -601,7 +657,7 @@
       "summary": "Saray Medya üzerinden bulunan herkese açık kayıt.",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOQ0hfc2pydkNLNVlOVVBhZkJlVUdDY0pIWWtLX0lUVVhEai1tYmg1cmtrM0hZQjBLYkd6THFpd2tSU1BJTmduTGpyWXdkQW1tVm1zel9GcUJkWmlpOUpSQUhteVVva2J1d3VtYU8tSjRSZXN6VmpqaC05Q19zQlktcWVfZXpiOGdKTFJUbURqRG5TNHJMNnZNbTN5N0k1Z0VrSGl6OFNPb09NLWk2ZlE?oc=5",
       "platform": "Haber",
-      "id": 43
+      "id": 47
     },
     {
       "category": "Trafik Kazası",
@@ -615,7 +671,7 @@
       "summary": "Yeni Ankara üzerinden bulunan herkese açık kayıt.",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxONmJ5bVZlRVU4anVGNVAxR1NJT3UzWGFLMkREM1piTEtLQ0xoR2JQWTZTTTY3dUltdWNlR2NRczJyM0c3MEV1dVR1TzFMTGhVcFVOVHJuTUhLb09JazI3U3hQbEhuLUV5R1g0UlU2bm1nTXJCbUJwVnN0OTUyc1AtM0VIcDktdVJoTVlSX1pweXN3ZFlKUGhvQWM2cVlsT01FNElpaHJtVnhXczVQci05UHd0X1VxNm9HZEHSAb8BQVVfeXFMT1lRUkc0enhEMlNfMVRUUTh4dlZ5aEpWak54b25XQTNWblYtejliRW9mU3VybGNRN3llWUlVb0NyWWwwaEpqNFNCbEVrVFBFZTZkc2tzbFpqbllhX1JhMEFmd1lja0dJczRUMzZwWTAtQm5WX2ozVk1QZHdFTkNMRVhYSVNTN1Y5Zy1zTW5SSUd1a0RTeFA0MlBKRDY1Zm1wRlFaR0dtTkFPc2I5SHB3YWhsbW1TUUl6U1F0R0JQR0k?oc=5",
       "platform": "Haber",
-      "id": 44
+      "id": 48
     },
     {
       "category": "Trafik Kazası",
@@ -629,7 +685,7 @@
       "summary": "Mersin Haber üzerinden bulunan herkese açık kayıt.",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPa3BJdEx2OHFqREdZX1BEZHlIekl0ck14RWZ6RllmZHhXdjllZ2JKWnB6cDJPejJnNlMybnFNV1FoYmRVRThvRUZXYk5DOHdCS0VfQTFCY2JLaFBvZGg5ZzMzeHZmd2RoaldsSXpDUlF0V3JZeWFzVHNhWF9wc0ZNdFZqZU5IelJ1UzEzalcwZWdPZXh2SXg2UkZvUlVZbkZQYm0tTld30gFXQVVfeXFMTVBSTGxSOU91VGpHUUQ5aXBvY3V5akg2YzA5MVF1RFFpRFRYbFhQX0FoTnBWQmNSZ3Z3MG5adVZ1NFVCTENIQUlES0JMLU5kX2ctbXQ2TUxB?oc=5",
       "platform": "Haber",
-      "id": 45
+      "id": 49
     },
     {
       "category": "Trafik Kazası",
@@ -643,7 +699,7 @@
       "summary": "HABER ANKARA üzerinden bulunan herkese açık kayıt.",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQYjJPanZfN0ZRQ0gxbUdsZzZjSElvY2xnTC1tdnBxdi03eXFIcTdFUUVpZDl6VW92Sk44NEdaSWtMdTdLOGVhaGNhOFRPMjAxMklzdjBZNFNXWjVIYmhiaHhkSFlrQ2FIcXVucmc5WUwxN09oTkdlbnU4MVlMNDA3MzliNHNpM3RoVDRVeWozWnZBclZ6RzItTw?oc=5",
       "platform": "Haber",
-      "id": 46
+      "id": 50
     },
     {
       "category": "Trafik Kazası",
@@ -657,7 +713,7 @@
       "summary": "Son Dakika üzerinden bulunan herkese açık kayıt.",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSHdUX2xMQ1daeGFQUjlJbVhUUXhrZ0swN0ZuNFd1YWMtRnFJQ1QtUGphLTNJb1c1Z1pybjItUklHeFNEM1piSlZDcHc0LUxDYkpIN0hLWFcxcUt1S3VIbGQtOS1IUjVaWnJjbTVETGZjTXRseGJoajdMc3l6RjhIb0xEY1dOZHg00gGDAUFVX3lxTFB0OWxMWVhSVUtvUF8tV3dveDJvakRiNlBwQkRvLXBETlFrdFlqQmxiWGxkYmtPVWM0dmUxMUp2TXRIUGtyVktHTTBkeUNZZGZxRXdxd0RSV0tTaEdtbHVZdGxwZl9LOVFCUjl6bk5nSTFfX0ZBVUlzZFhRY3MyWW1rUHMw?oc=5",
       "platform": "Haber",
-      "id": 47
+      "id": 51
     },
     {
       "category": "Trafik Kazası",
@@ -671,7 +727,7 @@
       "summary": "Haber TR üzerinden bulunan herkese açık kayıt.",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPT0QxZlk5YkZnMEp5UVZPb2Z4S3o2M2Z3QXhTZXRudFVzNjFfdHpzaElFaXhsVGhRb0djaEVEdUpwZ01LU0pHcktrTHotQVlXdWNEQ0tJOFZ5VFF2ZDFlOEM4TVVHb3NPM0Z4RkZueGtHZFBnS2ZaZlRONEZMODBna2RmcUJtUdIBiwFBVV95cUxQbElrOHNNelZOY2c2eE9MczV3aXVsUVh3WkluVFdCTGdDbmJrenNuTnlYem56N3U4ejRfZzYzdFFUZVVodVBuX0ZTQmM4Y1RHSWZGS1ZFRTl0THZPUU5CcTcycmtUbjdMVVFGTUU1YUVSQ2I1VTZuMm1EOUhFeHI5V3FQbzdhazl3QzNZ?oc=5",
       "platform": "Haber",
-      "id": 48
+      "id": 52
     },
     {
       "category": "Trafik Kazası",
@@ -685,7 +741,7 @@
       "summary": "Son Dakika üzerinden bulunan herkese açık kayıt.",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOOUgzNWloZi1LNjI1RlUzZnU2ZzNtOVpFYVc0Q2ZLYVJPQURPZ0ZEb2hJWk1XU1pURGotS1hERUFCT0J0SG9xSDU2b2pWMjBPR0oyZV9URU1vbEQ4bGZOQWg0OEFiNjRFQl96eGFxOHAtbzEwRFlOSzMxbkRZWEp6MTEyVEdsRW_SAYMBQVVfeXFMTmNBdnRLSEs1MFIwWVk2RFJad09xOUtmWWdDLTl4bXlBY3dPWEhVZmM2RFNkWHB0S0d4UlNQWEthVWVMbHpEeU11VTU5YUdFTGcybVlLQ2FyOWJxWi04TURpVHBpQUNiU1daRDA3dnFQbzNyd1A5QWdBMWJZT1RCRUV1Qjg?oc=5",
       "platform": "Haber",
-      "id": 49
+      "id": 53
     },
     {
       "category": "Trafik Kazası",
@@ -699,7 +755,7 @@
       "summary": "Zafer Gazetesi üzerinden bulunan herkese açık kayıt.",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPeVhOVkFnZ2pZN205emhadjV4NlcwVHM4aHVQaTM5SUpyOXplWmpTelRTV3F3MkJuZFN6MnVJRUphYldZTDgxd0RmQTZ2VVB5TVNxTzZYWjJ1N3VhR01NdjlQbXg1a0VFc1NzV1pyY3VBcVA3cTlULVdURWxzM2o4YQ?oc=5",
       "platform": "Haber",
-      "id": 50
+      "id": 54
     },
     {
       "category": "Trafik Kazası",
@@ -713,7 +769,7 @@
       "summary": "Son Dakika üzerinden bulunan herkese açık kayıt.",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOTjRraG9CSElybDFKdkwzdUE0WVBvUzEyNjI4Z09ELV9zSDduMGhpSWNMM2xhWjJuX0pvcTRKTEZYZVJzaFRfRFgyMWJnMy1xLWhmQ0RtckdGZkhQR2lQSnV3cWFSTDVZVkFISkhQdDZ5djZuZ2RsMHNLR1BzM1dhcGk1d1RZbzDSAYMBQVVfeXFMTUQ4c2tiZDMxMkJ4Z3hMUXRLaEJKRTE4LVBvSEIta21pZTd6T0hfTFoxbHpKWndSOWJEUkR4OVM3cHp0Y2ItcDJHOW9SSngtcU9WRDVxazE2bHQ1SWJRUzI5Qmg3MUlwelFTbC0tbk93SHlibnFOZ0xzZTg3dUlIUzRiRGs?oc=5",
       "platform": "Haber",
-      "id": 51
+      "id": 55
     },
     {
       "category": "Sağlık",
@@ -727,7 +783,7 @@
       "summary": "NNC Haber üzerinden bulunan herkese açık kayıt.",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQWF8xb1haM205eUttMlplbEtGelpIdWhTZ1NVemx0OS1PMVBwNDFqUHk2bWcwMWVxVlpZOXRvZXdQeG50bk01ZXdWdmQ4ZzY3MF9IeFJMc1oyQWN3ZzZLbUJXRENPVUd5c1lWVmFDTWZva0xnWEg2YnZ5QWJDVlFFcTV2Z9IBiAFBVV95cUxPQlhreFFTSE5Yd1RnTlRpbkswUzZkMmh5aHdHUVBJS0NKVjBiYXM4N2VxRTIyLVhBOXVuWkFZZFdtMjNFZ2hQSWNlQV9rVkpMSFJPRUx1SHJ4Z0tVM0dCbzY2anI4SDE2alFIZkpJdEFwUTNYQ214MEE4b1pTRlNtZlNmVWQtN3pM?oc=5",
       "platform": "Haber",
-      "id": 52
+      "id": 56
     },
     {
       "category": "Sağlık",
@@ -741,7 +797,7 @@
       "summary": "HaberGo üzerinden bulunan herkese açık kayıt.",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNZkZ2TU1pNWFtTHdoNS03S0dfaHlZS1BFSUk1QzVyS0s0bTFFczB4UWVvQXpyeTVjNUZPRkJWa3JmaFl1RUdkcnZmNXNrMnlTT3p2ZDlxNjdkSTQ5bkpSVzVxZUpkd3NHVVI0LTBXRnJsRkpwcEliTXhldHZkaUFtMHRZQWNES19KMU9yZkZ6b09OUdIBlwFBVV95cUxQaURHNmNscVdoaVhSMUtOWWRhMUJIYlNYaW9CY0NFbUVZcnZCZXZfNTFYY0loYlJCRzdLLUFnakMyc1pMNi15TkhlWVZLVXpKWHdzUnUxcWo0cVpJMjRzdHE4TFAzNnpieGh3Y3otSVk2ei1VN2Y5VUxUUHFFRmNPTE9ITUt1Vlo5Ym9Ub1hLR1c5OWFnb0Fz?oc=5",
       "platform": "Haber",
-      "id": 53
+      "id": 57
     },
     {
       "category": "Sağlık",
@@ -755,7 +811,7 @@
       "summary": "mansetankara.com üzerinden bulunan herkese açık kayıt.",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPT2REMER0eDZ4YkhzemVsUUNId3B0WjVwREtYY25jUTl1NTNsU2w5LUF4Tk94dF9lT1F6MVZWd0xISUxxWFF2cEloX1FwZkFtR05oa0E3eXN5N2tZRVNRT0p5M3lYVzRMbWRUTXNxbm52dDRBQXVzSXZOOGZfMlRXSXpIUURKRjZxMDEwMGRHRXlUSFZNYVdGT21COA?oc=5",
       "platform": "Haber",
-      "id": 54
+      "id": 58
     },
     {
       "category": "Trafik Kazası",
@@ -769,7 +825,7 @@
       "summary": "Son Dakika üzerinden bulunan herkese açık kayıt.",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQbGd0SW1EMXFsVUV6Vldqd0w2ODRlY1JDVnplYmhPbmw3TVhURmZSc3I2NE9fQ0pWMFhSWFhlcUZvcDVYWTNBRnhhSUJZSjNKanNOdWk3NVRuT1JOWTY0WEYtVjl0QlVnQzE3Tlo0NkhWODlYbV9mSVFlT080WUNXSjZORHJHa03SAYMBQVVfeXFMT2pIaGpBcUd3MnVyQ21FbmphdUl3azZ6SUlXQWE2S0hVbHNNR1hsQTQ3THZDSmFMQnpmbWpIVnRuaC11Nmxrc2JXaXdLUjZQS3RGZ3J5NTB5OU5CcTZibUVHM2drcXhQWmliVGd0RWhPTE92NXhhSmhaSWNOQk5senlFRDQ?oc=5",
       "platform": "Haber",
-      "id": 55
+      "id": 59
     },
     {
       "category": "Trafik Kazası",
@@ -783,7 +839,7 @@
       "summary": "mansetankara.com üzerinden bulunan herkese açık kayıt.",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQcGlEUmVaNGJOaHNBVjdPbk43UU9zUUlrVEh2SWQ5QTlCOHNtMDUwR2Y1VGVkLV9sejc1bGlNR1EtQklwTENURUlTdWxERXVxT0lNS0NSV3d6YkhfZWVwS3pjN0RKbUNrUTE3QmNuMU5XVzQtRlJIQmR4Vm5ZWDVwUlo1Zw?oc=5",
       "platform": "Haber",
-      "id": 56
+      "id": 60
     },
     {
       "category": "Uyuşturucu",
@@ -797,7 +853,7 @@
       "summary": "İşçi Haber üzerinden bulunan herkese açık kayıt.",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNTnl2cGlLS3NWTkNGektScXl0ZnJjVEVqUFlyWFJMUEFwbFF6dzN4TzZTRVZYRmh4dXVSdk9qNEhCeTRRV0pQM3k4TE1McUJ3UVdlTjNJNkdQU2x1OVVCS19PWFpsTW9MU0xQRW9GMmREdW1oQ3RUTFhwZUh1ODZWcVRqZWFDUUU2UEpEMUVCbzB0OEVWeWVXcUtqYXNMMDZMRm1r?oc=5",
       "platform": "Haber",
-      "id": 57
+      "id": 61
     },
     {
       "category": "Trafik Kazası",
@@ -811,7 +867,7 @@
       "summary": "Son Dakika üzerinden bulunan herkese açık kayıt.",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUjNkLVBBUXVYRlJZOUZGVjYzbDFaLWZFR3UzcFFGdE1hQU4zZmFxRVpHLVlhVW1UNjRoSjcxUU8xNmh3VVhDeHZvQzNUUUJ5NmtpdmprN00xQ2hpU0dIV19LQmduTlRMU1VRZEphOEVXRGNTOG9xb2k4dXJ3Y1cyUXd1aWdLcmVh0gGDAUFVX3lxTE9nTWZ6cjVCcTlNUFZfTkVqYmpCM042RXNYb0swdDhQVlo5UlhJNHdoRjMtYjZMNFNhV1hObTdFaTU2NUxrYi11WnhPeWdrV2xWRGg4ckpkeDNxc0ZXbXNScUd0N29raFRCTkpLZmtEdDdzbm9qTjlFWVNHTVprajB5bE04?oc=5",
       "platform": "Haber",
-      "id": 58
+      "id": 62
     },
     {
       "category": "Trafik Kazası",
@@ -825,7 +881,7 @@
       "summary": "takvim.com.tr üzerinden bulunan herkese açık kayıt.",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOZFk2bHhFY01uRU11VS14bEpaTjZGbXlFOXliRmxBYi1GdjZubDFpcUU0RDFuTEw5NlM5RG94Z04yRHZoMkFWOUpUNGNIVTJxTGhMYUU0TDl3bF9wdndJcVVZdFVQcDBRenJUMjB5ZTZsQTZhTm9xRWtUYkhQNEZSbzdUNkEzMDd3allqcFV3Vk50UEtNSWFjbDNWRng3Q0dfSXlpaEkwWXE4dDlvenZPcVpibHhTeE4xWmdSdXF4QUVDRlEz?oc=5",
       "platform": "Haber",
-      "id": 59
+      "id": 63
     },
     {
       "category": "Sağlık",
@@ -839,7 +895,7 @@
       "summary": "NNC Haber üzerinden bulunan herkese açık kayıt.",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQQjd2TlJxODlCWXpUQU41dTVMU0ZQU1oyYVFKVEJRdVBzU1BfNU96dEJWQ0RPOWVhRXJweTZ0OFlrNkR2VThlVy1VMzk0d0lMSVkxekNzdGlITFNMSVFZWjRsS0RiOG1iYUxzdXI4bzVxWlFFck1SLW9LOTNfMjNaVnowTkJ5ZTR2WGViNk9qZGRBdkdpOWxSTTNWaWFaZ0NzVzQ3NXBHQnF2TzUyUkx30gG0AUFVX3lxTE9JS1VwWjFTeWQwMHl3YldLWUJFNlhlQ0M2bWQ1cmQtcFZrSkF1X0lxZ3BRUUx1Zk9LQkRWTkItaldnajlfRzJCWEpMNWlXWjBNTWNNSU1yaDBoQVJhRERWSkJ5YmROS09OV1lMaTY3cU5ONDBKY1JNeFo3OEc4Qm9vLWtpUWg4UGpvQk9hY3FTZjMwNWRJQ0NibGlKS2IzN2duVzZvZnFEbWR0YVlULWN1UkpFdw?oc=5",
       "platform": "Haber",
-      "id": 60
+      "id": 64
     },
     {
       "category": "Diğer",
@@ -853,7 +909,7 @@
       "summary": "Ankara Masası üzerinden bulunan herkese açık kayıt.",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNeGVSRlRpVHBETlIzVlBQMzF1dkQ4OHNtTldwOHpiSTdzdk94Y3FmMkJWMkdBZnU3NXJJVzZNeERYNzdmMVJkUkx1UWFncFNHc0FGbGdXd3BSb0w1bFAtVDUtU1RNc1ZSZ0NGRnZnZEcxNFo2b3BFOTZSMWR2dVk5X0ZUamcxTFhTZTVnWWhlZS00bFJrNTBSSnlTR2s5d0c2M2c?oc=5",
       "platform": "Haber",
-      "id": 61
+      "id": 65
     },
     {
       "category": "Trafik Kazası",
@@ -867,7 +923,7 @@
       "summary": "Son Dakika üzerinden bulunan herkese açık kayıt.",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5RazJ3VjJ2Zy0zeGdzZFo1SDJNbjl4RWl6WVR3dHoyVVAxMEljYnRQQjBpY0piNTNlLVBDVVhVNnN6NXo5M2N2eXVDQ1Z2a09VbVFmcTk2RG1vTHhhRHVJQkp6RE9xX0E5aDBCZzlMLXdYRF9HdWZZUHdFY9IBd0FVX3lxTFB5ejExRy1DNmxBQXRkWnVOcjU3Y0NCc3V6REZqRjcxY0J4alMwR1p5T0VWV1ZhWVlZRUM4azFaQjhmRkRnSVdpS3E0UkQ5Y0ZqUE1QVlhDQWVQaHNnMG1oeW1JSGtnQXdVUUtjZ1dLalVVaF9vbGpR?oc=5",
       "platform": "Haber",
-      "id": 62
+      "id": 66
     },
     {
       "category": "Diğer",
@@ -881,7 +937,7 @@
       "summary": "Kırşehir Haber 40 üzerinden bulunan herkese açık kayıt.",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5xcGtmUlFvVkdmdGZ5WW83eVNfOEFlSXN2UVFCMnVCOUVkdDNvZUpORTJqT3ZEQ2NYSnVsTDdYOWJLY2JmeV9VMXdVSjVuOXoyVnMzb3RhZEFfcXhtSlBEWGtCS3lZSHozS1NMbHFxR2VZSU96RmJXYzBPSHNkeknSAYQBQVVfeXFMUF9vMVpmbzFQWGVNTjJrb3FRNWJiWkRkM0pKOXNnT1dFQzlMcC1uYzA4OHlDTEVBaGxaQkhiWjc5Ymtld2Q5bnhfWXpkdFpDcEpWZ1NONmtGN0dFdWd4ZEVQZDc2dWVmcHJVQzd6YVE4eTJ6YlpWRU5YNFA2QndkOUpleGd2?oc=5",
       "platform": "Haber",
-      "id": 63
+      "id": 67
     },
     {
       "category": "Diğer",
@@ -895,7 +951,7 @@
       "summary": "Ensonhaber üzerinden bulunan herkese açık kayıt.",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOZUdRQ1BkSEcxVG13dzJnRXdvbXhpeHZBc0F1Wm5xMVhLNkVOODRZeUkwQ2w1U1FZWUdEZUxrMlhabkwwdDZtS3pwX2lfUWoxQkpUQnFfalg2YWxxbVdkVUY3TXZROTEyU0F1VFJnVk41djdjV0JiSUlrSVNFcGxReDlud0JuN3VnSU93MzJRS2g?oc=5",
       "platform": "Haber",
-      "id": 64
+      "id": 68
     },
     {
       "category": "Diğer",
@@ -909,7 +965,7 @@
       "summary": "Cumhuriyet üzerinden bulunan herkese açık kayıt.",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOUVoyakt5S0VkWjdhcmVMSy0wWjJtRVEtcTYzREhzU3VhZDNQLW5wV1gwR1FFUmFjY0ZubUZneDVGMU5zOS1IWGVrLWxFWmVfYTk0czVTckxUTHVULW00bHdkWEpMV2plN2ZOdi0zdXpWb2pvaVlLeFZzYW0xYkFEYXlLSVZRQUZ1cXlKQkhWUUhWMmJfMDNPU3RZbWthdUZKajhxdl9R?oc=5",
       "platform": "Haber",
-      "id": 65
+      "id": 69
     },
     {
       "category": "Silahlı Olay",
@@ -923,7 +979,7 @@
       "summary": "takvim.com.tr üzerinden bulunan herkese açık kayıt.",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPdjJ5WUtkcmg4YUJHOFZrNTB1YzQtSTZFenV4WkxkWG5JWjdZWUJ4RmR2aUdpVHVhUFpZaGNHUEtZTk8wSXhoTjlNT05tWHNod0RXOVlSNl9zVkt0Uk5yVGZkYjJRY2dEMFlGVTFwczhMVVZlQkhpM1RhT3J4Mmw0bUY2QmxoRFBxTGk3NzJDSkJObXpFSWVxallqUEF4RDNDZXNR?oc=5",
       "platform": "Haber",
-      "id": 66
+      "id": 70
     },
     {
       "category": "Diğer",
@@ -937,7 +993,7 @@
       "summary": "gazeteilksayfa.com üzerinden bulunan herkese açık kayıt.",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNck9xSlNtdHdyaFFTQVpybEtDV1M5R3UzdWExMzZsUm1GQmhjNTR2MFhZVXRMYjdmcS12WFc2SkJ4OWlTUTlWcVFRNDZVcWhVV19IRUFyUGNYOFNJazZVekM0TkZ1QUs5WGFFc2dabDFKQmY0bF9jMXNQMm1vTzRkNkJsd2J0YWRpc1JpeURBNVM2Vi1lUXVzS0JsY243ZXRw?oc=5",
       "platform": "Haber",
-      "id": 67
+      "id": 71
     },
     {
       "category": "Diğer",
@@ -951,7 +1007,7 @@
       "summary": "Yeni Ankara üzerinden bulunan herkese açık kayıt.",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOeExUYXZvT3RQU09Idm4yTzFuYUg4RFJzYXpWYmw5OTBXSmtpQ0RIM0tMc2RxWk5GWXhiRjR0Ul9Hc0pLMkYxSXdGQTBOdEZNTm93YnBWY3ZSaFV5MmNGNlBJdTZkXzdYYVF2UEhtZTZqSEwycVV4NDNtWGJVcjFwMjExS3dGRkFnQ3FiQS1zT005MzdTZGJZRW1mbVnSAaIBQVVfeXFMTTZkdy1jMGxFc2ZLd1pxMWQ3d05hSjdGRlpkaWRPajB6aGU4NHJwQjVkbFlHQzJXeHhaclRVUkloVzQwaDhVTkF4YW5Pd1hIcU9JdFh2RjQ3cElPTGNCbldjeHFyUlhLd0V3NmpEdzhYMlJLT1VKNjl0b0RZNjhRZEJjd3dYS01DeVFtaTdmVGVnY012clhZVl9YS0FBcHlqbzZn?oc=5",
       "platform": "Haber",
-      "id": 68
+      "id": 72
     },
     {
       "category": "Diğer",
@@ -965,7 +1021,7 @@
       "summary": "Cumhuriyet üzerinden bulunan herkese açık kayıt.",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOTURrdmZaOUxBUUdLM05kQXN6TXlfeU5tMDdKR2xDUXg1dDhzTXFBR2I1WGJualJIcmZ0SEt0aUJFYjd2UDBhQmFPSUlianVjTnQ0WEd1NEpvZjk2dHlrUV96Qkw4UnpZbVozWXNFWHY3WWRqVXpMemtkdG5GT0FYcW9BLWxSeGpZOG1lMXBRSHJyLWxPYlE?oc=5",
       "platform": "Haber",
-      "id": 69
+      "id": 73
     },
     {
       "category": "Trafik Kazası",
@@ -979,7 +1035,7 @@
       "summary": "NNC Haber üzerinden bulunan herkese açık kayıt.",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNcmFfWE9IVzZneG45MHhjc082VGVSQ3JOY2VwODg1NkgzYTkyZ1l0UENrMHpnQzFRU2ZLb1hNSXB5YXl1cTFQZDE3YkhpRmR3amloNWhVdnN4bDBqSDJoUU1pXzlKczdtanBDZEYteFBtb2s0a0RoYWdHQ2lpR0tPQzM3c1TSAYoBQVVfeXFMT1l6akk5M1QxRjFOR2VLbEN1T1k5V2hjOUhFbndibmtoX3FjRWtZZmU5TkItaGNHbC1DRG9qcFg1UEJ1dkNMYV9aak56X1VfNjFGRWNldE5MTExvcE5MVDhjbkI5MzlNOVl6ZGpHMFhPekcxLTdoRkhKNGFPUU1OZGNScjFsUDlFS2xn?oc=5",
       "platform": "Haber",
-      "id": 70
+      "id": 74
     },
     {
       "category": "Diğer",
@@ -993,7 +1049,7 @@
       "summary": "Cumhuriyet üzerinden bulunan herkese açık kayıt.",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOVU50eHJmZzdhdFAweVdrOHBoc3lHdno3bUFiakZRNHNNRDRYLU10bFJIdzBHWDJTXzRibmdKdjF4WDlhQUQ5elBOS2FCSDJuMFdxQTZFRU9ZMkxwVFFHeUsxS2xjbmQ2X1lWcHdUaVhEVGR6bHB5Q1BreVlQWVNsZXlMTW14UkJoQzRYTnVkTQ?oc=5",
       "platform": "Haber",
-      "id": 71
+      "id": 75
     },
     {
       "category": "Diğer",
@@ -1007,7 +1063,7 @@
       "summary": "Cumhuriyet üzerinden bulunan herkese açık kayıt.",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNX0JyUjM3TVpJNEktcVBWZjdaM091QS1Dd0MwbkhocWRiV2JsdV90SGl4QnE0WGluRUZ3R0NQQXNBcDB6ZXlJRERPcjV4ZUgyUlpYX2xQUzhWM2JjdGVhSG5TRHZpSDIteDRnWWVUbmtxZHRORE84TFVybGtJR0NuQmdNTXUzWUcwV0dmcml4c0dOQndJUEFz?oc=5",
       "platform": "Haber",
-      "id": 72
+      "id": 76
     },
     {
       "category": "Trafik Kazası",
@@ -1021,7 +1077,7 @@
       "summary": "NNC Haber üzerinden bulunan herkese açık kayıt.",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNcHVCSGZ5S3g2TUdfWHV3S0dsTkdLRjFRN3JQUDhCOXBnUGxqSGo2OVBaOVdoSmg4eHlSREZySU5uVnpNQndmR1VHSWFnaWNIYkFwM1lodWdORGU2NHhRRWpzUXZWMVk1NXRhTWhFQ2t5Z1puakN5THBjdmtKQlZyR2RR0gGHAUFVX3lxTE5nTEVNLWJkMy1YSHF4WEVLNFlBdFNUdlYwU1ZJZm1TM1lyUU5WWjBFSm5WRTRjVjJ5ajlYbkFDOUZVN3RGcDFNbGVGRzVkRUZHNVF3TXBKUGJLRnRPck9CaFowODhnS1d0cG9RWDdWbTlfaVVpNWJoX0pLeFhJcWNzaUltbDJHTQ?oc=5",
       "platform": "Haber",
-      "id": 73
+      "id": 77
     },
     {
       "category": "Diğer",
@@ -1035,7 +1091,7 @@
       "summary": "NNC Haber üzerinden bulunan herkese açık kayıt.",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPSnRPc0ZvMFgtZlVIYWtHV2duZENBQkg3UHlMb0FhMnlGUlNRRWY3MEpTaWl6Rk9XUXlKT0g4OUZFNGN1ZktmdlNDTldKMmhZLTcyUGpyQ21oNmJwcEdOQk5qSjhqWlh2bjdPUUJIdDdocVZldnYzeHFlc0Z6UkpLaDNIZ9IBiAFBVV95cUxOVWR4M0ZiU3VNU2tXejMydDdwN3hBakhTSURGVjVnMWRWaVZFQjR2MXhHZjVVUGQta0w5RWZ0alRMTFJBb1FjeUhGQjhBaHBBT0c1SWcwMS1TcDctQmdISW5jZzVtNGphR1o1MTQtdllxWjVBN01wLUs1VHpuSE5WYU9fdW1FWXJU?oc=5",
       "platform": "Haber",
-      "id": 74
+      "id": 78
     },
     {
       "category": "Kayıp Kişi",
@@ -1049,7 +1105,7 @@
       "summary": "Yeni Ankara üzerinden bulunan herkese açık kayıt.",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPSW5FcU1DQ2dpbExiVGxNRExnLVNiV0t4VElmeVIzRUU3aGh4S2VuZFRMMjJWNklsV05CMlYyTGotSGNlYl9WX05rMVRnUDUxTzdJX2syRW9acjRJUU1OWHFXN3NSa2dReU54VDdZUVpuQllOcnI4ZVZlelpJTEdTLXU4NW43TUlhZmZMQ2daZXN3dXZ6TlpyMlc3b3EtN3BOcGtIYzd6a9IBrAFBVV95cUxQamI4VlpSYV9KeGFkR1dveG82a1E0ZjhYRzlwd1pZMHV1bjA4LTZocUtNbFNEN3hsTE5qbjJNMkF1SURPSmVDdnNiRElKcmw0S1owUEd0QWZNbVlFMDNZcXpyUXV6MkxGZU52WWdHRzEtRjRKOXYySExLTVdZMEs4OE9YNkVWT2ZzRmFnS2VFdDFPd0RIaTZmc1liLXpnRzhZbDVrR1o4R0h4eWJ1?oc=5",
       "platform": "Haber",
-      "id": 75
+      "id": 79
     },
     {
       "category": "Diğer",
@@ -1063,7 +1119,7 @@
       "summary": "Yeni Ankara üzerinden bulunan herkese açık kayıt.",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQVTdhNnc3NkVoRmUxdGNrVWMya1pzTV9abmdJdlYyWUpvZVNRWV90aTlGUUJXc2Qxd3UzZ3hGOG9zU0pfOVpSNU91LTZTWHROQ095Z0N3UjJwZklBbmpSM0x6anM3T0RBLUNNS1lNOXNFclhyUHd5OXZUS2YxR3lXOC1ZeVluc1JHOTlaZG5IZTA2T0M5Y2d3WE9hd2Z2SWMwbEHSAacBQVVfeXFMT1NzcVpiWUJoUmJDRXFJRXRvNWpvY2c4UzY0M2p6WWhXb2NDOEVOMFYxZENlZ1BtSUZwVjBkdEU2TTNHajhWY3pMN3NyVjBBb1NYazQ2MnpBQl95V2VyLW1lcVUyeXJ2ZFllbzVJVE92TzhXN3ptRnl0WEpocFVfOFpRX01nY1hKM2E4cFRST2hKWl9PeU5qZ3cwWVJpajBncVhEMm53Y00?oc=5",
       "platform": "Haber",
-      "id": 76
+      "id": 80
     },
     {
       "category": "Trafik Kazası",
@@ -1077,7 +1133,7 @@
       "summary": "NNC Haber üzerinden bulunan herkese açık kayıt.",
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNOF9PdG5tV0F0anNEZFg1NWloUm1lcWk5SWJmTnJIWkF4b1lWNTdDdDZhS3ZJVlZMVHdtMElFZF9EaUN5aTY1U3VncWlLeE5HNjdGNXRjNmd2cE1leVYzajBWRGhzTkQ5Z0d6SHEzN091QmppLVF3el9FQUpZTkU4Q0hDSm5sQ1JDX1gxajRwWjF0MGM0XzM4Z29rdHNYT0VhRXBfUFpfeE9NblE2bjRYbGJ3ZXVUNEtibUFLdmZVNXpaRXMwQW5ybHQwendrUGFrT1JB0gHYAUFVX3lxTFBrM05kR2tCRTFXVTR6TzFqNVJoUXphOHBXZnNVTm1FWEJXSEpicVpXMGtRai1qS3ZWX0FldzhDYXc5OWYwM1dIWTlDaDE3bnI1TVozUmdLZ1BYdzFhSThpX1VlZXh1Rk1TenlDNzI1bk5zeThiX2V6UmpTOWEwWkRNUW1MeTdQU01wSF95QkZ5aHhzN1ByTkM5cXZKbUZaUmd2bi1YdUR2WmotNUg3eWJPLVFuYXVxdmNWUWRpM0U3UEtMQkRzNEwzOUVaYVcxbnV1bHdOSG1GcQ?oc=5",
       "platform": "Haber",
-      "id": 77
+      "id": 81
     },
     {
       "category": "Trafik Kazası",
@@ -1091,7 +1147,7 @@
       "summary": "Son Dakika üzerinden bulunan herkese açık kayıt.",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQMmZsbUJUMHNHSVhnMmFCM0ZoQ1U3MmxELUl1THFLbVlPV2p3bS0xeV9pSXg0SDNiMlFpUTgyS3pSVEZZRHZ5Q3VEakpvVVlRUW5udHRQMlZxSWw2cjRQaGczR2laZnpwclptRGp4cnRJZG9nbEEwT1gtVDlVWmpEQ241Mi1qNm4wS3Z0eXJ1OFhGRmhhZnByOHM1Nm01akxY0gGcAUFVX3lxTE8xX1A5cW1YYWlWeUdFa184QTduamZMd0NhVXhXUDdDNkR0c3haZWNvMGpGYkVHTnNDdERvRTBwWDNZbjRCZzlVaTdaajZjSEloRWZCTHdXd0xVUWd5STE2U0tweFFmQVBOcGlGRVB0YkszeFRwNHBkc19ZRXJiN1J2NXl0aFJXNDd6SXhTOE9ia1NDcktFU2J4ODUzYg?oc=5",
       "platform": "Haber",
-      "id": 78
+      "id": 82
     },
     {
       "category": "Trafik Kazası",
@@ -1105,7 +1161,7 @@
       "summary": "Son Dakika üzerinden bulunan herkese açık kayıt.",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPc0RfeXFVUU16SVN5VkJ6RE1PZEdrcVh4NzRFd0kwQzFXMlJuczFHVWVfZDViYXYwMHZNSU1TVTZjbC1KeUE4VEFIMGpyb3JRQ3puTjAyT3ZHYlFtUEpqbmFqYmIxQkZUSGt6UWpnS0gyR01FaE1QY0NXQURtQkJhS2NNcEx0ekFRd2cyR0dxYXVsZlR1amfSAZIBQVVfeXFMUEQxR3F5VjlGMlVJeUwweWFtUERfdHJES1pQMWpvTVhHZklWYVh2UjVYQ3J5MVlLdHlxdFVpRWRaOXN1SVp4ZzVURHlLcWtUd0x0MExzdWZhZDdBVEhLMUY4eTBFSDdNX3hqOURhQ243blFmM3JaN1lKOE5FMlpjVUdpU3Z4Vk0zZ1dzUUlLMGFaSlE?oc=5",
       "platform": "Haber",
-      "id": 79
+      "id": 83
     },
     {
       "category": "Diğer",
@@ -1119,7 +1175,7 @@
       "summary": "Sabah üzerinden bulunan herkese açık kayıt.",
       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPWU5mbThnSjd3QTdJSmpaZVhrSC1jY0IyOEpJcW9aTDRjT1BWc0hkaUpLVTRDYkJCOFlCTWJfRkJ6YlozN2h4eEV5b1F5M29BbTJ3RmpfcmU5d01yWk1FTlM4dEp5VlRic0FpbS1xWnBIdDhlelBISkFYUXlhcHo1UXd4REVUMUV2RjBTSmYxRUFyTFJjbFNQbFIwM0c4dkQ3MUFrd2NJNjBlUWh6Ml9MWEZsSzBHMDZxZk9iWklteEUtczVYdkZNRWhmN3pNUDl4N0lQazBIWFA?oc=5",
       "platform": "Haber",
-      "id": 80
+      "id": 84
     },
     {
       "category": "Diğer",
@@ -1133,7 +1189,7 @@
       "summary": "Türk Havadis üzerinden bulunan herkese açık kayıt.",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPdXU1amZ3dm8zVmhsaTNDMkxhb2xMM29IVEc4alVRX0NlektSRm94NHNlbkxoMGZxYndpUDlmUFBqNkcyZ3RhQkl0RWtDSWZ0VTBET0dBUEtNa2Y1N0VtZ2tZNU4ycldzcXZ2QS1rM2t0REZTLVBqY2NzZHY0ZWtDdmRTNk9fTkh0STg4ZkNQR2VVdVpBR1Yxczl0ZlNVbVBScjhtLTU5cGFaakdQREFNb05OUW9wT0xmRkxIMnR3?oc=5",
       "platform": "Haber",
-      "id": 81
+      "id": 85
     },
     {
       "category": "Kavga",
@@ -1147,7 +1203,7 @@
       "summary": "Son Dakika üzerinden bulunan herkese açık kayıt.",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZFZoMVdzVW41ZVMxbHFGVDNzejR1QTZQS0pOQVV3OGRxYV9MYW9MX2tKdnZ6ZlhiU2dPOUdlQkFzcmN0MkVmel9IbVVLRlR2S2hzT3ZRblcteXF1cldNY0F1MmdGd3JFdUs3R2FGaVlXV1RaeUtMRUFjZkdqZEVUMFo2bHZBbmctNldrQTJmbkhwejJUcXF2OWdzM2dNUmI50gGcAUFVX3lxTFBmZmtQQWI4ZVlNbFpBamw1cTNPOWFpRGVKVmVSUjZma2tCbnVxSi1oa096ZllhUm9KS25aRklPQjlvR2dHNTVRZTlGd0dtaGJTQ1Voc2MtTjFQVGM4U3JlTVBiR2tkTmF6bzN4bXhTc3ZkR3RnZUZUM0oyeWU5QXVJdUxWWUJEMjdMdGVlQnA4YUtoeUJXTjdZelo1Tg?oc=5",
       "platform": "Haber",
-      "id": 82
+      "id": 86
     },
     {
       "category": "Diğer",
@@ -1161,7 +1217,7 @@
       "summary": "HaberGo üzerinden bulunan herkese açık kayıt.",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPRnhEeUc3MWtNYkM1X0lGTFZocFhBRVRDYmc0eTh4V2xuSUZELUt6WllYYm5VYWVGN0p6dDNHcGw0WWZMLVVYNGZxMVI2NnNkZnAwNDdfeDJJay1hakdNekxkeDg0T3ZqLVhtQ2FtM3A5QkdwSFg1ZGctTWpmOVQ0YlZwcXN1a2Q0b1VaTklOdHkyYjNtWFBJa1BJVEkxYVVKeTY5eUhrYjl1RmlGTktIQmluR2TSAaoBQVVfeXFMUEtJOVEwUFVFZ2xMZW5XZkdYcE9UdjZla08xQ3ZfVGNaa1JLRHppdVZLVEw4OTlleWN6amxwUHhEUURCeTBYWnFLOFp5Zkl3N3FmS2FmRGRmMzlSc2ViOUkyQzl0eVp4ZUFXdUJKc0V4VXNvd1BoLXNkb3BLY1BVSnJrMngyRlRhbmhiYlhoLUs0STJVc1ZudjJiVlBCTXNxTzFvTzVReWkyVlE?oc=5",
       "platform": "Haber",
-      "id": 83
+      "id": 87
     },
     {
       "category": "Kayıp Kişi",
@@ -1175,7 +1231,7 @@
       "summary": "Sonsöz Gazetesi üzerinden bulunan herkese açık kayıt.",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOWFNIelJpS3lXbElQekg2R2s1b3ZzRXQwT2tnY2IyMGNBRXZfQldTeWZFU2hqZHFWV0JoV01rMGVOVnFjRllGT2w3ZnVMYjFXdjRjWW1KYkZOZzczUlZkS3VRUXpFbHpHOWFlWHdLcTAyTHVZaTRPdS1XYk5FUkZpcHBn?oc=5",
       "platform": "Haber",
-      "id": 84
+      "id": 88
     },
     {
       "category": "Diğer",
@@ -1189,7 +1245,7 @@
       "summary": "Yeni Ankara üzerinden bulunan herkese açık kayıt.",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNRTY3R04zVjRmTXpUWk9LMGtQLXotdTdNdkkwelFuWDE3Sy1oRWh2eno0eFdLOHFRTTk1STZLTkpJdjdvdWlqSURyVFBRcFd1WmZ0Wnk4dVQ0U2lpNXo1V1dFNWtEMmc0b2oxTHNPV002X0dTbnFiNnpseXY4OW1kVDZuQU1ibF82SGRKeUtoWk5UU1JVeGp3UXBXNkVkM05pWG4zNzBWc9IBrAFBVV95cUxOUWsxX3J3SDdpdVNRMkx0a0dPNFBFU0R1bmVhR1o5TFFEb1FIOXpkS0hZRk9zeGtKckdRSVptZ3VrX1J6aUZGMmZDVHlid1I1T0JybXFWQjVVU2FrRVlMUDBQRkM0a0tzMTg4amVOQ0pHOWVuazNXUHJnemU3SlJiQ3AybWNzNHV5Qlg0VlBvak0zZnIxLVFyWkl5bUU4dXNtME54b2hyUkRZMzBR?oc=5",
       "platform": "Haber",
-      "id": 85
+      "id": 89
     },
     {
       "category": "Trafik Kazası",
@@ -1203,7 +1259,7 @@
       "summary": "Türk Havadis üzerinden bulunan herkese açık kayıt.",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPQkN3dm8tajBGVnJCNDY4dEFRUHN1eHlWeWxBSzZIY1MwTHBObG9GanllNDZiLUxnNlNLRXp6SkF0RTNTdzRmSUhiY1cxZUxDNDF3T1lxLWxCYjRjT2RFeDRfWTFUaWtsdms1cXFpbVgtamczLVlRc000ZkRkZzN6VERqWEdtblFIUWVMZDdGV0RvNS1xZzB3?oc=5",
       "platform": "Haber",
-      "id": 86
+      "id": 90
     },
     {
       "category": "Kavga",
@@ -1217,7 +1273,7 @@
       "summary": "Son Dakika üzerinden bulunan herkese açık kayıt.",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPbXhVYkR1VE5ZSXpyNkVOazVqWVFEdmhmaDJmMzM2Y09NWFJFNzhkTTZGclA5akFsSXg2NnY3a3c0QXRiOHJjUlRQMURHYVVwOVA2YXNMaXg0YjctOE1OUFp3Znl0WEw5Y0Q3dzhUbVF5N3o3eUYtWFU4b2dxRGlZZVNxOUNreDNsSzJ6eldJT0lmYXfSAY4BQVVfeXFMTXlWVUdXSjlHZlpXWWxselBCZXJPNnM1ODZqTW9ZWl91ZVRmQTB4NTNYZ2RQREhQUFFZa0diR0tGTE02djNiTXVraFZFbU9CcEp0bjktZ2o3cWVUQzlTMkRGaUpETE82MVBmN2pQS1N4eF9raDJWbE5ZQ2Q5bDVNRDZEWkhiRGwzdWZiVDhKUQ?oc=5",
       "platform": "Haber",
-      "id": 87
+      "id": 91
     },
     {
       "category": "Diğer",
@@ -1231,7 +1287,7 @@
       "summary": "Türk Havadis üzerinden bulunan herkese açık kayıt.",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQaDU0bWQtM3hVSXU0a1FTT09MTmlpYXZHU25wX08tUGlKaFhfWllSZEJWTVFQRE5JWTN4amV2Sk91VGE2TEg3RXNLVUlZdy1mUzVBR0tOQkc4OGxoSjVJbkxWZ19PN2J6bm15Z1UwMUZrNWdEQ1VHNXMwZi1IeUdNOVZQX1RmZHlQaFFCS3NBckFvRFFYYkhqOTFMdw?oc=5",
       "platform": "Haber",
-      "id": 88
+      "id": 92
     },
     {
       "category": "Diğer",
@@ -1245,7 +1301,7 @@
       "summary": "yeniufukgazetesi.net üzerinden bulunan herkese açık kayıt.",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQSENkZzhpb1N1eVNFUzkyRzNKWWUtTm1NV2FhdjlLOUQza3Z5ME1jZW1ybmdPeUxORzhDVS1kT1hZR0UydVp0RThjQ2dEeWxTTXprUEZxZmxtQzhHM1QyeVo3VUpFZzd1RXlONmlpa19obkgxS3hhMTVhTlJTWDZ2OWdkaTllOEF3MkpaeTNZTEkzamd2UGcxMkVDcUtFMUNOcGfSAacBQVVfeXFMTV9wTEVKeUF4VEIzSHBWbHNmRVluc0ZuYzFNWGhTa3Z4Mk1zU1dwWHo0YWpyNmRxdUJGZG1VX2dpVTQzTUNnQXZEM1JQaURtNFJTd2p1RGVTTzY0S3o5SzB4b2NnQUxQcTd4cjFZMVJYZGtWYkZaWHVhMFlSNGhNeHBrc3BGQ2tERDBnTTZCUDhTeVY5ZXFvSGpieHIwTkhJUGwzd2lhclk?oc=5",
       "platform": "Haber",
-      "id": 89
+      "id": 93
     },
     {
       "category": "Diğer",
@@ -1259,7 +1315,7 @@
       "summary": "Türk Havadis üzerinden bulunan herkese açık kayıt.",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQcndyWUxlNTVPZ2dtTUhYNHBNY0c1cmc1RklOc3REd1QyZ2lCcUxPT1J4UTR6ME5laEVXOUFwZXo5QlNBSGJTOHQ1RGZsQzl3azhMVWpxeWZsSDlwTFRKSmh5Q2ZteUpDLUVHTmhHYmNGY1lDZnRmMS1RN01GbmRlMktZSkx6VW9ieF9XYktGUmRBbWc?oc=5",
       "platform": "Haber",
-      "id": 90
+      "id": 94
     },
     {
       "category": "Trafik Kazası",
@@ -1273,7 +1329,7 @@
       "summary": "NNC Haber üzerinden bulunan herkese açık kayıt.",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNSWY3a1RFOUgwUUttbDEzT2E3b0laNld2OEN6VkZRVFV0OGFMMDhwbTROcjNJcTIzVWZnN0syal9ZUk5mU2VNRUM5VC1VMm11by1lNDJxZ29VYzF3VllOZTM2ME1FcWlRa0lYdXNxbS1UOU5YdE16YnlRWWNsaW1abnVUaHBmQdIBiwFBVV95cUxPdkJpRjlQMEpJNl9fQXRTX2RpNFdGaEk4MWRFc3NiTFhFV1JlTTlCUWF4alllOTFfaTZ3VW5mOTdWbE5OcHFIVTRxb1ZoOHhXcjNPUzRYcUc3Z0FsZnJSaEpZaUNiamk1bnlWTkt1R1VYY0FkaUFSUHdDRUtXSDhQamUzdDRlcU9WZlJZ?oc=5",
       "platform": "Haber",
-      "id": 91
+      "id": 95
     },
     {
       "category": "Trafik Kazası",
@@ -1287,7 +1343,7 @@
       "summary": "Son Dakika üzerinden bulunan herkese açık kayıt.",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5jbzdiaFhNdHZsNlpWaHhoRFdqSzlRUWJzNVc4Uk0zTHJDbnQxZ1lFWjVaeHZRVXJqY21XeDJzWXNDVHlPMnFfY2JsYWZVMjVsVmMzVzZvYU8zYnN0ZjllWXVaZmJYLU9FTjNXMlB5WDFpRGZJRGlfY19JVHZ5R0XSAXpBVV95cUxPVW05UnUyd2JyMFE1SmhxTlR5QnRjbTdtNnFFY3BOWExIZGpYbUswTTJKVl9zb3B4QkJmSVdEY1M3V3VCcHVxRnVpSjI5cUFXMzVERkFoSjJYbFg1VHktSFF3blR1WENObDJsTmdpSjZrSEItbFlKOF9OQQ?oc=5",
       "platform": "Haber",
-      "id": 92
+      "id": 96
     },
     {
       "category": "Uyuşturucu",
@@ -1301,7 +1357,7 @@
       "summary": "Ankara Ulus Gazetesi üzerinden bulunan herkese açık kayıt.",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNOW9OaFdBUmU3Y1B1VjJYYThJV0pEcXJpVnBPWXkxWGRqOUJOcVlqRXhsT3FjZnhvMEo0cDUwRExIVUhpeWJ2YzFpbFhhMDI1QTRpZEd2QnMtR3ppTGZPc2treFJTMkxzcllDSUpTUENHdFR5N0dMd2Q4ZG1hN3NPWFdRU3RmeTU4NnRSSDR0Qm4wU2NLT29yOU0yUElvemYxaFh0dnVVZjJBdlNDbVVkX0tUMnZqcXRMNk9OSUdKNldFZ1pILXYyQUhR?oc=5",
       "platform": "Haber",
-      "id": 93
+      "id": 97
     },
     {
       "category": "Diğer",
@@ -1315,7 +1371,7 @@
       "summary": "Zafer Gazetesi üzerinden bulunan herkese açık kayıt.",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNbTRqQkRGMUVVT2wyQ2l2U1l6dWJUNUJyMmFaOTVBdTBQdHhxSjRCdU9rUEltSXUwMjRMVkN0bHJuYlZLaHRfZ2d5cTBaUW1UOVZueGdIMGhJR1lQUlJmNkFwMFI1dTZVQk0zWlcxSzhBMHZoTWs3eHhfOWVLNmQ3R3RCb2R5MTRxZG8wOXkwd2w5dw?oc=5",
       "platform": "Haber",
-      "id": 94
+      "id": 98
     },
     {
       "category": "Silahlı Olay",
@@ -1329,7 +1385,7 @@
       "summary": "instagram.com üzerinden bulunan herkese açık kayıt.",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9YMnBlcWN2MmpQSU82UVA3VF9nOVY0ZzktaGUyWTFkNW56YXNHMEpya1JsVzZtYzdMY0pxN1cteElXdkYxblNxdTltcEVMWm1QSlZfWGpn?oc=5",
       "platform": "Haber",
-      "id": 95
+      "id": 99
     },
     {
       "category": "Diğer",
@@ -1343,7 +1399,7 @@
       "summary": "Memleket üzerinden bulunan herkese açık kayıt.",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSUFYd1BxTjhHdVRIUzVJVUF3ZHo3YzdGbWxvUl9zNVhuQXYweDc0TUk1V0NEVnlPa3JseUZoa0JoeHpEY19MZmczT0dyRzZUOEV4RkxLZVQxM3dHd3hkV1dZTEZRMnVPUFJYOFk3ZXQ4TEVuOG02djNfZF95dVVhN3FFT2cxaGZsZ2xNVUZtNmlTOG9nb3pYZmU2dDZUYUZDc0lyUEk2eWXSAbgBQVVfeXFMT0JBejRxRWVrV0RWWUpQTi1LUVhCakx1WjBFOVZLX2x5cDlXS2dSd0ZMMF94OHFHa1VWWUVYb0U1Uno5MWlVQmdfZlpXOVlrTUZJeExyUHlzdDhCa0J5TmxCM3J6eVNaWWNDenNmTkJqVUVfMmdFNmNRSklSd0VqWkJaOElQN3RfYmp4R3REQWlaTndJWHJYMzQzcHpGOU1ORHVnNm1Rek9kYWNXcGJKUTlxNlVUU0NNQg?oc=5",
       "platform": "Haber",
-      "id": 96
+      "id": 100
     },
     {
       "category": "Diğer",
@@ -1357,7 +1413,7 @@
       "summary": "Anayurt Gazetesi üzerinden bulunan herkese açık kayıt.",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPdEpJbl9uckJETkV1bHQwaE5wX3dRRENZclc5ZS1BOC1sUWRmWUU1YTNfcW9wVXV4VFBsdHRPd1NKWF9ZeFZ0Y05udF9vREtyUTNKNzMyR1E0bG9Yb2lJMmhiNmsydVVFRFdkS2djYnh6cnBOOWtPVkxGYXFGd0g1T2tPQTBOZ3dhWVQ2ZNIBkgFBVV95cUxNWkwwal9XV1ExUUJ0RXA3MHdkdXQ5WFpUOW1qOHhpcGRIRVVPTDAtQ1JXcXR6dVl4OGMzdVhJSTh6R2tZSkNsN09IOHJoRWtMUFMwbFo4RVlRYURhalBmSFBBVVhYel8xaVFteEtvSjQ4dXZ5M0NfdE9uV1hHNXM1cll3UURKdmFaYzJMRHVoV1Zwdw?oc=5",
       "platform": "Haber",
-      "id": 97
+      "id": 101
     },
     {
       "category": "Diğer",
@@ -1371,7 +1427,7 @@
       "summary": "Yeni Ankara üzerinden bulunan herkese açık kayıt.",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPeXlFZDVpbFFxbFV6X19IUWFoTWtISGdndU5vbmxFMXhGTDZIaHBwS2pVVHFfM0FBeHJYaEVzMFEyTEJOb09ZYTZFOW5FU29MVFZGMTZ0Y0pvWmVXU0tTSFd5WnViS1RhWTlUTjhodm83RnlHSU9NYTdKZHc5a0dKQ2hQTnJvdU5yQVRLWW9YTnZGb3p6c19EdnlMbVVOa0Z0X1Y5cmpIQzZmV1ZDMTg4TnI2NFrSAboBQVVfeXFMTmZFaDdRcGhQcE1NUUNrUWdZQjFOMXFObTNPdlBWVGlFczV4UFdBcGFJQ2w3bGw0YktBX1VkanV0T3E1cFZkb0FvYWtfTWpvalJhVjMzMjdQbXNmMEZ1MlJfX21BVXpQUlJoVXk5Q2RCWnBuWnUtR2pzM3JHMEtLU2Q0OEtRSXk4UkNTNG9aWVBkeWR1aHBSTVIzUm5UczJSUnRwMVJsbVBLWHNtMGFBbkh1YnN1UXpycU9R?oc=5",
       "platform": "Haber",
-      "id": 98
+      "id": 102
     },
     {
       "category": "Diğer",
@@ -1385,7 +1441,7 @@
       "summary": "Ankara Masası üzerinden bulunan herkese açık kayıt.",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOQWJmZzdSUjVPc2paUG5VU0dueFlIcU5yV0dvbndiRlMwaWhUeEk4RXFPem93VTRPRFZfSzF6dGpxa2I5dnByQWRyNjJWWnc4a1pjUVNDWXRSVWxDSjktc3VYczdhRFhxYlZ5enNFU3hiMWgyX0V0TkdiUnN1VEotRXNlS0ViSmJJWjN2MXd5ZkxhallNSFp3WXNyY3dhOHNXdkxBRlFocjFLalo3?oc=5",
       "platform": "Haber",
-      "id": 99
+      "id": 103
     },
     {
       "category": "Diğer",
@@ -1399,7 +1455,7 @@
       "summary": "Mersin Haber üzerinden bulunan herkese açık kayıt.",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQWHBvODFHWWU3cXhKdU9UQ19JM2ZoZmxuMDk1ck12WXpGNVRRbGVldEhXYjRUcms3b090Y0szVWZjR01XTTQzaTk5a195cVpwWVVhejdUWmhjTE1yTUIteVVaQzkyMTAzcVM2bDJfaGVGbjROLVNXcVlOSnh0MUhuR2VjdVpFazdlT3dweGZ2d1BzSzlFYmZrNWR6QVFfaTMxbVlnUGVWUEhja0VtVFpiMER4RmNFWTA4dGRJ0gFXQVVfeXFMTnZPaFN4RGpvejlWZjZTNU5WdERWWVVReVBQS29oQzRnbTZxTEwtVHVFQlBVbXVCNG9XRjFLTnJHUXJ2Y0JEWm50UFRRQVZXZ3hLaG83NWt3?oc=5",
       "platform": "Haber",
-      "id": 100
+      "id": 104
     },
     {
       "category": "Uyuşturucu",
@@ -1413,7 +1469,7 @@
       "summary": "Başkent Haber üzerinden bulunan herkese açık kayıt.",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTXlBRFd2N1h3RXViSGZBZ0F6aFlDa3MtWDVQbW9rWFRRdTZXSnN6SjF5ZTIxbXFlcWQyOXE4YkotSnd2NlN5QkxVTVNkUlMxQ0U3T2xNb1dmRTNFaVNqRjhzU1dleWtGYTJkZjhpRm5ockd3dk1VaDN1YmdJLXBORW83UUtreXFSVlVsYkFpQVplTjItVWQtT1h1Rms2LW9Zd1BWUXFIeWlranVqLXc?oc=5",
       "platform": "Haber",
-      "id": 101
+      "id": 105
     },
     {
       "category": "Diğer",
@@ -1427,7 +1483,7 @@
       "summary": "Sabah üzerinden bulunan herkese açık kayıt.",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPSlZpaW1lZWRUNlc2dDBmMmlOMDhTQ3VKdW0zV3JxUnNwaHUtMUZlMDBoUEVaYVNNaVZ1eHZ0SzRCWWpscWJCUVJPMFA4QTYzbzdUT3p5RlBKUEpCb3lldEk4Mk1NTmVrNnFkZWpUTTJjVXRIT09ROE9QazJILW1zR3NZci14NXlnUXFEYXcyUTFsV21tUjFOeDNrYWxpYlFsYlhHRHJPVWpXX3lqRUY1SWI0Wl9xdW92YlE?oc=5",
       "platform": "Haber",
-      "id": 102
+      "id": 106
     },
     {
       "category": "Diğer",
@@ -1441,7 +1497,7 @@
       "summary": "Sendika.Org üzerinden bulunan herkese açık kayıt.",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNRXJERnctckVieHVlM2h0NkxUaHNwLUhqbzhWNUNISGt5bFVNNlBHV0Q0ampwb3l5Q01XcExvSFFnTWNnY0R6TlZCb1F2RTRTeGw5b2haaWdiekEycXRLQ2V3Mk1oM1lqZ1l5RDhVT0tYRV9kYTV0OUZMSUdNUEhpVEIxdENwc3JweVYwYVEyNndfRG1oZW5OcXhfeXJKT1RMVDgzcE1Ud1RQYTlUZUpKTUVMOVBiT291VkM0cTFubS1BeFEyOTc0aW5hel9jdw?oc=5",
       "platform": "Haber",
-      "id": 103
+      "id": 107
     },
     {
       "category": "Cinayet",
@@ -1455,7 +1511,7 @@
       "summary": "Odatv üzerinden bulunan herkese açık kayıt.",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQWTBHVld5WnBFWXdwQ1JaVTQtc0tkekR1N25qWWxxRVhacFJWcklqUkhZcm4wWGtvMENtaWJXNDZQQ3Q0XzRFeEo2anJHRFJWS1JicHBBNkF2UnRlT0FRU3NSaUpJQVR3bTBDN09kdE5oOWs3WmtldUVjZXYtRk50NVFTeEtDdEQxX0tESDZhdlFDVUlscEQ4RlZXV1p0VkJBTjFMQlJNZzRHTzZ0VTBESTh1ckhKbUxlVDNnOWZvQXhkbm9fOE5RSTZxbGNDQQ?oc=5",
       "platform": "Haber",
-      "id": 104
+      "id": 108
     },
     {
       "category": "Diğer",
@@ -1469,7 +1525,7 @@
       "summary": "haberci18.com üzerinden bulunan herkese açık kayıt.",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4weEEwOWpoZzMweUdqdTV0M3pOTWdpV0s1bUV1Q0xpcWh0enNSek10WXdqWFVDcXF0ODUybXZLWThFU0M3S216UGphXzdDTWR2MHR2Vk45eGxyZjQ?oc=5",
       "platform": "Haber",
-      "id": 105
+      "id": 109
     },
     {
       "category": "Trafik Kazası",
@@ -1483,7 +1539,7 @@
       "summary": "Yeni Ankara üzerinden bulunan herkese açık kayıt.",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOQ1pEaWh0VWpFLWxueTIwZC1Eakg1dHU2SzVNeTlYZENxUC03Q2RNOFlKaUJBVWxtU1AxQWdsU0RaTlNyd1pueUNLV2t0RDdDMEYzVXJSWkpIb1FJWTd3bHRDeXdCdjBaa2JvTGt0X096RnJOQXV6aEQ1eGVOcVBjcmFBbXdBQdIBiwFBVV95cUxOcmM4RExXcGxaYnVIVEkyczFCcDltbmZLSzlwOHRpZmRwTTlJVDFici1CNDEzejJIMFRQc2p0TkhFT0VPUEpyZ0JZdVlfQlFaMU1CYVp0UmxNQk5XWjdCRC1DNl9lc3R1MThOaVEzd0E2VWc2NnBmNFlncXkzWjF5TDdxX3lfUHRVRzlr?oc=5",
       "platform": "Haber",
-      "id": 106
+      "id": 110
     },
     {
       "category": "Cinayet",
@@ -1497,7 +1553,7 @@
       "summary": "Son Dakika üzerinden bulunan herkese açık kayıt.",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNYkJKVG9Xb3pKR3REYk96NDAyVTRtQXZ2b2tFOFc5LTBVN21Md2pPd0QzWjRJT3htNmt4c3gzREpvYU1hVGdSalhienpreTNkcUNQMG1kcHptM25SRHZEYTk4MTlsVjZJLTg1WmhQYUhFV3pyX3hHbERLak1sa2U1OTktQlJjTXQ5MUFraFFxSkc2aThzTGfSAZMBQVVfeXFMTVhNOXltelJLb1d5eVVUd2tScWFsSV9ENjQyNTc3d3E3VHhNOUNfbmhIY0lPR09taDdKRUtCbXVhTWFNYVlHWmx5WThNd1U5Z1VIWkFVNFVBU2I0alYxRkM5RkFzaS1CRTM0VEEzUVpqaF8yQS1Td3FfbnBCRUZ1Z2R1Wi1veWpSSE8zeGRBUi1Iajk4?oc=5",
       "platform": "Haber",
-      "id": 107
+      "id": 111
     },
     {
       "category": "Diğer",
@@ -1511,7 +1567,7 @@
       "summary": "Sabah üzerinden bulunan herkese açık kayıt.",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQbENnRzQtQi1ma210eGkwSVMzVHZpLWw2Mm1kcktNSVF1M0NIWGd6dEZyTVJzUFg4R3cwT3NJTVNkUGM3OWNVczdtdHJ2Nk5wSEVCSFEzRHF4ZzNaeVJSMmNveGtFNVdxWno2UUFhZFpkN19EeE1jOGpKRVQ0MGx6OHpfSV9vM2VRVU1CWEJqRQ?oc=5",
       "platform": "Haber",
-      "id": 108
+      "id": 112
     },
     {
       "category": "Diğer",
@@ -1525,7 +1581,7 @@
       "summary": "HABER ANKARA üzerinden bulunan herkese açık kayıt.",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZGtNQ19IZFRPMTFWelR6Qm4wVUtjX2ZpbDRVbVpNTTZsdy1TcXJWLTRqb0lpY2JoQUJEWmRZczdKQi1RSEpQbXlJVU5ZX2pFYloxeDdrTXREYzlQVWZ2VG5rcHBSeGpjQ0ZaUWJhdWpzdzdxV1R3LWgzQkNhRTk5MkxIRkpGR3ZRR0ZaeXlUZFBmc2tLTHJTS2ZzVVlSSFVySkQtMkZXSWVoVTYx?oc=5",
       "platform": "Haber",
-      "id": 109
+      "id": 113
     },
     {
       "category": "Trafik Kazası",
@@ -1539,7 +1595,7 @@
       "summary": "Ankara Masası üzerinden bulunan herkese açık kayıt.",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPU2ZfWFhfZV9ZSk1LZlFyTm4tVmpqUHY0U1VGbzNxakJ3RmVTX3gxMzVaWElsWDhVNjNpQ0tiODV2VjVQVFFfdkdoclNLS3VDQnlyZ2ZZNWMwSVo5Y1BqZjBGMWF1QXBpWDg1QTRNRlk2Ukg5OXRVaWZIcGMzbU1CQVpndVE2dUhpbW9tWmpyMXd1OEZYOXdLcHNFU0dkVEthXzUzR0JzbEZKSFpJazEzbkJn?oc=5",
       "platform": "Haber",
-      "id": 110
+      "id": 114
     },
     {
       "category": "Trafik Kazası",
@@ -1553,7 +1609,7 @@
       "summary": "Sonsöz Gazetesi üzerinden bulunan herkese açık kayıt.",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1oLUhYeGNhQURyVUtxRjB4Y2ItUURzVnBUNFZSbTB1dklwTWl0c0FsSGVvdnB6cF9wbVBQZzhBa0d6OHdsd2VpSDJ2VVdTWnVNVzR3N1ZLbkxVVVJOZVBQX3pB?oc=5",
       "platform": "Haber",
-      "id": 111
+      "id": 115
     },
     {
       "category": "Diğer",
@@ -1567,7 +1623,7 @@
       "summary": "Sonsöz Gazetesi üzerinden bulunan herkese açık kayıt.",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQYzgxMkYwNXBPOEJ1Y3lJbzFtcV9EU25mcGZDUXVRT0tfdmlfTzN5dFIzQi1fRWdhb20zTl9JLVNsSV9rM0ZOVmlRYl9rR1NwY3p5bExndmRHN25ZOGtmWDZVTl9yOFFROEI3U2pJRHFzaXE4WGRpVlNreUJ3YzVJZGxNWmJYLWF4?oc=5",
       "platform": "Haber",
-      "id": 112
+      "id": 116
     },
     {
       "category": "Diğer",
@@ -1581,7 +1637,7 @@
       "summary": "Haber İlksayfa üzerinden bulunan herkese açık kayıt.",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQcGxLNjJwMXFKY0JJeVpsZzdaUkUxRXFyX0pIdDE4WHhRaUJsWnIxc3M0dkVHalJMc2RZWlpfdEtXREJKVkFYTzFPNWF5dnVtSTRvclJXdXp6MG51dTJjaC1DSUFjc1I3elQ2R2ZzSWJzc0JVeUxONUVOUUw5bV9ZcTJjV3l1bkpncDdtbVJKNHY1SWhJRmZZZV9iN0E3LTA?oc=5",
       "platform": "Haber",
-      "id": 113
+      "id": 117
     },
     {
       "category": "Diğer",
@@ -1595,7 +1651,7 @@
       "summary": "Yeni Ankara üzerinden bulunan herkese açık kayıt.",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxObllKdmMyMWtWeUV2TkNkb1QtMGJVX3QyRWMyalpiaFJ6WEduWE5sX2hFR3BVUFBpZ3Q3RjVUdmh0SVpaTzNLQW5ZNnhFQV9vd2M3MDZFVENEd0tzdi1rNnZBa0w2VG50ZUY3R3BmaloxQmM5Q1Bvb1AzdW42Qlc4eUxMODYwNG1WR21QaVhXb1UxRnlOeW9wNFk5ZXBCRUM0Z1VRS3Q1TTNDZkJKOFdv0gG0AUFVX3lxTFBBNEt4SXktQzk2MkhfRUhNV25CRzloZmNKak5LenZ4bmFLM0ZkdHgwUml1ZE9FNkJhS0V6WExCX01TVEpDcXhuMC1KZ25iSno2WHdvQk51dVR2WmFfTGZrUTRUUHdGRTRpVDllWnhtN2Z5R2JaMmhwQ3hFbHpxOUlObVdhVTlyN0VkX3RCSjhxczNSWkZfdXhTc0dkM0pqNVlFWHpYV0FHY3hZaUhYaVVnN2k0NA?oc=5",
       "platform": "Haber",
-      "id": 114
+      "id": 118
     },
     {
       "category": "Trafik Kazası",
@@ -1609,7 +1665,7 @@
       "summary": "Mersin Haber üzerinden bulunan herkese açık kayıt.",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPcFBDMlVOTmpxcDdfWkh6SkQwell1ZXdxWWdTYTExVkJKQ1BJWndOcGl2RGRTcTlaYVoyRUNMTzFzdDVkX2hkQ3FoNExsSllIdXFmUWJpX2ZCYUhaUV9ieDJLUXo2TkZQV2RHVzM2cmFzeXRzQUx5RWM0UFFwYjhBZXBUalJ2OE51R1NqLXpUUHFzSU1lLTZRbkw5UmdjT1VOQXpCTTVEX0ZQLUl6dU42cS1sOG9aY1V6aTZHc9IBV0FVX3lxTE16ajNtQVYyY3ZEblZvMms5dkk0bmpvdHRBNzdORF9yUHdzRUVyblZpQVh6c0tza1Bwb2xGckV0cjIyYjJGNzJJQVJ3UFpnaU40eVYwLXE4RQ?oc=5",
       "platform": "Haber",
-      "id": 115
+      "id": 119
     },
     {
       "category": "Trafik Kazası",
@@ -1623,7 +1679,7 @@
       "summary": "Ankara Masası üzerinden bulunan herkese açık kayıt.",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPcVFKS0txenNRbHR3VnRkNDAtUUhhQklDOGIxanFxZ2FvaUxrdXlRVnFMNC1Oblg2MzFUYkdaSTQwZzhwNXk4clNHQWU0SmwzaVZKNHFKd1ZfSVRlcEJfLWNGUUFCbmE2QnRqU09VSG1yS0twQi1iM1VrYmNicG12djN6M25MMTFGeExVRmN6TGI5OG9oMVMtWWRoNEYxVUkzWWxxWG5VM2JUdW8?oc=5",
       "platform": "Haber",
-      "id": 116
+      "id": 120
     },
     {
       "category": "Trafik Kazası",
@@ -1636,21 +1692,21 @@
       "status": "Muhtemel",
       "summary": "sabah.com.tr kaynağında yayımlanan açık web kaydı.",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOQmVmNHVGRDhYZHdDd1N2N2lJVGRST3NKT1pVcjl6RGttUzFCSmsyY0xwQ2J5MWpyUDlNN3V4MWNZX2ItdmV4SXA0TlN4YWptX093WXRIQ01PZmxLUFU2dlQwSjltZ1Jqa0lZZHlucVUyZnFYZmZob1ZONzlWMUZsOFZqV0V1T0w2QUhFN3pMZ1p5SVptSnQ5a0xaX0VfR2FyMmo00gGmAUFVX3lxTFBMLWVmR1pPSVU3aU5ha3hObTdhaS14d0E4dUJ3dGZHUERNdk1sdG90bUNod3BMYXBLeTNSZW5FQ0lkbVBmUmtPT2ZFZjYxcDJkUVRMQ3JZWWpsUm5LSFZhZXgyQWFLcTJXU1lmTm9GeVgtbWpHWERtR1ZaMmZyU0s0TV94WVphS0pkemNpaU9vWXptbVhBc0tYeHc3RHhSSElpaUd1OUE?oc=5",
-      "id": 117
+      "id": 121
     },
     {
       "category": "Altyapı",
       "icon": "⚡",
-      "title": "ANKARA SU KESİNTİSİ 6 ARALIK 2025: ASKİ Ankara Su Kesintisi Ne Zaman Bitecek, Sular Ne Zaman Gelecek? Altındağ, Mamak, Çankaya, Yenimahalle... - cnnturk.com",
+      "title": "ANKARA SU KESİNTİSİ 6 ARALIK 2025: ASKİ Ankara Su Kesintisi Ne Zaman Bitecek, Sular Ne Zaman Gelecek? Altındağ, Mamak, Çankaya, Yenimahalle... - CNN Türk",
       "location": "Mamak / Ankara",
       "published": "2025-12-06T11:00:00+03:00",
       "confidence": 75,
       "sources": 1,
       "status": "Muhtemel",
-      "summary": "cnnturk.com üzerinden bulunan herkese açık kayıt.",
+      "summary": "CNN Türk üzerinden bulunan herkese açık kayıt.",
       "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPYzBDc21vQ3lvcnlmbmUtZC1mQkxFS0VtenExblJRY0JYQ0N6OGpHdHBIZTRGQU9wX2xvdmVYcVpoWUhjbnhQenFXQ2Q2UEZJX3VNTlNxbWtfNFVtMkVaQjZhd09kT0ZYVThaTVVvOFJjSnBFTWlzXzlGelZQZU1WVGhneFRfV1lZa2tkLWp3VVZ3Y1FXT2FwNWV1eEFkWFBMVWlnSkQtbXVDZk5LYXJpSGpOUjIwNjVFSEI0MnNoSzBXV3dhLTRmSE81ZkZFV0t2VFVrTVZfRFpBRlRUWk5fMzhOWGc4dFF0MW5ZT0F1NHAtcjAwWWlPeUgxcXVtSnkzdlRz?oc=5",
       "platform": "Haber",
-      "id": 118
+      "id": 122
     },
     {
       "category": "Trafik Kazası",
@@ -1664,7 +1720,7 @@
       "summary": "Sabah üzerinden bulunan herkese açık kayıt.",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOQmVmNHVGRDhYZHdDd1N2N2lJVGRST3NKT1pVcjl6RGttUzFCSmsyY0xwQ2J5MWpyUDlNN3V4MWNZX2ItdmV4SXA0TlN4YWptX093WXRIQ01PZmxLUFU2dlQwSjltZ1Jqa0lZZHlucVUyZnFYZmZob1ZONzlWMUZsOFZqV0V1T0w2QUhFN3pMZ1p5SVptSnQ5a0xaX0VfR2FyMmo0?oc=5",
       "platform": "Haber",
-      "id": 119
+      "id": 123
     },
     {
       "category": "Diğer",
@@ -1678,7 +1734,7 @@
       "summary": "Ankara Masası üzerinden bulunan herkese açık kayıt.",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNUF8xajlqZWVJZVZROVk5RkRWbmRFMnlNdjVDc2RuQkRCUnR6Xzd4Zkk0VEFkaGVYX2JFWkhvVTZZRWhhNEdDbGx0dWFjMHpBU2IwVWlscmxrZ3phUzFJNkNXZXVnanRKVm1ZQXVFRkJxWGJDZm9peWkwVW9RdWgyQUd5UDdYZUEyRVFUdko2VXc3QWc?oc=5",
       "platform": "Haber",
-      "id": 120
+      "id": 124
     },
     {
       "category": "Diğer",
@@ -1692,7 +1748,7 @@
       "summary": "Flaş Gazetesi üzerinden bulunan herkese açık kayıt.",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQZkQyMHFFYk1lRWZwcDZSZks5TG9ycWsyTXB6WkV3U19HeG0yT1N6eVRCajRoNWZkdzZadVVtQ0xDblctWENoZUlQb1FyWmxSSHBWVU5HTjFlaGM1V1RncERqekczNE4yZGpwMDRBUUs1MjhoVDdjUnhueGRFQ1I1QkFoZw?oc=5",
       "platform": "Haber",
-      "id": 121
+      "id": 125
     },
     {
       "category": "Diğer",
@@ -1706,7 +1762,7 @@
       "summary": "Ankara Masası üzerinden bulunan herkese açık kayıt.",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNNmlIRXJoa3dUZER5ME1faFRzNEUwNU5xSzhJaE52ZEdZX0RJbmp2bFJCSzRUcGppa0FUWmIwT2FPU0RtV2RRWUctejEwZnN5aU1Dak9Ld2lMY3BtOVJIMU5QQW9abXhsT2szdFdmOXZjWHZiRHlVbU5EbVJ2eURSNTVPenVNUG5kNDU0WVc3ci15S3lmQmNKMHNjWnFkRTRwcXM4eEt1NnFERVNONGQwZ18zUQ?oc=5",
       "platform": "Haber",
-      "id": 122
+      "id": 126
     },
     {
       "category": "Diğer",
@@ -1720,7 +1776,7 @@
       "summary": "Yeni Ankara üzerinden bulunan herkese açık kayıt.",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPcU92QkJJakNtMFF1aU5ndnVaeGtRdlNPV2Zncmk4a0RUdC03SnhkVlhpWmJvOFhhd2ZLN3JwWjkxSC05MGJ1c2dYd09iam5qRlR6RjZVcnZWcEFyWFlWblFKTzUzcV9iTm8xaVNXZlVjaE5KdkVkODRsYnJGVmlGSm10TXBOYmI2OUd1MUVxZng3T1lRYkRZM0g1bDRydmfSAaQBQVVfeXFMTUkwZFdtOE1KMGctejE4UzNIOWxKcmwyNUE4VHFfVU9oQUM1WXVSTy1pZXVBY3hzMFZmOWNGVXFsQnFzaWs3VHBVYzd6SndNcHRJOFdzV3B3ZGdnNGxLQ1VqWVRZVzZmZnhJM1ljVmxiYmNXVFpfbXQwRmhHMExIOEZoMlZTZ0NseVpLQWgtbGlEdzRMaGp0QU5fOGhaTHI5dG0xLXk?oc=5",
       "platform": "Haber",
-      "id": 123
+      "id": 127
     },
     {
       "category": "Diğer",
@@ -1734,7 +1790,7 @@
       "summary": "Sabah üzerinden bulunan herkese açık kayıt.",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOemJqSXZXSnJmakhqeUdSRG9RNGdLTUxDaEtSWDRsR1FCQUVkMHRLcC1odEFPSUh6enlCZDhQeEtaV1NzLWNpeVNOaVhuYTRDNHpqSVl1eWxDRjZSN19SYVpqWTZiQ2dxY21McXhyMW14aGEtU0YxMWMycHJIVHhKRkJsdXU4SXVvQlY5NmhnWldlZTlNX3otZmRicFEyLWlJeFdHaHVrSW9nRVllR2NyYTJjaC1TNUprYm9r?oc=5",
       "platform": "Haber",
-      "id": 124
+      "id": 128
     },
     {
       "category": "Diğer",
@@ -1748,7 +1804,7 @@
       "summary": "Sabah üzerinden bulunan herkese açık kayıt.",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5DVFRrUmVacU5EU2tBbW5fcEZ2cFFiNlVlZ3hyTnZUS0hxXzhtaGhYX2RCUGgwbDhSQ21CQllXdnU1cFJoVUNHVkh5TjBYQU05MkxXaC1oSjJVUFVRTlMza254eHFCc2NhOE9US05yYVFlWUFqSUVWWVRyTUlxUQ?oc=5",
       "platform": "Haber",
-      "id": 125
+      "id": 129
     },
     {
       "category": "Diğer",
@@ -1762,7 +1818,7 @@
       "summary": "Haber İlksayfa üzerinden bulunan herkese açık kayıt.",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOV0NQS1g4Y0h0YWZTb2RoMnFud0xaMUNDc3hZZFBWVHVSdGhxLU1JWlAxbWpaMzlFeTd5MGFfaDVWQUY0SklmOFJhOW42U2pWV09yTlJlT19qSkNiQTNDalRnMUpDRTJWa2NWTTF3eVRubzFjQXVyWThuY003S3Y0cWZBbUdQU1JwT2tPZUoydFgycW5VUU5LVk5R?oc=5",
       "platform": "Haber",
-      "id": 126
+      "id": 130
     },
     {
       "category": "Kavga",
@@ -1776,7 +1832,7 @@
       "summary": "Yeni Ankara üzerinden bulunan herkese açık kayıt.",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPOGhFTGtpcW9zZmpJbEJwTjJjeDhHdDQyenBNRHJja1ZaLV9KcHE0eE81aVdzdVAtWmxUdVJWUmV3SGdSLXR5enk4LVFwa1FDa0dzQkxfMmpEdzA1cUhXbzkzRTc5dlYyS1B1R0FkUUdmTzA4N09PU0VRSXN6VVc2bmFTTUhLMElzWFctVE85MzRQLXVVNzhGQ0tWcnU2ZXhJZDQ4TUNfTzE0blpGN1lNdDF30gG3AUFVX3lxTE5FNFhkaUVqY3MxcHdhUDN4ZDJyS2w0T25ZR2hOU1JxMFdlU2J2MnQ3dmgyS2hWekZBS2ZkeWFjSGQyN1I3N18wUlg3TnAzVEtOTVp1cjBwVURVSldrcmJEM2JJcWNPTG0yVklBU0p6MjlrYVhaaXQ3blYwSmpIWHYySjdpQ24wWjdvOXY5MXVsMkRhVGpuUFRBUjdzb3RDSzNJVmRlT3FvazdxQzU1RWNVbjZpbVAyTQ?oc=5",
       "platform": "Haber",
-      "id": 127
+      "id": 131
     },
     {
       "category": "Uyuşturucu",
@@ -1790,7 +1846,7 @@
       "summary": "Zafer Gazetesi üzerinden bulunan herkese açık kayıt.",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQcGVMT2hTTXhwUDZoblZiYTdCU0M0blFfRWdrMmpsdEM0clVIOGNYR1hiNVcyZlU0QXppUHdJbjJFV1VRMnlpNm1CajQyVEd6T2VwZndJM3kxcGZPLXFWZXNTX21FekRGVUgwZEF0MDN1QWVfbUR4MzE5WXJtV2pHS1k2aUktcGNGM29vd19zcEQ1Mmc1ZEtNbQ?oc=5",
       "platform": "Haber",
-      "id": 128
+      "id": 132
     },
     {
       "category": "Diğer",
@@ -1804,7 +1860,7 @@
       "summary": "Sabah üzerinden bulunan herkese açık kayıt.",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQV21LS1RKNERkVmc1OXg0N2FCZnpUNHJ4Y3pZeVBNWGN0STMtbWdqQl9sZ0FNUGJSUTZBNm9OQUJsa3NDekRWOVdZekZmNTh4R0JpNDYxU2g5VU5BREtOdzRyWHBnN1hwZEhhRE1fNVJzb2lwSmxsMXFVQUVBZGh4OTgteHNnLTg1VjVXOFRJNWkzeXRHS1l6SQ?oc=5",
       "platform": "Haber",
-      "id": 129
+      "id": 133
     },
     {
       "category": "Diğer",
@@ -1818,7 +1874,7 @@
       "summary": "Sabah üzerinden bulunan herkese açık kayıt.",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNQ3RXbkFnOGVCRC16LTdqcnlodEVBN0t6dkFUUVRwRVNxRnplMkE0Ym5NalctVFFZM29iajdtZUZJaDlhbE54RmM5NWFSYXNKbXRPbjdBeGZGRVk5bnRTMGwzYzEydDA2N19rUV9LbUVHSTU1OWlLZFBCam1vbmNVZFZteHFleFBHMmwtMkZsNFZvT0YtR3BHV3RoQTVQWWk1?oc=5",
       "platform": "Haber",
-      "id": 130
+      "id": 134
     },
     {
       "category": "Diğer",
@@ -1832,7 +1888,7 @@
       "summary": "Son Dakika üzerinden bulunan herkese açık kayıt.",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNWXdPWjZfZk5VUzd4VXdwTW9zTEJFXzlRVG1WTW1taDBhZ0U0QU9jRWk3MUVEeC1VeWo1U253Skw0N1A1TWFzRlQtaGZxUlM3NHdTd3g0OEV5cHRCVUt1cmxsd0c4STBUUHYyQ3owRjQtdHluSS11a1VjenppdmtDTVcyYzJWS2xDeGdZYkJwcWY5MnVFM3ZCYUlrYUdlallC0gGcAUFVX3lxTE1UXzBtc0xWZzVvSlBBeHRUMEdqSVRaQi1ZMHZWLWpCTGlfZUs1cXZVdE9OOWItTHM2XzkyS05XWjRVaHFXaW1TQWg1VGN2OHNZR1k2UHd5d1hoUzh0U3Q5ekYtWTNVbTJGdk5vX0Nya1pLUFh0SWZVRF9vbURpMU01eVBwVHFZemZkRmhuWnRQYXVKQ0JweV94ZjBJWg?oc=5",
       "platform": "Haber",
-      "id": 131
+      "id": 135
     },
     {
       "category": "Kayıp Kişi",
@@ -1846,7 +1902,7 @@
       "summary": "Başkent Haber üzerinden bulunan herkese açık kayıt.",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1HdFlQVWdvQzdMVUsyUm9LOFZxc2gxNTZoSmR0ZTIxZG45WkJiTExsS095MEwtR1lvYUYwU3pDd1U5VVlZak9WaDRQN0xJNVhicVlDb0dlMDhzNTNMRzUzU3A3VkFSMlppd3ZxT2h2M0cteV93bC1YeVZwclZkUQ?oc=5",
       "platform": "Haber",
-      "id": 132
+      "id": 136
     },
     {
       "category": "Trafik Kazası",
@@ -1860,7 +1916,7 @@
       "summary": "Son Dakika üzerinden bulunan herkese açık kayıt.",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxONElfVlk3eHZGNXlWUzFQX28xVHh2ZS1hb2V6S2RKSXBvS1F1dzF5Z1RzYlNtVXl4VXpFa3E0TlN3TUZlQkwzd3lmdlZEMGZMQVc1dWxqLUxTNzN5b3dCb2R0cVpSOTdadzJHRXl1cFpLT0NDN3FSZ2Y3cWdlbFo0bWNaN1ZkaE9vYWxIWUpGMGZzRHdHa3Zn0gGTAUFVX3lxTE1fcFE4UktvV0lzWXg1MWZVV0t3WGk5LWNSbkdReHNOc3AwR0Q3TEhsNHdrSl9HTlJMZXJXQnczbGhVa1BzbWxWaXZfT1NQdmtzV2d4aHR2bWdUc09QR1FneUFxRlJEczJma000NlJoNlZXdktjT3JtTmNteFlSelJTeFM1bk5oOFNpazh2eXNNRlBfVQ?oc=5",
       "platform": "Haber",
-      "id": 133
+      "id": 137
     },
     {
       "category": "Trafik Kazası",
@@ -1874,7 +1930,7 @@
       "summary": "Son Dakika üzerinden bulunan herkese açık kayıt.",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNaWF2UTZfXzhvTV9ILW9zVjNrUUVCNW51VWZvcDFJVEliTHZLRFA1eUNEcnBKbDVhZVluVDhCZW1Kam1TN00tSS1fd0JFci1ibGVYOWtPeW03SjYyWmRpai1tNnJfUXFSTjhKaERQd1JWZ1NKQVZ4VjVlZ1JPM1p5cVZ3R19qbWlUT0JIUzQzdVJ4bTY0UFpWd0tTenXSAZgBQVVfeXFMT3FfRzhNQmc1SWtxVUR6NGJmTERmRkd3QjRGY3MxblVCelhiQjZmSGxOemg0NjFid0o3emNFcEJHUzFENEZIZ0FLN3pzbWFacG1ScHZERWlEWXZoVUZEU3J6U2pnNzBXSFRQYzl3dEd4aUlPMDlHT0F0QklDMXNEb2cta1JVUTZ1N0JRTXhaU1JfQ3prclVTYXU?oc=5",
       "platform": "Haber",
-      "id": 134
+      "id": 138
     },
     {
       "category": "Trafik Kazası",
@@ -1888,7 +1944,7 @@
       "summary": "Yeni Ankara üzerinden bulunan herkese açık kayıt.",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQY0p5bVVjU2lRVDBJaUlzc3NKWHFYMmc1Y1VQS0tFbnVKUXp4Tk1xSkpWa0FNZEhXMW1HX2JPUkRGYWloWkZCWHlMRll1SEF3SXBtQUJFdVpjVDFsVHQ5ZHNOVS14aHBBRUYzcEktNU0xYWlMUnV3OWxJMHlRN0lUREhhR2ZJTHVyQ3g4YmRndno0V3FST2dZ0gGcAUFVX3lxTE10bE9pY2ZGdWVId0VjSVZTY1ozNlhyTlFHczVSZFRDcDBsdnA5YzdLcVZLMWxRNVZVM1FOWWMwRVlIMzBIOXd3Z0FGZFFLZXBDQ2owWk1qYXBkLXZNOGhObnhFNWtZZFhCMEhtS3pyTXlUTVdBZzJ5eS16QzBxTVZXZzVobmpTc0xXd18yTGQxSGF6eHhHQzNuSWZpNw?oc=5",
       "platform": "Haber",
-      "id": 135
+      "id": 139
     },
     {
       "category": "Altyapı",
@@ -1902,7 +1958,7 @@
       "summary": "Habertürk üzerinden bulunan herkese açık kayıt.",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOekVCNFdNeWVROE1PVGVVVzh6NTNnN1ZucXRZRklTQTNHR0lSOVJ4MFBmU1NybHNzRmUxVFJlSy1IUWk1SjlRaFRnel9TNERzVTk4VE84amtHSG5nUGZ0c3ptSHVQdFlhX2dvVHZPc3VrZjRVREtHZTNXZkdNbW1BcnZaUQ?oc=5",
       "platform": "Haber",
-      "id": 136
+      "id": 140
     },
     {
       "category": "Cinayet",
@@ -1916,7 +1972,7 @@
       "summary": "Milliyet üzerinden bulunan herkese açık kayıt.",
       "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQV3JWNTRpblZ2bVB4MDVydXpJUktvbGpkbUVEeUlSVG91eUJsNy1vS1lTSklVd3U3ZHY1d1laZk95dmJhS29Vd1YyUVI0TWZQSl9wcjZvMmpnVVhFaVNSLWZ6dzJ1TmVxVEJKMDNieTdZUlZaOGMxTWg0TElJVHRPR2lGR3hoMlZQTWxKWWNieE5mMHMxYzBFX0s1Y1VtdVcxemY3RWNnQjVDSlZLRThfcW1ZT3dmWlNWQ3ZrOTNfd1lwZlNQZURjT044clJ3cHZ4ZTZJWWNPalE1ajJERV9tTjJ3Vmc2UVIw?oc=5",
       "platform": "Haber",
-      "id": 137
+      "id": 141
     },
     {
       "category": "Diğer",
@@ -1930,7 +1986,7 @@
       "summary": "Son Dakika üzerinden bulunan herkese açık kayıt.",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQTXdzcGxJY3pjWmcxVEFxOE1oT2FSZU1xU2Q2ekdRclJzaU1qWEktZ2dFY1R3MUh6ZTE0dXBIeUpVaG9JZDE5RzZwVmx2d2hSOUVvbTZ2bkpxZjZZbEdnS1lUSVJ4dWtEWE56eVhGWkpmZEoxdEpEM2NYRlg5ek5tNVNxLU9mdi1JVlRoMGdSWUcyQ2t3Vzl4bW13Y9IBlwFBVV95cUxPNUdLZFlrSUc4aEtHY1BQQTRROE5wV0Jub3E1WFVmaWR4V2JHV2FTMU9INHpPdE9nOExEZDV5ems4Q1M5RVRUbjJEZzJYcWRvNVRfOG5FRXZhaUxhTjFuN0tGYVhUejEzQ0lNYXVPXzBqWEMyUU1pSWJzTUctWWxIZTJ5eFNOeUxnSnA1WnlVSnA5WU05SVB3?oc=5",
       "platform": "Haber",
-      "id": 138
+      "id": 142
     },
     {
       "category": "Diğer",
@@ -1944,7 +2000,7 @@
       "summary": "Çağdaş Burdur üzerinden bulunan herkese açık kayıt.",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPR1pmbTl5VkVsV1I4WXdTZG9OZHpvVDVMUV9iNzlkeHYyZEkzMThWTFVUYkhqR1RJQWVpQjJ6TUFqX0V5Z0NfYWZ3Yk01Z0VjRU5UMXBhUEtxYnZfNnNJYlV6SVFsMWpyakw5ODZQMjhaMGx2NVNNT3hJNXZCY2F0b2NQSGE?oc=5",
       "platform": "Haber",
-      "id": 139
+      "id": 143
     },
     {
       "category": "Diğer",
@@ -1958,7 +2014,7 @@
       "summary": "Sabah üzerinden bulunan herkese açık kayıt.",
       "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOaTZfdWRjSmwyU0htZ2Fkc2Vqb2tZU041WGZoTVVKTk9LU1ZfVVdqOWhFNFhnLTdCX2t0cDFqWFhiZ1lNM1R2LWVYbU5Xc294VG9DTU1GaDYydENiYVRGV0hyWG43WGRDVzBqdFphbFdmbk5famNZN2N0VDRzM0lwUHJIWm5yYW42TUI1QTVuVlJTbDM2V29JOGpTZVJKdHlvaE5GbEZ6RTB2Y3NlcFA5aUx6TWd2Y2dKaGZiM0NEQWF3VUR4aGF0Z1RBcmNZMzdiMFhZT00wZV9Bb0xhRzlTRERUWFBTME0?oc=5",
       "platform": "Haber",
-      "id": 140
+      "id": 144
     }
   ],
   "sources": [
