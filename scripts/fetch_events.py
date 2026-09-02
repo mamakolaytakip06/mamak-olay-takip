@@ -97,7 +97,8 @@ STOP_WORDS={"mamak","ankara","son","dakika","haber","haberi","olay","olayi","ilc
 SYNONYMS={"agaclik":"orman","koruluk":"orman","alevler":"yangin","alev":"yangin","itfaiye":"yangin","carpisti":"kaza","carpisma":"kaza","devrildi":"kaza","gozaltina":"gozalti","yakalandi":"gozalti"}
 
 def ascii_text(value):
- value=unicodedata.normalize("NFKD",value or "").encode("ascii","ignore").decode().lower()
+ value=(value or "").translate(str.maketrans("çğıöşüÇĞİÖŞÜ","cgiosuCGIOSU"))
+ value=unicodedata.normalize("NFKD",value).encode("ascii","ignore").decode().lower()
  return re.sub(r"[^a-z0-9 ]+"," ",value)
 
 def title_tokens(title):
