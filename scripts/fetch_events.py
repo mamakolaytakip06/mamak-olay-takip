@@ -157,10 +157,15 @@ def add_location(e):
 def source_entries(e):
  existing=e.get("source_links") or []
  current={"platform":e.get("platform") or "Haber","title":e.get("title",""),"url":e.get("url",""),"published":e.get("published","")}
- result=[];seen=set()
+ result=[];positions={}
  for x in existing+[current]:
   key=x.get("url") or x.get("title")
-  if key and key not in seen:seen.add(key);result.append(x)
+  if not key:continue
+  if key in positions:
+   saved=result[positions[key]]
+   for field in ("platform","title","url","published"):
+    if not saved.get(field) and x.get(field):saved[field]=x[field]
+  else:positions[key]=len(result);result.append(dict(x))
  return result
 
 def combine_events(target,e):
