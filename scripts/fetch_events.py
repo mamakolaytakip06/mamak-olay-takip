@@ -95,7 +95,8 @@ def add_feed(url,platform,now,out):
   root=ET.fromstring(urllib.request.urlopen(req,timeout=25).read())
   for x in root.findall(".//item"):
    title=clean(x.findtext("title"));desc=clean(x.findtext("description"));link=x.findtext("link") or "";dt=parse_date(x.findtext("pubDate") or "",now.tzinfo)
-   if not dt or now-dt>timedelta(days=365) or not detect_district(title+" "+desc) or not relevant(title+" "+desc):continue
+   headline=title.rsplit(" - ",1)[0]
+   if not dt or now-dt>timedelta(days=365) or not detect_district(headline) or not relevant(title+" "+desc):continue
    categories,icon=classify_all(title+" "+desc);cat=categories[0];src=x.find("source");source=src.text if src is not None and src.text else platform
    out.append({"category":cat,"categories":categories,"icon":icon,"title":title,"location":"Mamak / Ankara","published":dt.isoformat(),"confidence":75 if platform=="Haber" else 60,"sources":1,"status":"Muhtemel" if platform=="Haber" else "Sosyal medya / doğrulanmamış","summary":source+" üzerinden bulunan herkese açık kayıt.","url":link,"platform":platform})
  except Exception:pass
@@ -121,7 +122,8 @@ def add_alert_feed(url,now,out):
    try:dt=datetime.fromisoformat(rawdate.replace("Z","+00:00")).astimezone(now.tzinfo)
    except:dt=parse_date(rawdate,now.tzinfo)
    text=(title+" "+desc).lower()
-   if not dt or now-dt>timedelta(days=365) or not detect_district(text) or not relevant(text):continue
+   headline=title.rsplit(" - ",1)[0]
+   if not dt or now-dt>timedelta(days=365) or not detect_district(headline) or not relevant(text):continue
    platform=detect_platform(link)
    categories,icon=classify_all(text);cat=categories[0]
    out.append({"category":cat,"categories":categories,"icon":icon,"title":title,"location":"Mamak / Ankara","published":dt.isoformat(),"confidence":60,"sources":1,"status":"Sosyal medya / doğrulanmamış","summary":"Google Alerts üzerinden bulunan herkese açık "+platform+" kaydı.","url":link,"platform":platform})
@@ -169,7 +171,7 @@ def same_event(a,b):
  return bool(sa and sa==sb and primary==b.get("category") and da.date()==db.date() and inter>=1)
 
 def add_location(e):
- text=e.get("title","")+" "+e.get("summary","")
+ text=e.get("title","").rsplit(" - ",1)[0]
  district=detect_district(text) or "Ankara Geneli"
  found=next(((name,coords) for name,coords in NEIGHBORHOODS.items() if name.lower() in text.lower()),None) if district=="Mamak" else None
  if found:
@@ -235,7 +237,7 @@ try:
 except:old=[]
 merged={};cut=now-timedelta(days=365)
 for e in old+new:
- if e.get("platform") in ("Telegram","Threads") or not relevant(e.get("title","")+" "+e.get("summary","")):continue
+ if e.get("platform") in ("Telegram","Threads") or not relevant(e.get("title","")+" "+e.get("summary","")) or not detect_district(e.get("title","").rsplit(" - ",1)[0]):continue
  try:
   if datetime.fromisoformat(e["published"])<cut:continue
  except:continue
