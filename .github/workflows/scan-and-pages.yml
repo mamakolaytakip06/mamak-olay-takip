@@ -40,4 +40,4 @@ jobs:
       - id: deployment
         uses: actions/deploy-pages@v4
 
-# Google Alerts: dokuz ayrı RSS beslemesi desteklenir
+# Google Alerts: dokuz gerçek RSS beslemesi etkin
