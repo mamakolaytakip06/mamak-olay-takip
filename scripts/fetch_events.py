@@ -20,6 +20,19 @@ SOCIAL=[
 ("TikTok","site:tiktok.com Mamak Ankara kaza yangın polis")
 
 ]
+
+ALERT_QUERY_TEMPLATES=[
+"site:x.com Mamak (cinayet OR kavga OR kaza OR yangın OR polis)",
+"site:facebook.com Mamak (cinayet OR kavga OR kaza OR yangın OR polis)",
+"site:instagram.com Mamak (cinayet OR kavga OR kaza OR yangın OR polis)",
+"site:x.com \"Mamak son dakika\"",
+"site:facebook.com \"Mamak son dakika\"",
+"site:instagram.com \"Mamak son dakika\"",
+"site:x.com Ankara Mamak asayiş",
+"site:facebook.com Ankara Mamak asayiş",
+"site:instagram.com Ankara Mamak asayiş"
+]
+
 C=[("Cinayet","⚫",["cinayet","öldürüldü","öldürdü","ölü bulundu","ceset"]),("İntihar","🟣",["intihar","yaşamına son"]),("Terör","🚨",["terör","terörist","örgüt operasyon","bombalı"]),("Taciz","🟣",["taciz","cinsel saldırı","istismar"]),("Düğünde Silah","🔫",["düğünde silah","havaya ateş","maganda"]),("Silahlı Olay","🔫",["silahlı","silah","kurşun","ateş aç"]),("Kavga","🥊",["kavga","darp","saldırı"]),("Trafik Kazası","🚗",["trafik kazası","kaza","çarpış","araç devr"]),("Hırsızlık","🕵️",["hırsız","çaldı","gasp","soygun"]),("Dolandırıcılık","💳",["dolandır"]),("Uyuşturucu","🚔",["uyuşturucu","narkotik"]),("Kayıp Kişi","👤",["kayıp","aranıyor"]),("Yangın","🔥",["yangın","duman","alev"]),("Sağlık","🚑",["ambulans","yaralı","sağlık"]),("Yol","🚧",["yol kapalı","yol çalışma"]),("Altyapı","⚡",["elektrik","su kesinti","doğalgaz"]),("Asayiş","👮",["polis","emniyet","asayiş","gözaltı","tutuklandı","yakalandı","operasyon","şüpheli","suç"])]
 RELEVANT=["cinayet","öldür","ceset","intihar","terör","bomba","taciz","cinsel saldırı","istismar","silah","kurşun","ateş aç","kavga","darp","saldırı","trafik kazası","kaza","çarpış","devrildi","hırsız","gasp","soygun","dolandır","uyuşturucu","narkotik","kayıp","yangın","alev","ambulans","yaralı","polis","emniyet","asayiş","gözaltı","tutuk","yakalandı","operasyon","şüpheli","suç","patlama","rehin","kaçakçılık","bıçak"]
 BLOCK=["menu","food","restaurant","restoran","yemek","kampanya","indirim","satılık","kiralık","maç","transfer","konser","etkinlik","iş ilanı","job"]
@@ -52,6 +65,14 @@ def add_feed(url,platform,now,out):
    categories,icon=classify_all(title+" "+desc);cat=categories[0];src=x.find("source");source=src.text if src is not None and src.text else platform
    out.append({"category":cat,"categories":categories,"icon":icon,"title":title,"location":"Mamak / Ankara","published":dt.isoformat(),"confidence":75 if platform=="Haber" else 60,"sources":1,"status":"Muhtemel" if platform=="Haber" else "Sosyal medya / doğrulanmamış","summary":source+" üzerinden bulunan herkese açık kayıt.","url":link,"platform":platform})
  except Exception:pass
+def detect_platform(link):
+ low=link.lower()
+ if "x.com/" in low or "twitter.com/" in low:return "X"
+ if "facebook.com/" in low or "fb.com/" in low:return "Facebook"
+ if "instagram.com/" in low:return "Instagram"
+ if "youtube.com/" in low or "youtu.be/" in low:return "YouTube"
+ if "tiktok.com/" in low:return "TikTok"
+ return "Google Alerts"
 def add_alert_feed(url,now,out):
  try:
   req=urllib.request.Request(url,headers={"User-Agent":"Mozilla/5.0"})
@@ -67,8 +88,7 @@ def add_alert_feed(url,now,out):
    except:dt=parse_date(rawdate,now.tzinfo)
    text=(title+" "+desc).lower()
    if not dt or now-dt>timedelta(days=365) or "mamak" not in text or not relevant(text):continue
-   low=link.lower()
-   platform="X" if ("x.com/" in low or "twitter.com/" in low) else "Facebook" if "facebook.com/" in low else "Instagram" if "instagram.com/" in low else "Google Alerts"
+   platform=detect_platform(link)
    categories,icon=classify_all(text);cat=categories[0]
    out.append({"category":cat,"categories":categories,"icon":icon,"title":title,"location":"Mamak / Ankara","published":dt.isoformat(),"confidence":60,"sources":1,"status":"Sosyal medya / doğrulanmamış","summary":"Google Alerts üzerinden bulunan herkese açık "+platform+" kaydı.","url":link,"platform":platform})
  except Exception:pass
@@ -90,4 +110,4 @@ for e in old+new:
  merged[key]=e
 items=sorted(merged.values(),key=lambda x:x["published"],reverse=True)[:1500]
 for i,e in enumerate(items,1):e["id"]=i
-with open("data/events.json","w",encoding="utf-8") as f:json.dump({"updated_at":now.isoformat(),"events":items,"google_alerts_active":bool(os.getenv("GOOGLE_ALERT_FEEDS","").strip()),"sources":["Google Alerts RSS","Google News RSS","X (indekslenen açık gönderiler)","Facebook (indekslenen açık sayfa/gruplar)","Instagram","YouTube","TikTok"]},f,ensure_ascii=False,indent=2)
+with open("data/events.json","w",encoding="utf-8") as f:json.dump({"updated_at":now.isoformat(),"events":items,"google_alerts_active":bool(alert_urls),"google_alert_feed_count":len(alert_urls),"google_alert_query_count":len(ALERT_QUERY_TEMPLATES),"sources":["Google Alerts RSS","Google News RSS","X (indekslenen açık gönderiler)","Facebook (indekslenen açık sayfa/gruplar)","Instagram","YouTube","TikTok"]},f,ensure_ascii=False,indent=2)
