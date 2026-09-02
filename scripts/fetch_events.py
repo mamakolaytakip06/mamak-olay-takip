@@ -130,6 +130,7 @@ def same_event(a,b):
  if inter>=3 and contain>=0.55 and jac>=0.32:return True
  sa=subtype(a.get("title",""));sb=subtype(b.get("title",""))
  primary=a.get("category")
+ if sa and sa==sb and primary==b.get("category") and da.date()==db.date() and sa in {"orman","cati"}:return True
  return bool(sa and sa==sb and primary==b.get("category") and da.date()==db.date() and inter>=1)
 
 def source_entries(e):
