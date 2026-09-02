@@ -1,4 +1,5 @@
-import json,re,os,urllib.parse,urllib.request,xml.etree.ElementTree as ET
+import json,re,os,urllib.parse,urllib.request,xml.etree.ElementTree as ET,unicodedata
+from difflib import SequenceMatcher
 from datetime import datetime,timezone,timedelta
 NEWS=[
 "Mamak Ankara cinayet OR kavga OR silahlı OR taciz",
@@ -92,6 +93,75 @@ def add_alert_feed(url,now,out):
    categories,icon=classify_all(text);cat=categories[0]
    out.append({"category":cat,"categories":categories,"icon":icon,"title":title,"location":"Mamak / Ankara","published":dt.isoformat(),"confidence":60,"sources":1,"status":"Sosyal medya / doğrulanmamış","summary":"Google Alerts üzerinden bulunan herkese açık "+platform+" kaydı.","url":link,"platform":platform})
  except Exception:pass
+STOP_WORDS={"mamak","ankara","son","dakika","haber","haberi","olay","olayi","ilcesi","ilcesinde","mahallesi","icin","ile","bir","ve","da","de","ta","te","the"}
+SYNONYMS={"agaclik":"orman","koruluk":"orman","alevler":"yangin","alev":"yangin","itfaiye":"yangin","carpisti":"kaza","carpisma":"kaza","devrildi":"kaza","gozaltina":"gozalti","yakalandi":"gozalti"}
+
+def ascii_text(value):
+ value=unicodedata.normalize("NFKD",value or "").encode("ascii","ignore").decode().lower()
+ return re.sub(r"[^a-z0-9 ]+"," ",value)
+
+def title_tokens(title):
+ base=(title or "").rsplit(" - ",1)[0]
+ words=[]
+ for word in ascii_text(base).split():
+  word=SYNONYMS.get(word,word)
+  if len(word)>=3 and word not in STOP_WORDS:words.append(word)
+ return set(words)
+
+def subtype(title):
+ t=ascii_text(title)
+ groups=[("orman",("orman","agaclik","koruluk")),("cati",("cati",)),("bina",("bina","apartman","ev ","fabrika","depo")),("arac",("arac","otomobil","minibus","otobus","kamyon")),("motosiklet",("motosiklet","motor")),("yaya",("yaya","cocuk")),("silah",("silah","kursun","ates ac")),("bicak",("bicak",))]
+ return next((name for name,keys in groups if any(k in t for k in keys)),"")
+
+def same_event(a,b):
+ try:
+  da=datetime.fromisoformat(a["published"]);db=datetime.fromisoformat(b["published"])
+  if abs((da-db).total_seconds())>60*60*48:return False
+ except:return False
+ ca=set(a.get("categories") or [a.get("category")]);cb=set(b.get("categories") or [b.get("category")])
+ if not (ca&cb):return False
+ na=ascii_text((a.get("title") or "").rsplit(" - ",1)[0]);nb=ascii_text((b.get("title") or "").rsplit(" - ",1)[0])
+ if na==nb:return True
+ ta=title_tokens(a.get("title",""));tb=title_tokens(b.get("title",""))
+ if not ta or not tb:return False
+ inter=len(ta&tb);contain=inter/min(len(ta),len(tb));jac=inter/len(ta|tb)
+ if SequenceMatcher(None,na,nb).ratio()>=0.72:return True
+ if inter>=3 and contain>=0.55 and jac>=0.32:return True
+ sa=subtype(a.get("title",""));sb=subtype(b.get("title",""))
+ primary=a.get("category")
+ return bool(sa and sa==sb and primary==b.get("category") and da.date()==db.date() and inter>=1)
+
+def source_entries(e):
+ existing=e.get("source_links") or []
+ current={"platform":e.get("platform") or "Haber","title":e.get("title",""),"url":e.get("url","")}
+ result=[];seen=set()
+ for x in existing+[current]:
+  key=x.get("url") or x.get("title")
+  if key and key not in seen:seen.add(key);result.append(x)
+ return result
+
+def combine_events(target,e):
+ links=source_entries(target)
+ for x in source_entries(e):
+  if not any(y.get("url")==x.get("url") for y in links):links.append(x)
+ target["source_links"]=links;target["sources"]=len(links)
+ target["confidence"]=max(target.get("confidence",0),e.get("confidence",0))
+ target["categories"]=list(dict.fromkeys((target.get("categories") or [target.get("category")])+(e.get("categories") or [e.get("category")])))
+ if len(e.get("title",""))>len(target.get("title","")):target["title"]=e["title"]
+ target["published"]=min(target["published"],e["published"])
+ target["last_updated"]=max(target.get("last_updated",target["published"]),e.get("last_updated",e["published"]))
+ if len(links)>1:target["summary"]=str(len(links))+" farklı açık kaynakta bulunan aynı olay tek kayıtta birleştirildi."
+ return target
+
+def deduplicate_events(events):
+ result=[]
+ for e in sorted(events,key=lambda x:x.get("published",""),reverse=True):
+  match=next((x for x in result if same_event(x,e)),None)
+  if match:combine_events(match,e)
+  else:
+   e["source_links"]=source_entries(e);e["sources"]=len(e["source_links"]);result.append(e)
+ return result
+
 tz=timezone(timedelta(hours=3));now=datetime.now(tz);new=[]
 for q in NEWS:add_feed("https://news.google.com/rss/search?q="+urllib.parse.quote(q)+"&hl=tr&gl=TR&ceid=TR:tr","Haber",now,new)
 for platform,q in SOCIAL:add_feed("https://www.bing.com/search?format=rss&q="+urllib.parse.quote(q),platform,now,new)
@@ -109,6 +179,6 @@ for e in old+new:
  except:continue
  key=e.get("url") or re.sub(r"\W+","",e.get("title","").lower())[:90]
  merged[key]=e
-items=sorted(merged.values(),key=lambda x:x["published"],reverse=True)[:1500]
+items=deduplicate_events(sorted(merged.values(),key=lambda x:x["published"],reverse=True))[:1500]
 for i,e in enumerate(items,1):e["id"]=i
 with open("data/events.json","w",encoding="utf-8") as f:json.dump({"updated_at":now.isoformat(),"events":items,"google_alerts_active":bool(alert_urls),"google_alert_feed_count":len(alert_urls),"google_alert_invalid_count":len(raw_alert_urls)-len(alert_urls),"google_alert_query_count":len(ALERT_QUERY_TEMPLATES),"sources":["Google Alerts RSS","Google News RSS","X (indekslenen açık gönderiler)","Facebook (indekslenen açık sayfa/gruplar)","Instagram","YouTube","TikTok"]},f,ensure_ascii=False,indent=2)
