@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-02T08:36:20.939031+03:00",
+  "updated_at": "2026-09-02T08:37:26.604603+03:00",
   "events": [
     {
       "category": "Kavga",
@@ -1401,6 +1401,7 @@
   ],
   "google_alerts_active": false,
   "google_alert_feed_count": 0,
+  "google_alert_invalid_count": 9,
   "google_alert_query_count": 9,
   "sources": [
     "Google Alerts RSS",
