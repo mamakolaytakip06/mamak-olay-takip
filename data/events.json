@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-02T22:05:30.552246+03:00",
+  "updated_at": "2026-09-02T22:18:49.139767+03:00",
   "events": [
     {
       "category": "Kavga",
@@ -1960,13 +1960,13 @@
         "Trafik Kazası"
       ],
       "icon": "🚗",
-      "title": "Mamak'ta İş Kazası: 2 İşçi Hayatını Kaybetti - Son Dakika",
+      "title": "Mamak'ta inşaat kazası: 2 işçi hayatını kaybetti - Son Dakika",
       "location": "Mamak / Ankara",
       "published": "2025-10-06T10:00:00+03:00",
       "confidence": 75,
-      "sources": 1,
+      "sources": 2,
       "status": "Muhtemel",
-      "summary": "Son Dakika üzerinden bulunan herkese açık kayıt.",
+      "summary": "2 farklı açık kaynakta bulunan aynı olay tek kayıtta birleştirildi.",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxONElfVlk3eHZGNXlWUzFQX28xVHh2ZS1hb2V6S2RKSXBvS1F1dzF5Z1RzYlNtVXl4VXpFa3E0TlN3TUZlQkwzd3lmdlZEMGZMQVc1dWxqLUxTNzN5b3dCb2R0cVpSOTdadzJHRXl1cFpLT0NDN3FSZ2Y3cWdlbFo0bWNaN1ZkaE9vYWxIWUpGMGZzRHdHa3Zn0gGTAUFVX3lxTE1fcFE4UktvV0lzWXg1MWZVV0t3WGk5LWNSbkdReHNOc3AwR0Q3TEhsNHdrSl9HTlJMZXJXQnczbGhVa1BzbWxWaXZfT1NQdmtzV2d4aHR2bWdUc09QR1FneUFxRlJEczJma000NlJoNlZXdktjT3JtTmNteFlSelJTeFM1bk5oOFNpazh2eXNNRlBfVQ?oc=5",
       "platform": "Haber",
       "source_links": [
@@ -1975,8 +1975,15 @@
           "title": "Mamak'ta İş Kazası: 2 İşçi Hayatını Kaybetti - Son Dakika",
           "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxONElfVlk3eHZGNXlWUzFQX28xVHh2ZS1hb2V6S2RKSXBvS1F1dzF5Z1RzYlNtVXl4VXpFa3E0TlN3TUZlQkwzd3lmdlZEMGZMQVc1dWxqLUxTNzN5b3dCb2R0cVpSOTdadzJHRXl1cFpLT0NDN3FSZ2Y3cWdlbFo0bWNaN1ZkaE9vYWxIWUpGMGZzRHdHa3Zn0gGTAUFVX3lxTE1fcFE4UktvV0lzWXg1MWZVV0t3WGk5LWNSbkdReHNOc3AwR0Q3TEhsNHdrSl9HTlJMZXJXQnczbGhVa1BzbWxWaXZfT1NQdmtzV2d4aHR2bWdUc09QR1FneUFxRlJEczJma000NlJoNlZXdktjT3JtTmNteFlSelJTeFM1bk5oOFNpazh2eXNNRlBfVQ?oc=5",
           "published": "2025-10-06T10:00:00+03:00"
+        },
+        {
+          "platform": "Haber",
+          "title": "Mamak'ta inşaat kazası: 2 işçi hayatını kaybetti - Son Dakika",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNaWF2UTZfXzhvTV9ILW9zVjNrUUVCNW51VWZvcDFJVEliTHZLRFA1eUNEcnBKbDVhZVluVDhCZW1Kam1TN00tSS1fd0JFci1ibGVYOWtPeW03SjYyWmRpai1tNnJfUXFSTjhKaERQd1JWZ1NKQVZ4VjVlZ1JPM1p5cVZ3R19qbWlUT0JIUzQzdVJ4bTY0UFpWd0tTenXSAZgBQVVfeXFMT3FfRzhNQmc1SWtxVUR6NGJmTERmRkd3QjRGY3MxblVCelhiQjZmSGxOemg0NjFid0o3emNFcEJHUzFENEZIZ0FLN3pzbWFacG1ScHZERWlEWXZoVUZEU3J6U2pnNzBXSFRQYzl3dEd4aUlPMDlHT0F0QklDMXNEb2cta1JVUTZ1N0JRTXhaU1JfQ3prclVTYXU?oc=5",
+          "published": "2025-10-06T10:00:00+03:00"
         }
       ],
+      "last_updated": "2025-10-06T10:00:00+03:00",
       "neighborhood": "Mamak Geneli",
       "lat": 39.9308,
       "lon": 32.9307,
