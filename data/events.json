@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-02T18:37:40.732470+03:00",
+  "updated_at": "2026-09-02T18:51:09.377618+03:00",
   "events": [
     {
       "category": "Kavga",
@@ -138,7 +138,7 @@
       "source_links": [
         {
           "platform": "Haber",
-          "title": "Ankara'nın Mamak ilçesinde yangın! - egedesonsoz.com",
+          "title": "Ankara'nın Mamak ilçesinde yangın! - Ege'de Sonsöz",
           "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9DczVoYVNkQUVPQ0pHY3JLM29EUDRIOTh6TGUybGE2V0s3ZV9vbEpQYV9KR0sySHpIYktqSFNHWWRzVUtCNkZuYmJjejNlYldhQ0NqVXREUC16Q0EtOXhNYWpQbGpPdm5rOUFQQw?oc=5",
           "published": "2026-08-23T23:55:00+03:00"
         },
@@ -668,17 +668,16 @@
     {
       "category": "Trafik Kazası",
       "categories": [
-        "Trafik Kazası",
-        "Sağlık"
+        "Trafik Kazası"
       ],
       "icon": "🚗",
       "title": "Ankara Mamak’ta EGO otobüsü kazası: Ekipler bölgede - Son Dakika Ankara Haberleri - Zafer Gazetesi",
       "location": "Mamak / Ankara",
       "published": "2026-07-15T10:00:00+03:00",
       "confidence": 75,
-      "sources": 4,
+      "sources": 2,
       "status": "Muhtemel",
-      "summary": "4 farklı açık kaynakta bulunan aynı olay tek kayıtta birleştirildi.",
+      "summary": "2 farklı açık kaynakta bulunan aynı olay tek kayıtta birleştirildi.",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPeVhOVkFnZ2pZN205emhadjV4NlcwVHM4aHVQaTM5SUpyOXplWmpTelRTV3F3MkJuZFN6MnVJRUphYldZTDgxd0RmQTZ2VVB5TVNxTzZYWjJ1N3VhR01NdjlQbXg1a0VFc1NzV1pyY3VBcVA3cTlULVdURWxzM2o4YQ?oc=5",
       "platform": "Haber",
       "source_links": [
@@ -692,18 +691,6 @@
           "platform": "Haber",
           "title": "Mamak'ta EGO Otobüsü Kaza Yaptı - Son Dakika",
           "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQbGd0SW1EMXFsVUV6Vldqd0w2ODRlY1JDVnplYmhPbmw3TVhURmZSc3I2NE9fQ0pWMFhSWFhlcUZvcDVYWTNBRnhhSUJZSjNKanNOdWk3NVRuT1JOWTY0WEYtVjl0QlVnQzE3Tlo0NkhWODlYbV9mSVFlT080WUNXSjZORHJHa03SAYMBQVVfeXFMT2pIaGpBcUd3MnVyQ21FbmphdUl3azZ6SUlXQWE2S0hVbHNNR1hsQTQ3THZDSmFMQnpmbWpIVnRuaC11Nmxrc2JXaXdLUjZQS3RGZ3J5NTB5OU5CcTZibUVHM2drcXhQWmliVGd0RWhPTE92NXhhSmhaSWNOQk5senlFRDQ?oc=5",
-          "published": "2026-07-15T10:00:00+03:00"
-        },
-        {
-          "platform": "Haber",
-          "title": "Mamak'ta Otobüs Kazası: 7 Yaralı - Son Dakika",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOTjRraG9CSElybDFKdkwzdUE0WVBvUzEyNjI4Z09ELV9zSDduMGhpSWNMM2xhWjJuX0pvcTRKTEZYZVJzaFRfRFgyMWJnMy1xLWhmQ0RtckdGZkhQR2lQSnV3cWFSTDVZVkFISkhQdDZ5djZuZ2RsMHNLR1BzM1dhcGk1d1RZbzDSAYMBQVVfeXFMTUQ4c2tiZDMxMkJ4Z3hMUXRLaEJKRTE4LVBvSEIta21pZTd6T0hfTFoxbHpKWndSOWJEUkR4OVM3cHp0Y2ItcDJHOW9SSngtcU9WRDVxazE2bHQ1SWJRUzI5Qmg3MUlwelFTbC0tbk93SHlibnFOZ0xzZTg3dUlIUzRiRGs?oc=5",
-          "published": "2026-07-15T10:00:00+03:00"
-        },
-        {
-          "platform": "Haber",
-          "title": "Mamak'ta Otobüs Kazası: 7 Yaralı - Son Dakika",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPT3VDajA4LWExTVF0OC14aWV5bEZYWmNjQjJEWEY1eVVnLWw3c19VR1NrYlY4SWd0RkJUa1RxQ296bUtZcWtxNUh2TXBMNWJNdm1KVlZXSkYtSWQza0dZV0t1a0dhMW15TkdNWm9jMWk2bEdvNTdMd21QclR5OE5KT3RzejFLYkHSAYMBQVVfeXFMTjNGVE9fWFc0QWNfc0pxM2FHOEhtbUw4Y292S2lXVEdiVjBrU3Nzbk1sWUlzWGtMYVMyLW9mcWV6T0FiQ2xYMmg1cVJ1aHg3MlEwaXJVYldJWEMtNmVBcFFzQmFVQXN0Rzdzc095bHNKcUo5RWlyc01WSFhoNUJSYTVKdXc?oc=5",
           "published": "2026-07-15T10:00:00+03:00"
         }
       ],
@@ -1883,13 +1870,13 @@
         "Trafik Kazası"
       ],
       "icon": "🚗",
-      "title": "Mamak'ta inşaat kazası: 2 işçi hayatını kaybetti - Son Dakika",
+      "title": "Mamak'ta İş Kazası: 2 İşçi Hayatını Kaybetti - Son Dakika",
       "location": "Mamak / Ankara",
       "published": "2025-10-06T10:00:00+03:00",
       "confidence": 75,
-      "sources": 2,
+      "sources": 1,
       "status": "Muhtemel",
-      "summary": "2 farklı açık kaynakta bulunan aynı olay tek kayıtta birleştirildi.",
+      "summary": "Son Dakika üzerinden bulunan herkese açık kayıt.",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxONElfVlk3eHZGNXlWUzFQX28xVHh2ZS1hb2V6S2RKSXBvS1F1dzF5Z1RzYlNtVXl4VXpFa3E0TlN3TUZlQkwzd3lmdlZEMGZMQVc1dWxqLUxTNzN5b3dCb2R0cVpSOTdadzJHRXl1cFpLT0NDN3FSZ2Y3cWdlbFo0bWNaN1ZkaE9vYWxIWUpGMGZzRHdHa3Zn0gGTAUFVX3lxTE1fcFE4UktvV0lzWXg1MWZVV0t3WGk5LWNSbkdReHNOc3AwR0Q3TEhsNHdrSl9HTlJMZXJXQnczbGhVa1BzbWxWaXZfT1NQdmtzV2d4aHR2bWdUc09QR1FneUFxRlJEczJma000NlJoNlZXdktjT3JtTmNteFlSelJTeFM1bk5oOFNpazh2eXNNRlBfVQ?oc=5",
       "platform": "Haber",
       "source_links": [
@@ -1898,15 +1885,8 @@
           "title": "Mamak'ta İş Kazası: 2 İşçi Hayatını Kaybetti - Son Dakika",
           "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxONElfVlk3eHZGNXlWUzFQX28xVHh2ZS1hb2V6S2RKSXBvS1F1dzF5Z1RzYlNtVXl4VXpFa3E0TlN3TUZlQkwzd3lmdlZEMGZMQVc1dWxqLUxTNzN5b3dCb2R0cVpSOTdadzJHRXl1cFpLT0NDN3FSZ2Y3cWdlbFo0bWNaN1ZkaE9vYWxIWUpGMGZzRHdHa3Zn0gGTAUFVX3lxTE1fcFE4UktvV0lzWXg1MWZVV0t3WGk5LWNSbkdReHNOc3AwR0Q3TEhsNHdrSl9HTlJMZXJXQnczbGhVa1BzbWxWaXZfT1NQdmtzV2d4aHR2bWdUc09QR1FneUFxRlJEczJma000NlJoNlZXdktjT3JtTmNteFlSelJTeFM1bk5oOFNpazh2eXNNRlBfVQ?oc=5",
           "published": "2025-10-06T10:00:00+03:00"
-        },
-        {
-          "platform": "Haber",
-          "title": "Mamak'ta inşaat kazası: 2 işçi hayatını kaybetti - Son Dakika",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNaWF2UTZfXzhvTV9ILW9zVjNrUUVCNW51VWZvcDFJVEliTHZLRFA1eUNEcnBKbDVhZVluVDhCZW1Kam1TN00tSS1fd0JFci1ibGVYOWtPeW03SjYyWmRpai1tNnJfUXFSTjhKaERQd1JWZ1NKQVZ4VjVlZ1JPM1p5cVZ3R19qbWlUT0JIUzQzdVJ4bTY0UFpWd0tTenXSAZgBQVVfeXFMT3FfRzhNQmc1SWtxVUR6NGJmTERmRkd3QjRGY3MxblVCelhiQjZmSGxOemg0NjFid0o3emNFcEJHUzFENEZIZ0FLN3pzbWFacG1ScHZERWlEWXZoVUZEU3J6U2pnNzBXSFRQYzl3dEd4aUlPMDlHT0F0QklDMXNEb2cta1JVUTZ1N0JRTXhaU1JfQ3prclVTYXU?oc=5",
-          "published": "2025-10-06T10:00:00+03:00"
         }
       ],
-      "last_updated": "2025-10-06T10:00:00+03:00",
       "neighborhood": "Mamak Geneli",
       "lat": 39.9308,
       "lon": 32.9307,
