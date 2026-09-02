@@ -1,4 +1,4 @@
-import json,re,urllib.parse,urllib.request,xml.etree.ElementTree as ET
+import json,re,os,urllib.parse,urllib.request,xml.etree.ElementTree as ET
 from datetime import datetime,timezone,timedelta
 NEWS=[
 "Mamak Ankara cinayet OR kavga OR silahlı OR taciz",
@@ -52,9 +52,31 @@ def add_feed(url,platform,now,out):
    categories,icon=classify_all(title+" "+desc);cat=categories[0];src=x.find("source");source=src.text if src is not None and src.text else platform
    out.append({"category":cat,"categories":categories,"icon":icon,"title":title,"location":"Mamak / Ankara","published":dt.isoformat(),"confidence":75 if platform=="Haber" else 60,"sources":1,"status":"Muhtemel" if platform=="Haber" else "Sosyal medya / doğrulanmamış","summary":source+" üzerinden bulunan herkese açık kayıt.","url":link,"platform":platform})
  except Exception:pass
+def add_alert_feed(url,now,out):
+ try:
+  req=urllib.request.Request(url,headers={"User-Agent":"Mozilla/5.0"})
+  root=ET.fromstring(urllib.request.urlopen(req,timeout=25).read())
+  entries=root.findall(".//{*}entry")+root.findall(".//item")
+  for x in entries:
+   title=clean(x.findtext("{*}title") or x.findtext("title"))
+   desc=clean(x.findtext("{*}content") or x.findtext("{*}summary") or x.findtext("description"))
+   node=x.find("{*}link");link=(node.get("href") if node is not None else None) or x.findtext("link") or ""
+   qs=urllib.parse.parse_qs(urllib.parse.urlparse(link).query);link=(qs.get("url") or qs.get("q") or [link])[0]
+   rawdate=x.findtext("{*}published") or x.findtext("{*}updated") or x.findtext("pubDate") or ""
+   try:dt=datetime.fromisoformat(rawdate.replace("Z","+00:00")).astimezone(now.tzinfo)
+   except:dt=parse_date(rawdate,now.tzinfo)
+   text=(title+" "+desc).lower()
+   if not dt or now-dt>timedelta(days=365) or "mamak" not in text or not relevant(text):continue
+   low=link.lower()
+   platform="X" if ("x.com/" in low or "twitter.com/" in low) else "Facebook" if "facebook.com/" in low else "Instagram" if "instagram.com/" in low else "Google Alerts"
+   categories,icon=classify_all(text);cat=categories[0]
+   out.append({"category":cat,"categories":categories,"icon":icon,"title":title,"location":"Mamak / Ankara","published":dt.isoformat(),"confidence":60,"sources":1,"status":"Sosyal medya / doğrulanmamış","summary":"Google Alerts üzerinden bulunan herkese açık "+platform+" kaydı.","url":link,"platform":platform})
+ except Exception:pass
 tz=timezone(timedelta(hours=3));now=datetime.now(tz);new=[]
 for q in NEWS:add_feed("https://news.google.com/rss/search?q="+urllib.parse.quote(q)+"&hl=tr&gl=TR&ceid=TR:tr","Haber",now,new)
 for platform,q in SOCIAL:add_feed("https://www.bing.com/search?format=rss&q="+urllib.parse.quote(q),platform,now,new)
+for alert_url in re.split(r"[\n,]+",os.getenv("GOOGLE_ALERT_FEEDS","")):
+ if alert_url.strip():add_alert_feed(alert_url.strip(),now,new)
 try:
  with open("data/events.json",encoding="utf-8") as f:old=json.load(f).get("events",[])
 except:old=[]
@@ -68,4 +90,4 @@ for e in old+new:
  merged[key]=e
 items=sorted(merged.values(),key=lambda x:x["published"],reverse=True)[:1500]
 for i,e in enumerate(items,1):e["id"]=i
-with open("data/events.json","w",encoding="utf-8") as f:json.dump({"updated_at":now.isoformat(),"events":items,"sources":["Google News RSS","X (indekslenen açık gönderiler)","Facebook (indekslenen açık sayfa/gruplar)","Instagram","YouTube","TikTok"]},f,ensure_ascii=False,indent=2)
+with open("data/events.json","w",encoding="utf-8") as f:json.dump({"updated_at":now.isoformat(),"events":items,"google_alerts_active":bool(os.getenv("GOOGLE_ALERT_FEEDS","").strip()),"sources":["Google Alerts RSS","Google News RSS","X (indekslenen açık gönderiler)","Facebook (indekslenen açık sayfa/gruplar)","Instagram","YouTube","TikTok"]},f,ensure_ascii=False,indent=2)
