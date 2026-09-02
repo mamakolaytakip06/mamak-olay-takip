@@ -2,24 +2,24 @@ import json,re,os,urllib.parse,urllib.request,xml.etree.ElementTree as ET,unicod
 from difflib import SequenceMatcher
 from datetime import datetime,timezone,timedelta
 NEWS=[
-"Mamak Ankara cinayet OR kavga OR silahlı OR taciz",
-"Mamak Ankara trafik kazası OR yangın OR polis OR ambulans",
-"Mamak Ankara hırsızlık OR dolandırıcılık OR uyuşturucu OR kayıp",
-"Mamak son dakika olay","Mamak trafik OR yol kapalı OR altyapı",
-"Tuzluçayır OR Akdere OR Abidinpaşa OR Başak Mamak olay"]
+"Ankara cinayet OR kavga OR silahlı OR taciz OR terör",
+"Ankara trafik kazası OR yangın OR polis OR ambulans",
+"Ankara hırsızlık OR dolandırıcılık OR uyuşturucu OR kayıp OR asayiş",
+"Akyurt OR Altındağ OR Ayaş OR Bala OR Beypazarı Ankara olay",
+"Çamlıdere OR Çankaya OR Çubuk OR Elmadağ OR Etimesgut Ankara olay",
+"Evren OR Gölbaşı OR Güdül OR Haymana OR Kahramankazan Ankara olay",
+"Kalecik OR Keçiören OR Kızılcahamam OR Mamak Ankara olay",
+"Nallıhan OR Polatlı OR Pursaklar OR Sincan Ankara olay",
+"Şereflikoçhisar OR Yenimahalle Ankara olay"
+]
 SOCIAL=[
-("X","site:x.com Mamak Ankara (kaza OR yangın OR polis OR kavga OR son dakika)"),
-("X","site:x.com/ankara_cevirme Mamak"),("X","site:x.com/EmniyetAnkara Mamak"),
-("X","site:x.com/radyotrafik06 Mamak"),("X","site:x.com/ankaratrafikcev Mamak"),
-("Facebook","site:facebook.com Mamak Ankara son dakika olay"),
-("Facebook","site:facebook.com/mamaktime Mamak"),("Facebook","site:facebook.com/groups/1067945807725915 Mamak"),
-("Facebook","site:facebook.com/groups/233752440399327 Mamak"),("Facebook","site:facebook.com/mamakbelediyesi Mamak"),
-("Instagram","site:instagram.com/ankaradatrafik Mamak"),("Instagram","site:instagram.com/ankara.sondakika Mamak"),
-("Instagram","site:instagram.com/mamak.sondakika Mamak"),("Instagram","site:instagram.com/ankaradantrafik Mamak"),
-("Instagram","site:instagram.com/ankarasondakikahaberleri.06 Mamak"),
-("YouTube","site:youtube.com Mamak Ankara son dakika olay"),
-("TikTok","site:tiktok.com Mamak Ankara kaza yangın polis")
-
+("X","site:x.com Ankara (kaza OR yangın OR polis OR kavga OR cinayet OR son dakika)"),
+("X","site:x.com/ankara_cevirme Ankara"),("X","site:x.com/EmniyetAnkara Ankara"),
+("X","site:x.com/radyotrafik06 Ankara"),("X","site:x.com/ankaratrafikcev Ankara"),
+("Facebook","site:facebook.com Ankara son dakika olay"),
+("Instagram","site:instagram.com/ankaradatrafik Ankara"),("Instagram","site:instagram.com/ankara.sondakika Ankara"),
+("Instagram","site:instagram.com/ankaradantrafik Ankara"),("YouTube","site:youtube.com Ankara son dakika olay"),
+("TikTok","site:tiktok.com Ankara kaza yangın polis")
 ]
 
 ALERT_QUERY_TEMPLATES=[
@@ -34,6 +34,19 @@ ALERT_QUERY_TEMPLATES=[
 "site:instagram.com Ankara Mamak asayiş"
 ]
 
+
+
+DISTRICT_CENTERS={
+"Akyurt":(40.1350,33.0860),"Altındağ":(39.9520,32.8750),"Ayaş":(40.0190,32.3320),
+"Bala":(39.5540,33.1230),"Beypazarı":(40.1670,31.9210),"Çamlıdere":(40.4890,32.4740),
+"Çankaya":(39.9030,32.8590),"Çubuk":(40.2380,33.0330),"Elmadağ":(39.9200,33.2300),
+"Etimesgut":(39.9480,32.6690),"Evren":(39.0240,33.8060),"Gölbaşı":(39.7900,32.8090),
+"Güdül":(40.2100,32.2450),"Haymana":(39.4340,32.4970),"Kahramankazan":(40.2050,32.6820),
+"Kalecik":(40.0970,33.4080),"Keçiören":(40.0000,32.8660),"Kızılcahamam":(40.4700,32.6500),
+"Mamak":(39.9308,32.9307),"Nallıhan":(40.1870,31.3510),"Polatlı":(39.5840,32.1470),
+"Pursaklar":(40.0390,32.9020),"Sincan":(39.9700,32.5840),"Şereflikoçhisar":(38.9390,33.5380),
+"Yenimahalle":(39.9650,32.8050)
+}
 
 NEIGHBORHOODS={
 "Tuzluçayır":(39.9169,32.9430),"Akdere":(39.9148,32.9158),"Abidinpaşa":(39.9209,32.9072),
@@ -50,6 +63,14 @@ C=[("Cinayet","⚫",["cinayet","öldürüldü","öldürdü","ölü bulundu","ces
 RELEVANT=["cinayet","öldür","ceset","intihar","terör","bomba","taciz","cinsel saldırı","istismar","silah","kurşun","ateş aç","kavga","darp","saldırı","trafik kazası","kaza","çarpış","devrildi","hırsız","gasp","soygun","dolandır","uyuşturucu","narkotik","kayıp","yangın","alev","ambulans","yaralı","polis","emniyet","asayiş","gözaltı","tutuk","yakalandı","operasyon","şüpheli","suç","patlama","rehin","kaçakçılık","bıçak"]
 BLOCK=["menu","food","restaurant","restoran","yemek","kampanya","indirim","satılık","kiralık","maç","transfer","konser","etkinlik","iş ilanı","job"]
 def clean(s): return re.sub(r"<[^>]+>"," ",s or "").strip()
+def detect_district(text):
+ folded=ascii_text(text)
+ for name in DISTRICT_CENTERS:
+  if ascii_text(name) in folded:return name
+ if re.search(r"(^|\\W)kazan($|\\W)",folded):return "Kahramankazan"
+ if any(ascii_text(name) in folded for name in NEIGHBORHOODS):return "Mamak"
+ return "Ankara Geneli" if "ankara" in folded else None
+
 def relevant(t):
  t=t.lower()
  return any(k in t for k in RELEVANT) and not any(k in t for k in BLOCK)
@@ -74,7 +95,7 @@ def add_feed(url,platform,now,out):
   root=ET.fromstring(urllib.request.urlopen(req,timeout=25).read())
   for x in root.findall(".//item"):
    title=clean(x.findtext("title"));desc=clean(x.findtext("description"));link=x.findtext("link") or "";dt=parse_date(x.findtext("pubDate") or "",now.tzinfo)
-   if not dt or now-dt>timedelta(days=365) or "mamak" not in (title+" "+desc).lower() or not relevant(title+" "+desc):continue
+   if not dt or now-dt>timedelta(days=365) or not detect_district(title+" "+desc) or not relevant(title+" "+desc):continue
    categories,icon=classify_all(title+" "+desc);cat=categories[0];src=x.find("source");source=src.text if src is not None and src.text else platform
    out.append({"category":cat,"categories":categories,"icon":icon,"title":title,"location":"Mamak / Ankara","published":dt.isoformat(),"confidence":75 if platform=="Haber" else 60,"sources":1,"status":"Muhtemel" if platform=="Haber" else "Sosyal medya / doğrulanmamış","summary":source+" üzerinden bulunan herkese açık kayıt.","url":link,"platform":platform})
  except Exception:pass
@@ -100,7 +121,7 @@ def add_alert_feed(url,now,out):
    try:dt=datetime.fromisoformat(rawdate.replace("Z","+00:00")).astimezone(now.tzinfo)
    except:dt=parse_date(rawdate,now.tzinfo)
    text=(title+" "+desc).lower()
-   if not dt or now-dt>timedelta(days=365) or "mamak" not in text or not relevant(text):continue
+   if not dt or now-dt>timedelta(days=365) or not detect_district(text) or not relevant(text):continue
    platform=detect_platform(link)
    categories,icon=classify_all(text);cat=categories[0]
    out.append({"category":cat,"categories":categories,"icon":icon,"title":title,"location":"Mamak / Ankara","published":dt.isoformat(),"confidence":60,"sources":1,"status":"Sosyal medya / doğrulanmamış","summary":"Google Alerts üzerinden bulunan herkese açık "+platform+" kaydı.","url":link,"platform":platform})
@@ -131,6 +152,8 @@ def same_event(a,b):
   da=datetime.fromisoformat(a["published"]);db=datetime.fromisoformat(b["published"])
   if abs((da-db).total_seconds())>60*60*48:return False
  except:return False
+ district_a=detect_district(a.get("title",""));district_b=detect_district(b.get("title",""))
+ if district_a and district_b and district_a!="Ankara Geneli" and district_b!="Ankara Geneli" and district_a!=district_b:return False
  ca=set(a.get("categories") or [a.get("category")]);cb=set(b.get("categories") or [b.get("category")])
  if not (ca&cb):return False
  na=ascii_text((a.get("title") or "").rsplit(" - ",1)[0]);nb=ascii_text((b.get("title") or "").rsplit(" - ",1)[0])
@@ -146,12 +169,15 @@ def same_event(a,b):
  return bool(sa and sa==sb and primary==b.get("category") and da.date()==db.date() and inter>=1)
 
 def add_location(e):
- text=(e.get("title","")+" "+e.get("summary","")).lower()
- found=next(((name,coords) for name,coords in NEIGHBORHOODS.items() if name.lower() in text),None)
+ text=e.get("title","")+" "+e.get("summary","")
+ district=detect_district(text) or "Ankara Geneli"
+ found=next(((name,coords) for name,coords in NEIGHBORHOODS.items() if name.lower() in text.lower()),None) if district=="Mamak" else None
  if found:
-  e["neighborhood"]=found[0];e["lat"],e["lon"]=found[1];e["location"]=found[0]+" / Mamak / Ankara";e["location_precision"]="mahalle"
+  e["district"]="Mamak";e["neighborhood"]=found[0];e["lat"],e["lon"]=found[1];e["location"]=found[0]+" / Mamak / Ankara";e["location_precision"]="mahalle"
+ elif district in DISTRICT_CENTERS:
+  e["district"]=district;e["neighborhood"]=district+" Geneli";e["lat"],e["lon"]=DISTRICT_CENTERS[district];e["location"]=district+" / Ankara";e["location_precision"]="ilçe"
  else:
-  e["neighborhood"]="Mamak Geneli";e["lat"],e["lon"]=39.9308,32.9307;e["location"]="Mamak / Ankara";e["location_precision"]="ilçe"
+  e["district"]="Ankara Geneli";e["neighborhood"]="Ankara Geneli";e["lat"],e["lon"]=39.9334,32.8597;e["location"]="Ankara Geneli";e["location_precision"]="il"
  return e
 
 def source_entries(e):
