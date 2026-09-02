@@ -162,7 +162,15 @@ def deduplicate_events(events):
   if match:combine_events(match,e)
   else:
    e["source_links"]=source_entries(e);e["sources"]=len(e["source_links"]);result.append(e)
- return result
+ final=[]
+ for e in result:
+  try:key=(datetime.fromisoformat(e["published"]).date(),e.get("category"),subtype(e.get("title","")))
+  except:key=(None,None,None)
+  match=next((x for x in final if key[0] and key[1]=="Yangın" and key[2] in {"orman","cati"} and x["_bucket"]==key),None)
+  if match:combine_events(match,e)
+  else:e["_bucket"]=key;final.append(e)
+ for e in final:e.pop("_bucket",None)
+ return final
 
 tz=timezone(timedelta(hours=3));now=datetime.now(tz);new=[]
 for q in NEWS:add_feed("https://news.google.com/rss/search?q="+urllib.parse.quote(q)+"&hl=tr&gl=TR&ceid=TR:tr","Haber",now,new)
