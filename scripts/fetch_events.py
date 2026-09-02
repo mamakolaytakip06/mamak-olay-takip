@@ -95,7 +95,7 @@ def add_alert_feed(url,now,out):
 tz=timezone(timedelta(hours=3));now=datetime.now(tz);new=[]
 for q in NEWS:add_feed("https://news.google.com/rss/search?q="+urllib.parse.quote(q)+"&hl=tr&gl=TR&ceid=TR:tr","Haber",now,new)
 for platform,q in SOCIAL:add_feed("https://www.bing.com/search?format=rss&q="+urllib.parse.quote(q),platform,now,new)
-alert_urls=[u.strip() for u in re.split(r"[\\n,;]+",os.getenv("GOOGLE_ALERT_FEEDS","")) if u.strip()]
+raw_alert_urls=[u.strip() for u in re.split(r"[\\n,;]+",os.getenv("GOOGLE_ALERT_FEEDS","")) if u.strip()]\nalert_urls=list(dict.fromkeys(u for u in raw_alert_urls if re.match(r"^https://www\\.google\\.[^/]+/alerts/feeds/",u)))
 for alert_url in alert_urls:add_alert_feed(alert_url,now,new)
 try:
  with open("data/events.json",encoding="utf-8") as f:old=json.load(f).get("events",[])
