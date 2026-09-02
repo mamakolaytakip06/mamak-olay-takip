@@ -34,6 +34,18 @@ ALERT_QUERY_TEMPLATES=[
 "site:instagram.com Ankara Mamak asayiş"
 ]
 
+
+NEIGHBORHOODS={
+"Tuzluçayır":(39.9169,32.9430),"Akdere":(39.9148,32.9158),"Abidinpaşa":(39.9209,32.9072),
+"Başak":(39.9369,32.9920),"Boğaziçi":(39.9480,32.9420),"Cengizhan":(39.9381,32.9565),
+"Demirlibahçe":(39.9277,32.8957),"Durali Alıç":(39.9445,32.9681),"General Zeki Doğan":(39.9258,32.9527),
+"Kayaş":(39.9217,32.9971),"Kutlu":(39.9108,32.9360),"Mutlu":(39.9056,32.9248),
+"Şafaktepe":(39.9297,32.9302),"Şahintepe":(39.9482,32.9830),"Türközü":(39.9009,32.9144),
+"Üreğil":(39.9370,32.9820),"Altıağaç":(39.9453,32.9285),"Ekin":(39.9467,32.9490),
+"Hüseyingazi":(39.9587,32.9440),"Gülveren":(39.9361,32.9161),"Misket":(39.9585,32.9683),
+"Natoyolu":(39.9087,32.9488),"Yeşilbayır":(39.9496,33.0065)
+}
+
 C=[("Cinayet","⚫",["cinayet","öldürüldü","öldürdü","ölü bulundu","ceset"]),("İntihar","🟣",["intihar","yaşamına son"]),("Terör","🚨",["terör","terörist","örgüt operasyon","bombalı"]),("Taciz","🟣",["taciz","cinsel saldırı","istismar"]),("Düğünde Silah","🔫",["düğünde silah","havaya ateş","maganda"]),("Silahlı Olay","🔫",["silahlı","silah","kurşun","ateş aç"]),("Kavga","🥊",["kavga","darp","saldırı"]),("Trafik Kazası","🚗",["trafik kazası","kaza","çarpış","araç devr"]),("Hırsızlık","🕵️",["hırsız","çaldı","gasp","soygun"]),("Dolandırıcılık","💳",["dolandır"]),("Uyuşturucu","🚔",["uyuşturucu","narkotik"]),("Kayıp Kişi","👤",["kayıp","aranıyor"]),("Yangın","🔥",["yangın","duman","alev"]),("Sağlık","🚑",["ambulans","yaralı","sağlık"]),("Yol","🚧",["yol kapalı","yol çalışma"]),("Altyapı","⚡",["elektrik","su kesinti","doğalgaz"]),("Asayiş","👮",["polis","emniyet","asayiş","gözaltı","tutuklandı","yakalandı","operasyon","şüpheli","suç"])]
 RELEVANT=["cinayet","öldür","ceset","intihar","terör","bomba","taciz","cinsel saldırı","istismar","silah","kurşun","ateş aç","kavga","darp","saldırı","trafik kazası","kaza","çarpış","devrildi","hırsız","gasp","soygun","dolandır","uyuşturucu","narkotik","kayıp","yangın","alev","ambulans","yaralı","polis","emniyet","asayiş","gözaltı","tutuk","yakalandı","operasyon","şüpheli","suç","patlama","rehin","kaçakçılık","bıçak"]
 BLOCK=["menu","food","restaurant","restoran","yemek","kampanya","indirim","satılık","kiralık","maç","transfer","konser","etkinlik","iş ilanı","job"]
@@ -133,9 +145,18 @@ def same_event(a,b):
  if sa and sa==sb and primary==b.get("category") and da.date()==db.date() and sa in {"orman","cati"}:return True
  return bool(sa and sa==sb and primary==b.get("category") and da.date()==db.date() and inter>=1)
 
+def add_location(e):
+ text=(e.get("title","")+" "+e.get("summary","")).lower()
+ found=next(((name,coords) for name,coords in NEIGHBORHOODS.items() if name.lower() in text),None)
+ if found:
+  e["neighborhood"]=found[0];e["lat"],e["lon"]=found[1];e["location"]=found[0]+" / Mamak / Ankara";e["location_precision"]="mahalle"
+ else:
+  e["neighborhood"]="Mamak Geneli";e["lat"],e["lon"]=39.9308,32.9307;e["location"]="Mamak / Ankara";e["location_precision"]="ilçe"
+ return e
+
 def source_entries(e):
  existing=e.get("source_links") or []
- current={"platform":e.get("platform") or "Haber","title":e.get("title",""),"url":e.get("url","")}
+ current={"platform":e.get("platform") or "Haber","title":e.get("title",""),"url":e.get("url",""),"published":e.get("published","")}
  result=[];seen=set()
  for x in existing+[current]:
   key=x.get("url") or x.get("title")
@@ -190,5 +211,5 @@ for e in old+new:
  key=e.get("url") or re.sub(r"\W+","",e.get("title","").lower())[:90]
  merged[key]=e
 items=deduplicate_events(sorted(merged.values(),key=lambda x:x["published"],reverse=True))[:1500]
-for i,e in enumerate(items,1):e["id"]=i
+for i,e in enumerate(items,1):add_location(e);e["id"]=i
 with open("data/events.json","w",encoding="utf-8") as f:json.dump({"updated_at":now.isoformat(),"events":items,"google_alerts_active":bool(alert_urls),"google_alert_feed_count":len(alert_urls),"google_alert_invalid_count":len(raw_alert_urls)-len(alert_urls),"google_alert_query_count":len(ALERT_QUERY_TEMPLATES),"sources":["Google Alerts RSS","Google News RSS","X (indekslenen açık gönderiler)","Facebook (indekslenen açık sayfa/gruplar)","Instagram","YouTube","TikTok"]},f,ensure_ascii=False,indent=2)
