@@ -24,6 +24,8 @@ jobs:
         with:
           python-version: "3.12"
       - name: Açık kaynakları tara
+        env:
+          GOOGLE_ALERT_FEEDS: ${{ secrets.GOOGLE_ALERT_FEEDS }}
         run: python scripts/fetch_events.py
       - name: Sonuç değiştiyse kaydet
         run: |
