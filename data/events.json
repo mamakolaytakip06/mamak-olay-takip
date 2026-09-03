@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-03T18:27:56.188472+03:00",
+  "updated_at": "2026-09-03T18:40:38.377917+03:00",
   "events": [
     {
       "category": "Asayiş",
@@ -69,6 +69,36 @@
       "id": 2
     },
     {
+      "category": "Trafik Kazası",
+      "categories": [
+        "Trafik Kazası"
+      ],
+      "icon": "🚗",
+      "title": "🔴 Motokurye, trafikte arkadaşına el işareti yaparken kaza yaptı 📌 Ankara'da seyir halindeyken karşı yönden gelen mesai arkadaşına el işareti yapan motokuryenin, önündeki otomobile çarptığı anlar araç kamerasına yansıdı 📌 Kurye kazayı yara almadan atlattı - TikTok",
+      "location": "Ankara Geneli",
+      "published": "2026-09-03T15:29:51+03:00",
+      "confidence": 60,
+      "sources": 1,
+      "status": "Sosyal medya / doğrulanmamış",
+      "summary": "TikTok üzerinden bulunan herkese açık kayıt.",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1SaURRb0tWY3FGb2U5MTY2WlJRbFJwcU1CSWlIVEZoSEtaSjgybkRyTFVCWU5FdUNCTWV4ZHRZYVJNTW9DRGFyX25OMTBYUC1TYUZQMVJqT2x5U3RPcGZYR1VYTQ?oc=5",
+      "platform": "TikTok",
+      "source_links": [
+        {
+          "platform": "TikTok",
+          "title": "🔴 Motokurye, trafikte arkadaşına el işareti yaparken kaza yaptı 📌 Ankara'da seyir halindeyken karşı yönden gelen mesai arkadaşına el işareti yapan motokuryenin, önündeki otomobile çarptığı anlar araç kamerasına yansıdı 📌 Kurye kazayı yara almadan atlattı - TikTok",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1SaURRb0tWY3FGb2U5MTY2WlJRbFJwcU1CSWlIVEZoSEtaSjgybkRyTFVCWU5FdUNCTWV4ZHRZYVJNTW9DRGFyX25OMTBYUC1TYUZQMVJqT2x5U3RPcGZYR1VYTQ?oc=5",
+          "published": "2026-09-03T15:29:51+03:00"
+        }
+      ],
+      "district": "Ankara Geneli",
+      "neighborhood": "Ankara Geneli",
+      "lat": 39.9334,
+      "lon": 32.8597,
+      "location_precision": "il",
+      "id": 3
+    },
+    {
       "category": "Silahlı Olay",
       "categories": [
         "Silahlı Olay"
@@ -96,7 +126,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 3
+      "id": 4
     },
     {
       "category": "Trafik Kazası",
@@ -126,7 +156,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 4
+      "id": 5
     },
     {
       "category": "Uyuşturucu",
@@ -156,7 +186,7 @@
       "lat": 40.0,
       "lon": 32.866,
       "location_precision": "ilçe",
-      "id": 5
+      "id": 6
     },
     {
       "category": "Uyuşturucu",
@@ -186,7 +216,7 @@
       "lat": 40.0,
       "lon": 32.866,
       "location_precision": "ilçe",
-      "id": 6
+      "id": 7
     },
     {
       "category": "Kavga",
@@ -217,7 +247,7 @@
       "lat": 39.952,
       "lon": 32.875,
       "location_precision": "ilçe",
-      "id": 7
+      "id": 8
     },
     {
       "category": "Kavga",
@@ -255,7 +285,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 8
+      "id": 9
     },
     {
       "category": "Yangın",
@@ -285,7 +315,7 @@
       "lat": 39.952,
       "lon": 32.875,
       "location_precision": "ilçe",
-      "id": 9
+      "id": 10
     },
     {
       "category": "Kavga",
@@ -315,7 +345,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 10
+      "id": 11
     },
     {
       "category": "İntihar",
@@ -346,7 +376,7 @@
       "lat": 39.9308,
       "lon": 32.9307,
       "location_precision": "ilçe",
-      "id": 11
+      "id": 12
     },
     {
       "category": "Kavga",
@@ -376,82 +406,6 @@
       "lat": 39.97,
       "lon": 32.584,
       "location_precision": "ilçe",
-      "id": 12
-    },
-    {
-      "category": "Silahlı Olay",
-      "categories": [
-        "Silahlı Olay",
-        "Kavga",
-        "Sağlık",
-        "Asayiş"
-      ],
-      "icon": "🔫",
-      "title": "Ankara'da Markette Silahlı Saldırı: Müşterilerin Arasında Birbirlerine Kurşun Yağdırdılar - bizimankara.com.tr",
-      "location": "Ankara Geneli",
-      "published": "2026-09-02T03:37:22+03:00",
-      "confidence": 75,
-      "sources": 8,
-      "status": "Muhtemel",
-      "summary": "8 farklı açık kaynakta bulunan aynı olay tek kayıtta birleştirildi.",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNR1pxTG1DZ2c1Z2hMY1cwdEMzeTBranFid2hZWllDUWk2eFRKdUJueTBWQUpoUC1nVTgyamZCeTZ1OUktR1RMOXRjUGw2eVU1YmJKVl9fZVpmRjJlUVBUd3hyRlZ4WE9HTno4Nnh0Nlpxb3RfN2FfWlNKclZLWWFUaXFUcFpQV1hhODJVSlZ4MmVBbk1Ld3N1enNLejFoQ2hyNzZTQjNvbng1QXIzaUlrQV9CTVg5NmMzT0HSAb8BQVVfeXFMUDNaNXdNYWx6WVhvZWRyNzdVTEEwQllYdndveEo3VEZDVGlfc0FXSUFXc0MxNnNfX3RWSVZkd3MzN0R6UFViekc5c2dkblh1NVBtMVp3QzBXUUFkYlZ0b1JrOFFDOHlZYTluVURFSWRyWE5wdUxQX1BmZ3NBVnZSeW15b3p5VWZnU2JkRkNvRXQwZjVRYU9xeGlsNGVBMnJmMkhwbS1oRWVZV3pRdzVSY3Nhb3RqSmVlbXFhTnlhcEk?oc=5",
-      "platform": "Haber",
-      "source_links": [
-        {
-          "platform": "Haber",
-          "title": "Ankara'da Markette Silahlı Saldırı: Müşterilerin Arasında Birbirlerine Kurşun Yağdırdılar - bizimankara.com.tr",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNR1pxTG1DZ2c1Z2hMY1cwdEMzeTBranFid2hZWllDUWk2eFRKdUJueTBWQUpoUC1nVTgyamZCeTZ1OUktR1RMOXRjUGw2eVU1YmJKVl9fZVpmRjJlUVBUd3hyRlZ4WE9HTno4Nnh0Nlpxb3RfN2FfWlNKclZLWWFUaXFUcFpQV1hhODJVSlZ4MmVBbk1Ld3N1enNLejFoQ2hyNzZTQjNvbng1QXIzaUlrQV9CTVg5NmMzT0HSAb8BQVVfeXFMUDNaNXdNYWx6WVhvZWRyNzdVTEEwQllYdndveEo3VEZDVGlfc0FXSUFXc0MxNnNfX3RWSVZkd3MzN0R6UFViekc5c2dkblh1NVBtMVp3QzBXUUFkYlZ0b1JrOFFDOHlZYTluVURFSWRyWE5wdUxQX1BmZ3NBVnZSeW15b3p5VWZnU2JkRkNvRXQwZjVRYU9xeGlsNGVBMnJmMkhwbS1oRWVZV3pRdzVSY3Nhb3RqSmVlbXFhTnlhcEk?oc=5",
-          "published": "2026-09-02T18:30:00+03:00"
-        },
-        {
-          "platform": "Haber",
-          "title": "Son dakika: Ankara’da markette silahlı kavga: 1 yaralı! | Son dakika haberleri - Habertürk",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPTk15TDBncVRHLTFOMUJZVE5mTGd1anNzYXpQUzRQOFViZE9kbWV2YzZOalBkaG5wR2VnWU9wcEU3WlBwY3lxUDZuMElmYy1qaXBtdlZDRkJJZEJuZTNLaERabFo2a3N1MG1jMEdmNlQ3bWszaGFFR0ZxSjVvT3NDb0ZJOGhSdXVyMHhuSXRoelZ2amVhc0hN?oc=5",
-          "published": "2026-09-02T14:18:27+03:00"
-        },
-        {
-          "platform": "Haber",
-          "title": "Ankara'da markette silahlı kavga: O anlar kamerada - Takvim",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBYUXNDemstckVKdjZ6QVRwczNyOHpobWh4VDNPeFdCV3pWMlFTcXRPN3B0WV9rVlpfTHJGZ2l5SEFTTHZ0U0NNR1gxbC1BeG1IdWpfenMzVWxfUkllcVNSN05kQm1waFdqUkdYZXhodGlKN1hyUmpqaQ?oc=5",
-          "published": "2026-09-02T10:33:34+03:00"
-        },
-        {
-          "platform": "Haber",
-          "title": "Ankara’da markette silahlı kavga kamerada - Yeni Mesaj",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbDZFakRVamRWaVNfVEMtZHhTX3hfa2tlYVhVcGhfdTZRYlFrb1NuaUpWTDBHeTFVWFZnbXdaRW1rM3pfYmVUVzNxZ3RsU2w5c25neEcxSTI3ZnJkbnR0N2t3bkdYUlk0eFBrN3pvUy14YUJNMEJveFpNMmJfT19mR1FfamxBNFNj?oc=5",
-          "published": "2026-09-02T10:28:00+03:00"
-        },
-        {
-          "platform": "Haber",
-          "title": "Ankara’da markette silahlı kavga dehşeti! Saldırgan yakalandı: O anlar kamerada - Sabah",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOQ3lEOGxxQVNMX1FoU3dLaDNfdGRzOWFrcnF1WkxtcXIwS2s4clFsZ2FCcGtVUHpnNlRHTTIzSWcxYW9hNDFNN0JRYmxycjFLMlNQakRGQkRnbjROV1JYOGRJQlpVbHRqZEVPanJJUi1HU045QU5wV2pGSzlNczdDNGVtTEFpWjMyci1pS3F5b1VBZGppSWFNZTNDaUhDYmVCMk0yUUh6OW9lTnBIemJoX3g5ZENQdw?oc=5",
-          "published": "2026-09-02T10:17:40+03:00"
-        },
-        {
-          "platform": "Haber",
-          "title": "Ankara'da marketteki silahlı kavganın yeni görüntüleri ortaya çıktı - A Haber",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOT2hnUzV6SjNYTG4wOGoxWVdJWEVMcmVHNHdyNFF6NXVRVjN4bVAxdWhKVGNjT3dmb3V5Q0NFVkcwbXh4VDAxSkd2UWsxTEpuQlZqZjBPR1hOODhxS205SDJBVlFOS05TT1pxRE5pV1RPV0RkWV9BUmVxbkl3Uk5qZTM1RktJMTR6LWQ3ZFhXZ2JNWWhPVFQxZ1ozdmdXR2FNbERRbFc0TUtzY3dfeHNsZzhsaGw?oc=5",
-          "published": "2026-09-02T07:33:10+03:00"
-        },
-        {
-          "platform": "Haber",
-          "title": "Sincan'da market tartışması silahlı kavgaya döndü - Aksiyon.com.TR",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNeTBPTnJxdndfeGQ4cVQ3ZkVqVXpOcDEzbkpqZ1ZiZFVXMEp2eHAwQ3VxcC1mSmVtNm85S1Vwcm52Q1dQeTlrNkFPcGUwUDJzSTRDeWVwVUNKRXRYWWx3elpGZW5sd2tDQWdWZ0NfSU13MHlnQnVYWjRPSUFVZVRPdW9JRHN3aWlHQnBV0gGQAUFVX3lxTFBlM3p3OW4xanRheDFqOVhwb005dlhWMGVseG1JNjBteW85Qjk0OHp1RHZnQl9wRThkTWdudUNNdzdnc3ZPYXNkSENhbHhxTW8tZkpobmRiTENQLVhOeTVMQmdJb2s3bldvQUM4Y0M2YnVfbDJySVN4em83Nk1peTUyWHNPTm9BSnVYUHZ4THpDYw?oc=5",
-          "published": "2026-09-02T07:17:30+03:00"
-        },
-        {
-          "platform": "Haber",
-          "title": "Ankara Sincan'da markette çıkan silahlı kavgada 1 kişi bacaklarından vurularak yaralandı - sondakika.com",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQZmhRQTg1MF9rTFJ1THE1UFNmaXJ4eUtZelVSSWw2Y1JkeUtaM3lNSVdYMFcwSHdJRnRoQ3NVTlB3QTlZc2hxdjBxRmxNRFZ1WjJKUmI4OW1rdkZhRFg1c0c4OXg0UzVzdDV4N3RldVgyb0trbzAtMDU5N2QxUE5tWVZUTnBTSUhyUVlib01DNlFaYWFySndlSGNkSFrSAZwBQVVfeXFMUGZoUUE4NTBfa0xSdUxxNVBTZmlyeHlLWXpVUklsNmNSZHlLWjN5TUlXWDBXMEh3SUZ0aENzVU5Qd0E5WXNocXYwcUZsTURWdVoySlJiODlta3ZGYURYNXNHODl4NFM1c3Q1eDd0ZXVYMm9La28wLTA1OTdkMVBObVlWVE5wU0lIclFZYm9NQzZRWmFhckp3ZUhjZEha?oc=5",
-          "published": "2026-09-02T03:37:22+03:00"
-        }
-      ],
-      "last_updated": "2026-09-02T14:18:27+03:00",
-      "district": "Ankara Geneli",
-      "neighborhood": "Ankara Geneli",
-      "lat": 39.9334,
-      "lon": 32.8597,
-      "location_precision": "il",
       "id": 13
     },
     {
@@ -921,6 +875,82 @@
       "last_updated": "2026-09-02T07:14:00+03:00"
     },
     {
+      "category": "Silahlı Olay",
+      "categories": [
+        "Silahlı Olay",
+        "Kavga",
+        "Sağlık",
+        "Asayiş"
+      ],
+      "icon": "🔫",
+      "title": "Ankara'da Markette Silahlı Saldırı: Müşterilerin Arasında Birbirlerine Kurşun Yağdırdılar - bizimankara.com.tr",
+      "location": "Ankara Geneli",
+      "published": "2026-09-02T03:37:22+03:00",
+      "confidence": 75,
+      "sources": 8,
+      "status": "Muhtemel",
+      "summary": "8 farklı açık kaynakta bulunan aynı olay tek kayıtta birleştirildi.",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNR1pxTG1DZ2c1Z2hMY1cwdEMzeTBranFid2hZWllDUWk2eFRKdUJueTBWQUpoUC1nVTgyamZCeTZ1OUktR1RMOXRjUGw2eVU1YmJKVl9fZVpmRjJlUVBUd3hyRlZ4WE9HTno4Nnh0Nlpxb3RfN2FfWlNKclZLWWFUaXFUcFpQV1hhODJVSlZ4MmVBbk1Ld3N1enNLejFoQ2hyNzZTQjNvbng1QXIzaUlrQV9CTVg5NmMzT0HSAb8BQVVfeXFMUDNaNXdNYWx6WVhvZWRyNzdVTEEwQllYdndveEo3VEZDVGlfc0FXSUFXc0MxNnNfX3RWSVZkd3MzN0R6UFViekc5c2dkblh1NVBtMVp3QzBXUUFkYlZ0b1JrOFFDOHlZYTluVURFSWRyWE5wdUxQX1BmZ3NBVnZSeW15b3p5VWZnU2JkRkNvRXQwZjVRYU9xeGlsNGVBMnJmMkhwbS1oRWVZV3pRdzVSY3Nhb3RqSmVlbXFhTnlhcEk?oc=5",
+      "platform": "Haber",
+      "source_links": [
+        {
+          "platform": "Haber",
+          "title": "Ankara'da Markette Silahlı Saldırı: Müşterilerin Arasında Birbirlerine Kurşun Yağdırdılar - bizimankara.com.tr",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNR1pxTG1DZ2c1Z2hMY1cwdEMzeTBranFid2hZWllDUWk2eFRKdUJueTBWQUpoUC1nVTgyamZCeTZ1OUktR1RMOXRjUGw2eVU1YmJKVl9fZVpmRjJlUVBUd3hyRlZ4WE9HTno4Nnh0Nlpxb3RfN2FfWlNKclZLWWFUaXFUcFpQV1hhODJVSlZ4MmVBbk1Ld3N1enNLejFoQ2hyNzZTQjNvbng1QXIzaUlrQV9CTVg5NmMzT0HSAb8BQVVfeXFMUDNaNXdNYWx6WVhvZWRyNzdVTEEwQllYdndveEo3VEZDVGlfc0FXSUFXc0MxNnNfX3RWSVZkd3MzN0R6UFViekc5c2dkblh1NVBtMVp3QzBXUUFkYlZ0b1JrOFFDOHlZYTluVURFSWRyWE5wdUxQX1BmZ3NBVnZSeW15b3p5VWZnU2JkRkNvRXQwZjVRYU9xeGlsNGVBMnJmMkhwbS1oRWVZV3pRdzVSY3Nhb3RqSmVlbXFhTnlhcEk?oc=5",
+          "published": "2026-09-02T18:30:00+03:00"
+        },
+        {
+          "platform": "Haber",
+          "title": "Son dakika: Ankara’da markette silahlı kavga: 1 yaralı! | Son dakika haberleri - Habertürk",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPTk15TDBncVRHLTFOMUJZVE5mTGd1anNzYXpQUzRQOFViZE9kbWV2YzZOalBkaG5wR2VnWU9wcEU3WlBwY3lxUDZuMElmYy1qaXBtdlZDRkJJZEJuZTNLaERabFo2a3N1MG1jMEdmNlQ3bWszaGFFR0ZxSjVvT3NDb0ZJOGhSdXVyMHhuSXRoelZ2amVhc0hN?oc=5",
+          "published": "2026-09-02T14:18:27+03:00"
+        },
+        {
+          "platform": "Haber",
+          "title": "Ankara'da markette silahlı kavga: O anlar kamerada - Takvim",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBYUXNDemstckVKdjZ6QVRwczNyOHpobWh4VDNPeFdCV3pWMlFTcXRPN3B0WV9rVlpfTHJGZ2l5SEFTTHZ0U0NNR1gxbC1BeG1IdWpfenMzVWxfUkllcVNSN05kQm1waFdqUkdYZXhodGlKN1hyUmpqaQ?oc=5",
+          "published": "2026-09-02T10:33:34+03:00"
+        },
+        {
+          "platform": "Haber",
+          "title": "Ankara’da markette silahlı kavga kamerada - Yeni Mesaj",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbDZFakRVamRWaVNfVEMtZHhTX3hfa2tlYVhVcGhfdTZRYlFrb1NuaUpWTDBHeTFVWFZnbXdaRW1rM3pfYmVUVzNxZ3RsU2w5c25neEcxSTI3ZnJkbnR0N2t3bkdYUlk0eFBrN3pvUy14YUJNMEJveFpNMmJfT19mR1FfamxBNFNj?oc=5",
+          "published": "2026-09-02T10:28:00+03:00"
+        },
+        {
+          "platform": "Haber",
+          "title": "Ankara’da markette silahlı kavga dehşeti! Saldırgan yakalandı: O anlar kamerada - Sabah",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOQ3lEOGxxQVNMX1FoU3dLaDNfdGRzOWFrcnF1WkxtcXIwS2s4clFsZ2FCcGtVUHpnNlRHTTIzSWcxYW9hNDFNN0JRYmxycjFLMlNQakRGQkRnbjROV1JYOGRJQlpVbHRqZEVPanJJUi1HU045QU5wV2pGSzlNczdDNGVtTEFpWjMyci1pS3F5b1VBZGppSWFNZTNDaUhDYmVCMk0yUUh6OW9lTnBIemJoX3g5ZENQdw?oc=5",
+          "published": "2026-09-02T10:17:40+03:00"
+        },
+        {
+          "platform": "Haber",
+          "title": "Ankara'da marketteki silahlı kavganın yeni görüntüleri ortaya çıktı - A Haber",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOT2hnUzV6SjNYTG4wOGoxWVdJWEVMcmVHNHdyNFF6NXVRVjN4bVAxdWhKVGNjT3dmb3V5Q0NFVkcwbXh4VDAxSkd2UWsxTEpuQlZqZjBPR1hOODhxS205SDJBVlFOS05TT1pxRE5pV1RPV0RkWV9BUmVxbkl3Uk5qZTM1RktJMTR6LWQ3ZFhXZ2JNWWhPVFQxZ1ozdmdXR2FNbERRbFc0TUtzY3dfeHNsZzhsaGw?oc=5",
+          "published": "2026-09-02T07:33:10+03:00"
+        },
+        {
+          "platform": "Haber",
+          "title": "Sincan'da market tartışması silahlı kavgaya döndü - Aksiyon.com.TR",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNeTBPTnJxdndfeGQ4cVQ3ZkVqVXpOcDEzbkpqZ1ZiZFVXMEp2eHAwQ3VxcC1mSmVtNm85S1Vwcm52Q1dQeTlrNkFPcGUwUDJzSTRDeWVwVUNKRXRYWWx3elpGZW5sd2tDQWdWZ0NfSU13MHlnQnVYWjRPSUFVZVRPdW9JRHN3aWlHQnBV0gGQAUFVX3lxTFBlM3p3OW4xanRheDFqOVhwb005dlhWMGVseG1JNjBteW85Qjk0OHp1RHZnQl9wRThkTWdudUNNdzdnc3ZPYXNkSENhbHhxTW8tZkpobmRiTENQLVhOeTVMQmdJb2s3bldvQUM4Y0M2YnVfbDJySVN4em83Nk1peTUyWHNPTm9BSnVYUHZ4THpDYw?oc=5",
+          "published": "2026-09-02T07:17:30+03:00"
+        },
+        {
+          "platform": "Haber",
+          "title": "Ankara Sincan'da markette çıkan silahlı kavgada 1 kişi bacaklarından vurularak yaralandı - sondakika.com",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQZmhRQTg1MF9rTFJ1THE1UFNmaXJ4eUtZelVSSWw2Y1JkeUtaM3lNSVdYMFcwSHdJRnRoQ3NVTlB3QTlZc2hxdjBxRmxNRFZ1WjJKUmI4OW1rdkZhRFg1c0c4OXg0UzVzdDV4N3RldVgyb0trbzAtMDU5N2QxUE5tWVZUTnBTSUhyUVlib01DNlFaYWFySndlSGNkSFrSAZwBQVVfeXFMUGZoUUE4NTBfa0xSdUxxNVBTZmlyeHlLWXpVUklsNmNSZHlLWjN5TUlXWDBXMEh3SUZ0aENzVU5Qd0E5WXNocXYwcUZsTURWdVoySlJiODlta3ZGYURYNXNHODl4NFM1c3Q1eDd0ZXVYMm9La28wLTA1OTdkMVBObVlWVE5wU0lIclFZYm9NQzZRWmFhckp3ZUhjZEha?oc=5",
+          "published": "2026-09-02T03:37:22+03:00"
+        }
+      ],
+      "last_updated": "2026-09-02T14:18:27+03:00",
+      "district": "Ankara Geneli",
+      "neighborhood": "Ankara Geneli",
+      "lat": 39.9334,
+      "lon": 32.8597,
+      "location_precision": "il",
+      "id": 27
+    },
+    {
       "category": "Taciz",
       "categories": [
         "Taciz",
@@ -949,7 +979,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 27
+      "id": 28
     },
     {
       "category": "Asayiş",
@@ -979,7 +1009,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 28
+      "id": 29
     },
     {
       "category": "Asayiş",
@@ -1009,7 +1039,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 29
+      "id": 30
     },
     {
       "category": "Asayiş",
@@ -1039,7 +1069,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 30
+      "id": 31
     },
     {
       "category": "Uyuşturucu",
@@ -1082,7 +1112,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 31
+      "id": 32
     },
     {
       "category": "Uyuşturucu",
@@ -1126,7 +1156,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 32
+      "id": 33
     },
     {
       "category": "Trafik Kazası",
@@ -1156,7 +1186,7 @@
       "lat": 39.79,
       "lon": 32.809,
       "location_precision": "ilçe",
-      "id": 33
+      "id": 34
     },
     {
       "category": "Kayıp Kişi",
@@ -1186,7 +1216,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 34
+      "id": 35
     },
     {
       "category": "Trafik Kazası",
@@ -1216,7 +1246,7 @@
       "lat": 39.9369,
       "lon": 32.992,
       "location_precision": "mahalle",
-      "id": 35
+      "id": 36
     },
     {
       "category": "Kavga",
@@ -1247,7 +1277,7 @@
       "lat": 39.9308,
       "lon": 32.9307,
       "location_precision": "ilçe",
-      "id": 36,
+      "id": 37,
       "district": "Mamak"
     },
     {
@@ -1297,7 +1327,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 37
+      "id": 38
     },
     {
       "category": "İntihar",
@@ -1341,7 +1371,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 38
+      "id": 39
     },
     {
       "category": "İntihar",
@@ -1371,7 +1401,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 39
+      "id": 40
     },
     {
       "category": "Cinayet",
@@ -1409,7 +1439,7 @@
       "lat": 39.9308,
       "lon": 32.9307,
       "location_precision": "ilçe",
-      "id": 40
+      "id": 41
     },
     {
       "category": "Cinayet",
@@ -1426,7 +1456,7 @@
       "summary": "Son Dakika üzerinden bulunan herkese açık kayıt.",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQZmlIZXo3aWV2dXJvZ0ZfeG4ybXVqX29OY0VZbERHMzllOHZjck5CalZfdzMtN0RuQnhLdDVLSkppbXB0ZDFUd1RrUlNKTjc2cndvdWdudWdrSlFFTXdjUldKaklJdXhISnFfSkNpOGhHTHRydmpmMFJnaFgwUDhSbkdVNnNOajYwb0FtWXB30gGOAUFVX3lxTFBmaUhlejdpZXZ1cm9nRl94bjJtdWpfb05jRVlsREczOWU4dmNyTkJqVl93My03RG5CeEt0NUtKSmltcHRkMVR3VGtSU0pONzZyd291Z251Z2tKUUVNd2NSV0pqSUl1eEhKcV9KQ2k4aEdMdHJ2amYwUmdoWDBQOFJuR1U2c05qNjBvQW1ZcHc?oc=5",
       "platform": "Haber",
-      "id": 41,
+      "id": 42,
       "source_links": [
         {
           "platform": "Haber",
@@ -1469,7 +1499,7 @@
       "lat": 39.9308,
       "lon": 32.9307,
       "location_precision": "ilçe",
-      "id": 42
+      "id": 43
     },
     {
       "category": "Cinayet",
@@ -1499,7 +1529,7 @@
       "lat": 39.9308,
       "lon": 32.9307,
       "location_precision": "ilçe",
-      "id": 43,
+      "id": 44,
       "district": "Mamak"
     },
     {
@@ -1530,7 +1560,7 @@
       "lat": 40.0,
       "lon": 32.866,
       "location_precision": "ilçe",
-      "id": 44
+      "id": 45
     },
     {
       "category": "Asayiş",
@@ -1567,7 +1597,7 @@
       "lat": 39.9467,
       "lon": 32.949,
       "location_precision": "mahalle",
-      "id": 45
+      "id": 46
     },
     {
       "category": "Sağlık",
@@ -1597,7 +1627,7 @@
       "lat": 40.187,
       "lon": 31.351,
       "location_precision": "ilçe",
-      "id": 46
+      "id": 47
     },
     {
       "category": "Cinayet",
@@ -1628,7 +1658,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 47
+      "id": 48
     },
     {
       "category": "Trafik Kazası",
@@ -1658,7 +1688,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 48
+      "id": 49
     },
     {
       "category": "Trafik Kazası",
@@ -1688,7 +1718,7 @@
       "lat": 39.79,
       "lon": 32.809,
       "location_precision": "ilçe",
-      "id": 49
+      "id": 50
     },
     {
       "category": "Trafik Kazası",
@@ -1718,7 +1748,7 @@
       "lat": 39.965,
       "lon": 32.805,
       "location_precision": "ilçe",
-      "id": 50
+      "id": 51
     },
     {
       "category": "Uyuşturucu",
@@ -1756,7 +1786,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 51
+      "id": 52
     },
     {
       "category": "Uyuşturucu",
@@ -1787,7 +1817,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 52
+      "id": 53
     },
     {
       "category": "Uyuşturucu",
@@ -1817,7 +1847,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 53
+      "id": 54
     },
     {
       "category": "Asayiş",
@@ -1847,7 +1877,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 54
+      "id": 55
     },
     {
       "category": "Trafik Kazası",
@@ -1877,7 +1907,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 55
+      "id": 56
     },
     {
       "category": "Trafik Kazası",
@@ -1907,7 +1937,7 @@
       "lat": 39.97,
       "lon": 32.584,
       "location_precision": "ilçe",
-      "id": 56
+      "id": 57
     },
     {
       "category": "Trafik Kazası",
@@ -1937,7 +1967,7 @@
       "lat": 39.9308,
       "lon": 32.9307,
       "location_precision": "ilçe",
-      "id": 57
+      "id": 58
     },
     {
       "category": "Asayiş",
@@ -1967,7 +1997,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 58
+      "id": 59
     },
     {
       "category": "Trafik Kazası",
@@ -1997,7 +2027,7 @@
       "lat": 39.97,
       "lon": 32.584,
       "location_precision": "ilçe",
-      "id": 59
+      "id": 60
     },
     {
       "category": "Uyuşturucu",
@@ -2027,7 +2057,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 60
+      "id": 61
     },
     {
       "category": "Uyuşturucu",
@@ -2057,7 +2087,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 61
+      "id": 62
     },
     {
       "category": "Uyuşturucu",
@@ -2087,7 +2117,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 62
+      "id": 63
     },
     {
       "category": "Asayiş",
@@ -2117,7 +2147,7 @@
       "lat": 39.9308,
       "lon": 32.9307,
       "location_precision": "ilçe",
-      "id": 63
+      "id": 64
     },
     {
       "category": "Yangın",
@@ -2147,7 +2177,7 @@
       "lat": 39.434,
       "lon": 32.497,
       "location_precision": "ilçe",
-      "id": 64
+      "id": 65
     },
     {
       "category": "Asayiş",
@@ -2184,7 +2214,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 65
+      "id": 66
     },
     {
       "category": "Uyuşturucu",
@@ -2215,7 +2245,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 66
+      "id": 67
     },
     {
       "category": "Asayiş",
@@ -2245,7 +2275,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 67
+      "id": 68
     },
     {
       "category": "Yangın",
@@ -2274,7 +2304,7 @@
       "lat": 39.9308,
       "lon": 32.9307,
       "location_precision": "ilçe",
-      "id": 68,
+      "id": 69,
       "district": "Mamak"
     },
     {
@@ -2305,7 +2335,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 69
+      "id": 70
     },
     {
       "category": "Silahlı Olay",
@@ -2349,7 +2379,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 70,
+      "id": 71,
       "last_updated": "2026-08-24T10:00:00+03:00"
     },
     {
@@ -2375,44 +2405,6 @@
           "published": "2026-08-24T10:00:00+03:00"
         }
       ],
-      "district": "Ankara Geneli",
-      "neighborhood": "Ankara Geneli",
-      "lat": 39.9334,
-      "lon": 32.8597,
-      "location_precision": "il",
-      "id": 71
-    },
-    {
-      "category": "Yangın",
-      "categories": [
-        "Yangın",
-        "Asayiş"
-      ],
-      "icon": "🔥",
-      "title": "SON DAKİKA! Ankara Valiliği duyurdu! Yangına neden olduğu belirtilen şahıs gözaltında! https://t.co/Y6lu6twiDU - x.com",
-      "location": "Ankara Geneli",
-      "published": "2026-08-23T10:00:00+03:00",
-      "confidence": 60,
-      "sources": 2,
-      "status": "Sosyal medya / doğrulanmamış",
-      "summary": "2 farklı açık kaynakta bulunan aynı olay tek kayıtta birleştirildi.",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE52Y3NjU1J0dU5TUXpwa3k3dl94WFQ1VzRKOU5DYlU3N3VGRzNqbjk2M1VzQTFfdkJsTHBtXzU2WTdscWxhT2YzbHRaSXg4eHROWTNhSDFPV3JjTGJEc1JnX05sdmVtWVV4T1QtSw?oc=5",
-      "platform": "X",
-      "source_links": [
-        {
-          "platform": "X",
-          "title": "SON DAKİKA! Ankara Valiliği duyurdu! Yangına neden olduğu belirtilen şahıs gözaltında! https://t.co/Y6lu6twiDU - x.com",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE52Y3NjU1J0dU5TUXpwa3k3dl94WFQ1VzRKOU5DYlU3N3VGRzNqbjk2M1VzQTFfdkJsTHBtXzU2WTdscWxhT2YzbHRaSXg4eHROWTNhSDFPV3JjTGJEc1JnX05sdmVtWVV4T1QtSw?oc=5",
-          "published": "2026-08-24T01:30:00+03:00"
-        },
-        {
-          "platform": "X",
-          "title": "SON DAKİKA! Ankara Valiliği duyurdu! Yangına neden olduğu belirtilen şahıs gözaltında! https://t.co/Y6lu6twiDU - x.com",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1qTkJGT0ZMWjl4Zm9tdi1kaHZRZWdSXzFPOXZMMENFcllSTjlKOGVlaTVTVEhpc2toT0N2RTlxaVlfZW54OE5fNzB0eUplU0NYQXdUUTBTek9ySTRaVGt4S1NB?oc=5",
-          "published": "2026-08-23T10:00:00+03:00"
-        }
-      ],
-      "last_updated": "2026-08-23T10:00:00+03:00",
       "district": "Ankara Geneli",
       "neighborhood": "Ankara Geneli",
       "lat": 39.9334,
@@ -2494,13 +2486,13 @@
         "Yangın"
       ],
       "icon": "🔥",
-      "title": "SON DAKİKA | Ankara Hüseyingazi Türbe Yolu üzerindeki ağaçlık alanda henüz belirlenemeyen nedenle yangın çıktı. İhbar üzerine bölgeye itfaiye ekipleri sevk edildi. Ekiplerin yangına müdahalesi sürüyor. - x.com",
-      "location": "Hüseyingazi / Mamak / Ankara",
-      "published": "2026-08-23T10:00:00+03:00",
+      "title": "Ankara Mamak'ta Ağaçlık Alanda Yangın Çıkması Üzerine İtfaiye Ekipleri Olay Yerinde - Mersin Haber",
+      "location": "Mamak / Ankara",
+      "published": "2026-08-23T21:39:00+03:00",
       "confidence": 75,
-      "sources": 4,
+      "sources": 1,
       "status": "Muhtemel",
-      "summary": "4 farklı açık kaynakta bulunan aynı olay tek kayıtta birleştirildi.",
+      "summary": "Mersin Haber üzerinden bulunan herkese açık kayıt.",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQYjU4cEt2MjRmNVBYdjRWUjFqMXZKZmRVN09ydlBiSHI3U0E2WUFJR1JvY1VzMmoxandIMTNKY3k4SWFIV0x0cE8yeGRrRFp0b2xrSXpOazBYbFlDUVVINVZjZm9rUjBRaUVuQ1FxcElKNFB5YkdzZGVMR3R4QWZudVRwejE5b2FfUWN4WENWaWR0V1JGQUJ1S1VfQk5sWTd6ZzV3X0xNZjZmbFdpWlNGSnJwbkJ6cTVuLUgyNmdIeE3SAVdBVV95cUxOMDcwUk1Ic3ltYkE4TGM3eEFmeXRIMU5IaWlFZy1xV293MXlhV2RrdTE4bm9tLUNkYU1fSnZ5Rzdjd2pXQ1FkQ1htRGlfay1RTUFMWkx4ejg?oc=5",
       "platform": "Haber",
       "source_links": [
@@ -2509,32 +2501,13 @@
           "title": "Ankara Mamak'ta Ağaçlık Alanda Yangın Çıkması Üzerine İtfaiye Ekipleri Olay Yerinde - Mersin Haber",
           "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQYjU4cEt2MjRmNVBYdjRWUjFqMXZKZmRVN09ydlBiSHI3U0E2WUFJR1JvY1VzMmoxandIMTNKY3k4SWFIV0x0cE8yeGRrRFp0b2xrSXpOazBYbFlDUVVINVZjZm9rUjBRaUVuQ1FxcElKNFB5YkdzZGVMR3R4QWZudVRwejE5b2FfUWN4WENWaWR0V1JGQUJ1S1VfQk5sWTd6ZzV3X0xNZjZmbFdpWlNGSnJwbkJ6cTVuLUgyNmdIeE3SAVdBVV95cUxOMDcwUk1Ic3ltYkE4TGM3eEFmeXRIMU5IaWlFZy1xV293MXlhV2RrdTE4bm9tLUNkYU1fSnZ5Rzdjd2pXQ1FkQ1htRGlfay1RTUFMWkx4ejg?oc=5",
           "published": "2026-08-23T21:39:00+03:00"
-        },
-        {
-          "platform": "X",
-          "title": "SON DAKİKA | Ankara Hüseyingazi Türbe Yolu üzerindeki ağaçlık alanda henüz belirlenemeyen nedenle yangın çıktı. İhbar üzerine bölgeye itfaiye ekipleri sevk edildi. Ekiplerin yangına müdahalesi sürüyor. - x.com",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBRclZTczhfZ1E5Q0kwVDI0d1ZqWWtvdWhQOU9tYUlaSUJZeDN5cVpfaDBoTHlBYkNUQ2F4VUtIMU1ucGx0Zk94UzNNTjc4cEUxQXY4R0kxcnpkRnFna3pPdTUwXzBkSENMTXp3?oc=5",
-          "published": "2026-08-23T21:31:15+03:00"
-        },
-        {
-          "platform": "X",
-          "title": "SON DAKİKA | Ankara Hüseyingazi Türbe Yolu üzerindeki ağaçlık alanda henüz belirlenemeyen nedenle yangın çıktı. İhbar üzerine bölgeye itfaiye ekipleri sevk edildi. Ekiplerin yangına müdahalesi sürüyor. - x.com",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1aRkpDUmJLcFVZR0M0SlpYUXpGWUJTM0F0Q1d5MlV2MzNBNmI1emdwQVFubXEyZnB4VURlM09SOFV5SDRYNV8ySG8ydGh0LVZWRzNWWkdIUEZFNTBUNHRRbA?oc=5",
-          "published": "2026-08-23T21:31:15+03:00"
-        },
-        {
-          "platform": "X",
-          "title": "Son dakika l Ankara Mamak'ta ağaçlık alanda yangın çıktı https://t.co/yKyRmuTFsO - x.com",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5EajF2TU1zQV96WnZZZ3UtWEhwTVlpRjFaRDVZNzh1U3Z1TDFCTUlpZ0hRSTVYSlpMWU9zRVBoRTM2MGJTMEZRWjFSM1psZ3VHVlgzQUFONDRudlBmenprd2VXQjU?oc=5",
-          "published": "2026-08-23T10:00:00+03:00"
         }
       ],
-      "last_updated": "2026-08-23T21:31:15+03:00",
       "district": "Mamak",
-      "neighborhood": "Hüseyingazi",
-      "lat": 39.9587,
-      "lon": 32.944,
-      "location_precision": "mahalle",
+      "neighborhood": "Mamak Geneli",
+      "lat": 39.9308,
+      "lon": 32.9307,
+      "location_precision": "ilçe",
       "id": 75
     },
     {
@@ -2605,6 +2578,44 @@
       "id": 77
     },
     {
+      "category": "Yangın",
+      "categories": [
+        "Yangın",
+        "Asayiş"
+      ],
+      "icon": "🔥",
+      "title": "SON DAKİKA! Ankara Valiliği duyurdu! Yangına neden olduğu belirtilen şahıs gözaltında! https://t.co/Y6lu6twiDU - x.com",
+      "location": "Ankara Geneli",
+      "published": "2026-08-23T10:00:00+03:00",
+      "confidence": 60,
+      "sources": 2,
+      "status": "Sosyal medya / doğrulanmamış",
+      "summary": "2 farklı açık kaynakta bulunan aynı olay tek kayıtta birleştirildi.",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE52Y3NjU1J0dU5TUXpwa3k3dl94WFQ1VzRKOU5DYlU3N3VGRzNqbjk2M1VzQTFfdkJsTHBtXzU2WTdscWxhT2YzbHRaSXg4eHROWTNhSDFPV3JjTGJEc1JnX05sdmVtWVV4T1QtSw?oc=5",
+      "platform": "X",
+      "source_links": [
+        {
+          "platform": "X",
+          "title": "SON DAKİKA! Ankara Valiliği duyurdu! Yangına neden olduğu belirtilen şahıs gözaltında! https://t.co/Y6lu6twiDU - x.com",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE52Y3NjU1J0dU5TUXpwa3k3dl94WFQ1VzRKOU5DYlU3N3VGRzNqbjk2M1VzQTFfdkJsTHBtXzU2WTdscWxhT2YzbHRaSXg4eHROWTNhSDFPV3JjTGJEc1JnX05sdmVtWVV4T1QtSw?oc=5",
+          "published": "2026-08-24T01:30:00+03:00"
+        },
+        {
+          "platform": "X",
+          "title": "SON DAKİKA! Ankara Valiliği duyurdu! Yangına neden olduğu belirtilen şahıs gözaltında! https://t.co/Y6lu6twiDU - x.com",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1qTkJGT0ZMWjl4Zm9tdi1kaHZRZWdSXzFPOXZMMENFcllSTjlKOGVlaTVTVEhpc2toT0N2RTlxaVlfZW54OE5fNzB0eUplU0NYQXdUUTBTek9ySTRaVGt4S1NB?oc=5",
+          "published": "2026-08-23T10:00:00+03:00"
+        }
+      ],
+      "last_updated": "2026-08-23T10:00:00+03:00",
+      "district": "Ankara Geneli",
+      "neighborhood": "Ankara Geneli",
+      "lat": 39.9334,
+      "lon": 32.8597,
+      "location_precision": "il",
+      "id": 78
+    },
+    {
       "category": "Kayıp Kişi",
       "categories": [
         "Kayıp Kişi"
@@ -2638,7 +2649,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 78,
+      "id": 79,
       "last_updated": "2026-08-23T10:00:00+03:00"
     },
     {
@@ -2674,7 +2685,7 @@
       "lat": 39.9308,
       "lon": 32.9307,
       "location_precision": "ilçe",
-      "id": 79,
+      "id": 80,
       "district": "Mamak",
       "last_updated": "2026-08-23T10:00:00+03:00"
     },
@@ -2705,7 +2716,7 @@
       "lat": 39.9308,
       "lon": 32.9307,
       "location_precision": "ilçe",
-      "id": 80,
+      "id": 81,
       "district": "Mamak"
     },
     {
@@ -2742,7 +2753,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 81,
+      "id": 82,
       "last_updated": "2026-08-23T10:00:00+03:00"
     },
     {
@@ -2774,7 +2785,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 82
+      "id": 83
     },
     {
       "category": "Asayiş",
@@ -2804,7 +2815,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 83
+      "id": 84
     },
     {
       "category": "Yangın",
@@ -2834,7 +2845,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 84
+      "id": 85
     },
     {
       "category": "Cinayet",
@@ -2865,7 +2876,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 85
+      "id": 86
     },
     {
       "category": "Asayiş",
@@ -2895,7 +2906,7 @@
       "lat": 40.167,
       "lon": 31.921,
       "location_precision": "ilçe",
-      "id": 86
+      "id": 87
     },
     {
       "category": "Trafik Kazası",
@@ -2926,7 +2937,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 87
+      "id": 88
     },
     {
       "category": "Asayiş",
@@ -2956,7 +2967,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 88
+      "id": 89
     },
     {
       "category": "Uyuşturucu",
@@ -2987,7 +2998,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 89
+      "id": 90
     },
     {
       "category": "Trafik Kazası",
@@ -3025,7 +3036,7 @@
       "lat": 39.92,
       "lon": 33.23,
       "location_precision": "ilçe",
-      "id": 90
+      "id": 91
     },
     {
       "category": "Uyuşturucu",
@@ -3055,7 +3066,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 91
+      "id": 92
     },
     {
       "category": "Yangın",
@@ -3085,7 +3096,7 @@
       "lat": 39.97,
       "lon": 32.584,
       "location_precision": "ilçe",
-      "id": 92
+      "id": 93
     },
     {
       "category": "Sağlık",
@@ -3115,7 +3126,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 93
+      "id": 94
     },
     {
       "category": "Trafik Kazası",
@@ -3145,7 +3156,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 94
+      "id": 95
     },
     {
       "category": "Sağlık",
@@ -3175,7 +3186,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 95
+      "id": 96
     },
     {
       "category": "Cinayet",
@@ -3205,7 +3216,7 @@
       "lat": 40.238,
       "lon": 33.033,
       "location_precision": "ilçe",
-      "id": 96
+      "id": 97
     },
     {
       "category": "Uyuşturucu",
@@ -3241,7 +3252,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 97,
+      "id": 98,
       "last_updated": "2026-08-20T10:00:00+03:00"
     },
     {
@@ -3272,7 +3283,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 98
+      "id": 99
     },
     {
       "category": "Asayiş",
@@ -3302,7 +3313,7 @@
       "lat": 39.903,
       "lon": 32.859,
       "location_precision": "ilçe",
-      "id": 99
+      "id": 100
     },
     {
       "category": "Yangın",
@@ -3310,13 +3321,13 @@
         "Yangın"
       ],
       "icon": "🔥",
-      "title": "Polatlı'da seyir halindeki otomobilde yangın çıktı - Saray Medya",
+      "title": "Ankara'nın Polatlı ilçesinde seyir halindeki bir otomobil yandı! Polatlı- Ankara yolu üzerinde İstiklal Mahallesi Hacı Bayram Veli Bulvarı'nda seyir halindeki bir araçtan henüz belirlenemeyen bir nedenle birden alevler yükselmeye başladı. Sürücünün durumu far - TikTok",
       "location": "Polatlı / Ankara",
       "published": "2026-08-19T10:00:00+03:00",
       "confidence": 75,
-      "sources": 2,
+      "sources": 3,
       "status": "Muhtemel",
-      "summary": "2 farklı açık kaynakta bulunan aynı olay tek kayıtta birleştirildi.",
+      "summary": "3 farklı açık kaynakta bulunan aynı olay tek kayıtta birleştirildi.",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOdFFOY0J4azd1bkJOMlNyQXdzWFh1bjJ6N1NybEU5UWNwbjYwSGNiRGxyOWFzMG9XVUUzUTFYNzdGMGJkNThxUGNlLTM1bEtDcEZHZWZlaFdSZGxUNHZtb3V3MUc3NEM3RVZHUWVYTVpTZmRaOFZjODA4ZGRDYkh1TGdNVDFIZTczcE9DRUE1eVZPR1d3RkE?oc=5",
       "platform": "Haber",
       "source_links": [
@@ -3331,6 +3342,12 @@
           "title": "Polatlı'da Seyir Halindeki Araçta Yangın - sondakika.com",
           "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNOElqX2YxckNZNTNLQWVIbGROZXVab1FDN2FqdkNVYXBnaE1PZ2tnSnBlMVZ6S3otb2dpN3NLQ3RhVnJqTDU0ZnY2cEt6MmQzek8yYk85SHhyWnBwUWo1TE96aGNpSVRaUFQxRXBLRjhSdC1QeFVUYjlXeDVQSmVwM3RhUmZ0WWF0NG53RWl1MkNBeDdZ0gGPAUFVX3lxTE0zeVJrU3kwY01nYWc5YkFfRWNSOWdGb2hQa0lNR3pTcnU1UDVmZlhQZVVWQVFFUkt0TU1SNENjX1BTcUdRZ2VKaGVHbWs0c2FjMzNueWtvOHdJSzVaRk5oTEdVWU5INk9rTWRkVGRoWk0zRjhHOXdXb3BMbFdBRE5penJNb0dTc3VvbVc5NDdR?oc=5",
           "published": "2026-08-19T10:00:00+03:00"
+        },
+        {
+          "platform": "TikTok",
+          "title": "Ankara'nın Polatlı ilçesinde seyir halindeki bir otomobil yandı! Polatlı- Ankara yolu üzerinde İstiklal Mahallesi Hacı Bayram Veli Bulvarı'nda seyir halindeki bir araçtan henüz belirlenemeyen bir nedenle birden alevler yükselmeye başladı. Sürücünün durumu far - TikTok",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1idE1jX05QdWd3WEhRLUJjQTZzUS02R213Q2hjRXRHWlk4N2RTdmFfNldmLUNUSWhqTC1CUk05eGtyVHBxaHU1OHFKd3lCV1AyR0JTSDg3Yl9xSTVwM2NwanZjb0JWeGQ2Q1h2a3dsMUlVZw?oc=5",
+          "published": "2026-08-19T10:00:00+03:00"
         }
       ],
       "last_updated": "2026-08-19T10:00:00+03:00",
@@ -3339,7 +3356,7 @@
       "lat": 39.584,
       "lon": 32.147,
       "location_precision": "ilçe",
-      "id": 100
+      "id": 101
     },
     {
       "category": "Asayiş",
@@ -3376,7 +3393,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 101
+      "id": 102
     },
     {
       "category": "Trafik Kazası",
@@ -3407,7 +3424,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 102
+      "id": 103
     },
     {
       "category": "Yangın",
@@ -3437,7 +3454,7 @@
       "lat": 39.584,
       "lon": 32.147,
       "location_precision": "ilçe",
-      "id": 103
+      "id": 104
     },
     {
       "category": "Asayiş",
@@ -3467,7 +3484,7 @@
       "lat": 39.948,
       "lon": 32.669,
       "location_precision": "ilçe",
-      "id": 104
+      "id": 105
     },
     {
       "category": "Asayiş",
@@ -3497,7 +3514,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 105
+      "id": 106
     },
     {
       "category": "Asayiş",
@@ -3527,7 +3544,7 @@
       "lat": 39.9308,
       "lon": 32.9307,
       "location_precision": "ilçe",
-      "id": 106
+      "id": 107
     },
     {
       "category": "Trafik Kazası",
@@ -3557,7 +3574,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 107
+      "id": 108
     },
     {
       "category": "Trafik Kazası",
@@ -3587,7 +3604,7 @@
       "lat": 40.039,
       "lon": 32.902,
       "location_precision": "ilçe",
-      "id": 108
+      "id": 109
     },
     {
       "category": "Trafik Kazası",
@@ -3617,7 +3634,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 109
+      "id": 110
     },
     {
       "category": "Trafik Kazası",
@@ -3648,7 +3665,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 110
+      "id": 111
     },
     {
       "category": "Uyuşturucu",
@@ -3679,7 +3696,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 111
+      "id": 112
     },
     {
       "category": "Uyuşturucu",
@@ -3741,7 +3758,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 112
+      "id": 113
     },
     {
       "category": "Uyuşturucu",
@@ -3810,7 +3827,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 113
+      "id": 114
     },
     {
       "category": "Uyuşturucu",
@@ -3854,7 +3871,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 114
+      "id": 115
     },
     {
       "category": "Uyuşturucu",
@@ -3885,7 +3902,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 115
+      "id": 116
     },
     {
       "category": "Uyuşturucu",
@@ -3922,7 +3939,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 116,
+      "id": 117,
       "last_updated": "2026-08-16T10:00:00+03:00"
     },
     {
@@ -3954,7 +3971,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 117
+      "id": 118
     },
     {
       "category": "Uyuşturucu",
@@ -3985,7 +4002,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 118
+      "id": 119
     },
     {
       "category": "Uyuşturucu",
@@ -4041,7 +4058,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 119
+      "id": 120
     },
     {
       "category": "Uyuşturucu",
@@ -4072,7 +4089,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 120
+      "id": 121
     },
     {
       "category": "Uyuşturucu",
@@ -4109,7 +4126,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 121,
+      "id": 122,
       "last_updated": "2026-08-16T10:00:00+03:00"
     },
     {
@@ -4141,7 +4158,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 122
+      "id": 123
     },
     {
       "category": "Asayiş",
@@ -4171,7 +4188,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 123
+      "id": 124
     },
     {
       "category": "Asayiş",
@@ -4203,36 +4220,6 @@
         }
       ],
       "last_updated": "2026-08-16T10:00:00+03:00",
-      "district": "Ankara Geneli",
-      "neighborhood": "Ankara Geneli",
-      "lat": 39.9334,
-      "lon": 32.8597,
-      "location_precision": "il",
-      "id": 124
-    },
-    {
-      "category": "Kayıp Kişi",
-      "categories": [
-        "Kayıp Kişi"
-      ],
-      "icon": "👤",
-      "title": "Fenerbahçe, Ankara'da kayıp - turizmdays.com",
-      "location": "Ankara Geneli",
-      "published": "2026-08-16T02:52:37+03:00",
-      "confidence": 75,
-      "sources": 1,
-      "status": "Muhtemel",
-      "summary": "turizmdays.com üzerinden bulunan herkese açık kayıt.",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5uSU1RcnpleXYwbE1sNWdRSzZOR3RjRXJVODAxNjMtSTZ5Nml3WnFyZTFNdTYzSzRhUnl1VXJmdWQ0M3RwOE9hMVVqTThWMXAzVjNodkMtV3RfSjJta295UGZpdTJ4aUlTY2lxS01WQnQ?oc=5",
-      "platform": "Haber",
-      "source_links": [
-        {
-          "platform": "Haber",
-          "title": "Fenerbahçe, Ankara'da kayıp - turizmdays.com",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5uSU1RcnpleXYwbE1sNWdRSzZOR3RjRXJVODAxNjMtSTZ5Nml3WnFyZTFNdTYzSzRhUnl1VXJmdWQ0M3RwOE9hMVVqTThWMXAzVjNodkMtV3RfSjJta295UGZpdTJ4aUlTY2lxS01WQnQ?oc=5",
-          "published": "2026-08-16T02:52:37+03:00"
-        }
-      ],
       "district": "Ankara Geneli",
       "neighborhood": "Ankara Geneli",
       "lat": 39.9334,
@@ -4279,6 +4266,36 @@
       "id": 126
     },
     {
+      "category": "Kayıp Kişi",
+      "categories": [
+        "Kayıp Kişi"
+      ],
+      "icon": "👤",
+      "title": "Fenerbahçe, Ankara'da kayıp - turizmdays.com",
+      "location": "Ankara Geneli",
+      "published": "2026-08-16T02:52:37+03:00",
+      "confidence": 75,
+      "sources": 1,
+      "status": "Muhtemel",
+      "summary": "turizmdays.com üzerinden bulunan herkese açık kayıt.",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5uSU1RcnpleXYwbE1sNWdRSzZOR3RjRXJVODAxNjMtSTZ5Nml3WnFyZTFNdTYzSzRhUnl1VXJmdWQ0M3RwOE9hMVVqTThWMXAzVjNodkMtV3RfSjJta295UGZpdTJ4aUlTY2lxS01WQnQ?oc=5",
+      "platform": "Haber",
+      "source_links": [
+        {
+          "platform": "Haber",
+          "title": "Fenerbahçe, Ankara'da kayıp - turizmdays.com",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5uSU1RcnpleXYwbE1sNWdRSzZOR3RjRXJVODAxNjMtSTZ5Nml3WnFyZTFNdTYzSzRhUnl1VXJmdWQ0M3RwOE9hMVVqTThWMXAzVjNodkMtV3RfSjJta295UGZpdTJ4aUlTY2lxS01WQnQ?oc=5",
+          "published": "2026-08-16T02:52:37+03:00"
+        }
+      ],
+      "district": "Ankara Geneli",
+      "neighborhood": "Ankara Geneli",
+      "lat": 39.9334,
+      "lon": 32.8597,
+      "location_precision": "il",
+      "id": 127
+    },
+    {
       "category": "Uyuşturucu",
       "categories": [
         "Uyuşturucu",
@@ -4314,7 +4331,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 127
+      "id": 128
     },
     {
       "category": "Trafik Kazası",
@@ -4344,7 +4361,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 128
+      "id": 129
     },
     {
       "category": "Asayiş",
@@ -4374,7 +4391,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 129
+      "id": 130
     },
     {
       "category": "Yangın",
@@ -4406,7 +4423,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 130
+      "id": 131
     },
     {
       "category": "Yangın",
@@ -4436,7 +4453,7 @@
       "lat": 40.135,
       "lon": 33.086,
       "location_precision": "ilçe",
-      "id": 131
+      "id": 132
     },
     {
       "category": "Yangın",
@@ -4466,7 +4483,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 132
+      "id": 133
     },
     {
       "category": "Silahlı Olay",
@@ -4504,7 +4521,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 133
+      "id": 134
     },
     {
       "category": "Cinayet",
@@ -4547,7 +4564,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 134
+      "id": 135
     },
     {
       "category": "Cinayet",
@@ -4577,7 +4594,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 135
+      "id": 136
     },
     {
       "category": "Asayiş",
@@ -4607,7 +4624,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 136
+      "id": 137
     },
     {
       "category": "Silahlı Olay",
@@ -4638,7 +4655,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 137
+      "id": 138
     },
     {
       "category": "Uyuşturucu",
@@ -4669,7 +4686,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 138
+      "id": 139
     },
     {
       "category": "Taciz",
@@ -4699,7 +4716,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 139
+      "id": 140
     },
     {
       "category": "Trafik Kazası",
@@ -4755,7 +4772,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 140
+      "id": 141
     },
     {
       "category": "Trafik Kazası",
@@ -4785,7 +4802,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 141
+      "id": 142
     },
     {
       "category": "Trafik Kazası",
@@ -4816,7 +4833,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 142
+      "id": 143
     },
     {
       "category": "Trafik Kazası",
@@ -4847,7 +4864,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 143
+      "id": 144
     },
     {
       "category": "Asayiş",
@@ -4877,7 +4894,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 144
+      "id": 145
     },
     {
       "category": "Asayiş",
@@ -4907,7 +4924,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 145
+      "id": 146
     },
     {
       "category": "Asayiş",
@@ -4937,7 +4954,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 146
+      "id": 147
     },
     {
       "category": "Asayiş",
@@ -4966,7 +4983,7 @@
       "lat": 39.9308,
       "lon": 32.9307,
       "location_precision": "ilçe",
-      "id": 147,
+      "id": 148,
       "district": "Mamak"
     },
     {
@@ -4999,7 +5016,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 148
+      "id": 149
     },
     {
       "category": "Asayiş",
@@ -5029,7 +5046,7 @@
       "lat": 39.965,
       "lon": 32.805,
       "location_precision": "ilçe",
-      "id": 149
+      "id": 150
     },
     {
       "category": "Asayiş",
@@ -5059,7 +5076,7 @@
       "lat": 39.584,
       "lon": 32.147,
       "location_precision": "ilçe",
-      "id": 150
+      "id": 151
     },
     {
       "category": "Uyuşturucu",
@@ -5089,7 +5106,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 151
+      "id": 152
     },
     {
       "category": "Silahlı Olay",
@@ -5120,7 +5137,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 152
+      "id": 153
     },
     {
       "category": "Terör",
@@ -5150,7 +5167,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 153
+      "id": 154
     },
     {
       "category": "Terör",
@@ -5181,7 +5198,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 154
+      "id": 155
     },
     {
       "category": "Terör",
@@ -5211,7 +5228,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 155
+      "id": 156
     },
     {
       "category": "Silahlı Olay",
@@ -5243,7 +5260,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 156
+      "id": 157
     },
     {
       "category": "Terör",
@@ -5274,7 +5291,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 157
+      "id": 158
     },
     {
       "category": "Yangın",
@@ -5318,7 +5335,7 @@
       "lat": 39.584,
       "lon": 32.147,
       "location_precision": "ilçe",
-      "id": 158
+      "id": 159
     },
     {
       "category": "Uyuşturucu",
@@ -5368,7 +5385,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 159
+      "id": 160
     },
     {
       "category": "Uyuşturucu",
@@ -5429,7 +5446,7 @@
       "lat": 39.554,
       "lon": 33.123,
       "location_precision": "ilçe",
-      "id": 160
+      "id": 161
     },
     {
       "category": "Hırsızlık",
@@ -5460,7 +5477,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 161
+      "id": 162
     },
     {
       "category": "Asayiş",
@@ -5490,7 +5507,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 162
+      "id": 163
     },
     {
       "category": "Uyuşturucu",
@@ -5534,7 +5551,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 163
+      "id": 164
     },
     {
       "category": "Yangın",
@@ -5565,7 +5582,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 164
+      "id": 165
     },
     {
       "category": "Uyuşturucu",
@@ -5596,7 +5613,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 165
+      "id": 166
     },
     {
       "category": "Trafik Kazası",
@@ -5646,7 +5663,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 166
+      "id": 167
     },
     {
       "category": "Silahlı Olay",
@@ -5678,7 +5695,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 167
+      "id": 168
     },
     {
       "category": "Trafik Kazası",
@@ -5708,7 +5725,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 168
+      "id": 169
     },
     {
       "category": "Trafik Kazası",
@@ -5739,7 +5756,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 169
+      "id": 170
     },
     {
       "category": "Asayiş",
@@ -5769,7 +5786,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 170
+      "id": 171
     },
     {
       "category": "Cinayet",
@@ -5799,7 +5816,7 @@
       "lat": 40.47,
       "lon": 32.65,
       "location_precision": "ilçe",
-      "id": 171
+      "id": 172
     },
     {
       "category": "Uyuşturucu",
@@ -5830,7 +5847,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 172
+      "id": 173
     },
     {
       "category": "Uyuşturucu",
@@ -5861,7 +5878,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 173
+      "id": 174
     },
     {
       "category": "Yangın",
@@ -5891,7 +5908,7 @@
       "lat": 39.948,
       "lon": 32.669,
       "location_precision": "ilçe",
-      "id": 174
+      "id": 175
     },
     {
       "category": "Sağlık",
@@ -5921,7 +5938,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 175
+      "id": 176
     },
     {
       "category": "Asayiş",
@@ -5951,7 +5968,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 176
+      "id": 177
     },
     {
       "category": "Cinayet",
@@ -5982,7 +5999,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 177
+      "id": 178
     },
     {
       "category": "Uyuşturucu",
@@ -6020,7 +6037,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 178
+      "id": 179
     },
     {
       "category": "Uyuşturucu",
@@ -6094,7 +6111,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 179
+      "id": 180
     },
     {
       "category": "Uyuşturucu",
@@ -6125,7 +6142,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 180
+      "id": 181
     },
     {
       "category": "Uyuşturucu",
@@ -6155,7 +6172,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 181
+      "id": 182
     },
     {
       "category": "Cinayet",
@@ -6192,7 +6209,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 182
+      "id": 183
     },
     {
       "category": "Cinayet",
@@ -6224,7 +6241,7 @@
       "lat": 39.903,
       "lon": 32.859,
       "location_precision": "ilçe",
-      "id": 183
+      "id": 184
     },
     {
       "category": "Silahlı Olay",
@@ -6255,7 +6272,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 184
+      "id": 185
     },
     {
       "category": "Kavga",
@@ -6285,7 +6302,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 185
+      "id": 186
     },
     {
       "category": "Silahlı Olay",
@@ -6315,7 +6332,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 186
+      "id": 187
     },
     {
       "category": "Cinayet",
@@ -6346,7 +6363,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 187
+      "id": 188
     },
     {
       "category": "Cinayet",
@@ -6377,7 +6394,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 188
+      "id": 189
     },
     {
       "category": "Trafik Kazası",
@@ -6407,7 +6424,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 189
+      "id": 190
     },
     {
       "category": "Sağlık",
@@ -6437,7 +6454,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 190
+      "id": 191
     },
     {
       "category": "Diğer",
@@ -6467,7 +6484,7 @@
       "lat": 39.948,
       "lon": 32.669,
       "location_precision": "ilçe",
-      "id": 191
+      "id": 192
     },
     {
       "category": "Yangın",
@@ -6497,7 +6514,7 @@
       "lat": 39.965,
       "lon": 32.805,
       "location_precision": "ilçe",
-      "id": 192
+      "id": 193
     },
     {
       "category": "Trafik Kazası",
@@ -6528,7 +6545,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 193
+      "id": 194
     },
     {
       "category": "Asayiş",
@@ -6558,7 +6575,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 194
+      "id": 195
     },
     {
       "category": "Asayiş",
@@ -6588,7 +6605,7 @@
       "lat": 39.948,
       "lon": 32.669,
       "location_precision": "ilçe",
-      "id": 195
+      "id": 196
     },
     {
       "category": "Hırsızlık",
@@ -6619,7 +6636,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 196
+      "id": 197
     },
     {
       "category": "Yangın",
@@ -6649,7 +6666,7 @@
       "lat": 39.97,
       "lon": 32.584,
       "location_precision": "ilçe",
-      "id": 197
+      "id": 198
     },
     {
       "category": "Taciz",
@@ -6680,7 +6697,7 @@
       "lat": 39.9308,
       "lon": 32.9307,
       "location_precision": "ilçe",
-      "id": 198
+      "id": 199
     },
     {
       "category": "Taciz",
@@ -6710,7 +6727,7 @@
       "lat": 39.9308,
       "lon": 32.9307,
       "location_precision": "ilçe",
-      "id": 199,
+      "id": 200,
       "district": "Mamak"
     },
     {
@@ -6741,7 +6758,7 @@
       "lat": 39.9308,
       "lon": 32.9307,
       "location_precision": "ilçe",
-      "id": 200,
+      "id": 201,
       "district": "Mamak"
     },
     {
@@ -6773,7 +6790,7 @@
       "lat": 39.9308,
       "lon": 32.9307,
       "location_precision": "ilçe",
-      "id": 201
+      "id": 202
     },
     {
       "category": "Taciz",
@@ -6816,7 +6833,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 202
+      "id": 203
     },
     {
       "category": "Taciz",
@@ -6848,7 +6865,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 203
+      "id": 204
     },
     {
       "category": "Asayiş",
@@ -6878,7 +6895,7 @@
       "lat": 39.903,
       "lon": 32.859,
       "location_precision": "ilçe",
-      "id": 204
+      "id": 205
     },
     {
       "category": "Kayıp Kişi",
@@ -6908,7 +6925,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 205
+      "id": 206
     },
     {
       "category": "Yangın",
@@ -6937,7 +6954,7 @@
       "lat": 39.9308,
       "lon": 32.9307,
       "location_precision": "ilçe",
-      "id": 206,
+      "id": 207,
       "district": "Mamak"
     },
     {
@@ -6976,7 +6993,7 @@
       "lat": 40.21,
       "lon": 32.245,
       "location_precision": "ilçe",
-      "id": 207
+      "id": 208
     },
     {
       "category": "Yangın",
@@ -7005,7 +7022,7 @@
       "lat": 39.9308,
       "lon": 32.9307,
       "location_precision": "ilçe",
-      "id": 208,
+      "id": 209,
       "district": "Mamak"
     },
     {
@@ -7036,7 +7053,7 @@
       "lat": 40.21,
       "lon": 32.245,
       "location_precision": "ilçe",
-      "id": 209
+      "id": 210
     },
     {
       "category": "Yangın",
@@ -7066,7 +7083,7 @@
       "lat": 40.039,
       "lon": 32.902,
       "location_precision": "ilçe",
-      "id": 210
+      "id": 211
     },
     {
       "category": "Trafik Kazası",
@@ -7096,7 +7113,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 211
+      "id": 212
     },
     {
       "category": "Cinayet",
@@ -7126,7 +7143,7 @@
       "lat": 40.21,
       "lon": 32.245,
       "location_precision": "ilçe",
-      "id": 212
+      "id": 213
     },
     {
       "category": "Sağlık",
@@ -7156,7 +7173,7 @@
       "lat": 39.97,
       "lon": 32.584,
       "location_precision": "ilçe",
-      "id": 213
+      "id": 214
     },
     {
       "category": "Asayiş",
@@ -7186,7 +7203,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 214
+      "id": 215
     },
     {
       "category": "Cinayet",
@@ -7216,7 +7233,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 215
+      "id": 216
     },
     {
       "category": "Cinayet",
@@ -7246,7 +7263,7 @@
       "lat": 40.21,
       "lon": 32.245,
       "location_precision": "ilçe",
-      "id": 216
+      "id": 217
     },
     {
       "category": "Silahlı Olay",
@@ -7276,7 +7293,7 @@
       "lat": 40.21,
       "lon": 32.245,
       "location_precision": "ilçe",
-      "id": 217
+      "id": 218
     },
     {
       "category": "Yangın",
@@ -7306,7 +7323,7 @@
       "lat": 39.434,
       "lon": 32.497,
       "location_precision": "ilçe",
-      "id": 218
+      "id": 219
     },
     {
       "category": "Asayiş",
@@ -7336,7 +7353,7 @@
       "lat": 39.903,
       "lon": 32.859,
       "location_precision": "ilçe",
-      "id": 219
+      "id": 220
     },
     {
       "category": "Asayiş",
@@ -7366,7 +7383,7 @@
       "lat": 39.952,
       "lon": 32.875,
       "location_precision": "ilçe",
-      "id": 220
+      "id": 221
     },
     {
       "category": "Uyuşturucu",
@@ -7396,7 +7413,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 221
+      "id": 222
     },
     {
       "category": "Yangın",
@@ -7425,7 +7442,7 @@
       "lat": 39.9308,
       "lon": 32.9307,
       "location_precision": "ilçe",
-      "id": 222,
+      "id": 223,
       "district": "Mamak"
     },
     {
@@ -7457,7 +7474,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 223
+      "id": 224
     },
     {
       "category": "Hırsızlık",
@@ -7495,7 +7512,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 224
+      "id": 225
     },
     {
       "category": "Hırsızlık",
@@ -7526,7 +7543,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 225
+      "id": 226
     },
     {
       "category": "Yangın",
@@ -7555,7 +7572,7 @@
       "lat": 39.9308,
       "lon": 32.9307,
       "location_precision": "ilçe",
-      "id": 226,
+      "id": 227,
       "district": "Mamak"
     },
     {
@@ -7587,7 +7604,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 227
+      "id": 228
     },
     {
       "category": "Trafik Kazası",
@@ -7617,7 +7634,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 228
+      "id": 229
     },
     {
       "category": "Trafik Kazası",
@@ -7647,7 +7664,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 229
+      "id": 230
     },
     {
       "category": "Kavga",
@@ -7677,7 +7694,7 @@
       "lat": 39.554,
       "lon": 33.123,
       "location_precision": "ilçe",
-      "id": 230
+      "id": 231
     },
     {
       "category": "Uyuşturucu",
@@ -7715,7 +7732,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 231
+      "id": 232
     },
     {
       "category": "Uyuşturucu",
@@ -7746,7 +7763,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 232
+      "id": 233
     },
     {
       "category": "Asayiş",
@@ -7776,7 +7793,7 @@
       "lat": 39.952,
       "lon": 32.875,
       "location_precision": "ilçe",
-      "id": 233
+      "id": 234
     },
     {
       "category": "Silahlı Olay",
@@ -7806,7 +7823,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 234
+      "id": 235
     },
     {
       "category": "Yangın",
@@ -7836,7 +7853,7 @@
       "lat": 39.79,
       "lon": 32.809,
       "location_precision": "ilçe",
-      "id": 235
+      "id": 236
     },
     {
       "category": "Trafik Kazası",
@@ -7866,7 +7883,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 236
+      "id": 237
     },
     {
       "category": "Uyuşturucu",
@@ -7897,7 +7914,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 237
+      "id": 238
     },
     {
       "category": "Trafik Kazası",
@@ -7928,7 +7945,7 @@
       "lat": 39.97,
       "lon": 32.584,
       "location_precision": "ilçe",
-      "id": 238
+      "id": 239
     },
     {
       "category": "Trafik Kazası",
@@ -7958,7 +7975,7 @@
       "lat": 39.9308,
       "lon": 32.9307,
       "location_precision": "ilçe",
-      "id": 239
+      "id": 240
     },
     {
       "category": "Trafik Kazası",
@@ -7988,7 +8005,7 @@
       "lat": 39.97,
       "lon": 32.584,
       "location_precision": "ilçe",
-      "id": 240
+      "id": 241
     },
     {
       "category": "Uyuşturucu",
@@ -8019,7 +8036,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 241
+      "id": 242
     },
     {
       "category": "Trafik Kazası",
@@ -8049,7 +8066,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 242
+      "id": 243
     },
     {
       "category": "Yangın",
@@ -8079,7 +8096,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 243
+      "id": 244
     },
     {
       "category": "Yangın",
@@ -8109,7 +8126,7 @@
       "lat": 39.79,
       "lon": 32.809,
       "location_precision": "ilçe",
-      "id": 244
+      "id": 245
     },
     {
       "category": "Yangın",
@@ -8139,7 +8156,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 245
+      "id": 246
     },
     {
       "category": "Asayiş",
@@ -8169,7 +8186,7 @@
       "lat": 39.965,
       "lon": 32.805,
       "location_precision": "ilçe",
-      "id": 246
+      "id": 247
     },
     {
       "category": "Hırsızlık",
@@ -8206,7 +8223,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 247,
+      "id": 248,
       "last_updated": "2026-07-21T10:00:00+03:00"
     },
     {
@@ -8237,7 +8254,7 @@
       "lat": 39.97,
       "lon": 32.584,
       "location_precision": "ilçe",
-      "id": 248
+      "id": 249
     },
     {
       "category": "Kavga",
@@ -8267,7 +8284,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 249
+      "id": 250
     },
     {
       "category": "Yangın",
@@ -8297,7 +8314,7 @@
       "lat": 39.965,
       "lon": 32.805,
       "location_precision": "ilçe",
-      "id": 250
+      "id": 251
     },
     {
       "category": "Sağlık",
@@ -8327,7 +8344,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 251
+      "id": 252
     },
     {
       "category": "Kavga",
@@ -8357,7 +8374,7 @@
       "lat": 39.97,
       "lon": 32.584,
       "location_precision": "ilçe",
-      "id": 252
+      "id": 253
     },
     {
       "category": "Trafik Kazası",
@@ -8395,7 +8412,7 @@
       "lat": 40.205,
       "lon": 32.682,
       "location_precision": "ilçe",
-      "id": 253
+      "id": 254
     },
     {
       "category": "Silahlı Olay",
@@ -8426,7 +8443,7 @@
       "lat": 39.434,
       "lon": 32.497,
       "location_precision": "ilçe",
-      "id": 254
+      "id": 255
     },
     {
       "category": "Trafik Kazası",
@@ -8457,7 +8474,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 255
+      "id": 256
     },
     {
       "category": "Trafik Kazası",
@@ -8487,7 +8504,7 @@
       "lat": 39.9308,
       "lon": 32.9307,
       "location_precision": "ilçe",
-      "id": 256,
+      "id": 257,
       "district": "Mamak"
     },
     {
@@ -8517,7 +8534,7 @@
       "lat": 39.92,
       "lon": 33.23,
       "location_precision": "ilçe",
-      "id": 257,
+      "id": 258,
       "district": "Elmadağ"
     },
     {
@@ -8548,7 +8565,7 @@
       "lat": 39.9308,
       "lon": 32.9307,
       "location_precision": "ilçe",
-      "id": 258
+      "id": 259
     },
     {
       "category": "Trafik Kazası",
@@ -8585,7 +8602,7 @@
       "lat": 39.9308,
       "lon": 32.9307,
       "location_precision": "ilçe",
-      "id": 259,
+      "id": 260,
       "district": "Mamak"
     },
     {
@@ -8624,7 +8641,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 260
+      "id": 261
     },
     {
       "category": "Trafik Kazası",
@@ -8654,7 +8671,7 @@
       "lat": 40.238,
       "lon": 33.033,
       "location_precision": "ilçe",
-      "id": 261
+      "id": 262
     },
     {
       "category": "Silahlı Olay",
@@ -8684,7 +8701,7 @@
       "lat": 39.948,
       "lon": 32.669,
       "location_precision": "ilçe",
-      "id": 262
+      "id": 263
     },
     {
       "category": "Trafik Kazası",
@@ -8740,7 +8757,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 263
+      "id": 264
     },
     {
       "category": "Kavga",
@@ -8777,7 +8794,7 @@
       "lat": 39.97,
       "lon": 32.584,
       "location_precision": "ilçe",
-      "id": 264
+      "id": 265
     },
     {
       "category": "Kavga",
@@ -8807,7 +8824,7 @@
       "lat": 39.9308,
       "lon": 32.9307,
       "location_precision": "ilçe",
-      "id": 265
+      "id": 266
     },
     {
       "category": "Silahlı Olay",
@@ -8838,7 +8855,7 @@
       "lat": 39.948,
       "lon": 32.669,
       "location_precision": "ilçe",
-      "id": 266
+      "id": 267
     },
     {
       "category": "Asayiş",
@@ -8868,7 +8885,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 267
+      "id": 268
     },
     {
       "category": "Asayiş",
@@ -8898,7 +8915,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 268
+      "id": 269
     },
     {
       "category": "Trafik Kazası",
@@ -8928,7 +8945,7 @@
       "lat": 39.9308,
       "lon": 32.9307,
       "location_precision": "ilçe",
-      "id": 269
+      "id": 270
     },
     {
       "category": "Yangın",
@@ -8958,7 +8975,7 @@
       "lat": 40.21,
       "lon": 32.245,
       "location_precision": "ilçe",
-      "id": 270
+      "id": 271
     },
     {
       "category": "Trafik Kazası",
@@ -9014,7 +9031,7 @@
       "lat": 39.9209,
       "lon": 32.9072,
       "location_precision": "mahalle",
-      "id": 271,
+      "id": 272,
       "district": "Mamak"
     },
     {
@@ -9063,7 +9080,7 @@
       "lat": 39.9308,
       "lon": 32.9307,
       "location_precision": "ilçe",
-      "id": 272,
+      "id": 273,
       "district": "Mamak"
     },
     {
@@ -9094,7 +9111,7 @@
       "lat": 39.965,
       "lon": 32.805,
       "location_precision": "ilçe",
-      "id": 273
+      "id": 274
     },
     {
       "category": "Uyuşturucu",
@@ -9125,7 +9142,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 274
+      "id": 275
     },
     {
       "category": "Silahlı Olay",
@@ -9156,7 +9173,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 275
+      "id": 276
     },
     {
       "category": "Asayiş",
@@ -9186,7 +9203,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 276
+      "id": 277
     },
     {
       "category": "Uyuşturucu",
@@ -9217,7 +9234,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 277
+      "id": 278
     },
     {
       "category": "Asayiş",
@@ -9247,7 +9264,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 278
+      "id": 279
     },
     {
       "category": "Uyuşturucu",
@@ -9277,7 +9294,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 279
+      "id": 280
     },
     {
       "category": "Asayiş",
@@ -9320,7 +9337,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 280
+      "id": 281
     },
     {
       "category": "Asayiş",
@@ -9350,7 +9367,7 @@
       "lat": 39.903,
       "lon": 32.859,
       "location_precision": "ilçe",
-      "id": 281
+      "id": 282
     },
     {
       "category": "Trafik Kazası",
@@ -9380,7 +9397,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 282
+      "id": 283
     },
     {
       "category": "Yangın",
@@ -9422,7 +9439,7 @@
       "lat": 39.965,
       "lon": 32.805,
       "location_precision": "ilçe",
-      "id": 283,
+      "id": 284,
       "last_updated": "2026-07-12T10:00:00+03:00"
     },
     {
@@ -9453,7 +9470,7 @@
       "lat": 39.903,
       "lon": 32.859,
       "location_precision": "ilçe",
-      "id": 284
+      "id": 285
     },
     {
       "category": "Yangın",
@@ -9483,7 +9500,7 @@
       "lat": 39.965,
       "lon": 32.805,
       "location_precision": "ilçe",
-      "id": 285
+      "id": 286
     },
     {
       "category": "Trafik Kazası",
@@ -9514,7 +9531,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 286
+      "id": 287
     },
     {
       "category": "Yangın",
@@ -9544,7 +9561,7 @@
       "lat": 39.952,
       "lon": 32.875,
       "location_precision": "ilçe",
-      "id": 287
+      "id": 288
     },
     {
       "category": "Yangın",
@@ -9574,7 +9591,7 @@
       "lat": 39.965,
       "lon": 32.805,
       "location_precision": "ilçe",
-      "id": 288
+      "id": 289
     },
     {
       "category": "Asayiş",
@@ -9611,7 +9628,7 @@
       "lat": 39.903,
       "lon": 32.859,
       "location_precision": "ilçe",
-      "id": 289
+      "id": 290
     },
     {
       "category": "Silahlı Olay",
@@ -9641,7 +9658,7 @@
       "lat": 39.584,
       "lon": 32.147,
       "location_precision": "ilçe",
-      "id": 290
+      "id": 291
     },
     {
       "category": "Trafik Kazası",
@@ -9670,7 +9687,7 @@
       "lat": 39.9308,
       "lon": 32.9307,
       "location_precision": "ilçe",
-      "id": 291,
+      "id": 292,
       "district": "Mamak"
     },
     {
@@ -9701,7 +9718,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 292
+      "id": 293
     },
     {
       "category": "Uyuşturucu",
@@ -9745,7 +9762,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 293
+      "id": 294
     },
     {
       "category": "Asayiş",
@@ -9775,7 +9792,7 @@
       "lat": 39.903,
       "lon": 32.859,
       "location_precision": "ilçe",
-      "id": 294
+      "id": 295
     },
     {
       "category": "Uyuşturucu",
@@ -9806,7 +9823,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 295
+      "id": 296
     },
     {
       "category": "İntihar",
@@ -9837,7 +9854,7 @@
       "lat": 40.039,
       "lon": 32.902,
       "location_precision": "ilçe",
-      "id": 296
+      "id": 297
     },
     {
       "category": "Trafik Kazası",
@@ -9867,7 +9884,7 @@
       "lat": 39.903,
       "lon": 32.859,
       "location_precision": "ilçe",
-      "id": 297
+      "id": 298
     },
     {
       "category": "Trafik Kazası",
@@ -9897,7 +9914,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 298
+      "id": 299
     },
     {
       "category": "Terör",
@@ -9927,7 +9944,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 299
+      "id": 300
     },
     {
       "category": "Uyuşturucu",
@@ -9958,7 +9975,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 300
+      "id": 301
     },
     {
       "category": "Asayiş",
@@ -9988,7 +10005,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 301
+      "id": 302
     },
     {
       "category": "Asayiş",
@@ -10018,7 +10035,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 302
+      "id": 303
     },
     {
       "category": "Cinayet",
@@ -10049,7 +10066,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 303
+      "id": 304
     },
     {
       "category": "Asayiş",
@@ -10079,7 +10096,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 304
+      "id": 305
     },
     {
       "category": "Asayiş",
@@ -10109,7 +10126,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 305
+      "id": 306
     },
     {
       "category": "Cinayet",
@@ -10140,7 +10157,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 306
+      "id": 307
     },
     {
       "category": "Silahlı Olay",
@@ -10170,7 +10187,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 307
+      "id": 308
     },
     {
       "category": "Cinayet",
@@ -10202,7 +10219,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 308
+      "id": 309
     },
     {
       "category": "Trafik Kazası",
@@ -10232,7 +10249,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 309
+      "id": 310
     },
     {
       "category": "Terör",
@@ -10269,7 +10286,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 310,
+      "id": 311,
       "last_updated": "2026-07-03T10:00:00+03:00"
     },
     {
@@ -10301,7 +10318,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 311
+      "id": 312
     },
     {
       "category": "Yangın",
@@ -10331,7 +10348,7 @@
       "lat": 40.187,
       "lon": 31.351,
       "location_precision": "ilçe",
-      "id": 312
+      "id": 313
     },
     {
       "category": "Dolandırıcılık",
@@ -10362,7 +10379,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 313
+      "id": 314
     },
     {
       "category": "Uyuşturucu",
@@ -10392,7 +10409,7 @@
       "lat": 39.9308,
       "lon": 32.9307,
       "location_precision": "ilçe",
-      "id": 314,
+      "id": 315,
       "district": "Mamak"
     },
     {
@@ -10431,7 +10448,7 @@
       "lat": 40.135,
       "lon": 33.086,
       "location_precision": "ilçe",
-      "id": 315
+      "id": 316
     },
     {
       "category": "Asayiş",
@@ -10461,7 +10478,7 @@
       "lat": 39.965,
       "lon": 32.805,
       "location_precision": "ilçe",
-      "id": 316
+      "id": 317
     },
     {
       "category": "Uyuşturucu",
@@ -10492,7 +10509,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 317
+      "id": 318
     },
     {
       "category": "Asayiş",
@@ -10522,7 +10539,7 @@
       "lat": 39.584,
       "lon": 32.147,
       "location_precision": "ilçe",
-      "id": 318
+      "id": 319
     },
     {
       "category": "Trafik Kazası",
@@ -10553,7 +10570,7 @@
       "lat": 39.9308,
       "lon": 32.9307,
       "location_precision": "ilçe",
-      "id": 319
+      "id": 320
     },
     {
       "category": "Sağlık",
@@ -10588,7 +10605,7 @@
       "lat": 39.9308,
       "lon": 32.9307,
       "location_precision": "ilçe",
-      "id": 320,
+      "id": 321,
       "district": "Mamak",
       "last_updated": "2026-06-30T10:00:00+03:00"
     },
@@ -10619,7 +10636,7 @@
       "lat": 39.9308,
       "lon": 32.9307,
       "location_precision": "ilçe",
-      "id": 321,
+      "id": 322,
       "district": "Mamak"
     },
     {
@@ -10650,7 +10667,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 322
+      "id": 323
     },
     {
       "category": "Trafik Kazası",
@@ -10688,7 +10705,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 323
+      "id": 324
     },
     {
       "category": "Kavga",
@@ -10718,7 +10735,7 @@
       "lat": 39.434,
       "lon": 32.497,
       "location_precision": "ilçe",
-      "id": 324
+      "id": 325
     },
     {
       "category": "Uyuşturucu",
@@ -10748,7 +10765,7 @@
       "lat": 39.434,
       "lon": 32.497,
       "location_precision": "ilçe",
-      "id": 325
+      "id": 326
     },
     {
       "category": "Asayiş",
@@ -10785,7 +10802,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 326
+      "id": 327
     },
     {
       "category": "Trafik Kazası",
@@ -10815,7 +10832,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 327
+      "id": 328
     },
     {
       "category": "Trafik Kazası",
@@ -10845,7 +10862,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 328
+      "id": 329
     },
     {
       "category": "Hırsızlık",
@@ -10875,7 +10892,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 329
+      "id": 330
     },
     {
       "category": "Terör",
@@ -10905,7 +10922,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 330
+      "id": 331
     },
     {
       "category": "Kayıp Kişi",
@@ -10936,7 +10953,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 331
+      "id": 332
     },
     {
       "category": "Kavga",
@@ -10966,7 +10983,7 @@
       "lat": 39.965,
       "lon": 32.805,
       "location_precision": "ilçe",
-      "id": 332
+      "id": 333
     },
     {
       "category": "Diğer",
@@ -10996,7 +11013,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 333
+      "id": 334
     },
     {
       "category": "Silahlı Olay",
@@ -11040,7 +11057,7 @@
       "lat": 39.965,
       "lon": 32.805,
       "location_precision": "ilçe",
-      "id": 334
+      "id": 335
     },
     {
       "category": "Kavga",
@@ -11070,7 +11087,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 335
+      "id": 336
     },
     {
       "category": "Terör",
@@ -11108,7 +11125,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 336
+      "id": 337
     },
     {
       "category": "Asayiş",
@@ -11138,7 +11155,7 @@
       "lat": 39.434,
       "lon": 32.497,
       "location_precision": "ilçe",
-      "id": 337
+      "id": 338
     },
     {
       "category": "Diğer",
@@ -11175,7 +11192,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 338
+      "id": 339
     },
     {
       "category": "Trafik Kazası",
@@ -11212,7 +11229,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 339
+      "id": 340
     },
     {
       "category": "Cinayet",
@@ -11242,7 +11259,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 340
+      "id": 341
     },
     {
       "category": "Asayiş",
@@ -11272,7 +11289,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 341
+      "id": 342
     },
     {
       "category": "Asayiş",
@@ -11302,7 +11319,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 342
+      "id": 343
     },
     {
       "category": "Kavga",
@@ -11332,7 +11349,7 @@
       "lat": 39.584,
       "lon": 32.147,
       "location_precision": "ilçe",
-      "id": 343
+      "id": 344
     },
     {
       "category": "Asayiş",
@@ -11362,7 +11379,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 344
+      "id": 345
     },
     {
       "category": "Silahlı Olay",
@@ -11401,7 +11418,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 345
+      "id": 346
     },
     {
       "category": "Sağlık",
@@ -11432,7 +11449,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 346
+      "id": 347
     },
     {
       "category": "Cinayet",
@@ -11465,7 +11482,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 347
+      "id": 348
     },
     {
       "category": "Kavga",
@@ -11495,7 +11512,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 348
+      "id": 349
     },
     {
       "category": "Kavga",
@@ -11532,7 +11549,7 @@
       "lat": 40.039,
       "lon": 32.902,
       "location_precision": "ilçe",
-      "id": 349
+      "id": 350
     },
     {
       "category": "Asayiş",
@@ -11562,7 +11579,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 350
+      "id": 351
     },
     {
       "category": "Cinayet",
@@ -11593,7 +11610,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 351
+      "id": 352
     },
     {
       "category": "Terör",
@@ -11625,7 +11642,7 @@
       "lat": 39.434,
       "lon": 32.497,
       "location_precision": "ilçe",
-      "id": 352
+      "id": 353
     },
     {
       "category": "Asayiş",
@@ -11655,7 +11672,7 @@
       "lat": 39.434,
       "lon": 32.497,
       "location_precision": "ilçe",
-      "id": 353
+      "id": 354
     },
     {
       "category": "Terör",
@@ -11687,7 +11704,38 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 354
+      "id": 355
+    },
+    {
+      "category": "Trafik Kazası",
+      "categories": [
+        "Trafik Kazası",
+        "Sağlık"
+      ],
+      "icon": "🚗",
+      "title": "#SONDAKİKA | Ankara'da Yolcu Otobüsü Kaza Yaptı! 1 Kişi Öldü, 9 Yaralı - TGRT Haber - YouTube",
+      "location": "Ankara Geneli",
+      "published": "2026-06-23T15:05:39+03:00",
+      "confidence": 60,
+      "sources": 1,
+      "status": "Sosyal medya / doğrulanmamış",
+      "summary": "YouTube üzerinden bulunan herkese açık kayıt.",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9md1J5VmpsSXFYeklha2VIMG5UaDBFR2xsS25ySjJaM2oxZXI4RDBIZVhHV0F3anpWVlZmQjZzNHFFRF84OTdqX2t5TE9XbEJXVlVTMHR3?oc=5",
+      "platform": "YouTube",
+      "source_links": [
+        {
+          "platform": "YouTube",
+          "title": "#SONDAKİKA | Ankara'da Yolcu Otobüsü Kaza Yaptı! 1 Kişi Öldü, 9 Yaralı - TGRT Haber - YouTube",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9md1J5VmpsSXFYeklha2VIMG5UaDBFR2xsS25ySjJaM2oxZXI4RDBIZVhHV0F3anpWVlZmQjZzNHFFRF84OTdqX2t5TE9XbEJXVlVTMHR3?oc=5",
+          "published": "2026-06-23T15:05:39+03:00"
+        }
+      ],
+      "district": "Ankara Geneli",
+      "neighborhood": "Ankara Geneli",
+      "lat": 39.9334,
+      "lon": 32.8597,
+      "location_precision": "il",
+      "id": 356
     },
     {
       "category": "Asayiş",
@@ -11717,7 +11765,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 355
+      "id": 357
     },
     {
       "category": "Trafik Kazası",
@@ -11755,63 +11803,7 @@
       "lat": 39.965,
       "lon": 32.805,
       "location_precision": "ilçe",
-      "id": 356
-    },
-    {
-      "category": "Trafik Kazası",
-      "categories": [
-        "Trafik Kazası",
-        "Sağlık"
-      ],
-      "icon": "🚗",
-      "title": "Ankara'da 4 kişinin öldüğü kaza anı kamerada #Ankara'nın Polatlı ilçesinde otomobilin kamyona arkadan çarpması sonucu meydana gelen kazada, 3 kişi hayatını kaybederken, 1 kişi ise ağır yaralandı. Kaza anı çevredeki güvenlik kamerası tarafından kaydedil - instagram.com",
-      "location": "Polatlı / Ankara",
-      "published": "2026-06-23T10:00:00+03:00",
-      "confidence": 75,
-      "sources": 5,
-      "status": "Sosyal medya / doğrulanmamış",
-      "summary": "5 farklı açık kaynakta bulunan aynı olay tek kayıtta birleştirildi.",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9md1J5VmpsSXFYeklha2VIMG5UaDBFR2xsS25ySjJaM2oxZXI4RDBIZVhHV0F3anpWVlZmQjZzNHFFRF84OTdqX2t5TE9XbEJXVlVTMHR3?oc=5",
-      "platform": "YouTube",
-      "source_links": [
-        {
-          "platform": "YouTube",
-          "title": "#SONDAKİKA | Ankara'da Yolcu Otobüsü Kaza Yaptı! 1 Kişi Öldü, 9 Yaralı - TGRT Haber - YouTube",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9md1J5VmpsSXFYeklha2VIMG5UaDBFR2xsS25ySjJaM2oxZXI4RDBIZVhHV0F3anpWVlZmQjZzNHFFRF84OTdqX2t5TE9XbEJXVlVTMHR3?oc=5",
-          "published": "2026-06-23T15:05:39+03:00"
-        },
-        {
-          "platform": "Haber",
-          "title": "Ankara'da 4 kişinin öldüğü kaza anı kamerada #Ankara'nın Polatlı ilçesinde otomobilin kamyona arkadan çarpması sonucu meydana gelen kazada, 3 kişi hayatını kaybederken, 1 kişi ise ağır yaralandı. Kaza anı çevredeki güvenlik kamerası tarafından kaydedil - instagram.com",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE10U0NCMm1RMEVYNS1GTXVvY0VER3A4dWE5eTBnNUxJUUFTNmJoR3E4X0ltUW05LWt4N0tzX3hmMEtHbWtzSGx4OXc4VjJmZU9iV09PUEdB?oc=5",
-          "published": "2026-06-23T10:00:00+03:00"
-        },
-        {
-          "platform": "Haber",
-          "title": "Ankara’da feci kaza! EGO otobüsü can aldı - Saray Medya",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPLVVkSFdOa3dPYnFZZ2k1TXRPS3ZxbTBRcXAxRFBQOTdEWno2RmxOXzJDN2s2R3BfM1haVW11SUZVUG82bXB0dmJIUExOZi1BbVBYRjVDMllpNldPeWExVUZrR1hDRWdkU192NUxveGdlOVZuczlIZFNKSnAzak5ITEt3ZDlxRVl0?oc=5",
-          "published": "2026-06-23T10:00:00+03:00"
-        },
-        {
-          "platform": "Haber",
-          "title": "Son Dakika... Ankara'da belediye otobüsü kaza yaptı: Acı haber geldi! - Haber 7",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQODVpYzFGWV9INVRhTXBLMGloNzJIOEFpU1NrYnlsM0JrY1NFaHhFNk9RTDJNbTRtQkFrZGVMaXFDaHJXUnYyMEhjTlRWdnhWZHM0OHRRVHk1MjloemVKVjZXYlB2Q2ctOC1Ka3ZUa0E4dS1aV3M3bDJ2M2pzeERfSW9uVVRSSFJrYTRoRkZLY0xGMXI4eDgzaVJ4TXV0akNtNUkwUUFvWXpNdkXSAbMBQVVfeXFMUEExN3c1eVBPeHYyMGdzaXZRZ3VDUHVpTW9LaWY3RG9SU3huZFpSSXRXT29DU1hnbmsxVl9ERHgxSTFoY2VNaS15TWE3aDViMF9LQUo0WU9rZk1HSHZjV0NLclJ0dTZxRi1EUXlCbFJNN0NFZkRhZGRoX0plYXF4R3pkWnJ2Q3VoUFZ4Q0xaUGRNNW9tR3R4QklVWk5JVTVTMXd6b3FRSTNrNkNRbExENVMyYTg?oc=5",
-          "published": "2026-06-23T10:00:00+03:00"
-        },
-        {
-          "platform": "Haber",
-          "title": "Ankara'da skuter ile giderken hafif ticari aracın çarptığı 11 yaşındaki çocuk öldü; kaza anı kamerada - T24",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPY2xMYmpvVmNrRTdFWFFrbWNxZWk1bFc0WWxCX01NRTRWcjZUZDVkVlk1el9USERyQjlnUm5WdHhqU1lHOFFXQzljM2xOc3FJTnJHTFZSTXpsOXpyT3dxc2RFQ21KNVo0RjkzNm9TNTh2M0hBNFZpQlNmU1N5TUxJYlR6R2VMUmZrd0l0UndMV283ajJzYjE3b1VIZUUwS3JPdTRONHJvSGJkVjNUbHkxWlM1eUVGTEhCeldjV3NrYlUxWFJZcVF0b3NB?oc=5",
-          "published": "2026-06-23T10:00:00+03:00"
-        }
-      ],
-      "last_updated": "2026-06-23T10:00:00+03:00",
-      "district": "Polatlı",
-      "neighborhood": "Polatlı Geneli",
-      "lat": 39.584,
-      "lon": 32.147,
-      "location_precision": "ilçe",
-      "id": 357
+      "id": 358
     },
     {
       "category": "Terör",
@@ -11861,7 +11853,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 358
+      "id": 359
     },
     {
       "category": "Trafik Kazası",
@@ -11891,7 +11883,7 @@
       "lat": 40.205,
       "lon": 32.682,
       "location_precision": "ilçe",
-      "id": 359
+      "id": 360
     },
     {
       "category": "Trafik Kazası",
@@ -11933,7 +11925,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 360,
+      "id": 361,
       "last_updated": "2026-06-23T10:00:00+03:00"
     },
     {
@@ -11964,7 +11956,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 361
+      "id": 362
     },
     {
       "category": "Terör",
@@ -11995,7 +11987,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 362
+      "id": 363
     },
     {
       "category": "Terör",
@@ -12033,7 +12025,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 363
+      "id": 364
     },
     {
       "category": "Terör",
@@ -12064,7 +12056,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 364
+      "id": 365
     },
     {
       "category": "Trafik Kazası",
@@ -12102,7 +12094,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 365
+      "id": 366
     },
     {
       "category": "Diğer",
@@ -12132,7 +12124,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 366
+      "id": 367
     },
     {
       "category": "Kavga",
@@ -12162,7 +12154,7 @@
       "lat": 40.135,
       "lon": 33.086,
       "location_precision": "ilçe",
-      "id": 367
+      "id": 368
     },
     {
       "category": "Cinayet",
@@ -12192,7 +12184,7 @@
       "lat": 40.135,
       "lon": 33.086,
       "location_precision": "ilçe",
-      "id": 368
+      "id": 369
     },
     {
       "category": "Cinayet",
@@ -12224,7 +12216,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 369
+      "id": 370
     },
     {
       "category": "Yangın",
@@ -12254,7 +12246,7 @@
       "lat": 40.135,
       "lon": 33.086,
       "location_precision": "ilçe",
-      "id": 370
+      "id": 371
     },
     {
       "category": "Kayıp Kişi",
@@ -12284,7 +12276,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 371
+      "id": 372
     },
     {
       "category": "Kavga",
@@ -12315,7 +12307,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 372
+      "id": 373
     },
     {
       "category": "Uyuşturucu",
@@ -12346,7 +12338,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 373
+      "id": 374
     },
     {
       "category": "Yangın",
@@ -12383,7 +12375,7 @@
       "lat": 39.79,
       "lon": 32.809,
       "location_precision": "ilçe",
-      "id": 374
+      "id": 375
     },
     {
       "category": "Silahlı Olay",
@@ -12413,7 +12405,7 @@
       "lat": 39.9308,
       "lon": 32.9307,
       "location_precision": "ilçe",
-      "id": 375
+      "id": 376
     },
     {
       "category": "Trafik Kazası",
@@ -12443,7 +12435,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 376
+      "id": 377
     },
     {
       "category": "Trafik Kazası",
@@ -12473,7 +12465,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 377
+      "id": 378
     },
     {
       "category": "Silahlı Olay",
@@ -12511,7 +12503,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 378
+      "id": 379
     },
     {
       "category": "Asayiş",
@@ -12541,7 +12533,7 @@
       "lat": 39.948,
       "lon": 32.669,
       "location_precision": "ilçe",
-      "id": 379
+      "id": 380
     },
     {
       "category": "Silahlı Olay",
@@ -12572,7 +12564,7 @@
       "lat": 39.948,
       "lon": 32.669,
       "location_precision": "ilçe",
-      "id": 380
+      "id": 381
     },
     {
       "category": "Trafik Kazası",
@@ -12602,7 +12594,7 @@
       "lat": 40.205,
       "lon": 32.682,
       "location_precision": "ilçe",
-      "id": 381
+      "id": 382
     },
     {
       "category": "Kavga",
@@ -12632,7 +12624,7 @@
       "lat": 40.238,
       "lon": 33.033,
       "location_precision": "ilçe",
-      "id": 382
+      "id": 383
     },
     {
       "category": "Uyuşturucu",
@@ -12663,7 +12655,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 383
+      "id": 384
     },
     {
       "category": "Asayiş",
@@ -12693,7 +12685,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 384
+      "id": 385
     },
     {
       "category": "Uyuşturucu",
@@ -12724,7 +12716,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 385
+      "id": 386
     },
     {
       "category": "Kavga",
@@ -12754,7 +12746,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 386
+      "id": 387
     },
     {
       "category": "Diğer",
@@ -12784,7 +12776,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 387
+      "id": 388
     },
     {
       "category": "Diğer",
@@ -12814,7 +12806,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 388
+      "id": 389
     },
     {
       "category": "Cinayet",
@@ -12858,7 +12850,7 @@
       "lat": 39.948,
       "lon": 32.669,
       "location_precision": "ilçe",
-      "id": 389,
+      "id": 390,
       "last_updated": "2026-06-10T10:00:00+03:00"
     },
     {
@@ -12890,7 +12882,7 @@
       "lat": 39.948,
       "lon": 32.669,
       "location_precision": "ilçe",
-      "id": 390
+      "id": 391
     },
     {
       "category": "Kavga",
@@ -12927,7 +12919,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 391,
+      "id": 392,
       "last_updated": "2026-06-10T10:00:00+03:00"
     },
     {
@@ -12958,7 +12950,7 @@
       "lat": 39.79,
       "lon": 32.809,
       "location_precision": "ilçe",
-      "id": 392
+      "id": 393
     },
     {
       "category": "Trafik Kazası",
@@ -12995,7 +12987,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 393
+      "id": 394
     },
     {
       "category": "Kavga",
@@ -13026,7 +13018,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 394
+      "id": 395
     },
     {
       "category": "Kavga",
@@ -13057,7 +13049,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 395
+      "id": 396
     },
     {
       "category": "Sağlık",
@@ -13087,7 +13079,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 396
+      "id": 397
     },
     {
       "category": "Dolandırıcılık",
@@ -13118,7 +13110,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 397
+      "id": 398
     },
     {
       "category": "Dolandırıcılık",
@@ -13149,7 +13141,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 398
+      "id": 399
     },
     {
       "category": "Kavga",
@@ -13193,7 +13185,7 @@
       "lat": 40.135,
       "lon": 33.086,
       "location_precision": "ilçe",
-      "id": 399
+      "id": 400
     },
     {
       "category": "Sağlık",
@@ -13224,7 +13216,7 @@
       "lat": 39.948,
       "lon": 32.669,
       "location_precision": "ilçe",
-      "id": 400
+      "id": 401
     },
     {
       "category": "Diğer",
@@ -13254,7 +13246,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 401
+      "id": 402
     },
     {
       "category": "Asayiş",
@@ -13284,7 +13276,7 @@
       "lat": 40.0,
       "lon": 32.866,
       "location_precision": "ilçe",
-      "id": 402
+      "id": 403
     },
     {
       "category": "Trafik Kazası",
@@ -13314,7 +13306,7 @@
       "lat": 40.019,
       "lon": 32.332,
       "location_precision": "ilçe",
-      "id": 403
+      "id": 404
     },
     {
       "category": "Diğer",
@@ -13351,7 +13343,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 404
+      "id": 405
     },
     {
       "category": "Silahlı Olay",
@@ -13389,7 +13381,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 405
+      "id": 406
     },
     {
       "category": "Trafik Kazası",
@@ -13438,7 +13430,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 406
+      "id": 407
     },
     {
       "category": "Trafik Kazası",
@@ -13468,7 +13460,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 407
+      "id": 408
     },
     {
       "category": "İntihar",
@@ -13499,7 +13491,7 @@
       "lat": 39.903,
       "lon": 32.859,
       "location_precision": "ilçe",
-      "id": 408
+      "id": 409
     },
     {
       "category": "Uyuşturucu",
@@ -13530,7 +13522,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 409
+      "id": 410
     },
     {
       "category": "Asayiş",
@@ -13560,7 +13552,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 410
+      "id": 411
     },
     {
       "category": "Trafik Kazası",
@@ -13590,7 +13582,7 @@
       "lat": 39.79,
       "lon": 32.809,
       "location_precision": "ilçe",
-      "id": 411
+      "id": 412
     },
     {
       "category": "Kavga",
@@ -13619,7 +13611,7 @@
       "lat": 39.9308,
       "lon": 32.9307,
       "location_precision": "ilçe",
-      "id": 412,
+      "id": 413,
       "district": "Mamak"
     },
     {
@@ -13650,7 +13642,7 @@
       "lat": 39.9308,
       "lon": 32.9307,
       "location_precision": "ilçe",
-      "id": 413
+      "id": 414
     },
     {
       "category": "Cinayet",
@@ -13680,7 +13672,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 414
+      "id": 415
     },
     {
       "category": "Kavga",
@@ -13710,7 +13702,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 415
+      "id": 416
     },
     {
       "category": "Uyuşturucu",
@@ -13741,7 +13733,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 416
+      "id": 417
     },
     {
       "category": "Kavga",
@@ -13771,7 +13763,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 417
+      "id": 418
     },
     {
       "category": "Silahlı Olay",
@@ -13803,7 +13795,7 @@
       "lat": 39.584,
       "lon": 32.147,
       "location_precision": "ilçe",
-      "id": 418
+      "id": 419
     },
     {
       "category": "Silahlı Olay",
@@ -13854,7 +13846,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 419
+      "id": 420
     },
     {
       "category": "Cinayet",
@@ -13891,7 +13883,7 @@
       "lat": 39.584,
       "lon": 32.147,
       "location_precision": "ilçe",
-      "id": 420
+      "id": 421
     },
     {
       "category": "Cinayet",
@@ -13921,7 +13913,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 421
+      "id": 422
     },
     {
       "category": "Trafik Kazası",
@@ -13951,7 +13943,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 422
+      "id": 423
     },
     {
       "category": "Asayiş",
@@ -13981,7 +13973,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 423
+      "id": 424
     },
     {
       "category": "Asayiş",
@@ -14011,7 +14003,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 424
+      "id": 425
     },
     {
       "category": "Asayiş",
@@ -14041,7 +14033,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 425
+      "id": 426
     },
     {
       "category": "Cinayet",
@@ -14072,7 +14064,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 426
+      "id": 427
     },
     {
       "category": "Asayiş",
@@ -14102,7 +14094,7 @@
       "lat": 39.952,
       "lon": 32.875,
       "location_precision": "ilçe",
-      "id": 427
+      "id": 428
     },
     {
       "category": "Asayiş",
@@ -14132,7 +14124,7 @@
       "lat": 39.965,
       "lon": 32.805,
       "location_precision": "ilçe",
-      "id": 428
+      "id": 429
     },
     {
       "category": "Trafik Kazası",
@@ -14149,7 +14141,7 @@
       "summary": "NNC Haber üzerinden bulunan herkese açık kayıt.",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNcmFfWE9IVzZneG45MHhjc082VGVSQ3JOY2VwODg1NkgzYTkyZ1l0UENrMHpnQzFRU2ZLb1hNSXB5YXl1cTFQZDE3YkhpRmR3amloNWhVdnN4bDBqSDJoUU1pXzlKczdtanBDZEYteFBtb2s0a0RoYWdHQ2lpR0tPQzM3c1TSAYoBQVVfeXFMT1l6akk5M1QxRjFOR2VLbEN1T1k5V2hjOUhFbndibmtoX3FjRWtZZmU5TkItaGNHbC1DRG9qcFg1UEJ1dkNMYV9aak56X1VfNjFGRWNldE5MTExvcE5MVDhjbkI5MzlNOVl6ZGpHMFhPekcxLTdoRkhKNGFPUU1OZGNScjFsUDlFS2xn?oc=5",
       "platform": "Haber",
-      "id": 429,
+      "id": 430,
       "source_links": [
         {
           "platform": "Haber",
@@ -14194,7 +14186,7 @@
       "lat": 40.167,
       "lon": 31.921,
       "location_precision": "ilçe",
-      "id": 430
+      "id": 431
     },
     {
       "category": "Yangın",
@@ -14224,7 +14216,7 @@
       "lat": 40.238,
       "lon": 33.033,
       "location_precision": "ilçe",
-      "id": 431
+      "id": 432
     },
     {
       "category": "Asayiş",
@@ -14254,7 +14246,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 432
+      "id": 433
     },
     {
       "category": "Yangın",
@@ -14284,7 +14276,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 433
+      "id": 434
     },
     {
       "category": "Asayiş",
@@ -14314,7 +14306,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 434
+      "id": 435
     },
     {
       "category": "Sağlık",
@@ -14352,7 +14344,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 435
+      "id": 436
     },
     {
       "category": "Dolandırıcılık",
@@ -14383,7 +14375,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 436
+      "id": 437
     },
     {
       "category": "Kayıp Kişi",
@@ -14413,7 +14405,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 437
+      "id": 438
     },
     {
       "category": "Asayiş",
@@ -14443,7 +14435,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 438
+      "id": 439
     },
     {
       "category": "Trafik Kazası",
@@ -14473,7 +14465,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 439
+      "id": 440
     },
     {
       "category": "Trafik Kazası",
@@ -14503,7 +14495,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 440
+      "id": 441
     },
     {
       "category": "Yangın",
@@ -14533,7 +14525,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 441
+      "id": 442
     },
     {
       "category": "Sağlık",
@@ -14563,7 +14555,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 442
+      "id": 443
     },
     {
       "category": "Trafik Kazası",
@@ -14593,7 +14585,7 @@
       "lat": 40.0,
       "lon": 32.866,
       "location_precision": "ilçe",
-      "id": 443
+      "id": 444
     },
     {
       "category": "Trafik Kazası",
@@ -14623,7 +14615,7 @@
       "lat": 39.903,
       "lon": 32.859,
       "location_precision": "ilçe",
-      "id": 444
+      "id": 445
     },
     {
       "category": "Yangın",
@@ -14653,7 +14645,7 @@
       "lat": 39.965,
       "lon": 32.805,
       "location_precision": "ilçe",
-      "id": 445
+      "id": 446
     },
     {
       "category": "Trafik Kazası",
@@ -14683,7 +14675,7 @@
       "lat": 40.039,
       "lon": 32.902,
       "location_precision": "ilçe",
-      "id": 446
+      "id": 447
     },
     {
       "category": "Kavga",
@@ -14720,7 +14712,7 @@
       "lat": 39.965,
       "lon": 32.805,
       "location_precision": "ilçe",
-      "id": 447,
+      "id": 448,
       "last_updated": "2026-05-18T10:00:00+03:00"
     },
     {
@@ -14752,7 +14744,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 448
+      "id": 449
     },
     {
       "category": "Dolandırıcılık",
@@ -14783,7 +14775,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 449
+      "id": 450
     },
     {
       "category": "Trafik Kazası",
@@ -14813,7 +14805,7 @@
       "lat": 39.9087,
       "lon": 32.9488,
       "location_precision": "mahalle",
-      "id": 450
+      "id": 451
     },
     {
       "category": "Trafik Kazası",
@@ -14851,7 +14843,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 451
+      "id": 452
     },
     {
       "category": "Trafik Kazası",
@@ -14882,7 +14874,7 @@
       "lat": 40.039,
       "lon": 32.902,
       "location_precision": "ilçe",
-      "id": 452
+      "id": 453
     },
     {
       "category": "Trafik Kazası",
@@ -14919,7 +14911,7 @@
       "lat": 40.039,
       "lon": 32.902,
       "location_precision": "ilçe",
-      "id": 453
+      "id": 454
     },
     {
       "category": "Asayiş",
@@ -14949,7 +14941,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 454
+      "id": 455
     },
     {
       "category": "Uyuşturucu",
@@ -14980,7 +14972,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 455
+      "id": 456
     },
     {
       "category": "Uyuşturucu",
@@ -15011,7 +15003,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 456
+      "id": 457
     },
     {
       "category": "Cinayet",
@@ -15041,7 +15033,7 @@
       "lat": 39.584,
       "lon": 32.147,
       "location_precision": "ilçe",
-      "id": 457
+      "id": 458
     },
     {
       "category": "Sağlık",
@@ -15071,7 +15063,7 @@
       "lat": 39.584,
       "lon": 32.147,
       "location_precision": "ilçe",
-      "id": 458
+      "id": 459
     },
     {
       "category": "Asayiş",
@@ -15101,7 +15093,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 459
+      "id": 460
     },
     {
       "category": "Asayiş",
@@ -15131,7 +15123,7 @@
       "lat": 39.9308,
       "lon": 32.9307,
       "location_precision": "ilçe",
-      "id": 460
+      "id": 461
     },
     {
       "category": "Cinayet",
@@ -15161,7 +15153,7 @@
       "lat": 40.187,
       "lon": 31.351,
       "location_precision": "ilçe",
-      "id": 461
+      "id": 462
     },
     {
       "category": "Cinayet",
@@ -15192,7 +15184,7 @@
       "lat": 40.167,
       "lon": 31.921,
       "location_precision": "ilçe",
-      "id": 462
+      "id": 463
     },
     {
       "category": "Trafik Kazası",
@@ -15223,7 +15215,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 463
+      "id": 464
     },
     {
       "category": "Diğer",
@@ -15253,7 +15245,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 464
+      "id": 465
     },
     {
       "category": "Cinayet",
@@ -15283,7 +15275,7 @@
       "lat": 40.187,
       "lon": 31.351,
       "location_precision": "ilçe",
-      "id": 465
+      "id": 466
     },
     {
       "category": "Cinayet",
@@ -15327,7 +15319,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 466
+      "id": 467
     },
     {
       "category": "Cinayet",
@@ -15364,7 +15356,7 @@
       "lat": 40.238,
       "lon": 33.033,
       "location_precision": "ilçe",
-      "id": 467
+      "id": 468
     },
     {
       "category": "Trafik Kazası",
@@ -15402,7 +15394,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 468
+      "id": 469
     },
     {
       "category": "Silahlı Olay",
@@ -15432,7 +15424,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 469
+      "id": 470
     },
     {
       "category": "Silahlı Olay",
@@ -15463,7 +15455,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 470
+      "id": 471
     },
     {
       "category": "Hırsızlık",
@@ -15494,7 +15486,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 471
+      "id": 472
     },
     {
       "category": "Yangın",
@@ -15524,7 +15516,7 @@
       "lat": 39.952,
       "lon": 32.875,
       "location_precision": "ilçe",
-      "id": 472
+      "id": 473
     },
     {
       "category": "Silahlı Olay",
@@ -15556,7 +15548,7 @@
       "lat": 39.584,
       "lon": 32.147,
       "location_precision": "ilçe",
-      "id": 473
+      "id": 474
     },
     {
       "category": "Trafik Kazası",
@@ -15587,7 +15579,7 @@
       "lat": 40.167,
       "lon": 31.921,
       "location_precision": "ilçe",
-      "id": 474
+      "id": 475
     },
     {
       "category": "Taciz",
@@ -15617,7 +15609,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 475
+      "id": 476
     },
     {
       "category": "Kavga",
@@ -15649,7 +15641,7 @@
       "lat": 39.952,
       "lon": 32.875,
       "location_precision": "ilçe",
-      "id": 476
+      "id": 477
     },
     {
       "category": "İntihar",
@@ -15679,7 +15671,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 477
+      "id": 478
     },
     {
       "category": "Trafik Kazası",
@@ -15696,7 +15688,7 @@
       "summary": "NNC Haber üzerinden bulunan herkese açık kayıt.",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNcHVCSGZ5S3g2TUdfWHV3S0dsTkdLRjFRN3JQUDhCOXBnUGxqSGo2OVBaOVdoSmg4eHlSREZySU5uVnpNQndmR1VHSWFnaWNIYkFwM1lodWdORGU2NHhRRWpzUXZWMVk1NXRhTWhFQ2t5Z1puakN5THBjdmtKQlZyR2RR0gGHAUFVX3lxTE5nTEVNLWJkMy1YSHF4WEVLNFlBdFNUdlYwU1ZJZm1TM1lyUU5WWjBFSm5WRTRjVjJ5ajlYbkFDOUZVN3RGcDFNbGVGRzVkRUZHNVF3TXBKUGJLRnRPck9CaFowODhnS1d0cG9RWDdWbTlfaVVpNWJoX0pLeFhJcWNzaUltbDJHTQ?oc=5",
       "platform": "Haber",
-      "id": 478,
+      "id": 479,
       "source_links": [
         {
           "platform": "Haber",
@@ -15710,50 +15702,6 @@
       "lon": 32.9307,
       "location_precision": "ilçe",
       "district": "Mamak"
-    },
-    {
-      "category": "Trafik Kazası",
-      "categories": [
-        "Trafik Kazası",
-        "Sağlık"
-      ],
-      "icon": "🚗",
-      "title": "Ankara'da Zincirleme Trafik Kazası: 8 Yaralı - bizimankara.com.tr",
-      "location": "Ankara Geneli",
-      "published": "2026-05-03T10:00:00+03:00",
-      "confidence": 75,
-      "sources": 3,
-      "status": "Muhtemel",
-      "summary": "3 farklı açık kaynakta bulunan aynı olay tek kayıtta birleştirildi.",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxORmxRRHRkbGoyR0FzcmoxQ0FVdHRXM2I3aW9VUGZRb29kOVVwNFl0MFlfek1pWDMza09jRDI4RjFhZ1hZcml5dktGdkxXbzdrVmRUQ0otN2FCNXVPYmluanlXT2swUkFsZ2Q2bFlBaThmUFltN2dibHZjYk1xYlhwOFpoZmw?oc=5",
-      "platform": "Haber",
-      "source_links": [
-        {
-          "platform": "Haber",
-          "title": "Ankara'da zincirleme trafik kazası: 8 yaralı - İlke Haber Ajansı",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxORmxRRHRkbGoyR0FzcmoxQ0FVdHRXM2I3aW9VUGZRb29kOVVwNFl0MFlfek1pWDMza09jRDI4RjFhZ1hZcml5dktGdkxXbzdrVmRUQ0otN2FCNXVPYmluanlXT2swUkFsZ2Q2bFlBaThmUFltN2dibHZjYk1xYlhwOFpoZmw?oc=5",
-          "published": "2026-05-04T10:00:00+03:00"
-        },
-        {
-          "platform": "Haber",
-          "title": "Ankara'da Zincirleme Trafik Kazası: 8 Yaralı - bizimankara.com.tr",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9DRjloWlQxZ01oUDBTZmR1c3p1cmRyRDVNV0JCeThQX2d6TS1fZ19IN0JuVTYzcVZPSFdzd3YzUzJWemI0RmtSdXUwR1R3YzRXYTFhR3BGVEdwWnducUZqQTlLNThER2E2QmxPNVdtT00xNVI5Qm5uVExqVHhyd9IBgwFBVV95cUxOZl81SVo2c2ZJS3Nob0V6eHF2SUNxWlZFQkJvTHIycXpOeVpJbDNOWUdjdVZvdVRNUWJsSXhKOVQ4cTljN3JzM0JvZWxCZUl5RXAxNE96Rmxxamh3R3lLQ3lxbk5rOWpSZ1pzdngxYy1ZZ20zdjA2ajFZV3MwcFpHMlA2bw?oc=5",
-          "published": "2026-05-04T10:00:00+03:00"
-        },
-        {
-          "platform": "Haber",
-          "title": "Ankara'da zincirleme trafik kazası: 8 yaralı - Aksu Haber",
-          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9iYXVxZ3Nra2ZZODV5blpQVDk3ajA4Q2hfel9lM0pvNmxOZW1IN1VTMGtrbGVIVHRSMHhtSVBuYVlkaFcybVh1WXhhQUxSS3pBZXpvOVRmSjd3SjJiLVUzSGI3NElxR3NKNW5DbFJuVHhaS2V1VHhHaXNB0gF_QVVfeXFMT19OdUM1elVQc2Q3RVJsNkJxQ1BpU1VqcEVZSkp1aE5NOHNpdFZKblJRaGViRFRUX1UxOGtuMHc4OEVRYXc2LVJzVGZ0MUljUDR0TzZULXh2dHZsVlRMWThQR1hfNTgwRXJ6bEdHamtwdkZzUmlPQzJGWmxZQnYzTQ?oc=5",
-          "published": "2026-05-03T10:00:00+03:00"
-        }
-      ],
-      "last_updated": "2026-05-04T10:00:00+03:00",
-      "district": "Ankara Geneli",
-      "neighborhood": "Ankara Geneli",
-      "lat": 39.9334,
-      "lon": 32.8597,
-      "location_precision": "il",
-      "id": 479
     },
     {
       "category": "Asayiş",
@@ -15819,6 +15767,50 @@
     {
       "category": "Trafik Kazası",
       "categories": [
+        "Trafik Kazası",
+        "Sağlık"
+      ],
+      "icon": "🚗",
+      "title": "Ankara'da Zincirleme Trafik Kazası: 8 Yaralı - bizimankara.com.tr",
+      "location": "Ankara Geneli",
+      "published": "2026-05-03T10:00:00+03:00",
+      "confidence": 75,
+      "sources": 3,
+      "status": "Muhtemel",
+      "summary": "3 farklı açık kaynakta bulunan aynı olay tek kayıtta birleştirildi.",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxORmxRRHRkbGoyR0FzcmoxQ0FVdHRXM2I3aW9VUGZRb29kOVVwNFl0MFlfek1pWDMza09jRDI4RjFhZ1hZcml5dktGdkxXbzdrVmRUQ0otN2FCNXVPYmluanlXT2swUkFsZ2Q2bFlBaThmUFltN2dibHZjYk1xYlhwOFpoZmw?oc=5",
+      "platform": "Haber",
+      "source_links": [
+        {
+          "platform": "Haber",
+          "title": "Ankara'da zincirleme trafik kazası: 8 yaralı - İlke Haber Ajansı",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxORmxRRHRkbGoyR0FzcmoxQ0FVdHRXM2I3aW9VUGZRb29kOVVwNFl0MFlfek1pWDMza09jRDI4RjFhZ1hZcml5dktGdkxXbzdrVmRUQ0otN2FCNXVPYmluanlXT2swUkFsZ2Q2bFlBaThmUFltN2dibHZjYk1xYlhwOFpoZmw?oc=5",
+          "published": "2026-05-04T10:00:00+03:00"
+        },
+        {
+          "platform": "Haber",
+          "title": "Ankara'da Zincirleme Trafik Kazası: 8 Yaralı - bizimankara.com.tr",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9DRjloWlQxZ01oUDBTZmR1c3p1cmRyRDVNV0JCeThQX2d6TS1fZ19IN0JuVTYzcVZPSFdzd3YzUzJWemI0RmtSdXUwR1R3YzRXYTFhR3BGVEdwWnducUZqQTlLNThER2E2QmxPNVdtT00xNVI5Qm5uVExqVHhyd9IBgwFBVV95cUxOZl81SVo2c2ZJS3Nob0V6eHF2SUNxWlZFQkJvTHIycXpOeVpJbDNOWUdjdVZvdVRNUWJsSXhKOVQ4cTljN3JzM0JvZWxCZUl5RXAxNE96Rmxxamh3R3lLQ3lxbk5rOWpSZ1pzdngxYy1ZZ20zdjA2ajFZV3MwcFpHMlA2bw?oc=5",
+          "published": "2026-05-04T10:00:00+03:00"
+        },
+        {
+          "platform": "Haber",
+          "title": "Ankara'da zincirleme trafik kazası: 8 yaralı - Aksu Haber",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9iYXVxZ3Nra2ZZODV5blpQVDk3ajA4Q2hfel9lM0pvNmxOZW1IN1VTMGtrbGVIVHRSMHhtSVBuYVlkaFcybVh1WXhhQUxSS3pBZXpvOVRmSjd3SjJiLVUzSGI3NElxR3NKNW5DbFJuVHhaS2V1VHhHaXNB0gF_QVVfeXFMT19OdUM1elVQc2Q3RVJsNkJxQ1BpU1VqcEVZSkp1aE5NOHNpdFZKblJRaGViRFRUX1UxOGtuMHc4OEVRYXc2LVJzVGZ0MUljUDR0TzZULXh2dHZsVlRMWThQR1hfNTgwRXJ6bEdHamtwdkZzUmlPQzJGWmxZQnYzTQ?oc=5",
+          "published": "2026-05-03T10:00:00+03:00"
+        }
+      ],
+      "last_updated": "2026-05-04T10:00:00+03:00",
+      "district": "Ankara Geneli",
+      "neighborhood": "Ankara Geneli",
+      "lat": 39.9334,
+      "lon": 32.8597,
+      "location_precision": "il",
+      "id": 482
+    },
+    {
+      "category": "Trafik Kazası",
+      "categories": [
         "Trafik Kazası"
       ],
       "icon": "🚗",
@@ -15844,7 +15836,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 482
+      "id": 483
     },
     {
       "category": "Trafik Kazası",
@@ -15875,7 +15867,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 483
+      "id": 484
     },
     {
       "category": "Sağlık",
@@ -15905,7 +15897,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 484
+      "id": 485
     },
     {
       "category": "Trafik Kazası",
@@ -15935,7 +15927,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 485
+      "id": 486
     },
     {
       "category": "Cinayet",
@@ -15965,7 +15957,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 486
+      "id": 487
     },
     {
       "category": "Trafik Kazası",
@@ -15973,13 +15965,13 @@
         "Trafik Kazası"
       ],
       "icon": "🚗",
-      "title": "SON DAKİKA: Ankara'da kamyonetin işçilere çarptığı trafik kazasında 2 ölü - 24 Saat Gazetesi Ankara",
+      "title": "Ankara'da feci kaza: Sürüklenen kamyonet dehşet saçtı! 2 ölü | A Haber - YouTube",
       "location": "Ankara Geneli",
-      "published": "2026-05-01T10:00:00+03:00",
-      "confidence": 75,
-      "sources": 2,
+      "published": "2026-05-01T13:56:08+03:00",
+      "confidence": 60,
+      "sources": 1,
       "status": "Sosyal medya / doğrulanmamış",
-      "summary": "2 farklı açık kaynakta bulunan aynı olay tek kayıtta birleştirildi.",
+      "summary": "YouTube üzerinden bulunan herkese açık kayıt.",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9SbzF1R29MXzNXNWI5RERhbFVHblllcGk2UlBsY1ZHMVVvaUxEMXk2R2trc0NscGgzNFpRM0dqMEdtRkNpN3Z1bXVsbVd6YWo1NS1Pd2dB?oc=5",
       "platform": "YouTube",
       "source_links": [
@@ -15988,21 +15980,14 @@
           "title": "Ankara'da feci kaza: Sürüklenen kamyonet dehşet saçtı! 2 ölü | A Haber - YouTube",
           "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9SbzF1R29MXzNXNWI5RERhbFVHblllcGk2UlBsY1ZHMVVvaUxEMXk2R2trc0NscGgzNFpRM0dqMEdtRkNpN3Z1bXVsbVd6YWo1NS1Pd2dB?oc=5",
           "published": "2026-05-01T13:56:08+03:00"
-        },
-        {
-          "platform": "Haber",
-          "title": "SON DAKİKA: Ankara'da kamyonetin işçilere çarptığı trafik kazasında 2 ölü - 24 Saat Gazetesi Ankara",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNTVR6N2I0T0tISTJvRE96bWJkOVh2XzlfM2d6QjJCNFVZR1pNSHVHbE11SHdXUHBWNjRneGFXM3hqRzFpZ0I4Mk1obFdDNGxUWWZDRExXLVBBUWZJbm80YjIwblZNTjJyUVZPZ0RMMWFtR2dCODdIVjNQY2staEFKckh5eDliY0tXVnlRY1hYSjRVb1psU2FUUWFLZk9fTUlTRjJWSQ?oc=5",
-          "published": "2026-05-01T10:00:00+03:00"
         }
       ],
-      "last_updated": "2026-05-01T10:00:00+03:00",
       "district": "Ankara Geneli",
       "neighborhood": "Ankara Geneli",
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 487
+      "id": 488
     },
     {
       "category": "Trafik Kazası",
@@ -16032,7 +16017,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 488
+      "id": 489
     },
     {
       "category": "Kavga",
@@ -16062,7 +16047,7 @@
       "lat": 40.019,
       "lon": 32.332,
       "location_precision": "ilçe",
-      "id": 489
+      "id": 490
     },
     {
       "category": "Trafik Kazası",
@@ -16092,7 +16077,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 490
+      "id": 491
     },
     {
       "category": "Kavga",
@@ -16122,7 +16107,7 @@
       "lat": 40.019,
       "lon": 32.332,
       "location_precision": "ilçe",
-      "id": 491
+      "id": 492
     },
     {
       "category": "Kayıp Kişi",
@@ -16151,7 +16136,7 @@
       "lat": 39.9308,
       "lon": 32.9307,
       "location_precision": "ilçe",
-      "id": 492,
+      "id": 493,
       "district": "Mamak"
     },
     {
@@ -16182,7 +16167,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 493
+      "id": 494
     },
     {
       "category": "Yangın",
@@ -16212,7 +16197,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 494
+      "id": 495
     },
     {
       "category": "Uyuşturucu",
@@ -16249,7 +16234,7 @@
       "lat": 39.903,
       "lon": 32.859,
       "location_precision": "ilçe",
-      "id": 495,
+      "id": 496,
       "last_updated": "2026-04-30T10:00:00+03:00"
     },
     {
@@ -16281,7 +16266,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 496
+      "id": 497
     },
     {
       "category": "Asayiş",
@@ -16311,7 +16296,7 @@
       "lat": 39.584,
       "lon": 32.147,
       "location_precision": "ilçe",
-      "id": 497
+      "id": 498
     },
     {
       "category": "Cinayet",
@@ -16341,7 +16326,7 @@
       "lat": 39.584,
       "lon": 32.147,
       "location_precision": "ilçe",
-      "id": 498
+      "id": 499
     },
     {
       "category": "Trafik Kazası",
@@ -16372,7 +16357,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 499
+      "id": 500
     },
     {
       "category": "Sağlık",
@@ -16402,7 +16387,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 500
+      "id": 501
     },
     {
       "category": "Trafik Kazası",
@@ -16432,7 +16417,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 501
+      "id": 502
     },
     {
       "category": "Trafik Kazası",
@@ -16462,7 +16447,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 502
+      "id": 503
     },
     {
       "category": "Trafik Kazası",
@@ -16492,7 +16477,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 503
+      "id": 504
     },
     {
       "category": "Trafik Kazası",
@@ -16522,7 +16507,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 504
+      "id": 505
     },
     {
       "category": "Silahlı Olay",
@@ -16558,7 +16543,7 @@
       "lat": 39.9308,
       "lon": 32.9307,
       "location_precision": "ilçe",
-      "id": 505,
+      "id": 506,
       "district": "Mamak",
       "last_updated": "2026-04-24T10:00:00+03:00"
     },
@@ -16591,7 +16576,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 506
+      "id": 507
     },
     {
       "category": "Silahlı Olay",
@@ -16621,7 +16606,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 507
+      "id": 508
     },
     {
       "category": "Trafik Kazası",
@@ -16652,7 +16637,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 508
+      "id": 509
     },
     {
       "category": "Silahlı Olay",
@@ -16701,7 +16686,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 509,
+      "id": 510,
       "last_updated": "2026-04-23T10:00:00+03:00"
     },
     {
@@ -16732,7 +16717,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 510
+      "id": 511
     },
     {
       "category": "Trafik Kazası",
@@ -16763,7 +16748,7 @@
       "lat": 39.97,
       "lon": 32.584,
       "location_precision": "ilçe",
-      "id": 511
+      "id": 512
     },
     {
       "category": "Trafik Kazası",
@@ -16800,7 +16785,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 512
+      "id": 513
     },
     {
       "category": "Trafik Kazası",
@@ -16830,7 +16815,7 @@
       "lat": 40.205,
       "lon": 32.682,
       "location_precision": "ilçe",
-      "id": 513
+      "id": 514
     },
     {
       "category": "Kayıp Kişi",
@@ -16862,7 +16847,7 @@
       "lat": 39.97,
       "lon": 32.584,
       "location_precision": "ilçe",
-      "id": 514
+      "id": 515
     },
     {
       "category": "Yangın",
@@ -16906,7 +16891,7 @@
       "lat": 39.97,
       "lon": 32.584,
       "location_precision": "ilçe",
-      "id": 515
+      "id": 516
     },
     {
       "category": "Trafik Kazası",
@@ -16937,7 +16922,7 @@
       "lat": 40.205,
       "lon": 32.682,
       "location_precision": "ilçe",
-      "id": 516
+      "id": 517
     },
     {
       "category": "Dolandırıcılık",
@@ -16968,7 +16953,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 517
+      "id": 518
     },
     {
       "category": "Asayiş",
@@ -16998,7 +16983,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 518
+      "id": 519
     },
     {
       "category": "Cinayet",
@@ -17029,7 +17014,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 519
+      "id": 520
     },
     {
       "category": "Silahlı Olay",
@@ -17078,7 +17063,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 520,
+      "id": 521,
       "last_updated": "2026-04-17T10:00:00+03:00",
       "district": "Ankara Geneli"
     },
@@ -17110,7 +17095,7 @@
       "lat": 39.9308,
       "lon": 32.9307,
       "location_precision": "ilçe",
-      "id": 521
+      "id": 522
     },
     {
       "category": "Asayiş",
@@ -17140,7 +17125,7 @@
       "lat": 39.9467,
       "lon": 32.949,
       "location_precision": "mahalle",
-      "id": 522
+      "id": 523
     },
     {
       "category": "Silahlı Olay",
@@ -17170,7 +17155,7 @@
       "lat": 39.952,
       "lon": 32.875,
       "location_precision": "ilçe",
-      "id": 523
+      "id": 524
     },
     {
       "category": "Kavga",
@@ -17200,7 +17185,7 @@
       "lat": 39.965,
       "lon": 32.805,
       "location_precision": "ilçe",
-      "id": 524
+      "id": 525
     },
     {
       "category": "Diğer",
@@ -17230,7 +17215,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 525
+      "id": 526
     },
     {
       "category": "Trafik Kazası",
@@ -17261,7 +17246,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 526
+      "id": 527
     },
     {
       "category": "Trafik Kazası",
@@ -17292,7 +17277,7 @@
       "lat": 40.238,
       "lon": 33.033,
       "location_precision": "ilçe",
-      "id": 527
+      "id": 528
     },
     {
       "category": "Yangın",
@@ -17329,7 +17314,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 528
+      "id": 529
     },
     {
       "category": "Yangın",
@@ -17359,7 +17344,7 @@
       "lat": 39.97,
       "lon": 32.584,
       "location_precision": "ilçe",
-      "id": 529
+      "id": 530
     },
     {
       "category": "Asayiş",
@@ -17396,7 +17381,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 530
+      "id": 531
     },
     {
       "category": "Trafik Kazası",
@@ -17427,7 +17412,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 531
+      "id": 532
     },
     {
       "category": "Trafik Kazası",
@@ -17456,7 +17441,7 @@
       "lat": 39.9308,
       "lon": 32.9307,
       "location_precision": "ilçe",
-      "id": 532,
+      "id": 533,
       "district": "Mamak"
     },
     {
@@ -17487,7 +17472,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 533
+      "id": 534
     },
     {
       "category": "Cinayet",
@@ -17517,7 +17502,7 @@
       "lat": 40.0,
       "lon": 32.866,
       "location_precision": "ilçe",
-      "id": 534
+      "id": 535
     },
     {
       "category": "Asayiş",
@@ -17547,7 +17532,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 535
+      "id": 536
     },
     {
       "category": "Asayiş",
@@ -17577,7 +17562,7 @@
       "lat": 39.9108,
       "lon": 32.936,
       "location_precision": "mahalle",
-      "id": 536
+      "id": 537
     },
     {
       "category": "Trafik Kazası",
@@ -17613,7 +17598,7 @@
       "lat": 39.9308,
       "lon": 32.9307,
       "location_precision": "ilçe",
-      "id": 537,
+      "id": 538,
       "district": "Mamak"
     },
     {
@@ -17650,7 +17635,7 @@
       "lat": 39.9308,
       "lon": 32.9307,
       "location_precision": "ilçe",
-      "id": 538,
+      "id": 539,
       "district": "Mamak"
     },
     {
@@ -17681,7 +17666,7 @@
       "lat": 40.0,
       "lon": 32.866,
       "location_precision": "ilçe",
-      "id": 539
+      "id": 540
     },
     {
       "category": "Cinayet",
@@ -17712,7 +17697,7 @@
       "lat": 40.0,
       "lon": 32.866,
       "location_precision": "ilçe",
-      "id": 540
+      "id": 541
     },
     {
       "category": "Sağlık",
@@ -17742,7 +17727,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 541
+      "id": 542
     },
     {
       "category": "İntihar",
@@ -17772,7 +17757,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 542
+      "id": 543
     },
     {
       "category": "Cinayet",
@@ -17802,7 +17787,7 @@
       "lat": 39.97,
       "lon": 32.584,
       "location_precision": "ilçe",
-      "id": 543
+      "id": 544
     },
     {
       "category": "İntihar",
@@ -17832,7 +17817,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 544
+      "id": 545
     },
     {
       "category": "Cinayet",
@@ -17862,7 +17847,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 545
+      "id": 546
     },
     {
       "category": "Trafik Kazası",
@@ -17893,7 +17878,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 546
+      "id": 547
     },
     {
       "category": "Trafik Kazası",
@@ -17923,7 +17908,7 @@
       "lat": 39.584,
       "lon": 32.147,
       "location_precision": "ilçe",
-      "id": 547
+      "id": 548
     },
     {
       "category": "Asayiş",
@@ -17953,7 +17938,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 548
+      "id": 549
     },
     {
       "category": "Trafik Kazası",
@@ -17983,7 +17968,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 549
+      "id": 550
     },
     {
       "category": "Trafik Kazası",
@@ -18014,7 +17999,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 550
+      "id": 551
     },
     {
       "category": "Trafik Kazası",
@@ -18052,7 +18037,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 551
+      "id": 552
     },
     {
       "category": "Trafik Kazası",
@@ -18083,7 +18068,7 @@
       "lat": 40.205,
       "lon": 32.682,
       "location_precision": "ilçe",
-      "id": 552
+      "id": 553
     },
     {
       "category": "Trafik Kazası",
@@ -18113,7 +18098,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 553
+      "id": 554
     },
     {
       "category": "Trafik Kazası",
@@ -18143,7 +18128,7 @@
       "lat": 40.019,
       "lon": 32.332,
       "location_precision": "ilçe",
-      "id": 554
+      "id": 555
     },
     {
       "category": "Trafik Kazası",
@@ -18173,7 +18158,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 555
+      "id": 556
     },
     {
       "category": "Trafik Kazası",
@@ -18203,7 +18188,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 556
+      "id": 557
     },
     {
       "category": "Trafik Kazası",
@@ -18233,7 +18218,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 557
+      "id": 558
     },
     {
       "category": "Trafik Kazası",
@@ -18263,7 +18248,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 558
+      "id": 559
     },
     {
       "category": "Trafik Kazası",
@@ -18293,7 +18278,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 559
+      "id": 560
     },
     {
       "category": "Yangın",
@@ -18323,7 +18308,7 @@
       "lat": 39.92,
       "lon": 33.23,
       "location_precision": "ilçe",
-      "id": 560
+      "id": 561
     },
     {
       "category": "Kavga",
@@ -18353,7 +18338,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 561
+      "id": 562
     },
     {
       "category": "Trafik Kazası",
@@ -18384,7 +18369,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 562
+      "id": 563
     },
     {
       "category": "Trafik Kazası",
@@ -18414,7 +18399,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 563
+      "id": 564
     },
     {
       "category": "Trafik Kazası",
@@ -18444,7 +18429,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 564
+      "id": 565
     },
     {
       "category": "Trafik Kazası",
@@ -18474,7 +18459,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 565
+      "id": 566
     },
     {
       "category": "Trafik Kazası",
@@ -18504,7 +18489,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 566
+      "id": 567
     },
     {
       "category": "Trafik Kazası",
@@ -18541,7 +18526,7 @@
       "lat": 40.167,
       "lon": 31.921,
       "location_precision": "ilçe",
-      "id": 567
+      "id": 568
     },
     {
       "category": "Asayiş",
@@ -18571,7 +18556,7 @@
       "lat": 39.948,
       "lon": 32.669,
       "location_precision": "ilçe",
-      "id": 568
+      "id": 569
     },
     {
       "category": "Trafik Kazası",
@@ -18602,7 +18587,7 @@
       "lat": 40.167,
       "lon": 31.921,
       "location_precision": "ilçe",
-      "id": 569
+      "id": 570
     },
     {
       "category": "Hırsızlık",
@@ -18632,7 +18617,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 570
+      "id": 571
     },
     {
       "category": "Trafik Kazası",
@@ -18662,7 +18647,7 @@
       "lat": 40.167,
       "lon": 31.921,
       "location_precision": "ilçe",
-      "id": 571
+      "id": 572
     },
     {
       "category": "Asayiş",
@@ -18692,7 +18677,7 @@
       "lat": 38.939,
       "lon": 33.538,
       "location_precision": "ilçe",
-      "id": 572
+      "id": 573
     },
     {
       "category": "Trafik Kazası",
@@ -18722,7 +18707,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 573
+      "id": 574
     },
     {
       "category": "Kavga",
@@ -18752,7 +18737,7 @@
       "lat": 39.9308,
       "lon": 32.9307,
       "location_precision": "ilçe",
-      "id": 574,
+      "id": 575,
       "district": "Mamak"
     },
     {
@@ -18783,7 +18768,7 @@
       "lat": 39.965,
       "lon": 32.805,
       "location_precision": "ilçe",
-      "id": 575
+      "id": 576
     },
     {
       "category": "İntihar",
@@ -18819,7 +18804,7 @@
       "lat": 39.92,
       "lon": 33.23,
       "location_precision": "ilçe",
-      "id": 576,
+      "id": 577,
       "last_updated": "2026-03-23T10:00:00+03:00"
     },
     {
@@ -18851,7 +18836,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 577
+      "id": 578
     },
     {
       "category": "Kavga",
@@ -18882,7 +18867,7 @@
       "lat": 39.584,
       "lon": 32.147,
       "location_precision": "ilçe",
-      "id": 578
+      "id": 579
     },
     {
       "category": "Uyuşturucu",
@@ -18913,7 +18898,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 579
+      "id": 580
     },
     {
       "category": "Kayıp Kişi",
@@ -18942,7 +18927,7 @@
       "lat": 39.9308,
       "lon": 32.9307,
       "location_precision": "ilçe",
-      "id": 580,
+      "id": 581,
       "district": "Mamak"
     },
     {
@@ -18981,7 +18966,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 581
+      "id": 582
     },
     {
       "category": "Trafik Kazası",
@@ -19012,7 +18997,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 582
+      "id": 583
     },
     {
       "category": "Trafik Kazası",
@@ -19042,7 +19027,7 @@
       "lat": 39.97,
       "lon": 32.584,
       "location_precision": "ilçe",
-      "id": 583
+      "id": 584
     },
     {
       "category": "Trafik Kazası",
@@ -19072,7 +19057,7 @@
       "lat": 39.948,
       "lon": 32.669,
       "location_precision": "ilçe",
-      "id": 584
+      "id": 585
     },
     {
       "category": "Sağlık",
@@ -19102,7 +19087,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 585
+      "id": 586
     },
     {
       "category": "Terör",
@@ -19133,7 +19118,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 586
+      "id": 587
     },
     {
       "category": "Yangın",
@@ -19163,7 +19148,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 587
+      "id": 588
     },
     {
       "category": "Yangın",
@@ -19193,7 +19178,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 588
+      "id": 589
     },
     {
       "category": "Silahlı Olay",
@@ -19225,7 +19210,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 589
+      "id": 590
     },
     {
       "category": "Trafik Kazası",
@@ -19255,7 +19240,7 @@
       "lat": 39.9308,
       "lon": 32.9307,
       "location_precision": "ilçe",
-      "id": 590,
+      "id": 591,
       "district": "Mamak"
     },
     {
@@ -19286,7 +19271,7 @@
       "lat": 39.9087,
       "lon": 32.9488,
       "location_precision": "mahalle",
-      "id": 591
+      "id": 592
     },
     {
       "category": "Trafik Kazası",
@@ -19316,7 +19301,7 @@
       "lat": 39.79,
       "lon": 32.809,
       "location_precision": "ilçe",
-      "id": 592
+      "id": 593
     },
     {
       "category": "Trafik Kazası",
@@ -19346,7 +19331,7 @@
       "lat": 39.92,
       "lon": 33.23,
       "location_precision": "ilçe",
-      "id": 593
+      "id": 594
     },
     {
       "category": "Asayiş",
@@ -19376,7 +19361,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 594
+      "id": 595
     },
     {
       "category": "Silahlı Olay",
@@ -19407,7 +19392,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 595
+      "id": 596
     },
     {
       "category": "Trafik Kazası",
@@ -19437,7 +19422,7 @@
       "lat": 40.135,
       "lon": 33.086,
       "location_precision": "ilçe",
-      "id": 596
+      "id": 597
     },
     {
       "category": "Diğer",
@@ -19467,7 +19452,7 @@
       "lat": 40.039,
       "lon": 32.902,
       "location_precision": "ilçe",
-      "id": 597
+      "id": 598
     },
     {
       "category": "Trafik Kazası",
@@ -19497,7 +19482,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 598
+      "id": 599
     },
     {
       "category": "Kavga",
@@ -19515,7 +19500,7 @@
       "summary": "Son Dakika üzerinden bulunan herkese açık kayıt.",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPbXhVYkR1VE5ZSXpyNkVOazVqWVFEdmhmaDJmMzM2Y09NWFJFNzhkTTZGclA5akFsSXg2NnY3a3c0QXRiOHJjUlRQMURHYVVwOVA2YXNMaXg0YjctOE1OUFp3Znl0WEw5Y0Q3dzhUbVF5N3o3eUYtWFU4b2dxRGlZZVNxOUNreDNsSzJ6eldJT0lmYXfSAY4BQVVfeXFMTXlWVUdXSjlHZlpXWWxselBCZXJPNnM1ODZqTW9ZWl91ZVRmQTB4NTNYZ2RQREhQUFFZa0diR0tGTE02djNiTXVraFZFbU9CcEp0bjktZ2o3cWVUQzlTMkRGaUpETE82MVBmN2pQS1N4eF9raDJWbE5ZQ2Q5bDVNRDZEWkhiRGwzdWZiVDhKUQ?oc=5",
       "platform": "Haber",
-      "id": 599,
+      "id": 600,
       "source_links": [
         {
           "platform": "Haber",
@@ -19558,7 +19543,7 @@
       "lat": 40.205,
       "lon": 32.682,
       "location_precision": "ilçe",
-      "id": 600
+      "id": 601
     },
     {
       "category": "Trafik Kazası",
@@ -19588,7 +19573,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 601
+      "id": 602
     },
     {
       "category": "Kavga",
@@ -19619,7 +19604,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 602
+      "id": 603
     },
     {
       "category": "Trafik Kazası",
@@ -19649,7 +19634,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 603
+      "id": 604
     },
     {
       "category": "Trafik Kazası",
@@ -19680,7 +19665,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 604
+      "id": 605
     },
     {
       "category": "Uyuşturucu",
@@ -19711,7 +19696,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 605
+      "id": 606
     },
     {
       "category": "Terör",
@@ -19742,7 +19727,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 606
+      "id": 607
     },
     {
       "category": "Silahlı Olay",
@@ -19772,7 +19757,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 607
+      "id": 608
     },
     {
       "category": "Asayiş",
@@ -19802,7 +19787,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 608
+      "id": 609
     },
     {
       "category": "Trafik Kazası",
@@ -19832,7 +19817,7 @@
       "lat": 39.9308,
       "lon": 32.9307,
       "location_precision": "ilçe",
-      "id": 609,
+      "id": 610,
       "district": "Mamak"
     },
     {
@@ -19863,7 +19848,7 @@
       "lat": 39.9308,
       "lon": 32.9307,
       "location_precision": "ilçe",
-      "id": 610,
+      "id": 611,
       "district": "Mamak"
     },
     {
@@ -19894,7 +19879,7 @@
       "lat": 39.434,
       "lon": 32.497,
       "location_precision": "ilçe",
-      "id": 611
+      "id": 612
     },
     {
       "category": "Silahlı Olay",
@@ -19924,7 +19909,7 @@
       "lat": 39.434,
       "lon": 32.497,
       "location_precision": "ilçe",
-      "id": 612
+      "id": 613
     },
     {
       "category": "Kavga",
@@ -19954,7 +19939,7 @@
       "lat": 39.434,
       "lon": 32.497,
       "location_precision": "ilçe",
-      "id": 613
+      "id": 614
     },
     {
       "category": "Kavga",
@@ -19984,7 +19969,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 614
+      "id": 615
     },
     {
       "category": "Cinayet",
@@ -20016,7 +20001,7 @@
       "lat": 39.434,
       "lon": 32.497,
       "location_precision": "ilçe",
-      "id": 615
+      "id": 616
     },
     {
       "category": "Cinayet",
@@ -20054,7 +20039,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 616
+      "id": 617
     },
     {
       "category": "Cinayet",
@@ -20085,7 +20070,7 @@
       "lat": 39.434,
       "lon": 32.497,
       "location_precision": "ilçe",
-      "id": 617
+      "id": 618
     },
     {
       "category": "Trafik Kazası",
@@ -20115,7 +20100,7 @@
       "lat": 39.948,
       "lon": 32.669,
       "location_precision": "ilçe",
-      "id": 618
+      "id": 619
     },
     {
       "category": "Uyuşturucu",
@@ -20144,7 +20129,7 @@
       "lat": 39.9308,
       "lon": 32.9307,
       "location_precision": "ilçe",
-      "id": 619,
+      "id": 620,
       "district": "Mamak"
     },
     {
@@ -20176,7 +20161,7 @@
       "lat": 39.952,
       "lon": 32.875,
       "location_precision": "ilçe",
-      "id": 620
+      "id": 621
     },
     {
       "category": "Trafik Kazası",
@@ -20206,7 +20191,57 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 621
+      "id": 622
+    },
+    {
+      "category": "Cinayet",
+      "categories": [
+        "Cinayet",
+        "İntihar"
+      ],
+      "icon": "⚫",
+      "title": "Habertürk TV. . Ankara'da aile katliamı Cezaevinden izinli çıktı. Annesini, eşini ve kızını öldürüp intihar etti. - facebook.com",
+      "location": "Ankara Geneli",
+      "published": "2026-02-09T11:00:00+03:00",
+      "confidence": 75,
+      "sources": 4,
+      "status": "Sosyal medya / doğrulanmamış",
+      "summary": "4 farklı açık kaynakta bulunan aynı olay tek kayıtta birleştirildi.",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1fR0k1cjdFWVF3TTNFazJjVmFzM1ZaQ1N2MVBBdHlqRWljMjllS0pJU0pCSkNJZm5IOFlsN09RRFR3c1B0UmljMEFWdnY3LU43T3M4WlB3?oc=5",
+      "platform": "YouTube",
+      "source_links": [
+        {
+          "platform": "YouTube",
+          "title": "Ankara'da kan donduran cinayet! Annesini, kızını ve eşini öldürüp intihar etti | A Haber - YouTube",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1fR0k1cjdFWVF3TTNFazJjVmFzM1ZaQ1N2MVBBdHlqRWljMjllS0pJU0pCSkNJZm5IOFlsN09RRFR3c1B0UmljMEFWdnY3LU43T3M4WlB3?oc=5",
+          "published": "2026-02-10T10:00:42+03:00"
+        },
+        {
+          "platform": "Facebook",
+          "title": "Habertürk TV. . Ankara'da aile katliamı Cezaevinden izinli çıktı. Annesini, eşini ve kızını öldürüp intihar etti. - facebook.com",
+          "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxPUnRvdTRzOFROLTlYQ0FvVlpnbjRuQnQzRmFfRVlTOGxPV05SLUk1R1FaUHYtVzNEMVE3YkJMbWQyUmdWSHlsNHFZUXdHSHY1RnI2WjVGcjdibmk1LVItUm1PR0xIVmZoVDBTMlVwaTFBVk9VZ19FOVhUVndtcnF6cXRRS1Z4TUc0MGVCUTZBXzI3YmpwbXU0MWpsaEljQ0FXaVVFYVRKb1JDZVAzSUYzUWRuT1kxZzJRTUl1RWxUcjVaQk9nT0loVmhaUFZ4am9jc2ZpdUxYNUtDc2l4enFCLU0xc0JqeUJLUVNVd1ItblpxOU5UdmJXZGpwSl9nRGU3YzFjQUJCXzJDa3NQX3Y5dzBET1NiWmdYRk1pX1Vsa2pZUU0?oc=5",
+          "published": "2026-02-10T11:00:00+03:00"
+        },
+        {
+          "platform": "Haber",
+          "title": "Ankara’da dehşet: Annesini, kızını ve eşini öldürdü, intihar etti - Yeniçağ Gazetesi",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMUJFSW5RUVlMdXVNb09HQl80WWh0OUhCUzAxank4cXJZWS0wd2NlZ2VfOXl0ZWV0SjA1NjN5UW5zXzJRYm1yWGYxa3hiM1RFdHM2VnNzSzZzYzc1d1BoVi1XV3ZEUk5aR210VllHT0NfSjFybTRWUmFndS1yMG5OMm1iZnEya0FJOWFENHhWeXE5UDlpV05fbjlILXJHdUdlRktDcm1YRlU?oc=5",
+          "published": "2026-02-09T11:00:00+03:00"
+        },
+        {
+          "platform": "Facebook",
+          "title": "#SONDURUM - Ankara'da aile katliamı. Annesini, eşini ve kızını öldürüp intihar etti. - facebook.com",
+          "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQdnRDWWswdkszVFJNalZjZmFibEZYWFdreFFDbFZCY2l0VVlYYzNQa1QxbWZlWTFLdDJuaFNxTy03LVFvRG0zSjNyTUF4UGRFUjc1Mk5yTFpfdTNNVUlPX25NcURPdkRwNjd0LTlPdEoyajA1TE8zdVk3VWtRZUdjdGFkQVZjQXNVV3JqRl9DS3M5NnhkQUJSeW1wX1NCZzRCaThiQ3M2bkpSUUJKR2l3eTNKbkpOMDNwS19HWWdPS1dzM2k1dUZBMS0wLURIQ1p4c1liQTlfbnpOUWpjY0tIcVU5NVlGTV9zQU5OandwenVaWm5pcTdfbTdIcGZuLVA0X3F1djNhcVBvQQ?oc=5",
+          "published": "2026-02-09T11:00:00+03:00"
+        }
+      ],
+      "last_updated": "2026-02-10T10:00:42+03:00",
+      "district": "Ankara Geneli",
+      "neighborhood": "Ankara Geneli",
+      "lat": 39.9334,
+      "lon": 32.8597,
+      "location_precision": "il",
+      "id": 623
     },
     {
       "category": "Cinayet",
@@ -20243,57 +20278,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 622
-    },
-    {
-      "category": "İntihar",
-      "categories": [
-        "İntihar",
-        "Cinayet"
-      ],
-      "icon": "🟣",
-      "title": "Habertürk TV. . Ankara'da aile katliamı Cezaevinden izinli çıktı. Annesini, eşini ve kızını öldürüp intihar etti. - facebook.com",
-      "location": "Ankara Geneli",
-      "published": "2026-02-09T11:00:00+03:00",
-      "confidence": 75,
-      "sources": 4,
-      "status": "Sosyal medya / doğrulanmamış",
-      "summary": "4 farklı açık kaynakta bulunan aynı olay tek kayıtta birleştirildi.",
-      "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxPUnRvdTRzOFROLTlYQ0FvVlpnbjRuQnQzRmFfRVlTOGxPV05SLUk1R1FaUHYtVzNEMVE3YkJMbWQyUmdWSHlsNHFZUXdHSHY1RnI2WjVGcjdibmk1LVItUm1PR0xIVmZoVDBTMlVwaTFBVk9VZ19FOVhUVndtcnF6cXRRS1Z4TUc0MGVCUTZBXzI3YmpwbXU0MWpsaEljQ0FXaVVFYVRKb1JDZVAzSUYzUWRuT1kxZzJRTUl1RWxUcjVaQk9nT0loVmhaUFZ4am9jc2ZpdUxYNUtDc2l4enFCLU0xc0JqeUJLUVNVd1ItblpxOU5UdmJXZGpwSl9nRGU3YzFjQUJCXzJDa3NQX3Y5dzBET1NiWmdYRk1pX1Vsa2pZUU0?oc=5",
-      "platform": "Facebook",
-      "source_links": [
-        {
-          "platform": "Facebook",
-          "title": "Habertürk TV. . Ankara'da aile katliamı Cezaevinden izinli çıktı. Annesini, eşini ve kızını öldürüp intihar etti. - facebook.com",
-          "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxPUnRvdTRzOFROLTlYQ0FvVlpnbjRuQnQzRmFfRVlTOGxPV05SLUk1R1FaUHYtVzNEMVE3YkJMbWQyUmdWSHlsNHFZUXdHSHY1RnI2WjVGcjdibmk1LVItUm1PR0xIVmZoVDBTMlVwaTFBVk9VZ19FOVhUVndtcnF6cXRRS1Z4TUc0MGVCUTZBXzI3YmpwbXU0MWpsaEljQ0FXaVVFYVRKb1JDZVAzSUYzUWRuT1kxZzJRTUl1RWxUcjVaQk9nT0loVmhaUFZ4am9jc2ZpdUxYNUtDc2l4enFCLU0xc0JqeUJLUVNVd1ItblpxOU5UdmJXZGpwSl9nRGU3YzFjQUJCXzJDa3NQX3Y5dzBET1NiWmdYRk1pX1Vsa2pZUU0?oc=5",
-          "published": "2026-02-10T11:00:00+03:00"
-        },
-        {
-          "platform": "YouTube",
-          "title": "Ankara'da kan donduran cinayet! Annesini, kızını ve eşini öldürüp intihar etti | A Haber - YouTube",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1fR0k1cjdFWVF3TTNFazJjVmFzM1ZaQ1N2MVBBdHlqRWljMjllS0pJU0pCSkNJZm5IOFlsN09RRFR3c1B0UmljMEFWdnY3LU43T3M4WlB3?oc=5",
-          "published": "2026-02-10T10:00:42+03:00"
-        },
-        {
-          "platform": "Haber",
-          "title": "Ankara’da dehşet: Annesini, kızını ve eşini öldürdü, intihar etti - Yeniçağ Gazetesi",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMUJFSW5RUVlMdXVNb09HQl80WWh0OUhCUzAxank4cXJZWS0wd2NlZ2VfOXl0ZWV0SjA1NjN5UW5zXzJRYm1yWGYxa3hiM1RFdHM2VnNzSzZzYzc1d1BoVi1XV3ZEUk5aR210VllHT0NfSjFybTRWUmFndS1yMG5OMm1iZnEya0FJOWFENHhWeXE5UDlpV05fbjlILXJHdUdlRktDcm1YRlU?oc=5",
-          "published": "2026-02-09T11:00:00+03:00"
-        },
-        {
-          "platform": "Facebook",
-          "title": "#SONDURUM - Ankara'da aile katliamı. Annesini, eşini ve kızını öldürüp intihar etti. - facebook.com",
-          "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQdnRDWWswdkszVFJNalZjZmFibEZYWFdreFFDbFZCY2l0VVlYYzNQa1QxbWZlWTFLdDJuaFNxTy03LVFvRG0zSjNyTUF4UGRFUjc1Mk5yTFpfdTNNVUlPX25NcURPdkRwNjd0LTlPdEoyajA1TE8zdVk3VWtRZUdjdGFkQVZjQXNVV3JqRl9DS3M5NnhkQUJSeW1wX1NCZzRCaThiQ3M2bkpSUUJKR2l3eTNKbkpOMDNwS19HWWdPS1dzM2k1dUZBMS0wLURIQ1p4c1liQTlfbnpOUWpjY0tIcVU5NVlGTV9zQU5OandwenVaWm5pcTdfbTdIcGZuLVA0X3F1djNhcVBvQQ?oc=5",
-          "published": "2026-02-09T11:00:00+03:00"
-        }
-      ],
-      "last_updated": "2026-02-10T10:00:42+03:00",
-      "district": "Ankara Geneli",
-      "neighborhood": "Ankara Geneli",
-      "lat": 39.9334,
-      "lon": 32.8597,
-      "location_precision": "il",
-      "id": 623
+      "id": 624
     },
     {
       "category": "İntihar",
@@ -20330,7 +20315,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 624
+      "id": 625
     },
     {
       "category": "Diğer",
@@ -20360,7 +20345,7 @@
       "lat": 40.0,
       "lon": 32.866,
       "location_precision": "ilçe",
-      "id": 625
+      "id": 626
     },
     {
       "category": "Yangın",
@@ -20390,7 +20375,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 626
+      "id": 627
     },
     {
       "category": "Silahlı Olay",
@@ -20422,7 +20407,7 @@
       "lat": 39.9308,
       "lon": 32.9307,
       "location_precision": "ilçe",
-      "id": 627
+      "id": 628
     },
     {
       "category": "Kavga",
@@ -20451,7 +20436,7 @@
       "lat": 39.9308,
       "lon": 32.9307,
       "location_precision": "ilçe",
-      "id": 628,
+      "id": 629,
       "district": "Mamak"
     },
     {
@@ -20482,7 +20467,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 629
+      "id": 630
     },
     {
       "category": "Trafik Kazası",
@@ -20512,7 +20497,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 630
+      "id": 631
     },
     {
       "category": "Uyuşturucu",
@@ -20541,7 +20526,7 @@
       "lat": 39.9308,
       "lon": 32.9307,
       "location_precision": "ilçe",
-      "id": 631,
+      "id": 632,
       "district": "Mamak"
     },
     {
@@ -20574,7 +20559,7 @@
       "lat": 39.97,
       "lon": 32.584,
       "location_precision": "ilçe",
-      "id": 632
+      "id": 633
     },
     {
       "category": "Silahlı Olay",
@@ -20605,7 +20590,7 @@
       "lat": 39.97,
       "lon": 32.584,
       "location_precision": "ilçe",
-      "id": 633
+      "id": 634
     },
     {
       "category": "Asayiş",
@@ -20635,7 +20620,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 634
+      "id": 635
     },
     {
       "category": "Sağlık",
@@ -20665,7 +20650,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 635
+      "id": 636
     },
     {
       "category": "İntihar",
@@ -20695,7 +20680,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 636
+      "id": 637
     },
     {
       "category": "İntihar",
@@ -20727,7 +20712,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 637
+      "id": 638
     },
     {
       "category": "Kavga",
@@ -20757,7 +20742,7 @@
       "lat": 40.0,
       "lon": 32.866,
       "location_precision": "ilçe",
-      "id": 638
+      "id": 639
     },
     {
       "category": "Kavga",
@@ -20787,7 +20772,7 @@
       "lat": 39.92,
       "lon": 33.23,
       "location_precision": "ilçe",
-      "id": 639
+      "id": 640
     },
     {
       "category": "Trafik Kazası",
@@ -20817,7 +20802,7 @@
       "lat": 39.92,
       "lon": 33.23,
       "location_precision": "ilçe",
-      "id": 640
+      "id": 641
     },
     {
       "category": "Kavga",
@@ -20847,7 +20832,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 641
+      "id": 642
     },
     {
       "category": "Yangın",
@@ -20879,7 +20864,7 @@
       "lat": 39.79,
       "lon": 32.809,
       "location_precision": "ilçe",
-      "id": 642
+      "id": 643
     },
     {
       "category": "Cinayet",
@@ -20908,7 +20893,7 @@
       "lat": 39.9308,
       "lon": 32.9307,
       "location_precision": "ilçe",
-      "id": 643,
+      "id": 644,
       "district": "Mamak"
     },
     {
@@ -20938,7 +20923,7 @@
       "lat": 39.9308,
       "lon": 32.9307,
       "location_precision": "ilçe",
-      "id": 644,
+      "id": 645,
       "district": "Mamak"
     },
     {
@@ -20968,7 +20953,7 @@
       "lat": 39.903,
       "lon": 32.859,
       "location_precision": "ilçe",
-      "id": 645,
+      "id": 646,
       "district": "Çankaya"
     },
     {
@@ -20998,7 +20983,7 @@
       "lat": 39.9308,
       "lon": 32.9307,
       "location_precision": "ilçe",
-      "id": 646,
+      "id": 647,
       "district": "Mamak"
     },
     {
@@ -21029,7 +21014,7 @@
       "lat": 39.9308,
       "lon": 32.9307,
       "location_precision": "ilçe",
-      "id": 647,
+      "id": 648,
       "district": "Mamak"
     },
     {
@@ -21060,7 +21045,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 648
+      "id": 649
     },
     {
       "category": "Asayiş",
@@ -21090,7 +21075,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 649
+      "id": 650
     },
     {
       "category": "Kavga",
@@ -21120,7 +21105,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 650
+      "id": 651
     },
     {
       "category": "Silahlı Olay",
@@ -21150,7 +21135,7 @@
       "lat": 39.965,
       "lon": 32.805,
       "location_precision": "ilçe",
-      "id": 651
+      "id": 652
     },
     {
       "category": "Trafik Kazası",
@@ -21186,7 +21171,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 652,
+      "id": 653,
       "last_updated": "2026-01-05T11:00:00+03:00"
     },
     {
@@ -21217,7 +21202,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 653
+      "id": 654
     },
     {
       "category": "Trafik Kazası",
@@ -21247,7 +21232,7 @@
       "lat": 40.0,
       "lon": 32.866,
       "location_precision": "ilçe",
-      "id": 654
+      "id": 655
     },
     {
       "category": "Trafik Kazası",
@@ -21278,7 +21263,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 655
+      "id": 656
     },
     {
       "category": "Asayiş",
@@ -21308,7 +21293,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 656
+      "id": 657
     },
     {
       "category": "Trafik Kazası",
@@ -21338,7 +21323,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 657
+      "id": 658
     },
     {
       "category": "Kavga",
@@ -21368,7 +21353,7 @@
       "lat": 39.952,
       "lon": 32.875,
       "location_precision": "ilçe",
-      "id": 658
+      "id": 659
     },
     {
       "category": "Asayiş",
@@ -21405,7 +21390,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 659
+      "id": 660
     },
     {
       "category": "Asayiş",
@@ -21435,7 +21420,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 660
+      "id": 661
     },
     {
       "category": "Silahlı Olay",
@@ -21466,7 +21451,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 661
+      "id": 662
     },
     {
       "category": "Silahlı Olay",
@@ -21496,7 +21481,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 662
+      "id": 663
     },
     {
       "category": "Kavga",
@@ -21527,7 +21512,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 663
+      "id": 664
     },
     {
       "category": "Terör",
@@ -21558,7 +21543,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 664
+      "id": 665
     },
     {
       "category": "Trafik Kazası",
@@ -21587,7 +21572,7 @@
       "lat": 39.9308,
       "lon": 32.9307,
       "location_precision": "ilçe",
-      "id": 665,
+      "id": 666,
       "district": "Mamak"
     },
     {
@@ -21619,7 +21604,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 666
+      "id": 667
     },
     {
       "category": "Kavga",
@@ -21649,7 +21634,7 @@
       "lat": 39.434,
       "lon": 32.497,
       "location_precision": "ilçe",
-      "id": 667
+      "id": 668
     },
     {
       "category": "Trafik Kazası",
@@ -21678,7 +21663,7 @@
       "lat": 39.903,
       "lon": 32.859,
       "location_precision": "ilçe",
-      "id": 668,
+      "id": 669,
       "district": "Çankaya"
     },
     {
@@ -21709,7 +21694,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 669
+      "id": 670
     },
     {
       "category": "Taciz",
@@ -21738,7 +21723,7 @@
       "lat": 39.948,
       "lon": 32.669,
       "location_precision": "ilçe",
-      "id": 670,
+      "id": 671,
       "district": "Etimesgut"
     },
     {
@@ -21769,7 +21754,7 @@
       "lat": 39.965,
       "lon": 32.805,
       "location_precision": "ilçe",
-      "id": 671
+      "id": 672
     },
     {
       "category": "Sağlık",
@@ -21799,7 +21784,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 672
+      "id": 673
     },
     {
       "category": "Silahlı Olay",
@@ -21831,7 +21816,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 673
+      "id": 674
     },
     {
       "category": "Sağlık",
@@ -21861,7 +21846,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 674
+      "id": 675
     },
     {
       "category": "Trafik Kazası",
@@ -21891,7 +21876,7 @@
       "lat": 40.167,
       "lon": 31.921,
       "location_precision": "ilçe",
-      "id": 675
+      "id": 676
     },
     {
       "category": "Kavga",
@@ -21921,7 +21906,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 676
+      "id": 677
     },
     {
       "category": "Trafik Kazası",
@@ -21951,7 +21936,7 @@
       "lat": 39.79,
       "lon": 32.809,
       "location_precision": "ilçe",
-      "id": 677
+      "id": 678
     },
     {
       "category": "Silahlı Olay",
@@ -21981,7 +21966,7 @@
       "lat": 39.965,
       "lon": 32.805,
       "location_precision": "ilçe",
-      "id": 678
+      "id": 679
     },
     {
       "category": "Silahlı Olay",
@@ -22012,7 +21997,7 @@
       "lat": 39.554,
       "lon": 33.123,
       "location_precision": "ilçe",
-      "id": 679
+      "id": 680
     },
     {
       "category": "Trafik Kazası",
@@ -22049,7 +22034,7 @@
       "lat": 39.9308,
       "lon": 32.9307,
       "location_precision": "ilçe",
-      "id": 680,
+      "id": 681,
       "district": "Mamak"
     },
     {
@@ -22080,7 +22065,7 @@
       "lat": 39.9308,
       "lon": 32.9307,
       "location_precision": "ilçe",
-      "id": 681,
+      "id": 682,
       "district": "Mamak"
     },
     {
@@ -22111,7 +22096,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 682
+      "id": 683
     },
     {
       "category": "Silahlı Olay",
@@ -22142,7 +22127,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 683
+      "id": 684
     },
     {
       "category": "Taciz",
@@ -22172,7 +22157,7 @@
       "lat": 39.948,
       "lon": 32.669,
       "location_precision": "ilçe",
-      "id": 684
+      "id": 685
     },
     {
       "category": "Cinayet",
@@ -22202,7 +22187,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 685
+      "id": 686
     },
     {
       "category": "Cinayet",
@@ -22232,7 +22217,7 @@
       "lat": 39.903,
       "lon": 32.859,
       "location_precision": "ilçe",
-      "id": 686
+      "id": 687
     },
     {
       "category": "Kavga",
@@ -22263,7 +22248,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 687
+      "id": 688
     },
     {
       "category": "Yangın",
@@ -22293,7 +22278,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 688
+      "id": 689
     },
     {
       "category": "Trafik Kazası",
@@ -22323,7 +22308,7 @@
       "lat": 40.135,
       "lon": 33.086,
       "location_precision": "ilçe",
-      "id": 689
+      "id": 690
     },
     {
       "category": "Dolandırıcılık",
@@ -22354,7 +22339,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 690
+      "id": 691
     },
     {
       "category": "Kavga",
@@ -22391,7 +22376,7 @@
       "lat": 39.965,
       "lon": 32.805,
       "location_precision": "ilçe",
-      "id": 691
+      "id": 692
     },
     {
       "category": "Silahlı Olay",
@@ -22422,7 +22407,7 @@
       "lat": 39.97,
       "lon": 32.584,
       "location_precision": "ilçe",
-      "id": 692
+      "id": 693
     },
     {
       "category": "Kavga",
@@ -22452,7 +22437,7 @@
       "lat": 40.0,
       "lon": 32.866,
       "location_precision": "ilçe",
-      "id": 693
+      "id": 694
     },
     {
       "category": "Silahlı Olay",
@@ -22497,7 +22482,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 694
+      "id": 695
     },
     {
       "category": "Trafik Kazası",
@@ -22527,7 +22512,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 695
+      "id": 696
     },
     {
       "category": "Silahlı Olay",
@@ -22558,7 +22543,7 @@
       "lat": 39.434,
       "lon": 32.497,
       "location_precision": "ilçe",
-      "id": 696
+      "id": 697
     },
     {
       "category": "Silahlı Olay",
@@ -22589,7 +22574,7 @@
       "lat": 39.903,
       "lon": 32.859,
       "location_precision": "ilçe",
-      "id": 697
+      "id": 698
     },
     {
       "category": "Asayiş",
@@ -22619,7 +22604,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 698
+      "id": 699
     },
     {
       "category": "Kavga",
@@ -22649,7 +22634,7 @@
       "lat": 39.9308,
       "lon": 32.9307,
       "location_precision": "ilçe",
-      "id": 699,
+      "id": 700,
       "district": "Mamak"
     },
     {
@@ -22680,7 +22665,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 700
+      "id": 701
     },
     {
       "category": "Cinayet",
@@ -22690,19 +22675,19 @@
         "Kavga"
       ],
       "icon": "⚫",
-      "title": "Keçiören’de berber çıkışı silahlı saldırı: Yakup Polat öldürüldü - Ankara Masası",
+      "title": "Keçiören’de berber çıkışı silahlı saldırı: Yakup Polat öldürüldü - ankaramasasi.com.tr",
       "location": "Keçiören / Ankara",
       "published": "2025-11-01T10:00:00+03:00",
       "confidence": 75,
       "sources": 1,
       "status": "Muhtemel",
-      "summary": "Ankara Masası üzerinden bulunan herkese açık kayıt.",
+      "summary": "ankaramasasi.com.tr üzerinden bulunan herkese açık kayıt.",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNWnlBamtoRWdFY2tURzRHZEcxLUIzenN3YzFVUTd5V2paVDdhNVMwdWF4blMxRS1vQjlSRnc1TTYtaUJ5Y1o3TG9ueWJoaFNDaWVWdTRlV1J4eFQ2cFlMNGczZ3YwaTFNWUM3QmZ6N1Q2OFduZUQ1V2NjVzEyUTN0b1hKTGs1SnpnVk9uZ3NIQUhjOU1xTFpXXzlvXzJCQ0pfVUdaLXRhSkpSSzlBMmc?oc=5",
       "platform": "Haber",
       "source_links": [
         {
           "platform": "Haber",
-          "title": "Keçiören’de berber çıkışı silahlı saldırı: Yakup Polat öldürüldü - Ankara Masası",
+          "title": "Keçiören’de berber çıkışı silahlı saldırı: Yakup Polat öldürüldü - ankaramasasi.com.tr",
           "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNWnlBamtoRWdFY2tURzRHZEcxLUIzenN3YzFVUTd5V2paVDdhNVMwdWF4blMxRS1vQjlSRnc1TTYtaUJ5Y1o3TG9ueWJoaFNDaWVWdTRlV1J4eFQ2cFlMNGczZ3YwaTFNWUM3QmZ6N1Q2OFduZUQ1V2NjVzEyUTN0b1hKTGs1SnpnVk9uZ3NIQUhjOU1xTFpXXzlvXzJCQ0pfVUdaLXRhSkpSSzlBMmc?oc=5",
           "published": "2025-11-01T10:00:00+03:00"
         }
@@ -22712,7 +22697,7 @@
       "lat": 40.0,
       "lon": 32.866,
       "location_precision": "ilçe",
-      "id": 701
+      "id": 702
     },
     {
       "category": "Kavga",
@@ -22748,7 +22733,7 @@
       "lat": 39.952,
       "lon": 32.875,
       "location_precision": "ilçe",
-      "id": 702,
+      "id": 703,
       "last_updated": "2025-10-31T10:00:00+03:00"
     },
     {
@@ -22779,7 +22764,7 @@
       "lat": 40.0,
       "lon": 32.866,
       "location_precision": "ilçe",
-      "id": 703
+      "id": 704
     },
     {
       "category": "Silahlı Olay",
@@ -22809,7 +22794,7 @@
       "lat": 40.0,
       "lon": 32.866,
       "location_precision": "ilçe",
-      "id": 704
+      "id": 705
     },
     {
       "category": "Cinayet",
@@ -22839,7 +22824,7 @@
       "lat": 40.0,
       "lon": 32.866,
       "location_precision": "ilçe",
-      "id": 705
+      "id": 706
     },
     {
       "category": "Cinayet",
@@ -22848,7 +22833,7 @@
         "Silahlı Olay"
       ],
       "icon": "⚫",
-      "title": "Ankara'da berber dükkanında cinayet! Kurşunlanarak öldürüldü - Ankara Masası",
+      "title": "Ankara'da berber dükkanında cinayet! Kurşunlanarak öldürüldü - ankaramasasi.com.tr",
       "location": "Ankara Geneli",
       "published": "2025-10-31T10:00:00+03:00",
       "confidence": 75,
@@ -22877,7 +22862,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 706
+      "id": 707
     },
     {
       "category": "Silahlı Olay",
@@ -22908,7 +22893,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 707
+      "id": 708
     },
     {
       "category": "Trafik Kazası",
@@ -22938,7 +22923,7 @@
       "lat": 39.965,
       "lon": 32.805,
       "location_precision": "ilçe",
-      "id": 708
+      "id": 709
     },
     {
       "category": "Diğer",
@@ -22968,7 +22953,7 @@
       "lat": 40.019,
       "lon": 32.332,
       "location_precision": "ilçe",
-      "id": 709
+      "id": 710
     },
     {
       "category": "Silahlı Olay",
@@ -22999,7 +22984,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 710
+      "id": 711
     },
     {
       "category": "Asayiş",
@@ -23029,7 +23014,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 711
+      "id": 712
     },
     {
       "category": "Uyuşturucu",
@@ -23058,7 +23043,7 @@
       "lat": 39.9308,
       "lon": 32.9307,
       "location_precision": "ilçe",
-      "id": 712,
+      "id": 713,
       "district": "Mamak"
     },
     {
@@ -23089,7 +23074,7 @@
       "lat": 39.948,
       "lon": 32.669,
       "location_precision": "ilçe",
-      "id": 713
+      "id": 714
     },
     {
       "category": "Dolandırıcılık",
@@ -23120,7 +23105,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 714
+      "id": 715
     },
     {
       "category": "Kavga",
@@ -23150,7 +23135,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 715
+      "id": 716
     },
     {
       "category": "Cinayet",
@@ -23180,7 +23165,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 716
+      "id": 717
     },
     {
       "category": "Kavga",
@@ -23210,7 +23195,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 717
+      "id": 718
     },
     {
       "category": "Cinayet",
@@ -23240,7 +23225,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 718
+      "id": 719
     },
     {
       "category": "Silahlı Olay",
@@ -23271,7 +23256,7 @@
       "lat": 39.9308,
       "lon": 32.9307,
       "location_precision": "ilçe",
-      "id": 719,
+      "id": 720,
       "district": "Mamak"
     },
     {
@@ -23303,7 +23288,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 720
+      "id": 721
     },
     {
       "category": "Cinayet",
@@ -23333,7 +23318,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 721
+      "id": 722
     },
     {
       "category": "Yangın",
@@ -23341,19 +23326,19 @@
         "Yangın"
       ],
       "icon": "🔥",
-      "title": "Keçiören'de Çatı Yangını - sondakika.com",
+      "title": "Keçiören'de Çatı Yangını - Son Dakika",
       "location": "Keçiören / Ankara",
       "published": "2025-10-18T10:00:00+03:00",
       "confidence": 75,
       "sources": 1,
       "status": "Muhtemel",
-      "summary": "sondakika.com üzerinden bulunan herkese açık kayıt.",
+      "summary": "Son Dakika üzerinden bulunan herkese açık kayıt.",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5zczJUSHRiRmJHVzNZSXlfbTcwR2JPZGpyRFIyZkVXNU5qcUdIa2o0NWdtOGdkM3d1Zjh4T3FPcW5yV2xXbTF4M1R1bVkyVGNaaDNvNkg2SGc3ejdKYnkxZ2RwREpqOFRQOUlYdWViT05reW9aekJBeTNYbmYzYzDSAXpBVV95cUxNenU4Y08xSVJNTW1GWkhFeEs1NnpuSy1xeGlyQmFaVmhtMlNUSjVvNkl3TV9qVl9jVm11V1lyWVZGWm13VXktS2tDZXdPRm11NkxjVnRJOUl1aEtuLXVhSEdWcktNcEFsOHJQaGU1dWJhNXo3dzdJcnoyZw?oc=5",
       "platform": "Haber",
       "source_links": [
         {
           "platform": "Haber",
-          "title": "Keçiören'de Çatı Yangını - sondakika.com",
+          "title": "Keçiören'de Çatı Yangını - Son Dakika",
           "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5zczJUSHRiRmJHVzNZSXlfbTcwR2JPZGpyRFIyZkVXNU5qcUdIa2o0NWdtOGdkM3d1Zjh4T3FPcW5yV2xXbTF4M1R1bVkyVGNaaDNvNkg2SGc3ejdKYnkxZ2RwREpqOFRQOUlYdWViT05reW9aekJBeTNYbmYzYzDSAXpBVV95cUxNenU4Y08xSVJNTW1GWkhFeEs1NnpuSy1xeGlyQmFaVmhtMlNUSjVvNkl3TV9qVl9jVm11V1lyWVZGWm13VXktS2tDZXdPRm11NkxjVnRJOUl1aEtuLXVhSEdWcktNcEFsOHJQaGU1dWJhNXo3dzdJcnoyZw?oc=5",
           "published": "2025-10-18T10:00:00+03:00"
         }
@@ -23363,7 +23348,7 @@
       "lat": 40.0,
       "lon": 32.866,
       "location_precision": "ilçe",
-      "id": 722
+      "id": 723
     },
     {
       "category": "İntihar",
@@ -23393,7 +23378,7 @@
       "lat": 39.9308,
       "lon": 32.9307,
       "location_precision": "ilçe",
-      "id": 723,
+      "id": 724,
       "district": "Mamak"
     },
     {
@@ -23424,7 +23409,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 724
+      "id": 725
     },
     {
       "category": "Trafik Kazası",
@@ -23454,7 +23439,7 @@
       "lat": 39.903,
       "lon": 32.859,
       "location_precision": "ilçe",
-      "id": 725
+      "id": 726
     },
     {
       "category": "Trafik Kazası",
@@ -23485,7 +23470,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 726
+      "id": 727
     },
     {
       "category": "Asayiş",
@@ -23515,7 +23500,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 727
+      "id": 728
     },
     {
       "category": "Asayiş",
@@ -23545,7 +23530,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 728
+      "id": 729
     },
     {
       "category": "Silahlı Olay",
@@ -23575,7 +23560,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 729
+      "id": 730
     },
     {
       "category": "Trafik Kazası",
@@ -23611,7 +23596,7 @@
       "lat": 39.9308,
       "lon": 32.9307,
       "location_precision": "ilçe",
-      "id": 730,
+      "id": 731,
       "district": "Mamak"
     },
     {
@@ -23619,16 +23604,17 @@
       "categories": [
         "Silahlı Olay",
         "Kavga",
-        "Sağlık"
+        "Sağlık",
+        "Asayiş"
       ],
       "icon": "🔫",
-      "title": "Ankara Keçiören’de tünelde silahlı kavga: 1 ölü, 1 yaralı - merhabayozgat.com",
+      "title": "KEÇİÖREN'DE SİLAHLI KAVGA: 1 ÖLÜ, 1 YARALI #sondakika #haber #gündem #ankara #asayişhaberleri - YouTube",
       "location": "Keçiören / Ankara",
-      "published": "2025-10-06T10:00:00+03:00",
+      "published": "2025-10-06T09:21:22+03:00",
       "confidence": 75,
-      "sources": 1,
+      "sources": 2,
       "status": "Muhtemel",
-      "summary": "merhabayozgat.com üzerinden bulunan herkese açık kayıt.",
+      "summary": "2 farklı açık kaynakta bulunan aynı olay tek kayıtta birleştirildi.",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZWluUHBsVWFUUDEwWG1FU0hXUDJWN1hDNkh0VGRxbUVJLWJ0VDloM2N1eEU5SVlQb2xKdERlV0E4SllnenB1TjhTeW5MdFBjOWhpdUdzOFlub1VBZHNIeDdTYl9xd2xpSUYxdFhjSFBPUXd3NWI4UkhqNXRxSU5JS01Ja2h3d0pYRUxlME1nSUhvLW5JdXAweUNaY9IBoAFBVV95cUxNYld6OXhaQTNmdTF4U0JCMTdINW5nMzFMOGZhNHFObUJhUnFqMUI1bnAwTWd0d2NhVjBySWl4RmpmYlpESDN6eGtQSVE3QU54SDB3eVJjYUN1TmhaMUFmRkNoWEd5TUcycllhVWg3OW95V05jUzNWcGpYR3R6dlFkTTJMV2dSbm1IY1hqQkVpeHdKcVphZDJTVEVJVUhHZnRP?oc=5",
       "platform": "Haber",
       "source_links": [
@@ -23637,14 +23623,21 @@
           "title": "Ankara Keçiören’de tünelde silahlı kavga: 1 ölü, 1 yaralı - merhabayozgat.com",
           "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZWluUHBsVWFUUDEwWG1FU0hXUDJWN1hDNkh0VGRxbUVJLWJ0VDloM2N1eEU5SVlQb2xKdERlV0E4SllnenB1TjhTeW5MdFBjOWhpdUdzOFlub1VBZHNIeDdTYl9xd2xpSUYxdFhjSFBPUXd3NWI4UkhqNXRxSU5JS01Ja2h3d0pYRUxlME1nSUhvLW5JdXAweUNaY9IBoAFBVV95cUxNYld6OXhaQTNmdTF4U0JCMTdINW5nMzFMOGZhNHFObUJhUnFqMUI1bnAwTWd0d2NhVjBySWl4RmpmYlpESDN6eGtQSVE3QU54SDB3eVJjYUN1TmhaMUFmRkNoWEd5TUcycllhVWg3OW95V05jUzNWcGpYR3R6dlFkTTJMV2dSbm1IY1hqQkVpeHdKcVphZDJTVEVJVUhHZnRP?oc=5",
           "published": "2025-10-06T10:00:00+03:00"
+        },
+        {
+          "platform": "YouTube",
+          "title": "KEÇİÖREN'DE SİLAHLI KAVGA: 1 ÖLÜ, 1 YARALI #sondakika #haber #gündem #ankara #asayişhaberleri - YouTube",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB2MFZEdUVxZXlfRVhocldkVnVoeVNvX1dPYVZtQVJLdDRuU1VlcjNfOEZRNlQ3RS1pSGlpemIyQlVzejJJTjRMQmsxOHFQSXRCQ1Eteg?oc=5",
+          "published": "2025-10-06T09:21:22+03:00"
         }
       ],
+      "last_updated": "2025-10-06T09:21:22+03:00",
       "district": "Keçiören",
       "neighborhood": "Keçiören Geneli",
       "lat": 40.0,
       "lon": 32.866,
       "location_precision": "ilçe",
-      "id": 731
+      "id": 732
     },
     {
       "category": "Trafik Kazası",
@@ -23673,7 +23666,7 @@
       "lat": 39.9308,
       "lon": 32.9307,
       "location_precision": "ilçe",
-      "id": 732,
+      "id": 733,
       "district": "Mamak"
     },
     {
@@ -23704,7 +23697,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 733
+      "id": 734
     },
     {
       "category": "Kavga",
@@ -23734,7 +23727,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 734
+      "id": 735
     },
     {
       "category": "Silahlı Olay",
@@ -23765,7 +23758,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 735
+      "id": 736
     },
     {
       "category": "Silahlı Olay",
@@ -23797,7 +23790,7 @@
       "lat": 39.584,
       "lon": 32.147,
       "location_precision": "ilçe",
-      "id": 736
+      "id": 737
     },
     {
       "category": "Silahlı Olay",
@@ -23842,7 +23835,7 @@
       "lat": 39.584,
       "lon": 32.147,
       "location_precision": "ilçe",
-      "id": 737
+      "id": 738
     },
     {
       "category": "Cinayet",
@@ -23871,7 +23864,7 @@
       "lat": 39.9308,
       "lon": 32.9307,
       "location_precision": "ilçe",
-      "id": 738,
+      "id": 739,
       "district": "Mamak"
     },
     {
@@ -23903,7 +23896,7 @@
       "lat": 39.97,
       "lon": 32.584,
       "location_precision": "ilçe",
-      "id": 739
+      "id": 740
     },
     {
       "category": "Cinayet",
@@ -23933,7 +23926,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 740
+      "id": 741
     },
     {
       "category": "Trafik Kazası",
@@ -23963,7 +23956,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 741
+      "id": 742
     },
     {
       "category": "Uyuşturucu",
@@ -23994,7 +23987,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 742
+      "id": 743
     },
     {
       "category": "Asayiş",
@@ -24024,7 +24017,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 743
+      "id": 744
     },
     {
       "category": "Silahlı Olay",
@@ -24054,7 +24047,7 @@
       "lat": 39.97,
       "lon": 32.584,
       "location_precision": "ilçe",
-      "id": 744
+      "id": 745
     },
     {
       "category": "Trafik Kazası",
@@ -24084,7 +24077,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 745
+      "id": 746
     },
     {
       "category": "Cinayet",
@@ -24114,7 +24107,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 746
+      "id": 747
     },
     {
       "category": "İntihar",
@@ -24144,7 +24137,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 747
+      "id": 748
     },
     {
       "category": "Asayiş",
@@ -24174,7 +24167,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 748
+      "id": 749
     },
     {
       "category": "Yangın",
@@ -24204,7 +24197,7 @@
       "lat": 39.79,
       "lon": 32.809,
       "location_precision": "ilçe",
-      "id": 749
+      "id": 750
     },
     {
       "category": "Trafik Kazası",
@@ -24235,7 +24228,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 750
+      "id": 751
     },
     {
       "category": "Trafik Kazası",
@@ -24266,7 +24259,7 @@
       "lat": 39.79,
       "lon": 32.809,
       "location_precision": "ilçe",
-      "id": 751
+      "id": 752
     },
     {
       "category": "Cinayet",
@@ -24296,7 +24289,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 752
+      "id": 753
     },
     {
       "category": "Cinayet",
@@ -24326,7 +24319,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 753
+      "id": 754
     },
     {
       "category": "Cinayet",
@@ -24356,7 +24349,7 @@
       "lat": 40.039,
       "lon": 32.902,
       "location_precision": "ilçe",
-      "id": 754
+      "id": 755
     },
     {
       "category": "Cinayet",
@@ -24386,7 +24379,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 755
+      "id": 756
     },
     {
       "category": "Kavga",
@@ -24416,7 +24409,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 756
+      "id": 757
     },
     {
       "category": "Silahlı Olay",
@@ -24447,7 +24440,7 @@
       "lat": 39.9308,
       "lon": 32.9307,
       "location_precision": "ilçe",
-      "id": 757
+      "id": 758
     },
     {
       "category": "Trafik Kazası",
@@ -24477,7 +24470,7 @@
       "lat": 40.0,
       "lon": 32.866,
       "location_precision": "ilçe",
-      "id": 758
+      "id": 759
     },
     {
       "category": "Asayiş",
@@ -24507,7 +24500,7 @@
       "lat": 40.0,
       "lon": 32.866,
       "location_precision": "ilçe",
-      "id": 759
+      "id": 760
     }
   ],
   "google_alerts_active": true,
@@ -24515,11 +24508,11 @@
   "google_alert_invalid_count": 0,
   "google_alert_query_count": 9,
   "platform_counts": {
-    "X": 135,
-    "Haber": 787,
+    "X": 132,
+    "TikTok": 10,
+    "Haber": 782,
     "Facebook": 37,
-    "TikTok": 8,
-    "YouTube": 9
+    "YouTube": 10
   },
   "scan_status": {
     "social_queries": 31,
@@ -24527,8 +24520,10 @@
     "google_news_social_queries": 11,
     "google_alert_feeds": 9,
     "new_results_this_scan": {
-      "Haber": 237,
-      "X": 49
+      "Haber": 33,
+      "X": 21,
+      "YouTube": 8,
+      "TikTok": 5
     }
   },
   "sources": [
