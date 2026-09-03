@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-03T20:29:45.422520+03:00",
+  "updated_at": "2026-09-03T20:43:03.587205+03:00",
   "events": [
     {
       "category": "Asayiş",
@@ -25235,13 +25235,7 @@
     "bing_social_queries": 11,
     "google_news_social_queries": 11,
     "google_alert_feeds": 9,
-    "new_results_this_scan": {
-      "X": 5,
-      "Facebook": 1,
-      "Instagram": 4,
-      "YouTube": 1,
-      "TikTok": 1
-    }
+    "new_results_this_scan": {}
   },
   "sources": [
     "Google Alerts RSS",
