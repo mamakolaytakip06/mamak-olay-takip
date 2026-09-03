@@ -228,7 +228,9 @@ def deduplicate_events(events):
 
 tz=timezone(timedelta(hours=3));now=datetime.now(tz);new=[]
 for q in NEWS:add_feed("https://news.google.com/rss/search?q="+urllib.parse.quote(q)+"&hl=tr&gl=TR&ceid=TR:tr","Haber",now,new)
-for platform,q in SOCIAL:add_feed("https://www.bing.com/search?format=rss&q="+urllib.parse.quote(q),platform,now,new)
+for platform,q in SOCIAL:
+ add_feed("https://www.bing.com/search?format=rss&q="+urllib.parse.quote(q),platform,now,new)
+ add_feed("https://news.google.com/rss/search?q="+urllib.parse.quote(q)+"&hl=tr&gl=TR&ceid=TR:tr",platform,now,new)
 raw_alert_urls=[u.strip() for u in re.split(r"[\n,;]+",os.getenv("GOOGLE_ALERT_FEEDS","")) if u.strip()]
 alert_urls=list(dict.fromkeys(u for u in raw_alert_urls if re.match(r"^https://[^/]*google[^/]*/alerts/feeds/",u,re.I)))
 for alert_url in alert_urls:add_alert_feed(alert_url,now,new)
@@ -245,4 +247,12 @@ for e in old+new:
  merged[key]=e
 items=deduplicate_events(sorted(merged.values(),key=lambda x:x["published"],reverse=True))[:1500]
 for i,e in enumerate(items,1):add_location(e);e["id"]=i
-with open("data/events.json","w",encoding="utf-8") as f:json.dump({"updated_at":now.isoformat(),"events":items,"google_alerts_active":bool(alert_urls),"google_alert_feed_count":len(alert_urls),"google_alert_invalid_count":len(raw_alert_urls)-len(alert_urls),"google_alert_query_count":len(ALERT_QUERY_TEMPLATES),"sources":["Google Alerts RSS","Google News RSS","X (indekslenen açık gönderiler)","Facebook (indekslenen açık sayfa/gruplar)","Instagram","YouTube","TikTok"]},f,ensure_ascii=False,indent=2)
+platform_counts={}
+for e in items:
+ for x in source_entries(e):
+  p=x.get("platform") or "Bilinmiyor";platform_counts[p]=platform_counts.get(p,0)+1
+new_platform_counts={}
+for e in new:
+ p=e.get("platform") or "Bilinmiyor";new_platform_counts[p]=new_platform_counts.get(p,0)+1
+scan_status={"social_queries":len(SOCIAL)*2+len(alert_urls),"bing_social_queries":len(SOCIAL),"google_news_social_queries":len(SOCIAL),"google_alert_feeds":len(alert_urls),"new_results_this_scan":new_platform_counts}
+with open("data/events.json","w",encoding="utf-8") as f:json.dump({"updated_at":now.isoformat(),"events":items,"google_alerts_active":bool(alert_urls),"google_alert_feed_count":len(alert_urls),"google_alert_invalid_count":len(raw_alert_urls)-len(alert_urls),"google_alert_query_count":len(ALERT_QUERY_TEMPLATES),"platform_counts":platform_counts,"scan_status":scan_status,"sources":["Google Alerts RSS","Google News RSS","Bing RSS","X (indekslenen açık gönderiler)","Facebook (indekslenen açık sayfa/gruplar)","Instagram","YouTube","TikTok"]},f,ensure_ascii=False,indent=2)
