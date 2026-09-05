@@ -75,7 +75,7 @@ def detect_district(text):
  if any(place_in_text(folded,name) for name in NEIGHBORHOODS):return "Mamak"
  return "Ankara Geneli" if place_in_text(folded,"Ankara") else None
 
-POLITICAL_IDENTITIES=["belediye baskani","eski belediye baskani","milletvekili","genel baskan","siyasi","siyasetci","bakan ","parti yoneticisi","chp","akp","ak parti","mhp","iyi parti","dem parti"]
+POLITICAL_IDENTITIES=["belediye baskani","eski belediye baskani","abb baskani","baskan ","baskani","cumhurbaskani","milletvekili","genel baskan","siyasi","siyasetci","bakan ","parti yoneticisi","melih gokcek","mansur yavas","chp","akp","ak parti","mhp","iyi parti","dem parti"]
 LEGAL_PROCESS=["dava","mahkeme","savcilik","ifade","ifadeye cagrildi","ifadesi alindi","sorusturma","iddianame","dokunulmazlik","fezleke"]
 def political_legal_news(t):
  folded=ascii_text(t)
