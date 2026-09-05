@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-05T23:40:57.276722+03:00",
+  "updated_at": "2026-09-05T23:49:44.848153+03:00",
   "events": [
     {
       "category": "Yangın",
@@ -73,9 +73,9 @@
       "location": "Ankara Geneli",
       "published": "2026-09-05T09:43:09+03:00",
       "confidence": 75,
-      "sources": 16,
+      "sources": 17,
       "status": "Muhtemel",
-      "summary": "16 farklı açık kaynakta bulunan aynı olay tek kayıtta birleştirildi.",
+      "summary": "17 farklı açık kaynakta bulunan aynı olay tek kayıtta birleştirildi.",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPUUtMWG9iQXoyRzA3ZERXRW53TlEtWldlMkFIN1BpVGhmbjVNX2ZOUFlJck5XWkFlNFdqdUstNUptSldzQ3h4dkNyV0sySDFEY1dCNEk1bzZVc1BPOHF3bi1USzNqOUU3cWFwRk9Nc3cwb0JTbFVxX2dmYTIyamEta2xJLUVuWFhGTHM4a21vT0RUN0VVZnZlbEd5ZFrSAZwBQVVfeXFMT1FLTFhvYkF6MkcwN2REV0Vud05RLVpXZTJBSDdQaVRoZm41TV9mTlBZSXJOV1pBZTRXanVLLTVKbUpXc0N4eHZDcldLMkgxRGNXQjRJNW82VXNQTzhxd24tVEszajlFN3FhcEZPTXN3MG9CU2xVcV9nZmEyMmphLWtsSS1FblhYRkxzOGttb09EVDdFVWZ2ZWxHeWRa?oc=5",
       "platform": "Haber",
       "source_links": [
@@ -90,6 +90,12 @@
           "title": "Ankara'da uyuşturucu ve fuhuş operasyonunda 15 gözaltı - Saray Medya",
           "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOS3hDU1hRMHptTmVzdWV6eE8zWXppWmdjQjB1ekhRa21lUS1FZm11d2hSVkl2aGlRRWlpeUlLNlpZVUpabzFlVFBXUU1vVmlCOXVtbGFhTXNpRUJOTXB1Skk1SU0wYWlUUGRPRHJ0X2VuNnQ1V2Jtc1BxOHZsclFxSXJ2ZFp6MEJCYnllVXJsTGlhMGk0NmVIZnU2cw?oc=5",
           "published": "2026-09-05T16:52:00+03:00"
+        },
+        {
+          "platform": "Haber",
+          "title": "Ankara'da uyuşturucu ve fuhuş soruşturmasında 14 şüpheli gözaltına alındı - isindetayi.com",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNbldMLWl5OXEtM3hmU2V6YmxYMGM5Zjc4TFJ6UnVlZ3RNakRqZmJnai1wdUdDTHg1MmNUSGJUVlI5Y0ZBQjBSVUFHQnJJbDB3YzJIRTFZNmZicHJ6NVdlUWV1c2xvWW9WeEJYY3otZ05GQ1lZRU9OYk5TTlpoLXBsR3phSkZ6d2JIV2lHMVVERC1jVDNQcEFmdkUyUHpHcUZl?oc=5",
+          "published": "2026-09-05T13:16:00+03:00"
         },
         {
           "platform": "Haber",
@@ -141,7 +147,7 @@
         },
         {
           "platform": "Haber",
-          "title": "Ankara'da Uyuşturucu ve Fuhuş Operasyonu: 14 Gözaltı - Haberler",
+          "title": "Ankara'da Uyuşturucu ve Fuhuş Operasyonu: 14 Gözaltı - haberler.com",
           "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOdDdsZm56dVNSS21FU2lvRzRucktTTjVVaE5wMUpWeWlyQ21wNkYtZFJtaVhBNEtKLUxramg3SXd4R2VzNUFxUHZsZGktd3hzR2NBcEVSSWtwczc4LVNhOTZNNkxVamp6Slp0azFpNTdzZ0F5MHJnWGR2cUpWWFZDNTRFeFNPSVUxckF5Q3hPZmxzMEnSAZMBQVVfeXFMTnQ3bGZuenVTUkttRVNpb0c0bnJLU041VWhOcDFKVnlpckNtcDZGLWRSbWlYQTRLSi1Ma2poN0l3eEdlczVBcVB2bGRpLXd4c0djQXBFUklrcHM3OC1TYTk2TTZMVWpqekpadGsxaTU3c2dBeTByZ1hkdnFKVlhWQzU0RXhTT0lVMXJBeUN4T2ZsczBJ?oc=5",
           "published": "2026-09-05T10:17:07+03:00"
         },
@@ -159,7 +165,7 @@
         },
         {
           "platform": "Haber",
-          "title": "Ankara'da uyuşturucu ve fuhuş operasyonu. 21 gözaltı - ntv.com.tr",
+          "title": "Ankara'da uyuşturucu ve fuhuş operasyonu. 21 gözaltı - NTV Haber",
           "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPNVJkUnowZVFCMEpRWEo3R1ZXTnp3d1pGdjV0REt2S0FrVHNSNnBEWkswNk02allGV3RYZENVcE9DSXBvQmI0UDhRUHROZmVSREdFRGJZSldFX3hMeVN5OXpjbFVCM1AxdktQRldhTFlXSV9XazVWT0xUaVBINm01eHFGcHRNcFUwOWk4RTBVU1BXSTDSAZgBQVVfeXFMUC10MWROSlh4cl9wWUdUY3gwSlN0bDhPY0ZaX1RyLThjUUZHMTBuSThhcHdkNm1sS0VmdFFVVEVienBIZ0ZfUzZDYkxSTFJZTy1KZ2hEb1FHN2NtbXhrM1FFV19JSWZCamRqWjQ5UERDMTgtVTY4dHhhZ183RGxqVU9pb1hFMUcyZ1hOQjhlclJONXdtNHliOHk?oc=5",
           "published": "2026-09-05T09:49:55+03:00"
         },
@@ -3661,10 +3667,10 @@
           "platform": "Haber",
           "title": "Ankara Mamak'ta Ağaçlık Alanda Yangın Çıkması Üzerine İtfaiye Ekipleri Olay Yerinde - Mersin Haber",
           "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQYjU4cEt2MjRmNVBYdjRWUjFqMXZKZmRVN09ydlBiSHI3U0E2WUFJR1JvY1VzMmoxandIMTNKY3k4SWFIV0x0cE8yeGRrRFp0b2xrSXpOazBYbFlDUVVINVZjZm9rUjBRaUVuQ1FxcElKNFB5YkdzZGVMR3R4QWZudVRwejE5b2FfUWN4WENWaWR0V1JGQUJ1S1VfQk5sWTd6ZzV3X0xNZjZmbFdpWlNGSnJwbkJ6cTVuLUgyNmdIeE3SAVdBVV95cUxOMDcwUk1Ic3ltYkE4TGM3eEFmeXRIMU5IaWlFZy1xV293MXlhV2RrdTE4bm9tLUNkYU1fSnZ5Rzdjd2pXQ1FkQ1htRGlfay1RTUFMWkx4ejg?oc=5",
-          "published": "2026-08-23T10:00:00+03:00"
+          "published": "2026-08-23T21:39:00+03:00"
         }
       ],
-      "last_updated": "2026-08-23T10:00:00+03:00",
+      "last_updated": "2026-08-23T21:39:00+03:00",
       "district": "Mamak",
       "neighborhood": "Mamak Geneli",
       "lat": 39.9308,
@@ -5011,19 +5017,19 @@
         "Asayiş"
       ],
       "icon": "🚔",
-      "title": "Ankara'da gece mekânlarına eş zamanlı baskın: Fuhuş ve uyuşturucudan 18 kişi yakalandı - halktv.com.tr",
+      "title": "Ankara'da gece mekânlarına eş zamanlı baskın: Fuhuş ve uyuşturucudan 18 kişi yakalandı - Halk TV",
       "location": "Ankara Geneli",
       "published": "2026-08-16T10:00:00+03:00",
       "confidence": 75,
       "sources": 1,
       "status": "Muhtemel",
-      "summary": "halktv.com.tr üzerinden bulunan herkese açık kayıt.",
+      "summary": "Halk TV üzerinden bulunan herkese açık kayıt.",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOS1kzbUh3aHBKNWY3VXhYY2VmUXdZQmdTWEY2WkMwOE43ZmhjQXY3VEIwdmtubWhjR3JkVHhQMTdjLS1wdENNWGlvSjhFTDZOdGZoYjdjeUhUWTRnQWwzZjlLcHhMdXVsTG9GQzZsVWZ2OU43V0doQWJSTkJhNlZiUEVwRHhXVmRYc2t0TDNWaDJJWWlVRkZRU2t6bGFFLXI0bnFlWFpwbml5bldhUUdSZmloX0h6eEt1UFhNOGp0eHY?oc=5",
       "platform": "Haber",
       "source_links": [
         {
           "platform": "Haber",
-          "title": "Ankara'da gece mekânlarına eş zamanlı baskın: Fuhuş ve uyuşturucudan 18 kişi yakalandı - halktv.com.tr",
+          "title": "Ankara'da gece mekânlarına eş zamanlı baskın: Fuhuş ve uyuşturucudan 18 kişi yakalandı - Halk TV",
           "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOS1kzbUh3aHBKNWY3VXhYY2VmUXdZQmdTWEY2WkMwOE43ZmhjQXY3VEIwdmtubWhjR3JkVHhQMTdjLS1wdENNWGlvSjhFTDZOdGZoYjdjeUhUWTRnQWwzZjlLcHhMdXVsTG9GQzZsVWZ2OU43V0doQWJSTkJhNlZiUEVwRHhXVmRYc2t0TDNWaDJJWWlVRkZRU2t6bGFFLXI0bnFlWFpwbml5bldhUUdSZmloX0h6eEt1UFhNOGp0eHY?oc=5",
           "published": "2026-08-16T10:00:00+03:00"
         }
@@ -6499,7 +6505,7 @@
       "source_links": [
         {
           "platform": "Haber",
-          "title": "Ankara'da soğan torbaları içinden 150 kilo uyuşturucu ele geçirildi - ntv.com.tr",
+          "title": "Ankara'da soğan torbaları içinden 150 kilo uyuşturucu ele geçirildi - NTV Haber",
           "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOei0tNS1HMjNmRDVRNEhZSUdCMG40ZTNqMGZqYzdYYnNIMmJHTVBjMG9TZjJKVENoY0QwTTV3OURpOUhDWW1CWlBqemtyRlpyNUZGaFRSWHdNUlBRdE9pSFlQcC1MQTNBS05CTFZSRW15Y0dKY29xMy1HYWxvUlhkNjhBT3dtb1kzTXdpajh0QW9nX1huTUtGSmZnTDhFM3M3b01vSlNyRW04R3JPZ19GRNIBtgFBVV95cUxObzRRNU4xZGlTb1JrYnlrSlV6QkJNVjlzMHBrM3VCQWk4MnVMVzNHbjFoc1N4aGxZM0JEdWVEOHo5QU5Sd1NfT25ta2hjU0xiaHBKdUVQRXVQamdFYXZnOUpDd0dSTFI3S0FxUVExVTBYRG5uT0dSdHpUclY2YkNkZW1nSngzV3FMdG44d3E3a3dGWGlXeTh2RDM5bmRpU1laUmRraTBjeUM3aS1ERjFheXBBdndVdw?oc=5",
           "published": "2026-08-10T10:00:00+03:00"
         },
@@ -7029,19 +7035,19 @@
         "Cinayet"
       ],
       "icon": "⚫",
-      "title": "Çankaya'da komşu dehşeti: Apartman yönetici yardımcısı vurularak öldürüldü - Haberler",
+      "title": "Çankaya'da komşu dehşeti: Apartman yönetici yardımcısı vurularak öldürüldü - haberler.com",
       "location": "Çankaya / Ankara",
       "published": "2026-08-06T10:00:00+03:00",
       "confidence": 75,
       "sources": 1,
       "status": "Muhtemel",
-      "summary": "Haberler üzerinden bulunan herkese açık kayıt.",
+      "summary": "haberler.com üzerinden bulunan herkese açık kayıt.",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPYm9UczFYRjFuemJwRUxrQTRpX0ZjLWpJSml2Ml9KbGNzTExYU2ZDaFljdWh3MDBXaGF0VFJSOHFNQ0kwYkRhLVM1SW9TMDlqVXQ2NTBTWGtRdjl1LXNQdVNJYXV4SF9aMkU2a2RTMFB4OU14Sl96ekFxOTQ0TGhNZG9HVTYtNGRvZU5rTDR1THplVmZGX1BmWlFWMDJQQTVV0gGcAUFVX3lxTE9Hem16VmwtaXNBZktOTjExNHhxeWM3c1VSdkVBYUxBcjd5clRKOW1LbmNMaVJYTmktVjFvU01CbEpzVTIxYlhQRFE2c0JlSWFoZVN4RVN1U01hNVUzM1dkYnJ5c21kbGpCTVRhV1B5RzFUNVRFdG53NzhFbmNkcGw3T3N2U0t0Q2FyWnJTNFlHQ3RUcWtZZmxmS2Itbg?oc=5",
       "platform": "Haber",
       "source_links": [
         {
           "platform": "Haber",
-          "title": "Çankaya'da komşu dehşeti: Apartman yönetici yardımcısı vurularak öldürüldü - Haberler",
+          "title": "Çankaya'da komşu dehşeti: Apartman yönetici yardımcısı vurularak öldürüldü - haberler.com",
           "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPYm9UczFYRjFuemJwRUxrQTRpX0ZjLWpJSml2Ml9KbGNzTExYU2ZDaFljdWh3MDBXaGF0VFJSOHFNQ0kwYkRhLVM1SW9TMDlqVXQ2NTBTWGtRdjl1LXNQdVNJYXV4SF9aMkU2a2RTMFB4OU14Sl96ekFxOTQ0TGhNZG9HVTYtNGRvZU5rTDR1THplVmZGX1BmWlFWMDJQQTVV0gGcAUFVX3lxTE9Hem16VmwtaXNBZktOTjExNHhxeWM3c1VSdkVBYUxBcjd5clRKOW1LbmNMaVJYTmktVjFvU01CbEpzVTIxYlhQRFE2c0JlSWFoZVN4RVN1U01hNVUzM1dkYnJ5c21kbGpCTVRhV1B5RzFUNVRFdG53NzhFbmNkcGw3T3N2U0t0Q2FyWnJTNFlHQ3RUcWtZZmxmS2Itbg?oc=5",
           "published": "2026-08-06T10:00:00+03:00"
         }
@@ -7151,19 +7157,19 @@
         "Asayiş"
       ],
       "icon": "👮",
-      "title": "Ankara'da ablasını öldüren ağabey yakalandı. 1 kişi tutuklandı, 5 kişi gözaltında - ntv.com.tr",
+      "title": "Ankara'da ablasını öldüren ağabey yakalandı. 1 kişi tutuklandı, 5 kişi gözaltında - NTV Haber",
       "location": "Ankara Geneli",
       "published": "2026-08-05T10:00:00+03:00",
       "confidence": 75,
       "sources": 1,
       "status": "Muhtemel",
-      "summary": "ntv.com.tr üzerinden bulunan herkese açık kayıt.",
+      "summary": "NTV Haber üzerinden bulunan herkese açık kayıt.",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNRXJjRFhfdUxqcEViNUwwc0lmcmozY0xGaG5UOERLT2VLSTJLdTN1dFcxU043QVI3YzVCOTVOdEJRem1mcWtxVUxRZ2x6dXUxWXIwY3YwNEUzSnlKckFCMHpuZmxaNkhlRVRBTS1KbTRyNUFXUFFBU28wOHhxRlNsUnBHYmpNLXlHaEF6ZDFETWRoOG5oYVBBaVl3YjRDS0IyUi1KckY1ajdCN2RKcFFNUmlJNTF2NUVM0gG-AUFVX3lxTFBabEloX1Q2dW5QMDE3ajdJUlh2Q1ZIeUpBVVJ5SFpvQUNXRm9sMEtoTnZUV3Z4cFNRaklUOEY3RkVKZFp2cXdsdHVIN0FvUk1fRVUtTzJPSUVlTmRrR09Ja0JLQmJKS05YRHFQTlNuLWVvWnJqMlJPUkRJd293emNndkFtZUVSTk9ZMTNPaWk0V0QwVHRjNnJsMmljU0xSY25yUWZ5bzJYX1RXbDJEQk9hcGE0eTlBSHR4M2R0VHc?oc=5",
       "platform": "Haber",
       "source_links": [
         {
           "platform": "Haber",
-          "title": "Ankara'da ablasını öldüren ağabey yakalandı. 1 kişi tutuklandı, 5 kişi gözaltında - ntv.com.tr",
+          "title": "Ankara'da ablasını öldüren ağabey yakalandı. 1 kişi tutuklandı, 5 kişi gözaltında - NTV Haber",
           "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNRXJjRFhfdUxqcEViNUwwc0lmcmozY0xGaG5UOERLT2VLSTJLdTN1dFcxU043QVI3YzVCOTVOdEJRem1mcWtxVUxRZ2x6dXUxWXIwY3YwNEUzSnlKckFCMHpuZmxaNkhlRVRBTS1KbTRyNUFXUFFBU28wOHhxRlNsUnBHYmpNLXlHaEF6ZDFETWRoOG5oYVBBaVl3YjRDS0IyUi1KckY1ajdCN2RKcFFNUmlJNTF2NUVM0gG-AUFVX3lxTFBabEloX1Q2dW5QMDE3ajdJUlh2Q1ZIeUpBVVJ5SFpvQUNXRm9sMEtoTnZUV3Z4cFNRaklUOEY3RkVKZFp2cXdsdHVIN0FvUk1fRVUtTzJPSUVlTmRrR09Ja0JLQmJKS05YRHFQTlNuLWVvWnJqMlJPUkRJd293emNndkFtZUVSTk9ZMTNPaWk0V0QwVHRjNnJsMmljU0xSY25yUWZ5bzJYX1RXbDJEQk9hcGE0eTlBSHR4M2R0VHc?oc=5",
           "published": "2026-08-05T10:00:00+03:00"
         }
@@ -8313,13 +8319,13 @@
         "Asayiş"
       ],
       "icon": "👮",
-      "title": "‼️Ankara Cumhuriyet Başsavcılığı talimatıyla Çankaya’da bulunan “gay” bar işletmesi olduğu değerlendirilen LGBT BAR SİXTİEES adlı mekana baskın düzenlendi. Mekan işletmecisi Ceyhun Toker dahil 7 kişi gözaltına alındı. Gözaltına alınanlar; Ceyhun Tok - x.com",
+      "title": "SON DAKİKA! Ankara Cumhuriyet Başsavcılığı talimatıyla Çankaya’da bulunan “gay” bar işletmesi olduğu değerlendirilen LGBT BAR SİXTİEES adlı mekana baskın düzenlendi. Mekan işletmecisi Ceyhun Toker dahil 7 kişi gözaltına alındı. Gözaltına alınanlar; - x.com",
       "location": "Ankara Geneli",
       "published": "2026-07-27T10:00:00+03:00",
       "confidence": 60,
-      "sources": 2,
+      "sources": 1,
       "status": "Sosyal medya / doğrulanmamış",
-      "summary": "2 farklı açık kaynakta bulunan aynı olay tek kayıtta birleştirildi.",
+      "summary": "x.com üzerinden bulunan herkese açık kayıt.",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1paldJRzFSX3oxd1pTLTZTRWpHdENpUDFqZGtJRF9laW1ZbklwdHlYNHQ1VDEzdWQyeUxQZFMzT2NjT2lSbVd0SkxDNms4eHF5cWtaOVhQeGFmX0Z5TlljYS0yMA?oc=5",
       "platform": "X",
       "source_links": [
@@ -8328,15 +8334,8 @@
           "title": "SON DAKİKA! Ankara Cumhuriyet Başsavcılığı talimatıyla Çankaya’da bulunan “gay” bar işletmesi olduğu değerlendirilen LGBT BAR SİXTİEES adlı mekana baskın düzenlendi. Mekan işletmecisi Ceyhun Toker dahil 7 kişi gözaltına alındı. Gözaltına alınanlar; - x.com",
           "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1paldJRzFSX3oxd1pTLTZTRWpHdENpUDFqZGtJRF9laW1ZbklwdHlYNHQ1VDEzdWQyeUxQZFMzT2NjT2lSbVd0SkxDNms4eHF5cWtaOVhQeGFmX0Z5TlljYS0yMA?oc=5",
           "published": "2026-07-27T10:00:00+03:00"
-        },
-        {
-          "platform": "X",
-          "title": "‼️Ankara Cumhuriyet Başsavcılığı talimatıyla Çankaya’da bulunan “gay” bar işletmesi olduğu değerlendirilen LGBT BAR SİXTİEES adlı mekana baskın düzenlendi. Mekan işletmecisi Ceyhun Toker dahil 7 kişi gözaltına alındı. Gözaltına alınanlar; Ceyhun Tok - x.com",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE13anBtczFpQjg1MlB0b1JYMHFWYURhVUxPMnMwVUlkT2RSSi1Pa3pIWXB3ZEs2OEVBMksyeElTQnE5bmRLSklOMEhjZlFpVm9zRXFycjc0TXZNeXBHOWp1cmE4QTFRRWZCdGFCcmRsV1M?oc=5",
-          "published": "2026-07-27T10:00:00+03:00"
         }
       ],
-      "last_updated": "2026-07-27T10:00:00+03:00",
       "district": "Ankara Geneli",
       "neighborhood": "Ankara Geneli",
       "lat": 39.9334,
@@ -9272,19 +9271,19 @@
         "Kavga"
       ],
       "icon": "🥊",
-      "title": "Ankara'da sokak ortasında çıkan kavga kamerada - Haberler",
+      "title": "Ankara'da sokak ortasında çıkan kavga kamerada - haberler.com",
       "location": "Ankara Geneli",
       "published": "2026-07-20T10:00:00+03:00",
       "confidence": 75,
       "sources": 1,
       "status": "Muhtemel",
-      "summary": "Haberler üzerinden bulunan herkese açık kayıt.",
+      "summary": "haberler.com üzerinden bulunan herkese açık kayıt.",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNU2didjFmeWtGVHM0UXk2TFFGWXlCZ3JFanV4cHhaME9FUmVRcWdGSFl0UlJhYy1Eb2pSdURDNjNaMGpKX2pkSld3TWlXSjE1ajdva19CWFJ5RVRNM1otRFdZb2VXWU4tNzllbXFuWk5YZHpSYm9WbWVWRWk4aDUyNEpGTktmU0lfaVFmOG9KSE84VEtyX1Y1U1VSWmJFSWpDMjNmcHdwb9IBogFBVV95cUxPYXU3WUJvMzBtTEhvdFJXRmcyWjRkU0o4U2dNaHBBS1NPQUlnems1UER3eTNSTjFLZkM2MEt2TTJ4Nm1HWmh1UXJsTTdjNHhYaDFKMnByVmVFbUxkRHZyTTNyZVZpUGQydUphMlU2VFZfSnR4QW5KVTJyM3FKaTZIb1p6QzF1NzZZWUtoY1Q3TlF6NXlXcFdFdFdrdEphV1ZpY0E?oc=5",
       "platform": "Haber",
       "source_links": [
         {
           "platform": "Haber",
-          "title": "Ankara'da sokak ortasında çıkan kavga kamerada - Haberler",
+          "title": "Ankara'da sokak ortasında çıkan kavga kamerada - haberler.com",
           "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNU2didjFmeWtGVHM0UXk2TFFGWXlCZ3JFanV4cHhaME9FUmVRcWdGSFl0UlJhYy1Eb2pSdURDNjNaMGpKX2pkSld3TWlXSjE1ajdva19CWFJ5RVRNM1otRFdZb2VXWU4tNzllbXFuWk5YZHpSYm9WbWVWRWk4aDUyNEpGTktmU0lfaVFmOG9KSE84VEtyX1Y1U1VSWmJFSWpDMjNmcHdwb9IBogFBVV95cUxPYXU3WUJvMzBtTEhvdFJXRmcyWjRkU0o4U2dNaHBBS1NPQUlnems1UER3eTNSTjFLZkM2MEt2TTJ4Nm1HWmh1UXJsTTdjNHhYaDFKMnByVmVFbUxkRHZyTTNyZVZpUGQydUphMlU2VFZfSnR4QW5KVTJyM3FKaTZIb1p6QzF1NzZZWUtoY1Q3TlF6NXlXcFdFdFdrdEphV1ZpY0E?oc=5",
           "published": "2026-07-20T10:00:00+03:00"
         }
@@ -12550,19 +12549,19 @@
         "Diğer"
       ],
       "icon": "⚠️",
-      "title": "Ankara'da bekçiye bıçakla saldırdı! Vurularak etkisiz hale getirildi... - Bursada Bugün",
+      "title": "Ankara'da bekçiye bıçakla saldırdı! Vurularak etkisiz hale getirildi... - bursadabugun.com",
       "location": "Ankara Geneli",
       "published": "2026-06-26T10:00:00+03:00",
       "confidence": 75,
       "sources": 1,
       "status": "Muhtemel",
-      "summary": "Bursada Bugün üzerinden bulunan herkese açık kayıt.",
+      "summary": "bursadabugun.com üzerinden bulunan herkese açık kayıt.",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPX3dKaUx5UHFDSm54THpjanZoUjI1OFhOb1dVTzVqNXZMS3Z5QWRWQXdFQzYybndMbmN3ZTZ5N3ZsRjYzM3c2c21BUFFONFF4OXdQTHF5QUY1QkloaWhnNXhYSXI5Qjg0MUJVQkZ2a0JOel9Xa0RjOFVYVnRKOUViYXp5RUN4ZU8yb1dkcGdnWHBuUHpHOHFZQzQ0NFZxdFQ3MWROV0xmdURpR2F4cUx3NUEtVWpuQdIBuAFBVV95cUxQZFp6YmNiVlRrLUZmTVFPcE4xRGpvcXNhTGI0R0l0V2lPLWExOHAtSndWMjJlaTY2N0p6RU03WkliWmNxOUV1dGhDbjU5T0xHQko2aWJ0UFAzQl9IejhOS09OY0VmQS1Idkw2UTM0WS1IVHhiYXowUVRyZ3kwUDhGbW8ybEk5TjBDQ0NPQTI4WE1rYWpMVkdveFhXZHpINnZPOFR3VFVieF82WDZhRVZVcmVabVByVXo5?oc=5",
       "platform": "Haber",
       "source_links": [
         {
           "platform": "Haber",
-          "title": "Ankara'da bekçiye bıçakla saldırdı! Vurularak etkisiz hale getirildi... - Bursada Bugün",
+          "title": "Ankara'da bekçiye bıçakla saldırdı! Vurularak etkisiz hale getirildi... - bursadabugun.com",
           "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPX3dKaUx5UHFDSm54THpjanZoUjI1OFhOb1dVTzVqNXZMS3Z5QWRWQXdFQzYybndMbmN3ZTZ5N3ZsRjYzM3c2c21BUFFONFF4OXdQTHF5QUY1QkloaWhnNXhYSXI5Qjg0MUJVQkZ2a0JOel9Xa0RjOFVYVnRKOUViYXp5RUN4ZU8yb1dkcGdnWHBuUHpHOHFZQzQ0NFZxdFQ3MWROV0xmdURpR2F4cUx3NUEtVWpuQdIBuAFBVV95cUxQZFp6YmNiVlRrLUZmTVFPcE4xRGpvcXNhTGI0R0l0V2lPLWExOHAtSndWMjJlaTY2N0p6RU03WkliWmNxOUV1dGhDbjU5T0xHQko2aWJ0UFAzQl9IejhOS09OY0VmQS1Idkw2UTM0WS1IVHhiYXowUVRyZ3kwUDhGbW8ybEk5TjBDQ0NPQTI4WE1rYWpMVkdveFhXZHpINnZPOFR3VFVieF82WDZhRVZVcmVabVByVXo5?oc=5",
           "published": "2026-06-26T10:00:00+03:00"
         }
@@ -12611,19 +12610,19 @@
         "Asayiş"
       ],
       "icon": "👮",
-      "title": "Haymana'da IŞİD operasyonu: Muhammed Kavi nasıl öldü? - dw.com",
+      "title": "Haymana'da IŞİD operasyonu: Muhammed Kavi nasıl öldü? - DW.com",
       "location": "Haymana / Ankara",
       "published": "2026-06-25T10:00:00+03:00",
       "confidence": 75,
       "sources": 1,
       "status": "Muhtemel",
-      "summary": "dw.com üzerinden bulunan herkese açık kayıt.",
+      "summary": "DW.com üzerinden bulunan herkese açık kayıt.",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNdzA1Y2ZWSHBQOTRsZEZlWVdDd1p3TUxFQy1WWkI5V2JJWFVwLW9aM0pYQmJ1dHdqU2ZNODZIWEF0dUZkdXFIbVd1UDc3UXdfX3g3UmVubEFLbnl0UzRmSkpEUklEUWtidEdld21kVzVmRGMyWE01TTc0Y0htaTlhQ3Z4TTBTa2FYdFd1V0RDSDJoSHB4OHZETHp2RDJtN2QzQTZDY0FlX0x6M0J1cHfSAa4BQVVfeXFMTXRBOEZYSW1lSG1WdHA3U3VpZG5vaFBUMkRGa0wxcDBLaF9IWWNSY2VfemZXNm9lMmpKU0VBZG1oUk5zM0lweVZyZXZLMlNNRUZlYzdWV0QxQ0pZS0x6VUYzTnpUM3U3LV80OHViWEdEczRBUFo4dFpWcXQyYXZpYS14bGhURnJ6M0lpOERTWF9EWDJGc3RxbWw0V0xxNU1lM2ZSQUk1dlY5TUVoR3VB?oc=5",
       "platform": "Haber",
       "source_links": [
         {
           "platform": "Haber",
-          "title": "Haymana'da IŞİD operasyonu: Muhammed Kavi nasıl öldü? - dw.com",
+          "title": "Haymana'da IŞİD operasyonu: Muhammed Kavi nasıl öldü? - DW.com",
           "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNdzA1Y2ZWSHBQOTRsZEZlWVdDd1p3TUxFQy1WWkI5V2JJWFVwLW9aM0pYQmJ1dHdqU2ZNODZIWEF0dUZkdXFIbVd1UDc3UXdfX3g3UmVubEFLbnl0UzRmSkpEUklEUWtidEdld21kVzVmRGMyWE01TTc0Y0htaTlhQ3Z4TTBTa2FYdFd1V0RDSDJoSHB4OHZETHp2RDJtN2QzQTZDY0FlX0x6M0J1cHfSAa4BQVVfeXFMTXRBOEZYSW1lSG1WdHA3U3VpZG5vaFBUMkRGa0wxcDBLaF9IWWNSY2VfemZXNm9lMmpKU0VBZG1oUk5zM0lweVZyZXZLMlNNRUZlYzdWV0QxQ0pZS0x6VUYzTnpUM3U3LV80OHViWEdEczRBUFo4dFpWcXQyYXZpYS14bGhURnJ6M0lpOERTWF9EWDJGc3RxbWw0V0xxNU1lM2ZSQUk1dlY5TUVoR3VB?oc=5",
           "published": "2026-06-25T10:00:00+03:00"
         }
@@ -14799,19 +14798,19 @@
         "Diğer"
       ],
       "icon": "⚠️",
-      "title": "Ankara'da küçük kızını rehin alan baba etkisiz hale getirildi | Son dakika haberleri - Habertürk",
+      "title": "Ankara'da küçük kızını rehin alan baba etkisiz hale getirildi | Son dakika haberleri - haberturk.com",
       "location": "Ankara Geneli",
       "published": "2026-06-06T10:00:00+03:00",
       "confidence": 75,
       "sources": 1,
       "status": "Muhtemel",
-      "summary": "Habertürk üzerinden bulunan herkese açık kayıt.",
+      "summary": "haberturk.com üzerinden bulunan herkese açık kayıt.",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxORlJiVnRDOVJCSWtESkYtOEVSdGV6RWhPeG56M05tQ3cxUkZQTXc3MXlRblFtengzdWpFMGpLTXdncmhWY3hDME9TZWRmMjBtWEZOS0JXUFNPRkRyVnVTeUFSb0k3Mng4NHllUFNaR2hlQWxWbFRxbnhrRlVWWUpfdnJGelZ5aWpfWEdJRXk2RG52R1V5N096QVJROA?oc=5",
       "platform": "Haber",
       "source_links": [
         {
           "platform": "Haber",
-          "title": "Ankara'da küçük kızını rehin alan baba etkisiz hale getirildi | Son dakika haberleri - Habertürk",
+          "title": "Ankara'da küçük kızını rehin alan baba etkisiz hale getirildi | Son dakika haberleri - haberturk.com",
           "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxORlJiVnRDOVJCSWtESkYtOEVSdGV6RWhPeG56M05tQ3cxUkZQTXc3MXlRblFtengzdWpFMGpLTXdncmhWY3hDME9TZWRmMjBtWEZOS0JXUFNPRkRyVnVTeUFSb0k3Mng4NHllUFNaR2hlQWxWbFRxbnhrRlVWWUpfdnJGelZ5aWpfWEdJRXk2RG52R1V5N096QVJROA?oc=5",
           "published": "2026-06-06T10:00:00+03:00"
         }
@@ -15079,13 +15078,13 @@
         },
         {
           "platform": "Haber",
-          "title": "Ankara-Eskişehir kara yolunda 3 aracın karıştığı trafik kazası Bir otomobil şarampole uçtu, kaza maddi hasarla atlatıldı - Habertürk",
+          "title": "Ankara-Eskişehir kara yolunda 3 aracın karıştığı trafik kazası Bir otomobil şarampole uçtu, kaza maddi hasarla atlatıldı - yerel-haberler.haberturk.com",
           "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNSElnWXh3N01TQ0swbGcwanFDUDRIUjJuU1lBWVFVVm40cmx5WGg2SjctSnB0UXlwYUFEbnV2QnF3bVhhUTVmM1oxMzMwbzNFQzE0QVYzVXNfYThzTHZObXlQYWdCZGF1bE9Kdk9xRjMwMlctbEdXaEdyRzcwVHlxcmpUTjFTZE5EWmxSSVU3REdEdXhpYktvNVB4UmJTR1Y5RlhWc0ZjQV9JNXVBS2xKOEJ1YnByOEEzTzFrdktQNDhEWGVqcEtLQTJ6X0cyLVR4eGhmVXhEX2ZqOVdwX2JMdXNHNDJVMmxxalZNZmpB?oc=5",
           "published": "2026-06-05T10:00:00+03:00"
         },
         {
           "platform": "Haber",
-          "title": "Ankara-Eskişehir kara yolunda 3 aracın karıştığı trafik kazası - Haberler",
+          "title": "Ankara-Eskişehir kara yolunda 3 aracın karıştığı trafik kazası - haberler.com",
           "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPY3lhZlhfNUQxLWRrZnU5MXZKWEU4ZTRDVDJDc2pBdFZTWUJ5WlktbVowQjI1Tmlna0pHXzBHem5wV0Q5RThzRS15M09ORHlsdEYtMG10NHphM3NObGhwZUs3RXJ0WnlfdUx1bG9INjNtRmFOc0d2ODB4R0VQTFVKX3lpLTVRX2J6dkFUUklrbFo2RUFhb3ZtZnBiS0xtVkw4bFpXazhmYkZRcWtNMHdsVjJhUWRpaGs4aG9zV290OE13X2pkMGlEQVhyMC1nWG1tUFHSAcwBQVVfeXFMUDNlSlp6Vzdrd3ZBNVlxQ0xWLUpHdnFkVHZ5Rk5IRWhtcFVHaGo1OGd1VHN3bE1NNHdHVGltX2g5MXNSQXM2NnBNUGZhaVhHYW9aOW5KS1I1X3d2czBRaUU1V0Z4dWotdDBxN3RWd3VacFdVV0F5Y0Z0dVVpZjZUcW5wNjNmc2EzOC1LQy1nbEoyY0Q2Wjh5TGRyUm9EclFRNWUwcWVrajFwcGVCS1RKSkdPOWE0Rm1qRWYtQkd1YXZoU2EzRUNMNGRQRkdL?oc=5",
           "published": "2026-06-05T10:00:00+03:00"
         },
@@ -15392,19 +15391,19 @@
         "Asayiş"
       ],
       "icon": "👮",
-      "title": "Ankara'da şüpheli ölüm! 7'nci kattan düşen Türkan'ın nişanlısı tutuklandı - Türk Havadis",
+      "title": "Ankara'da şüpheli ölüm! 7'nci kattan düşen Türkan'ın nişanlısı tutuklandı - turkhavadis.com",
       "location": "Ankara Geneli",
       "published": "2026-05-31T10:00:00+03:00",
       "confidence": 75,
       "sources": 1,
       "status": "Muhtemel",
-      "summary": "Türk Havadis üzerinden bulunan herkese açık kayıt.",
+      "summary": "turkhavadis.com üzerinden bulunan herkese açık kayıt.",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZGZlUnlxcldiMVZXOVNLY1NVZ0habi03ZHEtZkFMTmVUcUpFWXFteVpoMUo5ZzNWRVpEUUhOb3hodDU1Q2FiRS02SXlaTkdLa2hLUG5jRmZ6cUV1TUFaMU9rbE9xcXBwUlNIOW5BcU1YYVRQdDNuRGFDWHczaTlrOTlEMUQ5QVc0enM4bVRsNXJDWkRmMF9qOFl0cGl3UQ?oc=5",
       "platform": "Haber",
       "source_links": [
         {
           "platform": "Haber",
-          "title": "Ankara'da şüpheli ölüm! 7'nci kattan düşen Türkan'ın nişanlısı tutuklandı - Türk Havadis",
+          "title": "Ankara'da şüpheli ölüm! 7'nci kattan düşen Türkan'ın nişanlısı tutuklandı - turkhavadis.com",
           "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZGZlUnlxcldiMVZXOVNLY1NVZ0habi03ZHEtZkFMTmVUcUpFWXFteVpoMUo5ZzNWRVpEUUhOb3hodDU1Q2FiRS02SXlaTkdLa2hLUG5jRmZ6cUV1TUFaMU9rbE9xcXBwUlNIOW5BcU1YYVRQdDNuRGFDWHczaTlrOTlEMUQ5QVc0enM4bVRsNXJDWkRmMF9qOFl0cGl3UQ?oc=5",
           "published": "2026-05-31T10:00:00+03:00"
         }
@@ -16458,19 +16457,19 @@
         "Cinayet"
       ],
       "icon": "⚫",
-      "title": "Ankara Polatlı'da çocuk işçi cinayeti: Yem karma makinesine kapılan Mehmet öldü, ablası kolunu kaybetti - sendika.org",
+      "title": "Ankara Polatlı'da çocuk işçi cinayeti: Yem karma makinesine kapılan Mehmet öldü, ablası kolunu kaybetti - Sendika.Org",
       "location": "Polatlı / Ankara",
       "published": "2026-05-11T10:00:00+03:00",
       "confidence": 75,
       "sources": 1,
       "status": "Muhtemel",
-      "summary": "sendika.org üzerinden bulunan herkese açık kayıt.",
+      "summary": "Sendika.Org üzerinden bulunan herkese açık kayıt.",
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOMmpvSjZ6c1J0WnpPUC1oR2M0OHh2OHVkcEdNbzI5VmEtZmROSS1JSzJwOXNodzEwVGIzVmlTUmJRdEZyTjh5aXFhaTQ2S2FzQ21JeGE2UUY1QWV2b0gyZUUxdUFBOG9HeE9OU21BM190UEFIN19tTmY2XzRkMmttNmpNeHppcmZUaFRoUVBJckFfU2NuNXlUTFhNWXJNdFV5cmJUVzJJWXN4c2RFVjRuRGtlMlRCeHB1blF3OHo3bTA3anJTem1DYURPZlZzdXI1?oc=5",
       "platform": "Haber",
       "source_links": [
         {
           "platform": "Haber",
-          "title": "Ankara Polatlı'da çocuk işçi cinayeti: Yem karma makinesine kapılan Mehmet öldü, ablası kolunu kaybetti - sendika.org",
+          "title": "Ankara Polatlı'da çocuk işçi cinayeti: Yem karma makinesine kapılan Mehmet öldü, ablası kolunu kaybetti - Sendika.Org",
           "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOMmpvSjZ6c1J0WnpPUC1oR2M0OHh2OHVkcEdNbzI5VmEtZmROSS1JSzJwOXNodzEwVGIzVmlTUmJRdEZyTjh5aXFhaTQ2S2FzQ21JeGE2UUY1QWV2b0gyZUUxdUFBOG9HeE9OU21BM190UEFIN19tTmY2XzRkMmttNmpNeHppcmZUaFRoUVBJckFfU2NuNXlUTFhNWXJNdFV5cmJUVzJJWXN4c2RFVjRuRGtlMlRCeHB1blF3OHo3bTA3anJTem1DYURPZlZzdXI1?oc=5",
           "published": "2026-05-11T10:00:00+03:00"
         }
@@ -17480,19 +17479,19 @@
         "Cinayet"
       ],
       "icon": "⚫",
-      "title": "Ankara'da 13 yıllık cinayet çözüldü - ntv.com.tr",
+      "title": "Ankara'da 13 yıllık cinayet çözüldü - NTV Haber",
       "location": "Ankara Geneli",
       "published": "2026-05-02T10:00:00+03:00",
       "confidence": 75,
       "sources": 1,
       "status": "Muhtemel",
-      "summary": "ntv.com.tr üzerinden bulunan herkese açık kayıt.",
+      "summary": "NTV Haber üzerinden bulunan herkese açık kayıt.",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE42ZHFOZkZsQ1JBVTJiNlU2S1JWZHNsZHNQM0Zidmc1UTZvWWZ6aEJIRFV1V3Fxc3FjWnI4eHFhZGhBVjRyeUZDc2V3Z1dYZ1ZQd1dLS0ZrQWlHREV3VWtfV3FPX1RSc0x0QzhVcE4tRDllQXdnUjVXdmNPYlhid9IBgwFBVV95cUxPb1RtaXI1bTQtTk9kcWZlak9zZ0FfMDAwMUNoYVBqdlYwTmFoS3JUVEw4VDRiWC1UWDlMUjVEYkc0WVB2ekpTNE5YRjVaZlk4Yms4cmxFMFRjS3Rjd09rNXctVHM5dnIwZWhISzc0WDNQbF93OGJfenlGdy1nYlM4Nk1JZw?oc=5",
       "platform": "Haber",
       "source_links": [
         {
           "platform": "Haber",
-          "title": "Ankara'da 13 yıllık cinayet çözüldü - ntv.com.tr",
+          "title": "Ankara'da 13 yıllık cinayet çözüldü - NTV Haber",
           "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE42ZHFOZkZsQ1JBVTJiNlU2S1JWZHNsZHNQM0Zidmc1UTZvWWZ6aEJIRFV1V3Fxc3FjWnI4eHFhZGhBVjRyeUZDc2V3Z1dYZ1ZQd1dLS0ZrQWlHREV3VWtfV3FPX1RSc0x0QzhVcE4tRDllQXdnUjVXdmNPYlhid9IBgwFBVV95cUxPb1RtaXI1bTQtTk9kcWZlak9zZ0FfMDAwMUNoYVBqdlYwTmFoS3JUVEw4VDRiWC1UWDlMUjVEYkc0WVB2ekpTNE5YRjVaZlk4Yms4cmxFMFRjS3Rjd09rNXctVHM5dnIwZWhISzc0WDNQbF93OGJfenlGdy1nYlM4Nk1JZw?oc=5",
           "published": "2026-05-02T10:00:00+03:00"
         }
@@ -18536,19 +18535,19 @@
         "Asayiş"
       ],
       "icon": "⚫",
-      "title": "Ankara'da film gibi olay: Ameliyatla yüzünü değiştirip saç ektiren cinayet zanlısı yedi yıl sonra yakalandı - ntv.com.tr",
+      "title": "Ankara'da film gibi olay: Ameliyatla yüzünü değiştirip saç ektiren cinayet zanlısı yedi yıl sonra yakalandı - NTV Haber",
       "location": "Ankara Geneli",
       "published": "2026-04-18T10:00:00+03:00",
       "confidence": 75,
       "sources": 1,
       "status": "Muhtemel",
-      "summary": "ntv.com.tr üzerinden bulunan herkese açık kayıt.",
+      "summary": "NTV Haber üzerinden bulunan herkese açık kayıt.",
       "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNYmt6bDhzWEhESjY1NWNGOVl5ckwta2s1VGdfYVcyNzJiMU05QlI1VDNfZnFlZWJjZHdtMHMzd1hqSHl0TTRXRnlWZzloYVZUMWhtSnppMTNvc1hDeGJnOUUyb2hKUmVKX2lJZkNKYTd6TDBVTlhfMnJGZThOeGdMSTFSbGVjMmlxUXMyTnNqTm5acFNUeUZ6T21Jc3VYa2hQLWxINW5IWnRBYmhCVGgyNDlHcHl4anJaa2dtZ2hJY2hIUm1KVFFldGFTRWVnTW93NGNrV2pxbE1TMUXSAeABQVVfeXFMUFhvdWYxa0dfYk9Qb2dnR3pmMWFJUVF4RnllZWo3RTR6ZXFqWFNtSmtSZzR1QVZGMklIc2UzTTVCU21IRkZPWWFFd0xHMHU5enhmQ1BlbFlXSFRfaGp2UTYtbExzdVFkTU5aUXI2SDM0R2ZBdnlrSVhwY2lQU214TE1XNm1Eb3pXVHlpWFhqODdYN2tFdnhlcXpERGx2Uk1pT3VOODlRM3BiazRPcEgyOWxmS3BGenJSd3l5SUYtdXo3bUR2Q3JITVN1THUtOEhIdEJOQm5WT0xEdU5fc3FCNW4?oc=5",
       "platform": "Haber",
       "source_links": [
         {
           "platform": "Haber",
-          "title": "Ankara'da film gibi olay: Ameliyatla yüzünü değiştirip saç ektiren cinayet zanlısı yedi yıl sonra yakalandı - ntv.com.tr",
+          "title": "Ankara'da film gibi olay: Ameliyatla yüzünü değiştirip saç ektiren cinayet zanlısı yedi yıl sonra yakalandı - NTV Haber",
           "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNYmt6bDhzWEhESjY1NWNGOVl5ckwta2s1VGdfYVcyNzJiMU05QlI1VDNfZnFlZWJjZHdtMHMzd1hqSHl0TTRXRnlWZzloYVZUMWhtSnppMTNvc1hDeGJnOUUyb2hKUmVKX2lJZkNKYTd6TDBVTlhfMnJGZThOeGdMSTFSbGVjMmlxUXMyTnNqTm5acFNUeUZ6T21Jc3VYa2hQLWxINW5IWnRBYmhCVGgyNDlHcHl4anJaa2dtZ2hJY2hIUm1KVFFldGFTRWVnTW93NGNrV2pxbE1TMUXSAeABQVVfeXFMUFhvdWYxa0dfYk9Qb2dnR3pmMWFJUVF4RnllZWo3RTR6ZXFqWFNtSmtSZzR1QVZGMklIc2UzTTVCU21IRkZPWWFFd0xHMHU5enhmQ1BlbFlXSFRfaGp2UTYtbExzdVFkTU5aUXI2SDM0R2ZBdnlrSVhwY2lQU214TE1XNm1Eb3pXVHlpWFhqODdYN2tFdnhlcXpERGx2Uk1pT3VOODlRM3BiazRPcEgyOWxmS3BGenJSd3l5SUYtdXo3bUR2Q3JITVN1THUtOEhIdEJOQm5WT0xEdU5fc3FCNW4?oc=5",
           "published": "2026-04-18T10:00:00+03:00"
         }
@@ -18653,19 +18652,19 @@
         "Asayiş"
       ],
       "icon": "👮",
-      "title": "Ankara ve İstanbul’da öğretmenlere polis engeli: \"Öğretmen düşmanı Yusuf Tekin istifa\" - bianet.org",
+      "title": "Ankara ve İstanbul’da öğretmenlere polis engeli: \"Öğretmen düşmanı Yusuf Tekin istifa\" - Bianet",
       "location": "Ankara Geneli",
       "published": "2026-04-16T10:00:00+03:00",
       "confidence": 75,
       "sources": 1,
       "status": "Muhtemel",
-      "summary": "bianet.org üzerinden bulunan herkese açık kayıt.",
+      "summary": "Bianet üzerinden bulunan herkese açık kayıt.",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPenNRRlRQbVBJR1FWVVRCdEJYeXVFY2NDbmZzSzdWZG5JVndqbUg4dDZUTGNEdUswVzRkaFYxVUNLbXdhVHpwVENDYThjczF4bm9LTHFNdnN2TEZfcmROSVhwMjdFY3NickZlVG8td0tnWU1IQ3AwdTlHdnByNTBMMUVJbG8zRGxqQzhsT29VV3JPRHltaEpUdllKQXhyTmRyUG4ySmUyYjNZUm16V3NxYVVKNkw?oc=5",
       "platform": "Haber",
       "source_links": [
         {
           "platform": "Haber",
-          "title": "Ankara ve İstanbul’da öğretmenlere polis engeli: \"Öğretmen düşmanı Yusuf Tekin istifa\" - bianet.org",
+          "title": "Ankara ve İstanbul’da öğretmenlere polis engeli: \"Öğretmen düşmanı Yusuf Tekin istifa\" - Bianet",
           "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPenNRRlRQbVBJR1FWVVRCdEJYeXVFY2NDbmZzSzdWZG5JVndqbUg4dDZUTGNEdUswVzRkaFYxVUNLbXdhVHpwVENDYThjczF4bm9LTHFNdnN2TEZfcmROSVhwMjdFY3NickZlVG8td0tnWU1IQ3AwdTlHdnByNTBMMUVJbG8zRGxqQzhsT29VV3JPRHltaEpUdllKQXhyTmRyUG4ySmUyYjNZUm16V3NxYVVKNkw?oc=5",
           "published": "2026-04-16T10:00:00+03:00"
         }
@@ -19451,7 +19450,7 @@
         "İntihar"
       ],
       "icon": "🟣",
-      "title": "Ankara'da feci olay. Tartıştığı sevgilisini öldürüp intihar etti - ntv.com.tr",
+      "title": "Ankara'da feci olay. Tartıştığı sevgilisini öldürüp intihar etti - NTV Haber",
       "location": "Ankara Geneli",
       "published": "2026-04-08T10:00:00+03:00",
       "confidence": 75,
@@ -19463,7 +19462,7 @@
       "source_links": [
         {
           "platform": "Haber",
-          "title": "Ankara'da feci olay. Tartıştığı sevgilisini öldürüp intihar etti - ntv.com.tr",
+          "title": "Ankara'da feci olay. Tartıştığı sevgilisini öldürüp intihar etti - NTV Haber",
           "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQQUgzeUhOYmhIeGVtalBkVlNJRTJkTS1lVURMaFNQdnBJZmx4Z3ZFbmJvSE1IdFZmcFVvdGJxNVZMQ2tVSWl1U2ZEeGR4RS1sQnhwT3BQbW5VX0t5NTA1Q1QyUTNJZEVMSDczSEFURGs4MENuOWRybUJFUkYwWkhaZng1dmNOM0UtVDREd2xHV2JUVWYwX2hrOVVXOGtzSXR2d3fSAacBQVVfeXFMUHlmbVM0bzhjaDltZ1VwVXpOLW54ZVZ1WFdreG9lLU5qTUZORm5obFVKeHlCeXQ1QU5ydzFveWhmOHFqanlWTklkMGJJeWNHR1VtbWp4SnJGQWVRVDY5TDhaSkE0X0ZCY0JUX1phSTFHSGw4SExfTVJUakROYmRZNjFjZzA3aTNjSzRjWC1fdF80ZHFMX0VvS28yQ0l6ejJLSGY2UUpVTGc?oc=5",
           "published": "2026-04-08T10:00:00+03:00"
         },
@@ -24603,19 +24602,19 @@
         "Asayiş"
       ],
       "icon": "👮",
-      "title": "Ankara'da 'Ölüler Çetesi' Operasyonu: 100 Milyon Liralık Vurgun Çökerildi - Haberler",
+      "title": "Ankara'da 'Ölüler Çetesi' Operasyonu: 100 Milyon Liralık Vurgun Çökerildi - haberler.com",
       "location": "Ankara Geneli",
       "published": "2025-11-03T11:00:00+03:00",
       "confidence": 75,
       "sources": 1,
       "status": "Muhtemel",
-      "summary": "Haberler üzerinden bulunan herkese açık kayıt.",
+      "summary": "haberler.com üzerinden bulunan herkese açık kayıt.",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNOTN2dXk5b01najYtWVhxc3IybkRrWW5fVjFxeU9xTF9uTmdJRTJTcmEtSV9GQ1BWZUg4bFRibXk3bm9KdXZZMndra2RYdURDZTVfbGdjbFdRbjQxeVZzWGJMVVpZSEMwVzBMRkZIOEthUGtFd2VXN1FFMVRSVDFPbFpCNktCNkRKWE1LZkRlRXNwQnpWOF81QktPMGF4cWdTLXJZVkVXS1prR2tueWw5X0YydjBpbzMxb1BVOdIBtwFBVV95cUxQc1p1Y3NId2FuQ21sanE2SHJiNjRlVkY4UE9yLTUxN3ZtZGFiU0VLbWYxNDB5UFkzSUw4X2lqOHpfWTEwWFFsMG5zQmVVMUtlY1RqTVNuYWphQmwzY2pENlFNOU03RUNpWFVQY3RnNXYwU09KWlgwRG5CdmloZDhZeFVTaUtBaFhJV3F1NUZfV0RTaE5jRGpLR1V0YXFJWlBMS1NMbFVaYTVvZWZFQjJiblZ1NTlxYk0?oc=5",
       "platform": "Haber",
       "source_links": [
         {
           "platform": "Haber",
-          "title": "Ankara'da 'Ölüler Çetesi' Operasyonu: 100 Milyon Liralık Vurgun Çökerildi - Haberler",
+          "title": "Ankara'da 'Ölüler Çetesi' Operasyonu: 100 Milyon Liralık Vurgun Çökerildi - haberler.com",
           "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNOTN2dXk5b01najYtWVhxc3IybkRrWW5fVjFxeU9xTF9uTmdJRTJTcmEtSV9GQ1BWZUg4bFRibXk3bm9KdXZZMndra2RYdURDZTVfbGdjbFdRbjQxeVZzWGJMVVpZSEMwVzBMRkZIOEthUGtFd2VXN1FFMVRSVDFPbFpCNktCNkRKWE1LZkRlRXNwQnpWOF81QktPMGF4cWdTLXJZVkVXS1prR2tueWw5X0YydjBpbzMxb1BVOdIBtwFBVV95cUxQc1p1Y3NId2FuQ21sanE2SHJiNjRlVkY4UE9yLTUxN3ZtZGFiU0VLbWYxNDB5UFkzSUw4X2lqOHpfWTEwWFFsMG5zQmVVMUtlY1RqTVNuYWphQmwzY2pENlFNOU03RUNpWFVQY3RnNXYwU09KWlgwRG5CdmloZDhZeFVTaUtBaFhJV3F1NUZfV0RTaE5jRGpLR1V0YXFJWlBMS1NMbFVaYTVvZWZFQjJiblZ1NTlxYk0?oc=5",
           "published": "2025-11-03T11:00:00+03:00"
         }
@@ -24975,19 +24974,19 @@
         "Cinayet"
       ],
       "icon": "⚫",
-      "title": "Ankara gündem haberleri: 'da kan donduran olay! Yol verme cinayeti | SON DAKİKA HABER | Son dakika haberleri - Habertürk",
+      "title": "Ankara gündem haberleri: 'da kan donduran olay! Yol verme cinayeti | SON DAKİKA HABER | Son dakika haberleri - haberturk.com",
       "location": "Ankara Geneli",
       "published": "2025-10-21T10:00:00+03:00",
       "confidence": 75,
       "sources": 1,
       "status": "Muhtemel",
-      "summary": "Habertürk üzerinden bulunan herkese açık kayıt.",
+      "summary": "haberturk.com üzerinden bulunan herkese açık kayıt.",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOXy11SDhTXzFnaUlPbzU2SnhZNUZEVXF3NkFidjl3UVlpWW9kT3dmRE1UaE5UdUwxdjZWLUs0NGkxX2plMmxneHhVbjJ3OEJpWVhNQUZGdkNxeGg1VGZoV2FsQlVSRTQwUFFyWlJvRkVYN2hUUHN2REJOSEs4MDF5dzU4cW0xTzExNHJjclVlQkYxZGM5NDlKMzlTMUVHWjg?oc=5",
       "platform": "Haber",
       "source_links": [
         {
           "platform": "Haber",
-          "title": "Ankara gündem haberleri: 'da kan donduran olay! Yol verme cinayeti | SON DAKİKA HABER | Son dakika haberleri - Habertürk",
+          "title": "Ankara gündem haberleri: 'da kan donduran olay! Yol verme cinayeti | SON DAKİKA HABER | Son dakika haberleri - haberturk.com",
           "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOXy11SDhTXzFnaUlPbzU2SnhZNUZEVXF3NkFidjl3UVlpWW9kT3dmRE1UaE5UdUwxdjZWLUs0NGkxX2plMmxneHhVbjJ3OEJpWVhNQUZGdkNxeGg1VGZoV2FsQlVSRTQwUFFyWlJvRkVYN2hUUHN2REJOSEs4MDF5dzU4cW0xTzExNHJjclVlQkYxZGM5NDlKMzlTMUVHWjg?oc=5",
           "published": "2025-10-21T10:00:00+03:00"
         }
@@ -25066,19 +25065,19 @@
         "Asayiş"
       ],
       "icon": "🟣",
-      "title": "Ankara'daki hayır mağazası sahibinine yöneltilen taciz suçlamaları - BBC",
+      "title": "Ankara'daki hayır mağazası sahibinine yöneltilen taciz suçlamaları - bbc.com",
       "location": "Ankara Geneli",
       "published": "2025-10-20T10:00:00+03:00",
       "confidence": 75,
       "sources": 1,
       "status": "Muhtemel",
-      "summary": "BBC üzerinden bulunan herkese açık kayıt.",
+      "summary": "bbc.com üzerinden bulunan herkese açık kayıt.",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE84NkgxTU9IRkFNSnVTR2xCU05rNHIwUGJRZHAzWHZ5RlhzTjdOOElOSnE2U1NRdUt4YW5QTlgwNEpUcnNLVzgyUXpaVVdaY2NjUHV3N1ZlT0xyVE900gFiQVVfeXFMTlJqdnlYWTdZN2htY1NnLTlZT1d5dEY0d3pCSGh4VU5WMUE0bjVmSUpiZHpZQUdmeDZvbUdsTkVEVmFwR3A3ZDNHMk1BX29xUkozZEplVlJONHNoV3FReURlLWc?oc=5",
       "platform": "Haber",
       "source_links": [
         {
           "platform": "Haber",
-          "title": "Ankara'daki hayır mağazası sahibinine yöneltilen taciz suçlamaları - BBC",
+          "title": "Ankara'daki hayır mağazası sahibinine yöneltilen taciz suçlamaları - bbc.com",
           "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE84NkgxTU9IRkFNSnVTR2xCU05rNHIwUGJRZHAzWHZ5RlhzTjdOOElOSnE2U1NRdUt4YW5QTlgwNEpUcnNLVzgyUXpaVVdaY2NjUHV3N1ZlT0xyVE900gFiQVVfeXFMTlJqdnlYWTdZN2htY1NnLTlZT1d5dEY0d3pCSGh4VU5WMUE0bjVmSUpiZHpZQUdmeDZvbUdsTkVEVmFwR3A3ZDNHMk1BX29xUkozZEplVlJONHNoV3FReURlLWc?oc=5",
           "published": "2025-10-20T10:00:00+03:00"
         }
@@ -25572,19 +25571,19 @@
         "Sağlık"
       ],
       "icon": "🔫",
-      "title": "Polatlı'da Pazar Yerinde Silahlı Kavga: 1 Yaralı - Haberler",
+      "title": "Polatlı'da Pazar Yerinde Silahlı Kavga: 1 Yaralı - haberler.com",
       "location": "Polatlı / Ankara",
       "published": "2025-09-26T10:00:00+03:00",
       "confidence": 75,
       "sources": 1,
       "status": "Muhtemel",
-      "summary": "Haberler üzerinden bulunan herkese açık kayıt.",
+      "summary": "haberler.com üzerinden bulunan herkese açık kayıt.",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPVnhuakNqM2szbGVkbjB4d0QwQ3NaeGMxQzdFWjZZN2JUR2ZzYWc0Z0MwdUljQ3dnMUIxRmVIaGlteUtpVlFVRzNsbVJwcnBtTGRVdWFqLUhsbm93NHlaODhub0V6QjJ2TC00amRjbHJibXZSQkhjWG5QQWEtQ29rc2lqQlQyU0dEYVdEMDF1ZDd3LVhFZVNtSWFoRzLSAZgBQVVfeXFMT0FvbHc0cWRlTnEzSVd4NlBxYWhGeGVqVnhrMHEwTEduWTM0TW1MUm1GbTl3NXBvMmZ4azZjazM1UnBCRjFKMU1IMjJyMm16Q3ZNY2o0eFZLSldnZ2NhRG5zQmZpUXdXR1VtdkZTd0dOb21ES0NfQjFneVE2MlNfR21TZXJEb0YzdmJkZWttVkpCYzh1Y2NLaEc?oc=5",
       "platform": "Haber",
       "source_links": [
         {
           "platform": "Haber",
-          "title": "Polatlı'da Pazar Yerinde Silahlı Kavga: 1 Yaralı - Haberler",
+          "title": "Polatlı'da Pazar Yerinde Silahlı Kavga: 1 Yaralı - haberler.com",
           "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPVnhuakNqM2szbGVkbjB4d0QwQ3NaeGMxQzdFWjZZN2JUR2ZzYWc0Z0MwdUljQ3dnMUIxRmVIaGlteUtpVlFVRzNsbVJwcnBtTGRVdWFqLUhsbm93NHlaODhub0V6QjJ2TC00amRjbHJibXZSQkhjWG5QQWEtQ29rc2lqQlQyU0dEYVdEMDF1ZDd3LVhFZVNtSWFoRzLSAZgBQVVfeXFMT0FvbHc0cWRlTnEzSVd4NlBxYWhGeGVqVnhrMHEwTEduWTM0TW1MUm1GbTl3NXBvMmZ4azZjazM1UnBCRjFKMU1IMjJyMm16Q3ZNY2o0eFZLSldnZ2NhRG5zQmZpUXdXR1VtdkZTd0dOb21ES0NfQjFneVE2MlNfR21TZXJEb0YzdmJkZWttVkpCYzh1Y2NLaEc?oc=5",
           "published": "2025-09-26T10:00:00+03:00"
         }
@@ -26223,8 +26222,8 @@
   "google_alert_invalid_count": 0,
   "google_alert_query_count": 9,
   "platform_counts": {
-    "Haber": 807,
-    "X": 140,
+    "Haber": 808,
+    "X": 139,
     "TikTok": 37,
     "Facebook": 55,
     "YouTube": 10
@@ -26235,8 +26234,8 @@
     "google_news_social_queries": 11,
     "google_alert_feeds": 9,
     "new_results_this_scan": {
-      "Haber": 367,
-      "X": 74,
+      "Haber": 368,
+      "X": 73,
       "Facebook": 34,
       "YouTube": 7,
       "TikTok": 4
