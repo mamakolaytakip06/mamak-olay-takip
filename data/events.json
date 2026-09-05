@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-05T11:21:22.141645+03:00",
+  "updated_at": "2026-09-05T11:32:26.270673+03:00",
   "events": [
     {
       "category": "Uyuşturucu",
@@ -13,12 +13,18 @@
       "location": "Ankara Geneli",
       "published": "2026-09-05T09:43:09+03:00",
       "confidence": 75,
-      "sources": 12,
+      "sources": 13,
       "status": "Muhtemel",
-      "summary": "12 farklı açık kaynakta bulunan aynı olay tek kayıtta birleştirildi.",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQQUlYWFN0ZVRHSWxic0dYamxKNVh5RWdneHdGNmtDdHpadkNDbVBBYUFSQllVeUpFSGNvdzlxQ0VabXpqdExYaDV3U1ctODktTU9zN3ZqN2JFSzNBY3F5aTNhMHZWZnRxb1FzUHp2dE1CUmlJLW5TUU9qN2laM1lDc3BfNG5sZkd1LUtvdDVhYkhybE81ZU5XRS1scVoxcm5xNk9WMUEwV0lGVWwwUTZz?oc=5",
+      "summary": "13 farklı açık kaynakta bulunan aynı olay tek kayıtta birleştirildi.",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQb19hYmJZRWpjWk5udkgyNS1VUlRSaGl4ZVNNLTA1V21mSFlUNWdYZFVPR0ZYWWhNZDM3MExXQm4tSWVWaWU1VkYzaUpGZnY5SjdyQ3UtUFlZSXJnSjhhTGVaT1VYQmJyaWdBdU5fMElYVDNnT0lEdUZPekFSc21RM0F4Y2ZZNlMzazRFQmpUdw?oc=5",
       "platform": "Haber",
       "source_links": [
+        {
+          "platform": "Haber",
+          "title": "Ankara'da 'uyuşturucu ve fuhuş' soruşturması: 21 isme gözaltı - Kamudanhaber",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQb19hYmJZRWpjWk5udkgyNS1VUlRSaGl4ZVNNLTA1V21mSFlUNWdYZFVPR0ZYWWhNZDM3MExXQm4tSWVWaWU1VkYzaUpGZnY5SjdyQ3UtUFlZSXJnSjhhTGVaT1VYQmJyaWdBdU5fMElYVDNnT0lEdUZPekFSc21RM0F4Y2ZZNlMzazRFQmpUdw?oc=5",
+          "published": "2026-09-05T11:12:00+03:00"
+        },
         {
           "platform": "Haber",
           "title": "Ankara'da 'uyuşturucu' ve 'fuhuş' operasyonu: 21 kişi için gözaltı kararı - Son Kale İzmir",
@@ -92,7 +98,7 @@
           "published": "2026-09-05T09:43:09+03:00"
         }
       ],
-      "last_updated": "2026-09-05T10:31:00+03:00",
+      "last_updated": "2026-09-05T10:51:14+03:00",
       "district": "Ankara Geneli",
       "neighborhood": "Ankara Geneli",
       "lat": 39.9334,
@@ -1114,7 +1120,7 @@
         "Sağlık"
       ],
       "icon": "🔫",
-      "title": "Ankara'da Markette Silahlı Saldırı: Müşterilerin Arasında Birbirlerine Kurşun Yağdırdılar - Bizim Ankara",
+      "title": "Ankara'da Markette Silahlı Saldırı: Müşterilerin Arasında Birbirlerine Kurşun Yağdırdılar - bizimankara.com.tr",
       "location": "Ankara Geneli",
       "published": "2026-09-02T07:33:10+03:00",
       "confidence": 75,
@@ -1126,7 +1132,7 @@
       "source_links": [
         {
           "platform": "Haber",
-          "title": "Ankara'da Markette Silahlı Saldırı: Müşterilerin Arasında Birbirlerine Kurşun Yağdırdılar - Bizim Ankara",
+          "title": "Ankara'da Markette Silahlı Saldırı: Müşterilerin Arasında Birbirlerine Kurşun Yağdırdılar - bizimankara.com.tr",
           "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNR1pxTG1DZ2c1Z2hMY1cwdEMzeTBranFid2hZWllDUWk2eFRKdUJueTBWQUpoUC1nVTgyamZCeTZ1OUktR1RMOXRjUGw2eVU1YmJKVl9fZVpmRjJlUVBUd3hyRlZ4WE9HTno4Nnh0Nlpxb3RfN2FfWlNKclZLWWFUaXFUcFpQV1hhODJVSlZ4MmVBbk1Ld3N1enNLejFoQ2hyNzZTQjNvbng1QXIzaUlrQV9CTVg5NmMzT0HSAb8BQVVfeXFMUDNaNXdNYWx6WVhvZWRyNzdVTEEwQllYdndveEo3VEZDVGlfc0FXSUFXc0MxNnNfX3RWSVZkd3MzN0R6UFViekc5c2dkblh1NVBtMVp3QzBXUUFkYlZ0b1JrOFFDOHlZYTluVURFSWRyWE5wdUxQX1BmZ3NBVnZSeW15b3p5VWZnU2JkRkNvRXQwZjVRYU9xeGlsNGVBMnJmMkhwbS1oRWVZV3pRdzVSY3Nhb3RqSmVlbXFhTnlhcEk?oc=5",
           "published": "2026-09-02T18:30:00+03:00"
         },
@@ -1376,7 +1382,7 @@
         "Asayiş"
       ],
       "icon": "🚔",
-      "title": "Keçiören Belediyesi’nde 129 çalışanın uyuşturucu testi pozitif çıktı: Savcılık ve Emniyet karşı karşıya geldi - kisadalga.net",
+      "title": "Keçiören Belediyesi’nde 129 çalışanın uyuşturucu testi pozitif çıktı: Savcılık ve Emniyet karşı karşıya geldi - Kısa Dalga",
       "location": "Keçiören / Ankara",
       "published": "2026-09-02T13:31:30+03:00",
       "confidence": 75,
@@ -1388,7 +1394,7 @@
       "source_links": [
         {
           "platform": "Haber",
-          "title": "Keçiören Belediyesi’nde 129 çalışanın uyuşturucu testi pozitif çıktı: Savcılık ve Emniyet karşı karşıya geldi - kisadalga.net",
+          "title": "Keçiören Belediyesi’nde 129 çalışanın uyuşturucu testi pozitif çıktı: Savcılık ve Emniyet karşı karşıya geldi - Kısa Dalga",
           "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQSksxaG95c0JldHVyd1N3QU1ad0tYSldmdTVZYjFyR2tNRUdDbTlNRUVMRnBqS2RESjNqNHZ0OWFjaW1KMmhOaVFvZ25BZDJtOHRBNkJpSFQ0d3ZwbXJoLTZza2lMNzQyeEpDb1o3TWV4aWJLc21Bck1YWlJ1dUVyZWF4S296bTllYTZjMUFRSWxGaVdNMTFaUWE5c2dGU2ppNXY2UTRHU3ZzTHhzb1NCWVVUTWNjWEJmMVYtX0hyY3VkcU9zOW1KVF9IMjNQdnVZRDZ2MjJGa0tBTlJnbGxEa0lWc9IB6AFBVV95cUxQd2J5Ql9NTTBKR25vdWZKM21iQ1ZmbTJHd3I3aTkwaVdOUnpfa05YZlNtWkRWMHMxNVNzMnhxYW5aZlJzQ0gzSjZlMnJZbGdJRW9QencxSGxTTUV4aW4yOEt6Y3IzZXhfdUhtTEVZRW9EUm9NdlQ4MkwyaV81eGI2WHV0LVdqRlRsdS1zOHo4cTB0RWotRnZmQW1HRUlWYjA4RmJ6UjdyOHIzN3pieXNFWDJZX2JUTnpneDZhWTYwQnVSd3V5R2JaQXBVaXN1OE81a21FQUZXb1JoTENzWmVHa2xILWlsZ1cw?oc=5",
           "published": "2026-09-02T16:22:00+03:00"
         },
@@ -7618,19 +7624,19 @@
         "Silahlı Olay"
       ],
       "icon": "⚫",
-      "title": "Güdül'de Damat Dehşeti: Kaynanası ve Kayınbabasını Silahla Vurarak Öldürdü - Bizim Ankara",
+      "title": "Güdül'de Damat Dehşeti: Kaynanası ve Kayınbabasını Silahla Vurarak Öldürdü - bizimankara.com.tr",
       "location": "Güdül / Ankara",
       "published": "2026-07-28T17:20:00+03:00",
       "confidence": 75,
       "sources": 1,
       "status": "Muhtemel",
-      "summary": "Bizim Ankara üzerinden bulunan herkese açık kayıt.",
+      "summary": "bizimankara.com.tr üzerinden bulunan herkese açık kayıt.",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZ0tfWnQ3d3NXQXJ0aWhqVlA4WXJQNExOZEl3TWNMQ2pZMEEwYl9TU1BLY2pIN3lYNVNvckphVUlKZzdrV3ZFLVJySThLUFNPT25wLTlhdjVHcF9EeVRQN2hPZTBKNm0tM1NaZEhjU3hhLVJLSDRfVjdPdkZTbnFwbzFvaGJjQUlPbXo2RFFTZUlBSTRqcW1RNlNTUUtQQlZ3aWp6NUxR0gGrAUFVX3lxTE9sRkdTWUZLMGdvUnJ1UzZBZ1BlNzhHTFZsN2Q1RGxZdmkyRmhZQWRWQXdqYV9oOG8yNFBxekhTTi1QNDNZc3pWZE82VXMyQUhqQWRzVl95ZVRrLXY1V21ISnlEOTRhOWlOaUhqZ0tYRms5VkJXclN6alJaSXk2eFVSaXFEZVoxdEtGSnRGUjEzZ1ZMcGY0ZHg5N3JHdkZKWHdlbno2eERGVmoydw?oc=5",
       "platform": "Haber",
       "source_links": [
         {
           "platform": "Haber",
-          "title": "Güdül'de Damat Dehşeti: Kaynanası ve Kayınbabasını Silahla Vurarak Öldürdü - Bizim Ankara",
+          "title": "Güdül'de Damat Dehşeti: Kaynanası ve Kayınbabasını Silahla Vurarak Öldürdü - bizimankara.com.tr",
           "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZ0tfWnQ3d3NXQXJ0aWhqVlA4WXJQNExOZEl3TWNMQ2pZMEEwYl9TU1BLY2pIN3lYNVNvckphVUlKZzdrV3ZFLVJySThLUFNPT25wLTlhdjVHcF9EeVRQN2hPZTBKNm0tM1NaZEhjU3hhLVJLSDRfVjdPdkZTbnFwbzFvaGJjQUlPbXo2RFFTZUlBSTRqcW1RNlNTUUtQQlZ3aWp6NUxR0gGrAUFVX3lxTE9sRkdTWUZLMGdvUnJ1UzZBZ1BlNzhHTFZsN2Q1RGxZdmkyRmhZQWRWQXdqYV9oOG8yNFBxekhTTi1QNDNZc3pWZE82VXMyQUhqQWRzVl95ZVRrLXY1V21ISnlEOTRhOWlOaUhqZ0tYRms5VkJXclN6alJaSXk2eFVSaXFEZVoxdEtGSnRGUjEzZ1ZMcGY0ZHg5N3JHdkZKWHdlbno2eERGVmoydw?oc=5",
           "published": "2026-07-28T17:20:00+03:00"
         }
@@ -10592,9 +10598,9 @@
       "location": "Altındağ / Ankara",
       "published": "2026-07-11T10:00:00+03:00",
       "confidence": 75,
-      "sources": 1,
+      "sources": 2,
       "status": "Muhtemel",
-      "summary": "Mersin Haber üzerinden bulunan herkese açık kayıt.",
+      "summary": "2 farklı açık kaynakta bulunan aynı olay tek kayıtta birleştirildi.",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNanI3T3pIWXIzZ3AyX0FVLUVkN0JpSmF1NVl3Qk1ZSTBsRUtLdkcxWVJpZ2x3eVNrX2JfZFFXQ1pCZk45SnVJdUFlMXkwNzJTa05EeWhOaVVVWVJOdzYyMWk0Y3lsWHU1VlJRZjZlSUtmOENic1NyR285VTFYV3RlNWczcDhydURhdE5QRGFhSU85ZG1tSTRTa0hzcjA4cThFNkJac1BDeFdFZ9IBV0FVX3lxTFBpcDhDTEQzTUpBaGF0aUZvOXA2a2wxbXg4aHpSMFp0YWR0cW5yQ0pwNXpyY2gwdEQyekx0RXVRVUstbTlZOVU4WElUNnlOUWdMX1A2OWdiRQ?oc=5",
       "platform": "Haber",
       "source_links": [
@@ -10603,6 +10609,12 @@
           "title": "Ankara Altındağ'da Otluk Alanda Yangın Çıktı, İtfaiye Müdahale Etti - Mersin Haber",
           "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNanI3T3pIWXIzZ3AyX0FVLUVkN0JpSmF1NVl3Qk1ZSTBsRUtLdkcxWVJpZ2x3eVNrX2JfZFFXQ1pCZk45SnVJdUFlMXkwNzJTa05EeWhOaVVVWVJOdzYyMWk0Y3lsWHU1VlJRZjZlSUtmOENic1NyR285VTFYV3RlNWczcDhydURhdE5QRGFhSU85ZG1tSTRTa0hzcjA4cThFNkJac1BDeFdFZ9IBV0FVX3lxTFBpcDhDTEQzTUpBaGF0aUZvOXA2a2wxbXg4aHpSMFp0YWR0cW5yQ0pwNXpyY2gwdEQyekx0RXVRVUstbTlZOVU4WElUNnlOUWdMX1A2OWdiRQ?oc=5",
           "published": "2026-07-11T10:00:00+03:00"
+        },
+        {
+          "platform": "Haber",
+          "title": "Ankara Altındağ'da Otluk Alanda Yangın Çıktı, İtfaiye Müdahale Etti - Mersin Haber",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNTzcwb3l6Y0IxQXhSakhabmtKQTlwSHJlOHVtYUc4RlpjeGNTVE5ucU9YSUFSUENsTWY2S2FpcmFqTmw2Sk8tTHpQVFJEVFNRWXdNV3F1b2lqX3RJVXgwZlYtLTlaeGk3eHpGUm0wckN3Rll6TVkyTEJYUjQzSUZTTzhNc3BxWjlhQVhyd9IBV0FVX3lxTFBpcDhDTEQzTUpBaGF0aUZvOXA2a2wxbXg4aHpSMFp0YWR0cW5yQ0pwNXpyY2gwdEQyekx0RXVRVUstbTlZOVU4WElUNnlOUWdMX1A2OWdiRQ?oc=5",
+          "published": "2026-07-11T10:00:00+03:00"
         }
       ],
       "district": "Altındağ",
@@ -10610,7 +10622,8 @@
       "lat": 39.952,
       "lon": 32.875,
       "location_precision": "ilçe",
-      "id": 321
+      "id": 321,
+      "last_updated": "2026-07-11T10:00:00+03:00"
     },
     {
       "category": "Trafik Kazası",
@@ -25663,7 +25676,7 @@
   "google_alert_invalid_count": 0,
   "google_alert_query_count": 9,
   "platform_counts": {
-    "Haber": 794,
+    "Haber": 796,
     "X": 135,
     "TikTok": 35,
     "Facebook": 55,
@@ -25676,11 +25689,10 @@
     "google_alert_feeds": 9,
     "new_results_this_scan": {
       "Haber": 358,
-      "X": 76,
-      "Facebook": 33,
-      "Instagram": 3,
-      "YouTube": 9,
-      "TikTok": 4
+      "X": 71,
+      "Facebook": 32,
+      "YouTube": 8,
+      "TikTok": 3
     }
   },
   "sources": [
