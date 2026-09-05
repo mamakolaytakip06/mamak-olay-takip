@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-05T22:46:53.556532+03:00",
+  "updated_at": "2026-09-05T22:55:08.192403+03:00",
   "events": [
     {
       "category": "Yangın",
@@ -3179,11 +3179,11 @@
       "icon": "🔥",
       "title": "Haymana'da korkutan anız yangını! Başkan Koç olay yerinde - Yeni Ankara",
       "location": "Haymana / Ankara",
-      "published": "2026-08-25T21:32:00+03:00",
+      "published": "2026-08-25T10:00:00+03:00",
       "confidence": 75,
-      "sources": 1,
+      "sources": 2,
       "status": "Muhtemel",
-      "summary": "Yeni Ankara üzerinden bulunan herkese açık kayıt.",
+      "summary": "2 farklı açık kaynakta bulunan aynı olay tek kayıtta birleştirildi.",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNQzQ2d3dJZ19MWngzQzNhSEJFTU85dXl2UXFVNEg1WnIxUXlDRzRNSldHb0lsd2NPdHBLNVpYNEpTcGpnZ3JjOWlmRFRDVDc5Y1EyUWx0U0lZOTZpeUQtdDVrVnZKbi1nSUtNQmhVcTREYTRObUJodENYRDRyVW0tTkZrR3RjcWdjekVTOUhKSEVUaEFCSEpvYUFJbVhqd9IBowFBVV95cUxNOU1lcF96cUJvMlBkd2xOZlRGWGM4X2tXenFaSE5zUGRaNGxoa0xKRko1elRrc0xZZ2FaQXZ0VU1DeWt0bVFLZTRCakxtZC1TSGNhaElDUlRjUGRtYjQ2Vl9ucksxZjJraUxJNGpXXzRoczlyVXVkWjZNYXlmZHVYRmF6UmN3VjA0NkJyeDktdWs3MWpSWXZUZll1c0NiaXVHTnlv?oc=5",
       "platform": "Haber",
       "source_links": [
@@ -3192,6 +3192,12 @@
           "title": "Haymana'da korkutan anız yangını! Başkan Koç olay yerinde - Yeni Ankara",
           "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNQzQ2d3dJZ19MWngzQzNhSEJFTU85dXl2UXFVNEg1WnIxUXlDRzRNSldHb0lsd2NPdHBLNVpYNEpTcGpnZ3JjOWlmRFRDVDc5Y1EyUWx0U0lZOTZpeUQtdDVrVnZKbi1nSUtNQmhVcTREYTRObUJodENYRDRyVW0tTkZrR3RjcWdjekVTOUhKSEVUaEFCSEpvYUFJbVhqd9IBowFBVV95cUxNOU1lcF96cUJvMlBkd2xOZlRGWGM4X2tXenFaSE5zUGRaNGxoa0xKRko1elRrc0xZZ2FaQXZ0VU1DeWt0bVFLZTRCakxtZC1TSGNhaElDUlRjUGRtYjQ2Vl9ucksxZjJraUxJNGpXXzRoczlyVXVkWjZNYXlmZHVYRmF6UmN3VjA0NkJyeDktdWs3MWpSWXZUZll1c0NiaXVHTnlv?oc=5",
           "published": "2026-08-25T21:32:00+03:00"
+        },
+        {
+          "platform": "Haber",
+          "title": "Haymana'da korkutan anız yangını! Başkan Koç olay yerinde - Yeni Ankara",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNLTBKWUVHQmpVUGllQWZhX3BDcWo3bmhiSFRkcXNEOF8ybWZyTlExSG4xZ0xmVmVOYko2aEtSVmhuTWtYTmhqcjZCUnZ1d25WcURKNE16UXJmdUZQNnRFZmRUTnpzZk9Yck1tT2VyMFFXZnJaR001US0zSE5rZHN2U3NSX21jZmtTa0lpdHFvZ0Iybi10QWxROWVxQVBYYUHSAaQBQVVfeXFMTkVXV2dDRzdRRXNNWHlZWXYtMDFtOFNfZ2s3dGV1U0d0T0VsaGhZV1BCVWNtaWxHaERUc0VtQzI1TV9IeVFpNkVBS2ZBYUJhaUltbW45emcwNzVscDQzRFJ2REhySEF5NXNfd29MTV9EOWx1X2FZTUdEcnhRZ2pfaTFYR1NXRkVLYmU1cUFndU9vVWlMQjJ6YjNCZkRka0VXM0xITnk?oc=5",
+          "published": "2026-08-25T10:00:00+03:00"
         }
       ],
       "district": "Haymana",
@@ -3199,7 +3205,8 @@
       "lat": 39.434,
       "lon": 32.497,
       "location_precision": "ilçe",
-      "id": 96
+      "id": 96,
+      "last_updated": "2026-08-25T10:00:00+03:00"
     },
     {
       "category": "Uyuşturucu",
@@ -6480,13 +6487,13 @@
         "Uyuşturucu"
       ],
       "icon": "🚔",
-      "title": "Ankara'da soğan torbaları içinden 150 kilo uyuşturucu ele geçirildi - NTV Haber",
+      "title": "Ankara'da 'yok artık' dedirten olay! Soğan torbaları içinden 150 kilo uyuşturucu ele geçirildi | Video - Sabah",
       "location": "Ankara Geneli",
       "published": "2026-08-10T10:00:00+03:00",
       "confidence": 75,
-      "sources": 1,
+      "sources": 2,
       "status": "Muhtemel",
-      "summary": "NTV Haber üzerinden bulunan herkese açık kayıt.",
+      "summary": "2 farklı açık kaynakta bulunan aynı olay tek kayıtta birleştirildi.",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOei0tNS1HMjNmRDVRNEhZSUdCMG40ZTNqMGZqYzdYYnNIMmJHTVBjMG9TZjJKVENoY0QwTTV3OURpOUhDWW1CWlBqemtyRlpyNUZGaFRSWHdNUlBRdE9pSFlQcC1MQTNBS05CTFZSRW15Y0dKY29xMy1HYWxvUlhkNjhBT3dtb1kzTXdpajh0QW9nX1huTUtGSmZnTDhFM3M3b01vSlNyRW04R3JPZ19GRNIBtgFBVV95cUxObzRRNU4xZGlTb1JrYnlrSlV6QkJNVjlzMHBrM3VCQWk4MnVMVzNHbjFoc1N4aGxZM0JEdWVEOHo5QU5Sd1NfT25ta2hjU0xiaHBKdUVQRXVQamdFYXZnOUpDd0dSTFI3S0FxUVExVTBYRG5uT0dSdHpUclY2YkNkZW1nSngzV3FMdG44d3E3a3dGWGlXeTh2RDM5bmRpU1laUmRraTBjeUM3aS1ERjFheXBBdndVdw?oc=5",
       "platform": "Haber",
       "source_links": [
@@ -6495,8 +6502,15 @@
           "title": "Ankara'da soğan torbaları içinden 150 kilo uyuşturucu ele geçirildi - NTV Haber",
           "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOei0tNS1HMjNmRDVRNEhZSUdCMG40ZTNqMGZqYzdYYnNIMmJHTVBjMG9TZjJKVENoY0QwTTV3OURpOUhDWW1CWlBqemtyRlpyNUZGaFRSWHdNUlBRdE9pSFlQcC1MQTNBS05CTFZSRW15Y0dKY29xMy1HYWxvUlhkNjhBT3dtb1kzTXdpajh0QW9nX1huTUtGSmZnTDhFM3M3b01vSlNyRW04R3JPZ19GRNIBtgFBVV95cUxObzRRNU4xZGlTb1JrYnlrSlV6QkJNVjlzMHBrM3VCQWk4MnVMVzNHbjFoc1N4aGxZM0JEdWVEOHo5QU5Sd1NfT25ta2hjU0xiaHBKdUVQRXVQamdFYXZnOUpDd0dSTFI3S0FxUVExVTBYRG5uT0dSdHpUclY2YkNkZW1nSngzV3FMdG44d3E3a3dGWGlXeTh2RDM5bmRpU1laUmRraTBjeUM3aS1ERjFheXBBdndVdw?oc=5",
           "published": "2026-08-10T10:00:00+03:00"
+        },
+        {
+          "platform": "Haber",
+          "title": "Ankara'da 'yok artık' dedirten olay! Soğan torbaları içinden 150 kilo uyuşturucu ele geçirildi | Video - Sabah",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOSmRJTXpJT3VKSlE0elBDNmZGT3ZlcXlfeGhxUE9GYzg0Sm5QV0tCT3JJTXRWUC00aVpMN1Y1TFBpVWxlV0RmY0p3S1Q0eEpndGRva0lSRnpncmRMekJCaS1CNGdNVTg1WFNBM1FfTkhfeHhuN0tTdkstenA5MTVPbHRXTVNpcXMzV3NuRERvcWE0QXJobzVZTHpyNVVGUUxraVVvYVBqUHh5cjZwZUxMNlZXb2RVZGlXalpULU00aEY1ZXE5d2ZoM2ZfLWFtUQ?oc=5",
+          "published": "2026-08-10T10:00:00+03:00"
         }
       ],
+      "last_updated": "2026-08-10T10:00:00+03:00",
       "district": "Ankara Geneli",
       "neighborhood": "Ankara Geneli",
       "lat": 39.9334,
@@ -8191,43 +8205,6 @@
       "id": 247
     },
     {
-      "category": "Cinayet",
-      "categories": [
-        "Cinayet"
-      ],
-      "icon": "⚫",
-      "title": "Ankara'da damat dehşeti! Kayınpederi ve kayınvalidesini öldürdü - Son Dakika",
-      "location": "Ankara Geneli",
-      "published": "2026-07-27T10:00:00+03:00",
-      "confidence": 75,
-      "sources": 2,
-      "status": "Muhtemel",
-      "summary": "2 farklı açık kaynakta bulunan aynı olay tek kayıtta birleştirildi.",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNaDFMRjV6Q3dxdzNLdThpVnhsdGVab0NCNXA0RmV4YmpVaHIxU2J5R0hTcWdhcDl3OXZzYmhXaDZqTnVSdGhiRXUxek15ZEZ3SC1CbUNKQkJWNDA1OXEwaVNfWTNmc2xIVWRLdHhTUHVrZUxhOVA3V293NHJUbTZ0TUlxUTZxdzYtVFJvZC1n0gGLAUFVX3lxTE1yNTZtTVFRWk03dENyYVItZWpqSzRYMVE3QmdBMnpEa3NzWlNsRkY3QWVJNkVDdUptMnlUSFZZYnNtQXU0Mkp4bnk0b0YtM1FNNGRfRno4VGpXVDhMZjhBTEVjT2M4VUIxQVUyVGo1cEtEY3hYblptem94ZDBRU2NDUDdLZXZjX2R0dDg?oc=5",
-      "platform": "Haber",
-      "source_links": [
-        {
-          "platform": "Haber",
-          "title": "Ankara'da damat dehşeti! Kayınpederi ve kayınvalidesini öldürdü - Son Dakika",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNaDFMRjV6Q3dxdzNLdThpVnhsdGVab0NCNXA0RmV4YmpVaHIxU2J5R0hTcWdhcDl3OXZzYmhXaDZqTnVSdGhiRXUxek15ZEZ3SC1CbUNKQkJWNDA1OXEwaVNfWTNmc2xIVWRLdHhTUHVrZUxhOVA3V293NHJUbTZ0TUlxUTZxdzYtVFJvZC1n0gGLAUFVX3lxTE1yNTZtTVFRWk03dENyYVItZWpqSzRYMVE3QmdBMnpEa3NzWlNsRkY3QWVJNkVDdUptMnlUSFZZYnNtQXU0Mkp4bnk0b0YtM1FNNGRfRno4VGpXVDhMZjhBTEVjT2M4VUIxQVUyVGo1cEtEY3hYblptem94ZDBRU2NDUDdLZXZjX2R0dDg?oc=5",
-          "published": "2026-07-28T10:00:00+03:00"
-        },
-        {
-          "platform": "Haber",
-          "title": "Ankara'da damat, kayınpederi ve kayınvalidesini öldürdü - Son Dakika",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPYTdPQzJaMjgzNTNqWXdKamhsMUs0Skk2MlVER0U1cWxkUFctbUtHS3hqYzRkeXVjdXJXYjhWbnVXcG9KTUFqc2N2SVItemU2amFjcFI2Mk91cWV2cnVyaUkxaldxZlRxTGZqTkFJN0tmYkdtZjJZYnkxd0FjbHc5eV9CLVA4MjNuamYzLXFzQXJSSy1FVVN6Z29VUVZ3ckJu0gGcAUFVX3lxTE81UGdZbUJRWnR3Z0tzdG5DSGpfRFZpQVZtbnZtWHJ6ZldoYjVGamZrWXQ1VEh1RXlocm5lOEN3VWFmc09Yd21IVjNiNnJua3F3VnFYeDBvV1FCOUdVREZWNmhlSGRSamk5Vl9keXl2S0JUeDZocHhVbkF6MGRjbHBYZV9EeDNaSXFsSWVrYXBraUZFZF8wUlZwcjd1Zg?oc=5",
-          "published": "2026-07-27T10:00:00+03:00"
-        }
-      ],
-      "last_updated": "2026-07-27T10:00:00+03:00",
-      "district": "Ankara Geneli",
-      "neighborhood": "Ankara Geneli",
-      "lat": 39.9334,
-      "lon": 32.8597,
-      "location_precision": "il",
-      "id": 248
-    },
-    {
       "category": "Silahlı Olay",
       "categories": [
         "Silahlı Olay"
@@ -8255,6 +8232,49 @@
       "lat": 40.21,
       "lon": 32.245,
       "location_precision": "ilçe",
+      "id": 248
+    },
+    {
+      "category": "Cinayet",
+      "categories": [
+        "Cinayet"
+      ],
+      "icon": "⚫",
+      "title": "Ankara'da damat dehşeti! Kayınpederini ve kayınvalidesini öldürdü - Son Dakika Flaş Haberler - cnnturk.com",
+      "location": "Ankara Geneli",
+      "published": "2026-07-27T10:00:00+03:00",
+      "confidence": 75,
+      "sources": 3,
+      "status": "Muhtemel",
+      "summary": "3 farklı açık kaynakta bulunan aynı olay tek kayıtta birleştirildi.",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNaDFMRjV6Q3dxdzNLdThpVnhsdGVab0NCNXA0RmV4YmpVaHIxU2J5R0hTcWdhcDl3OXZzYmhXaDZqTnVSdGhiRXUxek15ZEZ3SC1CbUNKQkJWNDA1OXEwaVNfWTNmc2xIVWRLdHhTUHVrZUxhOVA3V293NHJUbTZ0TUlxUTZxdzYtVFJvZC1n0gGLAUFVX3lxTE1yNTZtTVFRWk03dENyYVItZWpqSzRYMVE3QmdBMnpEa3NzWlNsRkY3QWVJNkVDdUptMnlUSFZZYnNtQXU0Mkp4bnk0b0YtM1FNNGRfRno4VGpXVDhMZjhBTEVjT2M4VUIxQVUyVGo1cEtEY3hYblptem94ZDBRU2NDUDdLZXZjX2R0dDg?oc=5",
+      "platform": "Haber",
+      "source_links": [
+        {
+          "platform": "Haber",
+          "title": "Ankara'da damat dehşeti! Kayınpederi ve kayınvalidesini öldürdü - Son Dakika",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNaDFMRjV6Q3dxdzNLdThpVnhsdGVab0NCNXA0RmV4YmpVaHIxU2J5R0hTcWdhcDl3OXZzYmhXaDZqTnVSdGhiRXUxek15ZEZ3SC1CbUNKQkJWNDA1OXEwaVNfWTNmc2xIVWRLdHhTUHVrZUxhOVA3V293NHJUbTZ0TUlxUTZxdzYtVFJvZC1n0gGLAUFVX3lxTE1yNTZtTVFRWk03dENyYVItZWpqSzRYMVE3QmdBMnpEa3NzWlNsRkY3QWVJNkVDdUptMnlUSFZZYnNtQXU0Mkp4bnk0b0YtM1FNNGRfRno4VGpXVDhMZjhBTEVjT2M4VUIxQVUyVGo1cEtEY3hYblptem94ZDBRU2NDUDdLZXZjX2R0dDg?oc=5",
+          "published": "2026-07-28T10:00:00+03:00"
+        },
+        {
+          "platform": "Haber",
+          "title": "Ankara'da damat, kayınpederi ve kayınvalidesini öldürdü - Son Dakika",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPYTdPQzJaMjgzNTNqWXdKamhsMUs0Skk2MlVER0U1cWxkUFctbUtHS3hqYzRkeXVjdXJXYjhWbnVXcG9KTUFqc2N2SVItemU2amFjcFI2Mk91cWV2cnVyaUkxaldxZlRxTGZqTkFJN0tmYkdtZjJZYnkxd0FjbHc5eV9CLVA4MjNuamYzLXFzQXJSSy1FVVN6Z29VUVZ3ckJu0gGcAUFVX3lxTE81UGdZbUJRWnR3Z0tzdG5DSGpfRFZpQVZtbnZtWHJ6ZldoYjVGamZrWXQ1VEh1RXlocm5lOEN3VWFmc09Yd21IVjNiNnJua3F3VnFYeDBvV1FCOUdVREZWNmhlSGRSamk5Vl9keXl2S0JUeDZocHhVbkF6MGRjbHBYZV9EeDNaSXFsSWVrYXBraUZFZF8wUlZwcjd1Zg?oc=5",
+          "published": "2026-07-27T10:00:00+03:00"
+        },
+        {
+          "platform": "Haber",
+          "title": "Ankara'da damat dehşeti! Kayınpederini ve kayınvalidesini öldürdü - Son Dakika Flaş Haberler - cnnturk.com",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPaXNwNWttd0RsWUliMko5YzZKdWdIYzlLQWMtamhFQWtDX0Y0WndYU2VWRjd2LU52U2Npa09xMVJsUEt4NmRBWG8xM1hOMnhvOHBXaVpSOG5rTlBKRDdqY04zZkVLLUNscWtsNHJNMExEWHdfOEhwQVBfeWxFdlEwNzNxai1KV1BNM1dDMkdFQlpCWklUWGRMVUlPd1RhRTZFMm1DdEN3?oc=5",
+          "published": "2026-07-27T10:00:00+03:00"
+        }
+      ],
+      "last_updated": "2026-07-27T10:00:00+03:00",
+      "district": "Ankara Geneli",
+      "neighborhood": "Ankara Geneli",
+      "lat": 39.9334,
+      "lon": 32.8597,
+      "location_precision": "il",
       "id": 249
     },
     {
@@ -8293,13 +8313,13 @@
         "Asayiş"
       ],
       "icon": "👮",
-      "title": "SON DAKİKA! Ankara Cumhuriyet Başsavcılığı talimatıyla Çankaya’da bulunan “gay” bar işletmesi olduğu değerlendirilen LGBT BAR SİXTİEES adlı mekana baskın düzenlendi. Mekan işletmecisi Ceyhun Toker dahil 7 kişi gözaltına alındı. Gözaltına alınanlar; - x.com",
+      "title": "‼️Ankara Cumhuriyet Başsavcılığı talimatıyla Çankaya’da bulunan “gay” bar işletmesi olduğu değerlendirilen LGBT BAR SİXTİEES adlı mekana baskın düzenlendi. Mekan işletmecisi Ceyhun Toker dahil 7 kişi gözaltına alındı. Gözaltına alınanlar; Ceyhun Tok - x.com",
       "location": "Ankara Geneli",
       "published": "2026-07-27T10:00:00+03:00",
       "confidence": 60,
-      "sources": 1,
+      "sources": 2,
       "status": "Sosyal medya / doğrulanmamış",
-      "summary": "x.com üzerinden bulunan herkese açık kayıt.",
+      "summary": "2 farklı açık kaynakta bulunan aynı olay tek kayıtta birleştirildi.",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1paldJRzFSX3oxd1pTLTZTRWpHdENpUDFqZGtJRF9laW1ZbklwdHlYNHQ1VDEzdWQyeUxQZFMzT2NjT2lSbVd0SkxDNms4eHF5cWtaOVhQeGFmX0Z5TlljYS0yMA?oc=5",
       "platform": "X",
       "source_links": [
@@ -8308,8 +8328,15 @@
           "title": "SON DAKİKA! Ankara Cumhuriyet Başsavcılığı talimatıyla Çankaya’da bulunan “gay” bar işletmesi olduğu değerlendirilen LGBT BAR SİXTİEES adlı mekana baskın düzenlendi. Mekan işletmecisi Ceyhun Toker dahil 7 kişi gözaltına alındı. Gözaltına alınanlar; - x.com",
           "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1paldJRzFSX3oxd1pTLTZTRWpHdENpUDFqZGtJRF9laW1ZbklwdHlYNHQ1VDEzdWQyeUxQZFMzT2NjT2lSbVd0SkxDNms4eHF5cWtaOVhQeGFmX0Z5TlljYS0yMA?oc=5",
           "published": "2026-07-27T10:00:00+03:00"
+        },
+        {
+          "platform": "X",
+          "title": "‼️Ankara Cumhuriyet Başsavcılığı talimatıyla Çankaya’da bulunan “gay” bar işletmesi olduğu değerlendirilen LGBT BAR SİXTİEES adlı mekana baskın düzenlendi. Mekan işletmecisi Ceyhun Toker dahil 7 kişi gözaltına alındı. Gözaltına alınanlar; Ceyhun Tok - x.com",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE13anBtczFpQjg1MlB0b1JYMHFWYURhVUxPMnMwVUlkT2RSSi1Pa3pIWXB3ZEs2OEVBMksyeElTQnE5bmRLSklOMEhjZlFpVm9zRXFycjc0TXZNeXBHOWp1cmE4QTFRRWZCdGFCcmRsV1M?oc=5",
+          "published": "2026-07-27T10:00:00+03:00"
         }
       ],
+      "last_updated": "2026-07-27T10:00:00+03:00",
       "district": "Ankara Geneli",
       "neighborhood": "Ankara Geneli",
       "lat": 39.9334,
@@ -9501,13 +9528,13 @@
         "Yangın"
       ],
       "icon": "🚗",
-      "title": "Ankara Kahramankazan'daki Bir Fabrikada Yangın Çıktı, İtfaiye Ekipleri Müdahale Ediyor - Mersin Haber",
+      "title": "Ankara Kahramankazan'da Kimyasal Ürün Fabrikasında Yangın Yaşandı, Alevler Yan Fabrikaya Sıçradı - Mersin Haber",
       "location": "Kahramankazan / Ankara",
       "published": "2026-07-19T10:00:00+03:00",
       "confidence": 75,
-      "sources": 1,
+      "sources": 2,
       "status": "Muhtemel",
-      "summary": "Mersin Haber üzerinden bulunan herkese açık kayıt.",
+      "summary": "2 farklı açık kaynakta bulunan aynı olay tek kayıtta birleştirildi.",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQdlpZakpxbVpmSTYxdU05eERVeE1XcDJUU0k1ZlRqX1B0WHViTUhyWkRLVWMwSlZVU2Z3VWo1aHF1bDZ0eFp2RWhZaW1oN1BqMGFnNkhJSFJSNTlWb0xUaHkyVlRzbDlUc1ZJZEpGY0V3MjRYT09yTVdqbUIxcGZVY0VuVzlhNnFNaUdaYy00MjNJdFRDNmF5Ym1KMXNqWTRWSVNDSEJGOWUtWlNBRlJGc0pScEM3VUdsdjBaOEFPRFdENknSAVdBVV95cUxObDdhdDFpY2lNaFNwOENPbmxvZzMteUVodXVGMEVSNWpVeW1Bc1FwZDBaSWJma0EyNTV2RFd4alA0YndMb25IRTBtNHRRWDJadVBOdkZhY00?oc=5",
       "platform": "Haber",
       "source_links": [
@@ -9516,8 +9543,15 @@
           "title": "Ankara Kahramankazan'daki Bir Fabrikada Yangın Çıktı, İtfaiye Ekipleri Müdahale Ediyor - Mersin Haber",
           "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQdlpZakpxbVpmSTYxdU05eERVeE1XcDJUU0k1ZlRqX1B0WHViTUhyWkRLVWMwSlZVU2Z3VWo1aHF1bDZ0eFp2RWhZaW1oN1BqMGFnNkhJSFJSNTlWb0xUaHkyVlRzbDlUc1ZJZEpGY0V3MjRYT09yTVdqbUIxcGZVY0VuVzlhNnFNaUdaYy00MjNJdFRDNmF5Ym1KMXNqWTRWSVNDSEJGOWUtWlNBRlJGc0pScEM3VUdsdjBaOEFPRFdENknSAVdBVV95cUxObDdhdDFpY2lNaFNwOENPbmxvZzMteUVodXVGMEVSNWpVeW1Bc1FwZDBaSWJma0EyNTV2RFd4alA0YndMb25IRTBtNHRRWDJadVBOdkZhY00?oc=5",
           "published": "2026-07-19T10:00:00+03:00"
+        },
+        {
+          "platform": "Haber",
+          "title": "Ankara Kahramankazan'da Kimyasal Ürün Fabrikasında Yangın Yaşandı, Alevler Yan Fabrikaya Sıçradı - Mersin Haber",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQS3lDQzJvNzVhdnNHako5Q0ptSmVxOGdyQklCUG4zRXZQRDNLQnRjaWU3Y2NZOFVTRXduMG83WVNweUZsRXhBcW4tZXFiVkhLR0dDdXRrM2J4WklDaUxwUTRfZ1l4dFdidENjT2lmU1VsRTY5WXJQMXNVN0h3MEJFdG13ZFFHNnpMZk9FUVhIWlpaa2c3dWxzX2NVR3k4NjJLUXdVUHMzNHptSXB1VV96Ujc3MWZqRTlnZjd3ZF9wWGVzaWhxSkc0YldUak84V3NB0gFXQVVfeXFMUHlpdXEtbkJuLWxIcHdCVXMyWnNraWxjM2M4NFdpUW9ZNWhkRk5HQ3ZPd29yMjY2dlVBSjBRQzhZSWRwWHBFbWRWc2tQNFJxT3RQX2RzOUxj?oc=5",
+          "published": "2026-07-19T10:00:00+03:00"
         }
       ],
+      "last_updated": "2026-07-19T10:00:00+03:00",
       "district": "Kahramankazan",
       "neighborhood": "Kahramankazan Geneli",
       "lat": 40.205,
@@ -12085,19 +12119,19 @@
         "Kavga"
       ],
       "icon": "🥊",
-      "title": "Haymana'da akaryakıt istasyonuna saldırı; komşusunun boğazına bıçak dayadı - aksiyon.com.tr",
+      "title": "Haymana'da akaryakıt istasyonuna saldırı; komşusunun boğazına bıçak dayadı - Aksiyon.com.TR",
       "location": "Haymana / Ankara",
       "published": "2026-06-30T10:00:00+03:00",
       "confidence": 75,
       "sources": 1,
       "status": "Muhtemel",
-      "summary": "aksiyon.com.tr üzerinden bulunan herkese açık kayıt.",
+      "summary": "Aksiyon.com.TR üzerinden bulunan herkese açık kayıt.",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMHN4Yk9jdkphd3EzMG90eWZlSEx4dFhuUGxhSFV0VGZTLXUyeU1oN3E3SzhXc3NBMnlnS1BCQ1ZjRW45YlpDODdlblVZQUJ5ZDNYelFxanYtNUxsclIyUWNoS3VlN1ppdGxTNTVFVEg2XzRZQ2JZTnU0Mzg2VGVtYTFEV3BnMjM4OVZ6UmlSNkFIeFJBNW80dHJHcGFnZWlkVGp4TVdxQTl0d0HSAbABQVVfeXFMUFR6bzQ5ckx3OEgxYXpKTUVJS3J6ZzVPX3RHX0JzUnYtb3VQT25hY24wRV84dm9neXptYk1EcXlWY1NTQkFNS3JySm5mTzFnRURyclJ1OTI2ZXRtVnhocG51T0d0ZEIteFNVUkhZeDdwUWlGcXVZU0dpcWZwbURTelowSC0tWjdOYWFINUJNaVpXRVJJTGdHbEYzQ25XQ0ZvZW02NXVDS2wxQTVvUHZoQXM?oc=5",
       "platform": "Haber",
       "source_links": [
         {
           "platform": "Haber",
-          "title": "Haymana'da akaryakıt istasyonuna saldırı; komşusunun boğazına bıçak dayadı - aksiyon.com.tr",
+          "title": "Haymana'da akaryakıt istasyonuna saldırı; komşusunun boğazına bıçak dayadı - Aksiyon.com.TR",
           "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMHN4Yk9jdkphd3EzMG90eWZlSEx4dFhuUGxhSFV0VGZTLXUyeU1oN3E3SzhXc3NBMnlnS1BCQ1ZjRW45YlpDODdlblVZQUJ5ZDNYelFxanYtNUxsclIyUWNoS3VlN1ppdGxTNTVFVEg2XzRZQ2JZTnU0Mzg2VGVtYTFEV3BnMjM4OVZ6UmlSNkFIeFJBNW80dHJHcGFnZWlkVGp4TVdxQTl0d0HSAbABQVVfeXFMUFR6bzQ5ckx3OEgxYXpKTUVJS3J6ZzVPX3RHX0JzUnYtb3VQT25hY24wRV84dm9neXptYk1EcXlWY1NTQkFNS3JySm5mTzFnRURyclJ1OTI2ZXRtVnhocG51T0d0ZEIteFNVUkhZeDdwUWlGcXVZU0dpcWZwbURTelowSC0tWjdOYWFINUJNaVpXRVJJTGdHbEYzQ25XQ0ZvZW02NXVDS2wxQTVvUHZoQXM?oc=5",
           "published": "2026-06-30T10:00:00+03:00"
         }
@@ -15034,13 +15068,13 @@
         "Trafik Kazası"
       ],
       "icon": "🚗",
-      "title": "⏰SAAT 20.00 İTİBARIYLA ANKARA'DA TRAFİK YOĞUNLUĞU %60 📌Tarhanlar Caddesi ile 19 Mayıs Caddesi kesişimindeki göbekte üç araçlık trafik kazası 📌Mithatpaşa Caddesi Kocatepe Camii sonrası kaza 📌Konya Yolu Gölbaşı istikameti 82 radarları geçti - x.com",
-      "location": "Gölbaşı / Ankara",
+      "title": "Ankara-Eskişehir kara yolunda 3 aracın karıştığı trafik kazası Bir otomobil şarampole uçtu, kaza maddi hasarla atlatıldı - Habertürk",
+      "location": "Ankara Geneli",
       "published": "2026-06-05T10:00:00+03:00",
       "confidence": 75,
-      "sources": 6,
+      "sources": 5,
       "status": "Muhtemel",
-      "summary": "6 farklı açık kaynakta bulunan aynı olay tek kayıtta birleştirildi.",
+      "summary": "5 farklı açık kaynakta bulunan aynı olay tek kayıtta birleştirildi.",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNNnl1d18yT2dEd0NtOTBibWVKTXpwejBqTHhOSW5aS0owdkhuc1BzZnd5ZXBEVXZYbWtjcHJOQ0FxMTZBRFpNQWl1LXo2RE8wRGJkMWlFeDVhTDJhbTNZbXQ2T19vZ0NLVndmdW5kVGlGdE5xQVhPUEJqSDAxa2lKazdRc2I2eHZvbjZqMXAyZ09KdnVseVFBcFh0UXJpeGtGQkVLRkQ2SQ?oc=5",
       "platform": "Haber",
       "source_links": [
@@ -15073,20 +15107,14 @@
           "title": "Ankara-Eskişehir kara yolunda 3 aracın karıştığı trafik kazası - Samsun Son Haber",
           "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNeEptVkNTMDVkQVdNYjQ4TDZNSVZOblhpbEFzUlU3dEx2b2VqYlZxelpXZHd0Qkt6UXR2bldELTlwZ0UxUlRGNVFYc3dJejJhY1QxS0cxa1ZOQ09nd3pjTlo2Ymt1RWg3UkhDUEVXemdLcTVBUFRJUXEyWTgzMXRIVnRZaURVNzRhdUxJSEZwTE56eF9rRzQ5N291eGoxQ1l2dEJ1cE5GOEo0UdIBpwFBVV95cUxNWG85MUNqR1VpTWt4TFU3N1pidmJwMEcxQmYyVUxTMjY5ZUxadzFZRjhHcnJsb05OZ0xsa2ZUVzB6ZElYNHZoVHRVR2phaW5VY1htS1RJZ1BwcVRZZXRQQ2xacDBGV0RaMWc3ZU41T0JONmhNYjlrdGF1Tm41T1M2Y0R2eHpwNm9yR2ttQUpoZzJnMzBpV01YWHo2eFAtMGFkWkNoQmxTRQ?oc=5",
           "published": "2026-06-05T10:00:00+03:00"
-        },
-        {
-          "platform": "X",
-          "title": "⏰SAAT 20.00 İTİBARIYLA ANKARA'DA TRAFİK YOĞUNLUĞU %60 📌Tarhanlar Caddesi ile 19 Mayıs Caddesi kesişimindeki göbekte üç araçlık trafik kazası 📌Mithatpaşa Caddesi Kocatepe Camii sonrası kaza 📌Konya Yolu Gölbaşı istikameti 82 radarları geçti - x.com",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBwRVlVOXBYeFdSUkRhWHdPNHZPZ1BhVkFKdjV0SDBVUzkycnJpMlJVLUlvanBVOGo4bnJ5Uk5SbWRBN3lPbF9jSFFnRjdxdjhKUVlzZUR2V2VOM2lxN3B3TVZ5aXQ4bF9nYm82TWwzWQ?oc=5",
-          "published": "2026-06-05T10:00:00+03:00"
         }
       ],
       "last_updated": "2026-06-05T10:00:00+03:00",
-      "district": "Gölbaşı",
-      "neighborhood": "Gölbaşı Geneli",
-      "lat": 39.79,
-      "lon": 32.809,
-      "location_precision": "ilçe",
+      "district": "Ankara Geneli",
+      "neighborhood": "Ankara Geneli",
+      "lat": 39.9334,
+      "lon": 32.8597,
+      "location_precision": "il",
       "id": 460
     },
     {
@@ -19643,13 +19671,13 @@
         "Sağlık"
       ],
       "icon": "🚗",
-      "title": "SON DAKİKA! Ankara'da feci kaza! Ölü ve yaralılar var - A Haber",
+      "title": "A Haber. . Olay Yerinden İlk Görüntüler -Ankara'da feci otobüs kazası -Ölü ve yaralılar https://www.ahaber.com.tr/yasam/2026/04/04/son-dakika-ankarada-feci-kaza-olu-ve-yaralilar-var - facebook.com",
       "location": "Ankara Geneli",
       "published": "2026-04-04T10:00:00+03:00",
       "confidence": 75,
-      "sources": 1,
+      "sources": 3,
       "status": "Muhtemel",
-      "summary": "A Haber üzerinden bulunan herkese açık kayıt.",
+      "summary": "3 farklı açık kaynakta bulunan aynı olay tek kayıtta birleştirildi.",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQcDBjMEJfc3huWmVKWFliVGFmckZnR1RTOXVPWU5WSHN3bkNPcTh5V0hDcmQ0aGttZE1iM3NDOWZWMmh6LXdMTE1lSV81VnVyWGRackhibXFueFpRbmlCWXNMM0V4cHk5bHBCTkdEVmg1V3dJeUNhaWg4SFg1cmZGOUQ5UWVGZXV4Y29TTFB0c3pCTWNnbFNjUg?oc=5",
       "platform": "Haber",
       "source_links": [
@@ -19658,8 +19686,21 @@
           "title": "SON DAKİKA! Ankara'da feci kaza! Ölü ve yaralılar var - A Haber",
           "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQcDBjMEJfc3huWmVKWFliVGFmckZnR1RTOXVPWU5WSHN3bkNPcTh5V0hDcmQ0aGttZE1iM3NDOWZWMmh6LXdMTE1lSV81VnVyWGRackhibXFueFpRbmlCWXNMM0V4cHk5bHBCTkdEVmg1V3dJeUNhaWg4SFg1cmZGOUQ5UWVGZXV4Y29TTFB0c3pCTWNnbFNjUg?oc=5",
           "published": "2026-04-04T10:00:00+03:00"
+        },
+        {
+          "platform": "Haber",
+          "title": "Ankara'da feci kaza! Çok sayıda ölü ve yaralı var... Olay yerinden ilk görüntüler - Milliyet",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQd3NEdy1JZ280blpMelpDU1BjUy1SNDNySF91eWhtVFBKeWFVUVZqdjBDTUNWTjBhcVVBVFJ3aXJFUFBZVnVUWklwVW5lc0JPTU10MXpLZ3dvdjZOVVJ3UUpfY3dNbUNRSWROVG5sVlpiWEJhekhHSHV0ck9nZmU0OXMzS1lyNHBHbk92VnA1dEM0N00xMllBaEtBTmlmYjFFcEZuTWxrVHFTZElSZ0NmM09aMFRHOVYtVFQ0?oc=5",
+          "published": "2026-04-04T10:00:00+03:00"
+        },
+        {
+          "platform": "Facebook",
+          "title": "A Haber. . Olay Yerinden İlk Görüntüler -Ankara'da feci otobüs kazası -Ölü ve yaralılar https://www.ahaber.com.tr/yasam/2026/04/04/son-dakika-ankarada-feci-kaza-olu-ve-yaralilar-var - facebook.com",
+          "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOOXh1YjdOM1ZPaS1HQVZpN1JSUVpqQ0JEUTUyTy1meTBwRXBvVzNkX2lOenUwMGx3OERuRlBRcEtyejQtVHhWR2ZhZ29pT0hNTHdtTnM0M1BXYjdiUXVmSE96MTVtaXc1cjNLN2VvTUM4YmptakRJdXAtOTNZaHFvN2VueXl0RExXSWJReGJJb181ME9LMUNpVVNpUjhIMklkUlkxeVh2aWVMekFiU3FxVDJCNll3cHhMQ2hCQy1GenVCTFhsMnRnOU5teXppNFZGWS1XQ1NqcWUySnlOUkhOVzY1NVppUjRNTXVVQnBTVm9SNVpiMzJ6QkNLUzRDbTdhcVhRUVNYVXFTYzYwMEVfbHFn?oc=5",
+          "published": "2026-04-04T10:00:00+03:00"
         }
       ],
+      "last_updated": "2026-04-04T10:00:00+03:00",
       "district": "Ankara Geneli",
       "neighborhood": "Ankara Geneli",
       "lat": 39.9334,
@@ -19765,7 +19806,7 @@
         "Sağlık"
       ],
       "icon": "🚗",
-      "title": "A Haber. . Olay Yerinden İlk Görüntüler -Ankara'da feci otobüs kazası -Ölü ve yaralılar https://www.ahaber.com.tr/yasam/2026/04/04/son-dakika-ankarada-feci-kaza-olu-ve-yaralilar-var - facebook.com",
+      "title": "Son dakika... Ankara'da feci kaza! Özel halk otobüsü üst geçidin ayağına çarptı: 5 can kaybı - Hürriyet",
       "location": "Ankara Geneli",
       "published": "2026-04-04T10:00:00+03:00",
       "confidence": 75,
@@ -19782,9 +19823,9 @@
           "published": "2026-04-04T10:00:00+03:00"
         },
         {
-          "platform": "Facebook",
-          "title": "A Haber. . Olay Yerinden İlk Görüntüler -Ankara'da feci otobüs kazası -Ölü ve yaralılar https://www.ahaber.com.tr/yasam/2026/04/04/son-dakika-ankarada-feci-kaza-olu-ve-yaralilar-var - facebook.com",
-          "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOOXh1YjdOM1ZPaS1HQVZpN1JSUVpqQ0JEUTUyTy1meTBwRXBvVzNkX2lOenUwMGx3OERuRlBRcEtyejQtVHhWR2ZhZ29pT0hNTHdtTnM0M1BXYjdiUXVmSE96MTVtaXc1cjNLN2VvTUM4YmptakRJdXAtOTNZaHFvN2VueXl0RExXSWJReGJJb181ME9LMUNpVVNpUjhIMklkUlkxeVh2aWVMekFiU3FxVDJCNll3cHhMQ2hCQy1GenVCTFhsMnRnOU5teXppNFZGWS1XQ1NqcWUySnlOUkhOVzY1NVppUjRNTXVVQnBTVm9SNVpiMzJ6QkNLUzRDbTdhcVhRUVNYVXFTYzYwMEVfbHFn?oc=5",
+          "platform": "Haber",
+          "title": "Kahramankazan - Saray Mevkii'nde Kızılcahamam Halk Otobüsü Kazası: 4 Ölü, 13 Yaralı - Aksiyon.com.TR",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPenVOb3V4SDVWTFJfbUJrMnNkM0dYNUI3TVZrUFZmTms4M1dLWnhVYnlpTTh5eld5b0tkWl9sTnZwanhSSVFjSmtnNExjM1Rnd1Q2RDI4YlNqWFRoRGFOTGl2TzBLam1nQXZLM0xPTlNnVm5xM3djWGxCakN2SWd3ZjltT3RPRWphWC1ZaGk3NVBtaGVPM0ozVDBTSGlSR0VSVTU3ZjItRnBSRnVULWxyam9NUdIBuAFBVV95cUxQRU9GOGFIT1M4bl9TTHdCR1NQcW1wRzBBUEd6eWN3Rks0RW5SalVmcE4xM0VwaDFWb0Jnc0F2MGUzOGpNQnBjaGp2eXFscF9WWDB4VHRGZk8wdVhNeWhhcTY0R3Bqd05JOUEyZFlYeXRLZEFRbFJXVGdjTEllUjExMGdzVzZ1LWJMTV9fSTZrbS1wVjF5TUNLNVI3Rnd2dGtvN2luT2wxUnRJUDczemJIcncxVG1uR19u?oc=5",
           "published": "2026-04-04T10:00:00+03:00"
         }
       ],
@@ -26190,7 +26231,7 @@
   "google_alert_invalid_count": 0,
   "google_alert_query_count": 9,
   "platform_counts": {
-    "Haber": 802,
+    "Haber": 808,
     "X": 140,
     "TikTok": 37,
     "Facebook": 55,
@@ -26202,8 +26243,8 @@
     "google_news_social_queries": 11,
     "google_alert_feeds": 9,
     "new_results_this_scan": {
-      "Haber": 361,
-      "X": 75,
+      "Haber": 369,
+      "X": 63,
       "Facebook": 32,
       "YouTube": 7,
       "TikTok": 5
