@@ -63,17 +63,27 @@ C=[("Cinayet","⚫",["cinayet","öldürüldü","öldürdü","ölü bulundu","ces
 RELEVANT=["cinayet","öldür","ceset","intihar","terör","bomba","taciz","cinsel saldırı","istismar","silah","kurşun","ateş aç","kavga","darp","saldırı","trafik kazası","kaza","çarpış","devrildi","hırsız","gasp","soygun","dolandır","uyuşturucu","narkotik","kayıp","yangın","alev","ambulans","yaralı","polis","emniyet","asayiş","gözaltı","tutuk","yakalandı","operasyon","şüpheli","suç","patlama","rehin","kaçakçılık","bıçak"]
 BLOCK=["menu","food","restaurant","restoran","yemek","kampanya","indirim","satılık","kiralık","maç","transfer","konser","etkinlik","iş ilanı","job"]
 def clean(s): return re.sub(r"<[^>]+>"," ",s or "").strip()
+def place_in_text(text,name):
+ folded=ascii_text(text);needle=ascii_text(name).strip()
+ return bool(re.search(r"(?<![a-z0-9])"+re.escape(needle)+r"(?![a-z0-9])",folded))
+
 def detect_district(text):
  folded=ascii_text(text)
  for name in DISTRICT_CENTERS:
-  if ascii_text(name) in folded:return name
- if re.search(r"(^|\\W)kazan($|\\W)",folded):return "Kahramankazan"
- if any(ascii_text(name) in folded for name in NEIGHBORHOODS):return "Mamak"
- return "Ankara Geneli" if "ankara" in folded else None
+  if place_in_text(folded,name):return name
+ if place_in_text(folded,"Kazan"):return "Kahramankazan"
+ if any(place_in_text(folded,name) for name in NEIGHBORHOODS):return "Mamak"
+ return "Ankara Geneli" if place_in_text(folded,"Ankara") else None
+
+POLITICAL_IDENTITIES=["belediye baskani","eski belediye baskani","milletvekili","genel baskan","siyasi","siyasetci","bakan ","parti yoneticisi","chp","akp","ak parti","mhp","iyi parti","dem parti"]
+LEGAL_PROCESS=["dava","mahkeme","savcilik","ifade","ifadeye cagrildi","ifadesi alindi","sorusturma","iddianame","dokunulmazlik","fezleke"]
+def political_legal_news(t):
+ folded=ascii_text(t)
+ return any(x in folded for x in POLITICAL_IDENTITIES) and any(x in folded for x in LEGAL_PROCESS)
 
 def relevant(t):
- t=t.lower()
- return any(k in t for k in RELEVANT) and not any(k in t for k in BLOCK)
+ low=t.lower()
+ return any(k in low for k in RELEVANT) and not any(k in low for k in BLOCK) and not political_legal_news(t)
 def classify_all(t):
  t=t.lower();found=[];icon="⚠️"
  for c,i,ks in C:
@@ -239,7 +249,7 @@ try:
 except:old=[]
 merged={};cut=now-timedelta(days=365)
 for e in old+new:
- if e.get("platform") in ("Telegram","Threads") or not relevant(e.get("title","")+" "+e.get("summary","")) or not detect_district(e.get("title","").rsplit(" - ",1)[0]):continue
+ if e.get("platform") in ("Telegram","Threads") or political_legal_news(e.get("title","")+" "+e.get("summary","")) or not relevant(e.get("title","")+" "+e.get("summary","")) or not detect_district(e.get("title","").rsplit(" - ",1)[0]):continue
  try:
   if datetime.fromisoformat(e["published"])<cut:continue
  except:continue
