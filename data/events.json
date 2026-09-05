@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-05T07:32:30.494450+03:00",
+  "updated_at": "2026-09-05T07:42:58.716867+03:00",
   "events": [
     {
       "category": "Yangın",
@@ -2549,11 +2549,11 @@
       "icon": "🚗",
       "title": "İstanbul Yolu Sincan yönü Jandarma Kavşağı girişinde kaza. Trafik Şube önünden Jandarma Kavşağı'na (ortalama 2,5 km) zaman kaybı 15 dakika. Batı Bulvarı üzerinden ilerlemek zaman kazandıracaktır. 🚦Trafiği etkileyen tüm olaylar anında radyoda ve uygul - x.com",
       "location": "Sincan / Ankara",
-      "published": "2026-08-26T15:42:52+03:00",
+      "published": "2026-08-26T10:00:00+03:00",
       "confidence": 60,
-      "sources": 1,
+      "sources": 2,
       "status": "Sosyal medya / doğrulanmamış",
-      "summary": "x.com üzerinden bulunan herkese açık kayıt.",
+      "summary": "2 farklı açık kaynakta bulunan aynı olay tek kayıtta birleştirildi.",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBjdGg0MFFCdld5UDV2cWVhTHZVeXFZWkJSaDJKcmt1Qkx4LXFvMTl2SnBtMHZnYkJyeFdvTnhxQW5JUFhIb20wTzVmTGMyUDRzMGFvZEpVbzdQbzdpQlRrVEQzTUo?oc=5",
       "platform": "X",
       "source_links": [
@@ -2562,6 +2562,12 @@
           "title": "İstanbul Yolu Sincan yönü Jandarma Kavşağı girişinde kaza. Trafik Şube önünden Jandarma Kavşağı'na (ortalama 2,5 km) zaman kaybı 15 dakika. Batı Bulvarı üzerinden ilerlemek zaman kazandıracaktır. 🚦Trafiği etkileyen tüm olaylar anında radyoda ve uygul - x.com",
           "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBjdGg0MFFCdld5UDV2cWVhTHZVeXFZWkJSaDJKcmt1Qkx4LXFvMTl2SnBtMHZnYkJyeFdvTnhxQW5JUFhIb20wTzVmTGMyUDRzMGFvZEpVbzdQbzdpQlRrVEQzTUo?oc=5",
           "published": "2026-08-26T15:42:52+03:00"
+        },
+        {
+          "platform": "X",
+          "title": "İstanbul Yolu Sincan yönü Jandarma Kavşağı girişinde kaza. Trafik Şube önünden Jandarma Kavşağı'na (ortalama 2,5 km) zaman kaybı 15 dakika. Batı Bulvarı üzerinden ilerlemek zaman kazandıracaktır. 🚦Trafiği etkileyen tüm olaylar anında radyoda ve uygul - x.com",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE81OGVhSy1rZThocUFiczJaZ24tTmFmM1QwQjZNOU9YWWc0d3VVTmhYbF91dlptX1hpRE5uVDhObnN5VWxfVVVpdDhyMGxEOWdDZDRtLUNVcG1RaVpQVW5oc0dfZGxTRHBrZG1fX1FWSQ?oc=5",
+          "published": "2026-08-26T10:00:00+03:00"
         }
       ],
       "district": "Sincan",
@@ -2569,7 +2575,8 @@
       "lat": 39.97,
       "lon": 32.584,
       "location_precision": "ilçe",
-      "id": 79
+      "id": 79,
+      "last_updated": "2026-08-26T10:00:00+03:00"
     },
     {
       "category": "Uyuşturucu",
@@ -3134,7 +3141,7 @@
         },
         {
           "platform": "YouTube",
-          "title": "SON DAKİKA🚨Ankara Mamak'ta Ağaçlık Alanda Yangın! Ekipler Seferber Oldu - YouTube",
+          "title": "SON DAKİKA🚨Ankara Mamak'ta Ağaçlık Alanda Yangın! Ekipler Seferber Oldu - youtube.com",
           "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9odml4SHhSZ2hZQzRibHlqODRxbHBIQ2daNDY0NW0ydTBnVFFSRjlTY01XZzRYWmg1bUFTbGF2cEQ5a0pRajJiOTkwVUZtckR6QlcyTmNn?oc=5",
           "published": "2026-08-23T22:01:26+03:00"
         },
@@ -12550,6 +12557,56 @@
         "Sağlık"
       ],
       "icon": "🚗",
+      "title": "Ankara'da 4 kişinin öldüğü kaza anı kamerada #Ankara'nın Polatlı ilçesinde otomobilin kamyona arkadan çarpması sonucu meydana gelen kazada, 3 kişi hayatını kaybederken, 1 kişi ise ağır yaralandı. Kaza anı çevredeki güvenlik kamerası tarafından kaydedil - instagram.com",
+      "location": "Polatlı / Ankara",
+      "published": "2026-06-23T10:00:00+03:00",
+      "confidence": 75,
+      "sources": 4,
+      "status": "Sosyal medya / doğrulanmamış",
+      "summary": "4 farklı açık kaynakta bulunan aynı olay tek kayıtta birleştirildi.",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9md1J5VmpsSXFYeklha2VIMG5UaDBFR2xsS25ySjJaM2oxZXI4RDBIZVhHV0F3anpWVlZmQjZzNHFFRF84OTdqX2t5TE9XbEJXVlVTMHR3?oc=5",
+      "platform": "YouTube",
+      "source_links": [
+        {
+          "platform": "YouTube",
+          "title": "#SONDAKİKA | Ankara'da Yolcu Otobüsü Kaza Yaptı! 1 Kişi Öldü, 9 Yaralı - TGRT Haber - youtube.com",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9md1J5VmpsSXFYeklha2VIMG5UaDBFR2xsS25ySjJaM2oxZXI4RDBIZVhHV0F3anpWVlZmQjZzNHFFRF84OTdqX2t5TE9XbEJXVlVTMHR3?oc=5",
+          "published": "2026-06-23T15:05:39+03:00"
+        },
+        {
+          "platform": "Haber",
+          "title": "Ankara'da EGO otobüsü kaza yaptı: 1 ölü, 9 yaralı - TRT Haber",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQYXcxYjZ1X3p2UFJUMDJYa0FkX2kyYXpoRExNaGlIWXVILUVZV0FaYmpzeWtWVmpfd09jNk1BMmQ5WURsV0h3RFFCVXJzNGx3SEc0Q0lHQUwwX0ZxbHprLUhCZmhxd0QzMlhrYm9BUVZjVW1NNkdwYnJHdThPQWh6WVVLNmVfZGxPS3dlYmY0UTFob3k2YUJ6dGVsc3hPZw?oc=5",
+          "published": "2026-06-23T10:00:00+03:00"
+        },
+        {
+          "platform": "Haber",
+          "title": "Ankara'da 4 kişinin öldüğü kaza anı kamerada #Ankara'nın Polatlı ilçesinde otomobilin kamyona arkadan çarpması sonucu meydana gelen kazada, 3 kişi hayatını kaybederken, 1 kişi ise ağır yaralandı. Kaza anı çevredeki güvenlik kamerası tarafından kaydedil - instagram.com",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE10U0NCMm1RMEVYNS1GTXVvY0VER3A4dWE5eTBnNUxJUUFTNmJoR3E4X0ltUW05LWt4N0tzX3hmMEtHbWtzSGx4OXc4VjJmZU9iV09PUEdB?oc=5",
+          "published": "2026-06-23T10:00:00+03:00"
+        },
+        {
+          "platform": "Haber",
+          "title": "Ankara'da feci kaza! Otomobil kamyona çarptı: 4 kişi hayatını kaybetti - Hürriyet",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNNlJzY01ud1hmdmNGcmhsa1dZNzhaNHBQZ1hLOVlUNzNENDYyWU5JOTF3NWxWbFpFXzQySnRVRlNIWFZVc2NMaEdLSWZCaG94YWxsaWVWbHNnX19NdEtjb2hGMXhkNFlUMkhGQ2Fqc3JvZDBQZERsSXNTSDJGdXhfNThqMTlXaENsVDBNZkZaYmQwN2NvYm5vN1BvVE5IT2VmU3hkVzB1ckdZVC1ueHJ3Zw?oc=5",
+          "published": "2026-06-23T10:00:00+03:00"
+        }
+      ],
+      "last_updated": "2026-06-23T10:00:00+03:00",
+      "district": "Polatlı",
+      "neighborhood": "Polatlı Geneli",
+      "lat": 39.584,
+      "lon": 32.147,
+      "location_precision": "ilçe",
+      "id": 385
+    },
+    {
+      "category": "Trafik Kazası",
+      "categories": [
+        "Trafik Kazası",
+        "Sağlık"
+      ],
+      "icon": "🚗",
       "title": "Ankara Yenimahalle'de Gerçekleşen Trafik Kazasında 1 Ölü, 9 Yaralı - Mersin Haber",
       "location": "Yenimahalle / Ankara",
       "published": "2026-06-23T10:00:00+03:00",
@@ -12578,56 +12635,6 @@
       "neighborhood": "Yenimahalle Geneli",
       "lat": 39.965,
       "lon": 32.805,
-      "location_precision": "ilçe",
-      "id": 385
-    },
-    {
-      "category": "Trafik Kazası",
-      "categories": [
-        "Trafik Kazası",
-        "Sağlık"
-      ],
-      "icon": "🚗",
-      "title": "Ankara'da 4 kişinin öldüğü kaza anı kamerada #Ankara'nın Polatlı ilçesinde otomobilin kamyona arkadan çarpması sonucu meydana gelen kazada, 3 kişi hayatını kaybederken, 1 kişi ise ağır yaralandı. Kaza anı çevredeki güvenlik kamerası tarafından kaydedil - instagram.com",
-      "location": "Polatlı / Ankara",
-      "published": "2026-06-23T10:00:00+03:00",
-      "confidence": 75,
-      "sources": 4,
-      "status": "Sosyal medya / doğrulanmamış",
-      "summary": "4 farklı açık kaynakta bulunan aynı olay tek kayıtta birleştirildi.",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9md1J5VmpsSXFYeklha2VIMG5UaDBFR2xsS25ySjJaM2oxZXI4RDBIZVhHV0F3anpWVlZmQjZzNHFFRF84OTdqX2t5TE9XbEJXVlVTMHR3?oc=5",
-      "platform": "YouTube",
-      "source_links": [
-        {
-          "platform": "YouTube",
-          "title": "#SONDAKİKA | Ankara'da Yolcu Otobüsü Kaza Yaptı! 1 Kişi Öldü, 9 Yaralı - TGRT Haber - YouTube",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9md1J5VmpsSXFYeklha2VIMG5UaDBFR2xsS25ySjJaM2oxZXI4RDBIZVhHV0F3anpWVlZmQjZzNHFFRF84OTdqX2t5TE9XbEJXVlVTMHR3?oc=5",
-          "published": "2026-06-23T15:05:39+03:00"
-        },
-        {
-          "platform": "Haber",
-          "title": "Ankara'da EGO otobüsü kaza yaptı: 1 ölü, 9 yaralı - TRT Haber",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQYXcxYjZ1X3p2UFJUMDJYa0FkX2kyYXpoRExNaGlIWXVILUVZV0FaYmpzeWtWVmpfd09jNk1BMmQ5WURsV0h3RFFCVXJzNGx3SEc0Q0lHQUwwX0ZxbHprLUhCZmhxd0QzMlhrYm9BUVZjVW1NNkdwYnJHdThPQWh6WVVLNmVfZGxPS3dlYmY0UTFob3k2YUJ6dGVsc3hPZw?oc=5",
-          "published": "2026-06-23T10:00:00+03:00"
-        },
-        {
-          "platform": "Haber",
-          "title": "Ankara'da 4 kişinin öldüğü kaza anı kamerada #Ankara'nın Polatlı ilçesinde otomobilin kamyona arkadan çarpması sonucu meydana gelen kazada, 3 kişi hayatını kaybederken, 1 kişi ise ağır yaralandı. Kaza anı çevredeki güvenlik kamerası tarafından kaydedil - instagram.com",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE10U0NCMm1RMEVYNS1GTXVvY0VER3A4dWE5eTBnNUxJUUFTNmJoR3E4X0ltUW05LWt4N0tzX3hmMEtHbWtzSGx4OXc4VjJmZU9iV09PUEdB?oc=5",
-          "published": "2026-06-23T10:00:00+03:00"
-        },
-        {
-          "platform": "Haber",
-          "title": "Ankara'da feci kaza! Otomobil kamyona çarptı: 4 kişi hayatını kaybetti - Hürriyet",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNNlJzY01ud1hmdmNGcmhsa1dZNzhaNHBQZ1hLOVlUNzNENDYyWU5JOTF3NWxWbFpFXzQySnRVRlNIWFZVc2NMaEdLSWZCaG94YWxsaWVWbHNnX19NdEtjb2hGMXhkNFlUMkhGQ2Fqc3JvZDBQZERsSXNTSDJGdXhfNThqMTlXaENsVDBNZkZaYmQwN2NvYm5vN1BvVE5IT2VmU3hkVzB1ckdZVC1ueHJ3Zw?oc=5",
-          "published": "2026-06-23T10:00:00+03:00"
-        }
-      ],
-      "last_updated": "2026-06-23T10:00:00+03:00",
-      "district": "Polatlı",
-      "neighborhood": "Polatlı Geneli",
-      "lat": 39.584,
-      "lon": 32.147,
       "location_precision": "ilçe",
       "id": 386
     },
@@ -15094,44 +15101,6 @@
       "id": 461
     },
     {
-      "category": "Sağlık",
-      "categories": [
-        "Sağlık",
-        "Trafik Kazası"
-      ],
-      "icon": "🚑",
-      "title": "Ankara'da Korkunç Kaza! Üst Geçide Kamyon Çarptı: 3 Yaralı | A Haber - YouTube",
-      "location": "Ankara Geneli",
-      "published": "2026-05-23T12:50:51+03:00",
-      "confidence": 60,
-      "sources": 2,
-      "status": "Sosyal medya / doğrulanmamış",
-      "summary": "2 farklı açık kaynakta bulunan aynı olay tek kayıtta birleştirildi.",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8wSS00MmNoRXRwcnRVN0pVNUNKb19oaC10dk54VExfMWE4MW9MQVh0SmdDWWhCbGllZERCWk1CR0N2aVdqYWdMUFBySHpFNV9DazhsSC1R?oc=5",
-      "platform": "YouTube",
-      "source_links": [
-        {
-          "platform": "YouTube",
-          "title": "Ankara'da kamyonet üst geçide çarptı: 3 yaralı! | A Haber - YouTube",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8wSS00MmNoRXRwcnRVN0pVNUNKb19oaC10dk54VExfMWE4MW9MQVh0SmdDWWhCbGllZERCWk1CR0N2aVdqYWdMUFBySHpFNV9DazhsSC1R?oc=5",
-          "published": "2026-05-24T17:30:05+03:00"
-        },
-        {
-          "platform": "YouTube",
-          "title": "Ankara'da Korkunç Kaza! Üst Geçide Kamyon Çarptı: 3 Yaralı | A Haber - YouTube",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB4LTNTd2xfcTQwSGRsT0hLQ1BFeFhhbExxXzl4QUxreW41ZzQ1QnFQMFZ0QlFoekxpTUczOWZoVzFqNWEwZTZUNTBRVUItTGhqR2YxaXhB?oc=5",
-          "published": "2026-05-23T12:50:51+03:00"
-        }
-      ],
-      "last_updated": "2026-05-23T12:50:51+03:00",
-      "district": "Ankara Geneli",
-      "neighborhood": "Ankara Geneli",
-      "lat": 39.9334,
-      "lon": 32.8597,
-      "location_precision": "il",
-      "id": 462
-    },
-    {
       "category": "Yangın",
       "categories": [
         "Yangın"
@@ -15159,7 +15128,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 463
+      "id": 462
     },
     {
       "category": "Asayiş",
@@ -15184,6 +15153,44 @@
           "published": "2026-05-24T10:00:00+03:00"
         }
       ],
+      "district": "Ankara Geneli",
+      "neighborhood": "Ankara Geneli",
+      "lat": 39.9334,
+      "lon": 32.8597,
+      "location_precision": "il",
+      "id": 463
+    },
+    {
+      "category": "Sağlık",
+      "categories": [
+        "Sağlık",
+        "Trafik Kazası"
+      ],
+      "icon": "🚑",
+      "title": "Ankara'da Korkunç Kaza! Üst Geçide Kamyon Çarptı: 3 Yaralı | A Haber - youtube.com",
+      "location": "Ankara Geneli",
+      "published": "2026-05-23T12:50:51+03:00",
+      "confidence": 60,
+      "sources": 2,
+      "status": "Sosyal medya / doğrulanmamış",
+      "summary": "2 farklı açık kaynakta bulunan aynı olay tek kayıtta birleştirildi.",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8wSS00MmNoRXRwcnRVN0pVNUNKb19oaC10dk54VExfMWE4MW9MQVh0SmdDWWhCbGllZERCWk1CR0N2aVdqYWdMUFBySHpFNV9DazhsSC1R?oc=5",
+      "platform": "YouTube",
+      "source_links": [
+        {
+          "platform": "YouTube",
+          "title": "Ankara'da kamyonet üst geçide çarptı: 3 yaralı! | A Haber - YouTube",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8wSS00MmNoRXRwcnRVN0pVNUNKb19oaC10dk54VExfMWE4MW9MQVh0SmdDWWhCbGllZERCWk1CR0N2aVdqYWdMUFBySHpFNV9DazhsSC1R?oc=5",
+          "published": "2026-05-24T17:30:05+03:00"
+        },
+        {
+          "platform": "YouTube",
+          "title": "Ankara'da Korkunç Kaza! Üst Geçide Kamyon Çarptı: 3 Yaralı | A Haber - YouTube",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB4LTNTd2xfcTQwSGRsT0hLQ1BFeFhhbExxXzl4QUxreW41ZzQ1QnFQMFZ0QlFoekxpTUczOWZoVzFqNWEwZTZUNTBRVUItTGhqR2YxaXhB?oc=5",
+          "published": "2026-05-23T12:50:51+03:00"
+        }
+      ],
+      "last_updated": "2026-05-23T12:50:51+03:00",
       "district": "Ankara Geneli",
       "neighborhood": "Ankara Geneli",
       "lat": 39.9334,
@@ -16891,19 +16898,19 @@
         "Trafik Kazası"
       ],
       "icon": "🚗",
-      "title": "Ankara'da feci kaza: Sürüklenen kamyonet dehşet saçtı! 2 ölü | A Haber - YouTube",
+      "title": "Ankara'da feci kaza: Sürüklenen kamyonet dehşet saçtı! 2 ölü | A Haber - youtube.com",
       "location": "Ankara Geneli",
       "published": "2026-05-01T13:56:08+03:00",
       "confidence": 60,
       "sources": 1,
       "status": "Sosyal medya / doğrulanmamış",
-      "summary": "YouTube üzerinden bulunan herkese açık kayıt.",
+      "summary": "youtube.com üzerinden bulunan herkese açık kayıt.",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9SbzF1R29MXzNXNWI5RERhbFVHblllcGk2UlBsY1ZHMVVvaUxEMXk2R2trc0NscGgzNFpRM0dqMEdtRkNpN3Z1bXVsbVd6YWo1NS1Pd2dB?oc=5",
       "platform": "YouTube",
       "source_links": [
         {
           "platform": "YouTube",
-          "title": "Ankara'da feci kaza: Sürüklenen kamyonet dehşet saçtı! 2 ölü | A Haber - YouTube",
+          "title": "Ankara'da feci kaza: Sürüklenen kamyonet dehşet saçtı! 2 ölü | A Haber - youtube.com",
           "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9SbzF1R29MXzNXNWI5RERhbFVHblllcGk2UlBsY1ZHMVVvaUxEMXk2R2trc0NscGgzNFpRM0dqMEdtRkNpN3Z1bXVsbVd6YWo1NS1Pd2dB?oc=5",
           "published": "2026-05-01T13:56:08+03:00"
         }
@@ -21437,7 +21444,7 @@
         },
         {
           "platform": "YouTube",
-          "title": "Ankara'da kan donduran cinayet! Annesini, kızını ve eşini öldürüp intihar etti | A Haber - YouTube",
+          "title": "Ankara'da kan donduran cinayet! Annesini, kızını ve eşini öldürüp intihar etti | A Haber - youtube.com",
           "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1fR0k1cjdFWVF3TTNFazJjVmFzM1ZaQ1N2MVBBdHlqRWljMjllS0pJU0pCSkNJZm5IOFlsN09RRFR3c1B0UmljMEFWdnY3LU43T3M4WlB3?oc=5",
           "published": "2026-02-10T10:00:42+03:00"
         },
@@ -24410,19 +24417,19 @@
         "Asayiş"
       ],
       "icon": "👮",
-      "title": "SON DAKİKA! Ankara karıştı! Gar katliamı anmasına polis gazla müdahale etti! - YouTube",
+      "title": "SON DAKİKA! Ankara karıştı! Gar katliamı anmasına polis gazla müdahale etti! - youtube.com",
       "location": "Ankara Geneli",
       "published": "2025-10-10T11:51:33+03:00",
       "confidence": 60,
       "sources": 1,
       "status": "Sosyal medya / doğrulanmamış",
-      "summary": "YouTube üzerinden bulunan herkese açık kayıt.",
+      "summary": "youtube.com üzerinden bulunan herkese açık kayıt.",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5uSl9nUzM2RnRhMU5oRktQZVhJZGlwYUNfVERUTzZHOVp2ZXdqNmJ6WmdhQlNCYmp6M3NDa2N4QUhLTXktLS1QQzE2NnlTME9JbTF5a093?oc=5",
       "platform": "YouTube",
       "source_links": [
         {
           "platform": "YouTube",
-          "title": "SON DAKİKA! Ankara karıştı! Gar katliamı anmasına polis gazla müdahale etti! - YouTube",
+          "title": "SON DAKİKA! Ankara karıştı! Gar katliamı anmasına polis gazla müdahale etti! - youtube.com",
           "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5uSl9nUzM2RnRhMU5oRktQZVhJZGlwYUNfVERUTzZHOVp2ZXdqNmJ6WmdhQlNCYmp6M3NDa2N4QUhLTXktLS1QQzE2NnlTME9JbTF5a093?oc=5",
           "published": "2025-10-10T11:51:33+03:00"
         }
@@ -24947,19 +24954,19 @@
         "Asayiş"
       ],
       "icon": "👮",
-      "title": "SON DAKİKA! Ankara Büyükşehir Belediyesi'ne operasyon! Çok sayıda gözaltı var! Yavaş ne diyecek? - YouTube",
+      "title": "SON DAKİKA! Ankara Büyükşehir Belediyesi'ne operasyon! Çok sayıda gözaltı var! Yavaş ne diyecek? - youtube.com",
       "location": "Ankara Geneli",
       "published": "2025-09-23T08:41:14+03:00",
       "confidence": 60,
       "sources": 1,
       "status": "Sosyal medya / doğrulanmamış",
-      "summary": "YouTube üzerinden bulunan herkese açık kayıt.",
+      "summary": "youtube.com üzerinden bulunan herkese açık kayıt.",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1CNHBfSjdDdTBrVG81OGVNNUdNbmxCQkFsd1dCbnVkQUJkcWJRb1U2T2JJLTNEZ0pDMktTMEFwR00tb0hWR2pUVjNacXVncHQxRWNGVllR?oc=5",
       "platform": "YouTube",
       "source_links": [
         {
           "platform": "YouTube",
-          "title": "SON DAKİKA! Ankara Büyükşehir Belediyesi'ne operasyon! Çok sayıda gözaltı var! Yavaş ne diyecek? - YouTube",
+          "title": "SON DAKİKA! Ankara Büyükşehir Belediyesi'ne operasyon! Çok sayıda gözaltı var! Yavaş ne diyecek? - youtube.com",
           "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1CNHBfSjdDdTBrVG81OGVNNUdNbmxCQkFsd1dCbnVkQUJkcWJRb1U2T2JJLTNEZ0pDMktTMEFwR00tb0hWR2pUVjNacXVncHQxRWNGVllR?oc=5",
           "published": "2025-09-23T08:41:14+03:00"
         }
@@ -25373,7 +25380,7 @@
   "google_alert_query_count": 9,
   "platform_counts": {
     "Haber": 785,
-    "X": 132,
+    "X": 133,
     "TikTok": 35,
     "Facebook": 55,
     "YouTube": 10
@@ -25385,10 +25392,10 @@
     "google_alert_feeds": 9,
     "new_results_this_scan": {
       "Haber": 356,
-      "X": 78,
+      "X": 75,
       "Facebook": 33,
       "Instagram": 3,
-      "YouTube": 9,
+      "YouTube": 10,
       "TikTok": 5
     }
   },
