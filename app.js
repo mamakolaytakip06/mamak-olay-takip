@@ -1,4 +1,4 @@
-let all=[],range="today",previousRange="today",selectedCats=new Set(),selectedDistricts=new Set(["Mamak"]),selectedSources=new Set(),left=300,firstLoad=true,map,markerLayer,currentById=new Map();
+let all=[],range="last24",previousRange="today",selectedCats=new Set(),selectedDistricts=new Set(["Mamak"]),selectedSources=new Set(),left=300,firstLoad=true,map,markerLayer,currentById=new Map();
 let audioOn=localStorage.getItem("mamakAudio")==="1";
 let splitEvents=new Set(JSON.parse(localStorage.getItem("mamakSplitEvents")||"[]"));
 let notifyPrefs=Object.assign({confidence:60,sound:true,browser:false,categories:["Cinayet","Terör","Silahlı Olay","Düğünde Silah","Yangın","Trafik Kazası"]},JSON.parse(localStorage.getItem("mamakNotifyPrefs")||"{}"));
