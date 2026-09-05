@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-05T07:21:23.626653+03:00",
+  "updated_at": "2026-09-05T07:32:30.494450+03:00",
   "events": [
     {
       "category": "Yangın",
@@ -3104,13 +3104,13 @@
         "Asayiş"
       ],
       "icon": "🔥",
-      "title": "SON DAKİKA | Ankara Hüseyingazi Türbe Yolu üzerindeki ağaçlık alanda henüz belirlenemeyen nedenle yangın çıktı. İhbar üzerine bölgeye itfaiye ekipleri sevk edildi. Ekiplerin yangına müdahalesi sürüyor. - x.com",
-      "location": "Hüseyingazi / Mamak / Ankara",
+      "title": "Ankara Mamak'ta Ağaçlık Alanda Yangın Çıkması Üzerine İtfaiye Ekipleri Olay Yerinde - Mersin Haber",
+      "location": "Mamak / Ankara",
       "published": "2026-08-23T10:00:00+03:00",
       "confidence": 75,
-      "sources": 7,
+      "sources": 6,
       "status": "Sosyal medya / doğrulanmamış",
-      "summary": "7 farklı açık kaynakta bulunan aynı olay tek kayıtta birleştirildi.",
+      "summary": "6 farklı açık kaynakta bulunan aynı olay tek kayıtta birleştirildi.",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB3NW5WRFlsbWZLV1FtY1ZvbzJ3YVVWMEhqdGhmMGQ0RnBHaUpHSjVDYmRMRENWR1pYSGR6bEFEWE91clNkeHUyelRiajFUTUpvMVFfeVRSb1dsclEzbUhUSDhEWlg?oc=5",
       "platform": "X",
       "source_links": [
@@ -3146,12 +3146,6 @@
         },
         {
           "platform": "X",
-          "title": "SON DAKİKA | Ankara Hüseyingazi Türbe Yolu üzerindeki ağaçlık alanda henüz belirlenemeyen nedenle yangın çıktı. İhbar üzerine bölgeye itfaiye ekipleri sevk edildi. Ekiplerin yangına müdahalesi sürüyor. - x.com",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBRclZTczhfZ1E5Q0kwVDI0d1ZqWWtvdWhQOU9tYUlaSUJZeDN5cVpfaDBoTHlBYkNUQ2F4VUtIMU1ucGx0Zk94UzNNTjc4cEUxQXY4R0kxcnpkRnFna3pPdTUwXzBkSENMTXp3?oc=5",
-          "published": "2026-08-23T21:31:15+03:00"
-        },
-        {
-          "platform": "X",
           "title": "Son dakika l Ankara Mamak'ta ağaçlık alanda yangın çıktı https://t.co/yKyRmuTFsO - x.com",
           "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5EajF2TU1zQV96WnZZZ3UtWEhwTVlpRjFaRDVZNzh1U3Z1TDFCTUlpZ0hRSTVYSlpMWU9zRVBoRTM2MGJTMEZRWjFSM1psZ3VHVlgzQUFONDRudlBmenprd2VXQjU?oc=5",
           "published": "2026-08-23T10:00:00+03:00"
@@ -3159,10 +3153,10 @@
       ],
       "last_updated": "2026-08-23T22:01:26+03:00",
       "district": "Mamak",
-      "neighborhood": "Hüseyingazi",
-      "lat": 39.9587,
-      "lon": 32.944,
-      "location_precision": "mahalle",
+      "neighborhood": "Mamak Geneli",
+      "lat": 39.9308,
+      "lon": 32.9307,
+      "location_precision": "ilçe",
       "id": 96
     },
     {
@@ -4062,7 +4056,7 @@
         {
           "platform": "X",
           "title": "SON DAKİKA! Ankara Cumhuriyet Başsavcılığı, gözaltı sayısının 24’e yükseldiğini açıkladı. - x.com",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1PSlB1cTlnZEo2RUdjV2hhbjRWQmhxVkNveU53VExlcUc1RGJFSThIdVhnTm00Ny1LbUtqeHNIaXU5aEJvRGRDWWJHb0pMdVIwTUtQZWgwRVRtM3FtTDZYYndfSThKbzQzUC1SbF9R?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8zX0M0RVdPYmkyWk4ySXpyMUcwMVpDUHY0NFJDWEYtVWZvdXo4X2QyZXlTMXJxdUtyR0V6LUxJNmlNTGVoaW50dTdIRkh3bmx1WU9lQ3hTU1E2N1pSTjNiZHlmbmJyY01aejQyYUN3?oc=5",
           "published": "2026-08-18T10:00:00+03:00"
         }
       ],
@@ -25379,7 +25373,7 @@
   "google_alert_query_count": 9,
   "platform_counts": {
     "Haber": 785,
-    "X": 133,
+    "X": 132,
     "TikTok": 35,
     "Facebook": 55,
     "YouTube": 10
@@ -25390,7 +25384,7 @@
     "google_news_social_queries": 11,
     "google_alert_feeds": 9,
     "new_results_this_scan": {
-      "Haber": 358,
+      "Haber": 356,
       "X": 78,
       "Facebook": 33,
       "Instagram": 3,
