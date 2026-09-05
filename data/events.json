@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-05T04:47:35.167420+03:00",
+  "updated_at": "2026-09-05T04:55:39.012413+03:00",
   "events": [
     {
       "category": "Yangın",
@@ -2302,63 +2302,6 @@
       "id": 70
     },
     {
-      "category": "Uyuşturucu",
-      "categories": [
-        "Uyuşturucu",
-        "Asayiş",
-        "Trafik Kazası"
-      ],
-      "icon": "🚔",
-      "title": "Ankara'da 'uyuşturucu' operasyonu: Kargo merkezinde 109 kilo 300 gram eroin ele geçirildi - cumhuriyet.com.tr",
-      "location": "Ankara Geneli",
-      "published": "2026-08-25T10:00:00+03:00",
-      "confidence": 75,
-      "sources": 5,
-      "status": "Muhtemel",
-      "summary": "5 farklı açık kaynakta bulunan aynı olay tek kayıtta birleştirildi.",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNN2hDeHBHRjdCN3o5eFVHcFdXbURiZTNTWDNBSHlkYXNiZTd2X19IT1JkR0F0UmdjUHAxcTljQnhmSHFRWjQxVEoyX0NyN2xRZ3pmRGZkWHJpb3lWcW9vc1RzVkhlM2M5UC01TWg5NnpQcmY5dUxDbWZuR1BDQUY4U3hZSXVQd2N1NC00V19UQlpoRkx1U2UzdmNwanhMeXhnb3hNanJUbjhVVEZDNktUaWxOaUtRam9fM1hfLW1rREFtT0g00gFXQVVfeXFMTjhSVnRHUFl4VnVHdUY4QmxpMmFnWUJMbW53c1pBcG8xMDRQRU1UakVCZlVYRS1TMUVlWVZJdWMxeUhncXkxenFwRVZxeW1UTHI1ZktsS1M4?oc=5",
-      "platform": "Haber",
-      "source_links": [
-        {
-          "platform": "Haber",
-          "title": "İstanbul'dan Ankara'ya Uyuşturucu Sevkiyatında 1 Kilo 200 Gram Uyuşturucu Ele Geçirildi - Mersin Haber",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNN2hDeHBHRjdCN3o5eFVHcFdXbURiZTNTWDNBSHlkYXNiZTd2X19IT1JkR0F0UmdjUHAxcTljQnhmSHFRWjQxVEoyX0NyN2xRZ3pmRGZkWHJpb3lWcW9vc1RzVkhlM2M5UC01TWg5NnpQcmY5dUxDbWZuR1BDQUY4U3hZSXVQd2N1NC00V19UQlpoRkx1U2UzdmNwanhMeXhnb3hNanJUbjhVVEZDNktUaWxOaUtRam9fM1hfLW1rREFtT0g00gFXQVVfeXFMTjhSVnRHUFl4VnVHdUY4QmxpMmFnWUJMbW53c1pBcG8xMDRQRU1UakVCZlVYRS1TMUVlWVZJdWMxeUhncXkxenFwRVZxeW1UTHI1ZktsS1M4?oc=5",
-          "published": "2026-08-28T09:51:00+03:00"
-        },
-        {
-          "platform": "Haber",
-          "title": "Ankara'da 'uyuşturucu' operasyonu: Kargo merkezinde 109 kilo 300 gram eroin ele geçirildi - cumhuriyet.com.tr",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOZGxpdDVxLW5oNENHZGt4NDB5YWFUZERPUXpTc2tWSTg0dEl0OTZ1SWRqaElKZ0ZSS0ctOUZiLWZGOEhCckR6OGp2dVRmcGxybHNVUzFadnJ3S1ZZVGJremo0Ml9KbkZSWDJOTWtVMkFqTG4wVzlJa3E2ZUx2ek9haUE2aXVwQnJEOEpQaFNBNTdaWnotRUtNWW5lUXdxSTBwbUhEVktOWHJodk44RGgzWlJFV3M2eXJOR01tek5uZWJsOWcyMjR2Mk9tT0U?oc=5",
-          "published": "2026-08-26T10:00:00+03:00"
-        },
-        {
-          "platform": "Haber",
-          "title": "Ankara'da kargo paketlerinde 109 kilo 300 gram uyuşturucu ele geçirildi - Memurlar.Net",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcE5OU3E5MkdvcXR3M3ZfNFE3LWJLWEFnaUdwR2FjQXFwTmVSbGpfeC03SEQxRF82aGlJUFdfV0hoRFU2cnc4RVBfUllPVXpENmRPcHNVUk1PVmZYZHJ1WmtDV2kwUGd2NEJxWWxFcEltNGVFbld5R1FhSGlScmxFb1lUeHUwbE1OOG1jUlVSTjFzM2lEWnFMTFlseGNwSDlPV09GNmJ1VmdISF85TkdqZ2Q5UFBIQdIBvgFBVV95cUxPY0pCUWUyZUxjeFN5N3FTcFNtanZ2XzBncm1HYm1LZFcwZ2R3bFlrMXQwVl9PeUtKSWpvZmpBbXlXLWVfeEFVOVdtc0lrTHY3NUpKalYxdUpCb19sZ2pxQU5HYlo0YnlkUjUtYnJ5MTRpcllJY0psQTBNZmh2V2dnTHNlY05XWU9Rb0VPRVp6YVkyQmRpcHNkZFR4QjAydk40WkE0RFJwSFpIcWk2cGlRaUtJSHNGOUJvcjZLa2lB?oc=5",
-          "published": "2026-08-25T23:45:00+03:00"
-        },
-        {
-          "platform": "Haber",
-          "title": "Ankara'da kargo paketlerinde 109 kilogram uyuşturucu ele geçirildi - TRT Haber",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPeENacFFPUnFlRVh0MUgyOGIxWk5XbHZlUnRwVWtPR2V2QjNnUzVtcTVCWmJ0RS03aXJuQTBmWC1NcGtzSXAwNHE0bUN5S2RUMnZ2anpCNHJaWTlMQndIOHBhZnYzY0U4UkNKeldBWTlLME1Ddlp0QmZET2pCVXdyaE9PcjRFM0xOZFhkWk9aeW9zS3A5RkFkcEZMd25iWk5OSU9icTBfVlhwdV8tNUZqYVhaVUlac1E?oc=5",
-          "published": "2026-08-25T10:00:00+03:00"
-        },
-        {
-          "platform": "Haber",
-          "title": "Kahramankazan'da kargo takip merkezinde 109 kilo uyuşturucu ele geçirildi: Bir kişi tutuklandı - Yeni Şafak",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNWVp1cWszQ3FXQTVwcDVfQnYySFhacTcwdTB3M3JkQWs5d2Zudko5SkgwZnN2d3p5eWdxLU5oQTA1bmx0Ql9vVV9JS3A0TDN2TFhWemZtTDh6WG1WalhYZkhfVklyUmI1N1ktOS01OGpRS2tPMlJ2MjhlaThsN0xWcUVRSE8temkya2xXZmt5cTdPYUs2dlV2cm91OVpiREhpMVVPNDZhUm1FYlZpQ1gwMENxaE5Mc0R0MGFkVTE5OWtHWFMtX1lBV3pwMnY3d9IB2AFBVV95cUxQZnF4dVk4SXJWZDFxOFBGcUQ3dzB5U2hzNU9XOUo0NWxaZUllZjF1TnFrMWNTT0RNazNITGtMVHRNR2ZNYTVVc0RFNnJnaWJ1Z3loMlZRZ1g1azg3dWxZbGZKcE9jOEsxOU16T3FRQUV2UjZuQUxWZlFpank2QmJGem9IcTY1c0N0cTFxX2hSVDZseE5ISkplVUk2ZElWTDJkX1AwcV9Jd24tU05fSzVmTllrSTFlcGFKY2k5djV1eEJOU1N3MVBUNWZFejY2dVIwem9PeXBhN2o?oc=5",
-          "published": "2026-08-25T10:00:00+03:00"
-        }
-      ],
-      "last_updated": "2026-08-26T10:00:00+03:00",
-      "district": "Ankara Geneli",
-      "neighborhood": "Ankara Geneli",
-      "lat": 39.9334,
-      "lon": 32.8597,
-      "location_precision": "il",
-      "id": 71
-    },
-    {
       "category": "Asayiş",
       "categories": [
         "Asayiş"
@@ -2386,7 +2329,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 72
+      "id": 71
     },
     {
       "category": "Trafik Kazası",
@@ -2416,7 +2359,7 @@
       "lat": 40.205,
       "lon": 32.682,
       "location_precision": "ilçe",
-      "id": 73
+      "id": 72
     },
     {
       "category": "Trafik Kazası",
@@ -2446,7 +2389,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 74
+      "id": 73
     },
     {
       "category": "Trafik Kazası",
@@ -2476,7 +2419,7 @@
       "lat": 39.97,
       "lon": 32.584,
       "location_precision": "ilçe",
-      "id": 75
+      "id": 74
     },
     {
       "category": "Trafik Kazası",
@@ -2506,7 +2449,7 @@
       "lat": 39.9308,
       "lon": 32.9307,
       "location_precision": "ilçe",
-      "id": 76
+      "id": 75
     },
     {
       "category": "Asayiş",
@@ -2536,7 +2479,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 77
+      "id": 76
     },
     {
       "category": "Trafik Kazası",
@@ -2566,7 +2509,7 @@
       "lat": 39.97,
       "lon": 32.584,
       "location_precision": "ilçe",
-      "id": 78
+      "id": 77
     },
     {
       "category": "Uyuşturucu",
@@ -2591,6 +2534,63 @@
           "published": "2026-08-26T10:00:00+03:00"
         }
       ],
+      "district": "Ankara Geneli",
+      "neighborhood": "Ankara Geneli",
+      "lat": 39.9334,
+      "lon": 32.8597,
+      "location_precision": "il",
+      "id": 78
+    },
+    {
+      "category": "Uyuşturucu",
+      "categories": [
+        "Uyuşturucu",
+        "Asayiş",
+        "Trafik Kazası"
+      ],
+      "icon": "🚔",
+      "title": "Ankara'da 'uyuşturucu' operasyonu: Kargo merkezinde 109 kilo 300 gram eroin ele geçirildi - cumhuriyet.com.tr",
+      "location": "Ankara Geneli",
+      "published": "2026-08-25T10:00:00+03:00",
+      "confidence": 75,
+      "sources": 5,
+      "status": "Muhtemel",
+      "summary": "5 farklı açık kaynakta bulunan aynı olay tek kayıtta birleştirildi.",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOZGxpdDVxLW5oNENHZGt4NDB5YWFUZERPUXpTc2tWSTg0dEl0OTZ1SWRqaElKZ0ZSS0ctOUZiLWZGOEhCckR6OGp2dVRmcGxybHNVUzFadnJ3S1ZZVGJremo0Ml9KbkZSWDJOTWtVMkFqTG4wVzlJa3E2ZUx2ek9haUE2aXVwQnJEOEpQaFNBNTdaWnotRUtNWW5lUXdxSTBwbUhEVktOWHJodk44RGgzWlJFV3M2eXJOR01tek5uZWJsOWcyMjR2Mk9tT0U?oc=5",
+      "platform": "Haber",
+      "source_links": [
+        {
+          "platform": "Haber",
+          "title": "Ankara'da 'uyuşturucu' operasyonu: Kargo merkezinde 109 kilo 300 gram eroin ele geçirildi - cumhuriyet.com.tr",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOZGxpdDVxLW5oNENHZGt4NDB5YWFUZERPUXpTc2tWSTg0dEl0OTZ1SWRqaElKZ0ZSS0ctOUZiLWZGOEhCckR6OGp2dVRmcGxybHNVUzFadnJ3S1ZZVGJremo0Ml9KbkZSWDJOTWtVMkFqTG4wVzlJa3E2ZUx2ek9haUE2aXVwQnJEOEpQaFNBNTdaWnotRUtNWW5lUXdxSTBwbUhEVktOWHJodk44RGgzWlJFV3M2eXJOR01tek5uZWJsOWcyMjR2Mk9tT0U?oc=5",
+          "published": "2026-08-26T10:00:00+03:00"
+        },
+        {
+          "platform": "Haber",
+          "title": "Ankara'da kargo paketlerinde 109 kilo 300 gram uyuşturucu ele geçirildi - Memurlar.Net",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcE5OU3E5MkdvcXR3M3ZfNFE3LWJLWEFnaUdwR2FjQXFwTmVSbGpfeC03SEQxRF82aGlJUFdfV0hoRFU2cnc4RVBfUllPVXpENmRPcHNVUk1PVmZYZHJ1WmtDV2kwUGd2NEJxWWxFcEltNGVFbld5R1FhSGlScmxFb1lUeHUwbE1OOG1jUlVSTjFzM2lEWnFMTFlseGNwSDlPV09GNmJ1VmdISF85TkdqZ2Q5UFBIQdIBvgFBVV95cUxPY0pCUWUyZUxjeFN5N3FTcFNtanZ2XzBncm1HYm1LZFcwZ2R3bFlrMXQwVl9PeUtKSWpvZmpBbXlXLWVfeEFVOVdtc0lrTHY3NUpKalYxdUpCb19sZ2pxQU5HYlo0YnlkUjUtYnJ5MTRpcllJY0psQTBNZmh2V2dnTHNlY05XWU9Rb0VPRVp6YVkyQmRpcHNkZFR4QjAydk40WkE0RFJwSFpIcWk2cGlRaUtJSHNGOUJvcjZLa2lB?oc=5",
+          "published": "2026-08-25T23:45:00+03:00"
+        },
+        {
+          "platform": "Haber",
+          "title": "İstanbul'dan Ankara'ya Uyuşturucu Sevkiyatında 1 Kilo 200 Gram Uyuşturucu Ele Geçirildi - Mersin Haber",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNN2hDeHBHRjdCN3o5eFVHcFdXbURiZTNTWDNBSHlkYXNiZTd2X19IT1JkR0F0UmdjUHAxcTljQnhmSHFRWjQxVEoyX0NyN2xRZ3pmRGZkWHJpb3lWcW9vc1RzVkhlM2M5UC01TWg5NnpQcmY5dUxDbWZuR1BDQUY4U3hZSXVQd2N1NC00V19UQlpoRkx1U2UzdmNwanhMeXhnb3hNanJUbjhVVEZDNktUaWxOaUtRam9fM1hfLW1rREFtT0g00gFXQVVfeXFMTjhSVnRHUFl4VnVHdUY4QmxpMmFnWUJMbW53c1pBcG8xMDRQRU1UakVCZlVYRS1TMUVlWVZJdWMxeUhncXkxenFwRVZxeW1UTHI1ZktsS1M4?oc=5",
+          "published": "2026-08-28T09:51:00+03:00"
+        },
+        {
+          "platform": "Haber",
+          "title": "Ankara'da kargo paketlerinde 109 kilogram uyuşturucu ele geçirildi - TRT Haber",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPeENacFFPUnFlRVh0MUgyOGIxWk5XbHZlUnRwVWtPR2V2QjNnUzVtcTVCWmJ0RS03aXJuQTBmWC1NcGtzSXAwNHE0bUN5S2RUMnZ2anpCNHJaWTlMQndIOHBhZnYzY0U4UkNKeldBWTlLME1Ddlp0QmZET2pCVXdyaE9PcjRFM0xOZFhkWk9aeW9zS3A5RkFkcEZMd25iWk5OSU9icTBfVlhwdV8tNUZqYVhaVUlac1E?oc=5",
+          "published": "2026-08-25T10:00:00+03:00"
+        },
+        {
+          "platform": "Haber",
+          "title": "Kahramankazan'da kargo takip merkezinde 109 kilo uyuşturucu ele geçirildi: Bir kişi tutuklandı - Yeni Şafak",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNWVp1cWszQ3FXQTVwcDVfQnYySFhacTcwdTB3M3JkQWs5d2Zudko5SkgwZnN2d3p5eWdxLU5oQTA1bmx0Ql9vVV9JS3A0TDN2TFhWemZtTDh6WG1WalhYZkhfVklyUmI1N1ktOS01OGpRS2tPMlJ2MjhlaThsN0xWcUVRSE8temkya2xXZmt5cTdPYUs2dlV2cm91OVpiREhpMVVPNDZhUm1FYlZpQ1gwMENxaE5Mc0R0MGFkVTE5OWtHWFMtX1lBV3pwMnY3d9IB2AFBVV95cUxQZnF4dVk4SXJWZDFxOFBGcUQ3dzB5U2hzNU9XOUo0NWxaZUllZjF1TnFrMWNTT0RNazNITGtMVHRNR2ZNYTVVc0RFNnJnaWJ1Z3loMlZRZ1g1azg3dWxZbGZKcE9jOEsxOU16T3FRQUV2UjZuQUxWZlFpank2QmJGem9IcTY1c0N0cTFxX2hSVDZseE5ISkplVUk2ZElWTDJkX1AwcV9Jd24tU05fSzVmTllrSTFlcGFKY2k5djV1eEJOU1N3MVBUNWZFejY2dVIwem9PeXBhN2o?oc=5",
+          "published": "2026-08-25T10:00:00+03:00"
+        }
+      ],
+      "last_updated": "2026-08-26T10:00:00+03:00",
       "district": "Ankara Geneli",
       "neighborhood": "Ankara Geneli",
       "lat": 39.9334,
@@ -4251,13 +4251,13 @@
         {
           "platform": "Haber",
           "title": "Ankara'da 'uyuşturucu' ve 'fuhuş' operasyonu: 18 gözaltı - DHA | Demirören Haber Ajansı",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOekNDMFZBakpIZUxZcGZpV0VJblFfa09GeV9kVzJPcWd6bzB2STFQbkVSMVRkZHpLQlZvRGxsQV85c09waVg2YXJZbkJURUt1R0JmX3JKb2NZaUVPWDB2Y0l5bGgxMGNfdFNsYUtNUnNLVnRrU05SdTJrdjliNzl6cC0zTmhtV21DbTQ3ZEpjU1hQQdIBlgFBVV95cUxQbDI4bHh4b2RESko4UWhxUndXeDBZUGEwdVp6T0RkbkFUc2ZFMWJfbWZXbV9ZemZyMTAyUkVQNHdXVXJ3NEFkRFRPMTVRaXNfRDZQMmNxcThBNDdPbjZieExBUEM3bjBUSHNlZ0dZeHhBdVU5ckdTVk5TdXUzS3JlQ1VZanR3WXlZTWxZZndnZ2VuaXBCWGc?oc=5",
-          "published": "2026-08-16T10:00:00+03:00"
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPck9vb3VwaF9RWlRxNWhpRHVFRHVyY0tqZDIwZEJNVUdLbWNOVzQ1T1dmd1doRTBaaTNiWWxKSmZXa3RYc19kZUFBYl9nSnNyeTVPZERXMjBkWFUxUGIweXkteDBwOGc0dFdUSzdiLV9MdEl3UHQwdTNfcXMybTE3aktocGdrWjVEcjlmWlAzYnpKZ1FuTTd4M0hn0gGeAUFVX3lxTE4yV19lMG05WEs1SFl4dDlCLUhhN0tIUmswOU9oMEdreF8yYXpXWnp1RGdocnhGaFRqN2JEN1doVkNJZ3g5ejRQZC1yamhKX0Q2UldNbDNwS0dKUXROc05LMHM0eE01eU9RemdKVXpQQU9pN2E0SDMyZWM1SVdFdVBsdm01TXUxbGNMRFc1WG9uUXo1VVh3SDZnSThhUUJ3?oc=5",
+          "published": "2026-08-16T13:17:54+03:00"
         },
         {
           "platform": "Haber",
           "title": "Ankara'da 'uyuşturucu' ve 'fuhuş' operasyonu: 18 gözaltı - DHA | Demirören Haber Ajansı",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPck9vb3VwaF9RWlRxNWhpRHVFRHVyY0tqZDIwZEJNVUdLbWNOVzQ1T1dmd1doRTBaaTNiWWxKSmZXa3RYc19kZUFBYl9nSnNyeTVPZERXMjBkWFUxUGIweXkteDBwOGc0dFdUSzdiLV9MdEl3UHQwdTNfcXMybTE3aktocGdrWjVEcjlmWlAzYnpKZ1FuTTd4M0hn0gGeAUFVX3lxTE4yV19lMG05WEs1SFl4dDlCLUhhN0tIUmswOU9oMEdreF8yYXpXWnp1RGdocnhGaFRqN2JEN1doVkNJZ3g5ejRQZC1yamhKX0Q2UldNbDNwS0dKUXROc05LMHM0eE01eU9RemdKVXpQQU9pN2E0SDMyZWM1SVdFdVBsdm01TXUxbGNMRFc1WG9uUXo1VVh3SDZnSThhUUJ3?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOekNDMFZBakpIZUxZcGZpV0VJblFfa09GeV9kVzJPcWd6bzB2STFQbkVSMVRkZHpLQlZvRGxsQV85c09waVg2YXJZbkJURUt1R0JmX3JKb2NZaUVPWDB2Y0l5bGgxMGNfdFNsYUtNUnNLVnRrU05SdTJrdjliNzl6cC0zTmhtV21DbTQ3ZEpjU1hQQdIBlgFBVV95cUxQbDI4bHh4b2RESko4UWhxUndXeDBZUGEwdVp6T0RkbkFUc2ZFMWJfbWZXbV9ZemZyMTAyUkVQNHdXVXJ3NEFkRFRPMTVRaXNfRDZQMmNxcThBNDdPbjZieExBUEM3bjBUSHNlZ0dZeHhBdVU5ckdTVk5TdXUzS3JlQ1VZanR3WXlZTWxZZndnZ2VuaXBCWGc?oc=5",
           "published": "2026-08-16T10:00:00+03:00"
         },
         {
@@ -4279,7 +4279,7 @@
           "published": "2026-08-16T10:00:00+03:00"
         }
       ],
-      "last_updated": "2026-08-16T10:00:00+03:00",
+      "last_updated": "2026-08-16T13:17:54+03:00",
       "district": "Ankara Geneli",
       "neighborhood": "Ankara Geneli",
       "lat": 39.9334,
@@ -4326,7 +4326,7 @@
         "Asayiş"
       ],
       "icon": "🚔",
-      "title": "Ankara Cumhuriyet Başsavcılığı’ndan fuhuş ve uyuşturucu operasyonu: 11 şüpheli ve 7 işletme sorumlusu gözaltına alındı - Anka Haber",
+      "title": "Ankara'da uyuşturucu ve fuhuş operasyonu: 18 şüpheli gözaltına alındı - Son Dakika Flaş Haberler - Hürriyet",
       "location": "Ankara Geneli",
       "published": "2026-08-16T10:00:00+03:00",
       "confidence": 75,
@@ -4350,8 +4350,8 @@
         },
         {
           "platform": "Haber",
-          "title": "Ankara Cumhuriyet Başsavcılığı’ndan fuhuş ve uyuşturucu operasyonu: 11 şüpheli ve 7 işletme sorumlusu gözaltına alındı - Anka Haber",
-          "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOdnByZkNZanA1WldUNGlSdDNRMUREcWZCakVmTWYyT1NLZk4xaUpCYTc0R2Y1NzVqVUZfcmMtcFRRMXZrdUs2RGh5S3I1M25zT3NWUkhLVUVmWXlNWmVsbTZDLXhxTjVoVXZ3TTFFbzdtUlBJRG1WQXoyTHFaaTY1dVZ1eDJYNE1vX1NNcTRwV3VkaExJZm5tTFJQUnRMaVRmN0p5QmpOTWxzWnJxc1Q3VUxSMmZQampiOE5sSnRMb2JzeWRORHlrOHRxdTgtWDFjWEdVMUgwSXV5OTQ5TmhHaF9ZN2c3Q3YwSUE?oc=5",
+          "title": "Ankara'da eğlence mekanlarına uyuşturucu ve fuhuş operasyonu - A Haber",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOaVQ0RWJfbW9aWVhCb2lScGdCTUZwZEp6RWgyc2FDaG5BLWhEQ2JHTWJjNDIwUG4ta0M2WHBXM3ZadEVMUFdlYkxJVVBsYXhjOERhLTV4MW94dnZDZl9TbVFyYVZQcmVCQ0pnY3JtaG80SVNmRTJUVG41RThuYVdfcTlta25fR3c2OEVpa1c1c3pVMHB6WGk1VjZvci0wbjgzU0d4YVNyYV8xeGw5?oc=5",
           "published": "2026-08-16T10:00:00+03:00"
         },
         {
@@ -7685,19 +7685,19 @@
         "Cinayet"
       ],
       "icon": "⚫",
-      "title": "Ankara Güdül’de Erkek Şiddeti.. Damat Kayınvalidesi ile Kayınbabasını Öldürdü! - PolitiKARS",
+      "title": "Ankara Güdül’de Erkek Şiddeti.. Damat Kayınvalidesi ile Kayınbabasını Öldürdü! - politikars.com",
       "location": "Ankara Geneli",
       "published": "2026-07-27T10:00:00+03:00",
       "confidence": 75,
       "sources": 1,
       "status": "Muhtemel",
-      "summary": "PolitiKARS üzerinden bulunan herkese açık kayıt.",
+      "summary": "politikars.com üzerinden bulunan herkese açık kayıt.",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQSlBsR2RGajUxZktFTFJ6RW9UdWt1ZFoyTVdFbHE0Q05PUGkzRHpDbTlzUEVoTjllME5QUkJrVm10QjUxOWJHQUtrVzFIMDhrSm9tWWRNbFJxb1NtVVJieUs2dnc5LXNlaWR5NzVFODhQWlhzZm9ubS10Slp4SFc5VnJYWFpNMTZVZkJVLWFRRlZSX2FTOXYtOTRhRW5rajBXdDhvS2lwM25Sb3ZEUHdwckt5QdIBwwFBVV95cUxOdDZMQjFSWkV2NUNGZENsaHoxQ3U3eGNtU3FRY1BrX0c4QVJMUnZydXh0QjM2T0ZjTmU4ZktpbVZoVllrUGwwdTFqbzJTSF91MjdMM0hPeXl6R1JGSndwaE5QRlh5Q25wX3ZadnZwdFR3aTllS2tDRXVSSkZiTENDSVVtcFQ5Wk9CNnJFZWlHN1M2Ym5vbVRjNkMxQ0lqUjZtSWVQemo1T2ZYZFUwbm9fOUk3aGlWY1Z0T1ZOSnBqYWxwdmc?oc=5",
       "platform": "Haber",
       "source_links": [
         {
           "platform": "Haber",
-          "title": "Ankara Güdül’de Erkek Şiddeti.. Damat Kayınvalidesi ile Kayınbabasını Öldürdü! - PolitiKARS",
+          "title": "Ankara Güdül’de Erkek Şiddeti.. Damat Kayınvalidesi ile Kayınbabasını Öldürdü! - politikars.com",
           "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQSlBsR2RGajUxZktFTFJ6RW9UdWt1ZFoyTVdFbHE0Q05PUGkzRHpDbTlzUEVoTjllME5QUkJrVm10QjUxOWJHQUtrVzFIMDhrSm9tWWRNbFJxb1NtVVJieUs2dnc5LXNlaWR5NzVFODhQWlhzZm9ubS10Slp4SFc5VnJYWFpNMTZVZkJVLWFRRlZSX2FTOXYtOTRhRW5rajBXdDhvS2lwM25Sb3ZEUHdwckt5QdIBwwFBVV95cUxOdDZMQjFSWkV2NUNGZENsaHoxQ3U3eGNtU3FRY1BrX0c4QVJMUnZydXh0QjM2T0ZjTmU4ZktpbVZoVllrUGwwdTFqbzJTSF91MjdMM0hPeXl6R1JGSndwaE5QRlh5Q25wX3ZadnZwdFR3aTllS2tDRXVSSkZiTENDSVVtcFQ5Wk9CNnJFZWlHN1M2Ym5vbVRjNkMxQ0lqUjZtSWVQemo1T2ZYZFUwbm9fOUk3aGlWY1Z0T1ZOSnBqYWxwdmc?oc=5",
           "published": "2026-07-27T10:00:00+03:00"
         }
@@ -11922,19 +11922,19 @@
         "Asayiş"
       ],
       "icon": "👮",
-      "title": "Haymana'da IŞİD operasyonu: Muhammed Kavi nasıl öldü? - dw.com",
+      "title": "Haymana'da IŞİD operasyonu: Muhammed Kavi nasıl öldü? - DW.com",
       "location": "Haymana / Ankara",
       "published": "2026-06-25T10:00:00+03:00",
       "confidence": 75,
       "sources": 1,
       "status": "Muhtemel",
-      "summary": "dw.com üzerinden bulunan herkese açık kayıt.",
+      "summary": "DW.com üzerinden bulunan herkese açık kayıt.",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNdzA1Y2ZWSHBQOTRsZEZlWVdDd1p3TUxFQy1WWkI5V2JJWFVwLW9aM0pYQmJ1dHdqU2ZNODZIWEF0dUZkdXFIbVd1UDc3UXdfX3g3UmVubEFLbnl0UzRmSkpEUklEUWtidEdld21kVzVmRGMyWE01TTc0Y0htaTlhQ3Z4TTBTa2FYdFd1V0RDSDJoSHB4OHZETHp2RDJtN2QzQTZDY0FlX0x6M0J1cHfSAa4BQVVfeXFMTXRBOEZYSW1lSG1WdHA3U3VpZG5vaFBUMkRGa0wxcDBLaF9IWWNSY2VfemZXNm9lMmpKU0VBZG1oUk5zM0lweVZyZXZLMlNNRUZlYzdWV0QxQ0pZS0x6VUYzTnpUM3U3LV80OHViWEdEczRBUFo4dFpWcXQyYXZpYS14bGhURnJ6M0lpOERTWF9EWDJGc3RxbWw0V0xxNU1lM2ZSQUk1dlY5TUVoR3VB?oc=5",
       "platform": "Haber",
       "source_links": [
         {
           "platform": "Haber",
-          "title": "Haymana'da IŞİD operasyonu: Muhammed Kavi nasıl öldü? - dw.com",
+          "title": "Haymana'da IŞİD operasyonu: Muhammed Kavi nasıl öldü? - DW.com",
           "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNdzA1Y2ZWSHBQOTRsZEZlWVdDd1p3TUxFQy1WWkI5V2JJWFVwLW9aM0pYQmJ1dHdqU2ZNODZIWEF0dUZkdXFIbVd1UDc3UXdfX3g3UmVubEFLbnl0UzRmSkpEUklEUWtidEdld21kVzVmRGMyWE01TTc0Y0htaTlhQ3Z4TTBTa2FYdFd1V0RDSDJoSHB4OHZETHp2RDJtN2QzQTZDY0FlX0x6M0J1cHfSAa4BQVVfeXFMTXRBOEZYSW1lSG1WdHA3U3VpZG5vaFBUMkRGa0wxcDBLaF9IWWNSY2VfemZXNm9lMmpKU0VBZG1oUk5zM0lweVZyZXZLMlNNRUZlYzdWV0QxQ0pZS0x6VUYzTnpUM3U3LV80OHViWEdEczRBUFo4dFpWcXQyYXZpYS14bGhURnJ6M0lpOERTWF9EWDJGc3RxbWw0V0xxNU1lM2ZSQUk1dlY5TUVoR3VB?oc=5",
           "published": "2026-06-25T10:00:00+03:00"
         }
@@ -14172,7 +14172,7 @@
         },
         {
           "platform": "Haber",
-          "title": "Ankara'da iki grup arasında bıçaklı kavga: 1 ölü, 1 yaralı - Cumhuriyet",
+          "title": "Ankara'da iki grup arasında bıçaklı kavga: 1 ölü, 1 yaralı - cumhuriyet.com.tr",
           "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQTnV2djZlang1Y3NrUTEyRmNPZnJjNG5ObmlvTjQtTWNQUl9rNVM4NFRPbEdsNW1NLVZJaVVUblNBME1ENTBObDNNRUtOV0toeVh1YkZhOU9QUkotTTF1LWJ6dmdvcTNWVWpuWmFXd1VUWGhiN0tLMTJob3ZQZlg4NHFMUzJyak1zanVwNWlyZ3VsRUQwMl8zNU5FQXpqcjFiUUFDSg?oc=5",
           "published": "2026-06-06T10:00:00+03:00"
         },
@@ -18174,19 +18174,19 @@
         "Sağlık"
       ],
       "icon": "🚑",
-      "title": "Haymana'da Kum Yüklü Kamyon Devrildi: 1 Yaralı - sondakika.com",
+      "title": "Haymana'da Kum Yüklü Kamyon Devrildi: 1 Yaralı - Son Dakika",
       "location": "Haymana / Ankara",
       "published": "2026-04-12T10:00:00+03:00",
       "confidence": 75,
       "sources": 1,
       "status": "Muhtemel",
-      "summary": "sondakika.com üzerinden bulunan herkese açık kayıt.",
+      "summary": "Son Dakika üzerinden bulunan herkese açık kayıt.",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxONVRaVXEtd0JDY1dMZlYwMl91QnVFMXF6SEFfVUVpMVZSQjhzS1hSeGROZUZ4ci1YbVNxNE5kRUlCbzQ2X25UWkczbWlyMjE4OGQ0dl9PWXduZXdVZXNtaGU0NVZMRkNId2hQcVZOa3I3VEZZN18ySi1sWmVIclNwTkVKRkppcFZld0ZUS3JIQW9YNUFOOWVnZUllRdIBlgFBVV95cUxQX1RIR215cEFwNXhBdTNQTGdRbnR4QVh0M05nbXpTeDhleGRuM3o0UFREMkRNSlA1QmxzQjQwcHV5Yy1USGhGRzZJbU9SeHhpcXVMQmFuRXRMWFVHYnU1Ujh2M0xiUmJZUDFMMGZjUEdORnc2bEVLM2tjQlNPdGZlcTl1ZDNvcEt2MktEZ01fX01yYks4dXc?oc=5",
       "platform": "Haber",
       "source_links": [
         {
           "platform": "Haber",
-          "title": "Haymana'da Kum Yüklü Kamyon Devrildi: 1 Yaralı - sondakika.com",
+          "title": "Haymana'da Kum Yüklü Kamyon Devrildi: 1 Yaralı - Son Dakika",
           "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxONVRaVXEtd0JDY1dMZlYwMl91QnVFMXF6SEFfVUVpMVZSQjhzS1hSeGROZUZ4ci1YbVNxNE5kRUlCbzQ2X25UWkczbWlyMjE4OGQ0dl9PWXduZXdVZXNtaGU0NVZMRkNId2hQcVZOa3I3VEZZN18ySi1sWmVIclNwTkVKRkppcFZld0ZUS3JIQW9YNUFOOWVnZUllRdIBlgFBVV95cUxQX1RIR215cEFwNXhBdTNQTGdRbnR4QVh0M05nbXpTeDhleGRuM3o0UFREMkRNSlA1QmxzQjQwcHV5Yy1USGhGRzZJbU9SeHhpcXVMQmFuRXRMWFVHYnU1Ujh2M0xiUmJZUDFMMGZjUEdORnc2bEVLM2tjQlNPdGZlcTl1ZDNvcEt2MktEZ01fX01yYks4dXc?oc=5",
           "published": "2026-04-12T10:00:00+03:00"
         }
@@ -25200,12 +25200,11 @@
     "google_news_social_queries": 11,
     "google_alert_feeds": 9,
     "new_results_this_scan": {
-      "Haber": 360,
-      "X": 80,
-      "Facebook": 34,
-      "Instagram": 3,
-      "YouTube": 8,
-      "TikTok": 7
+      "Haber": 361,
+      "X": 75,
+      "Facebook": 32,
+      "YouTube": 7,
+      "TikTok": 6
     }
   },
   "sources": [
