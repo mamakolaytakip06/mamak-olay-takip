@@ -18,7 +18,9 @@ SOCIAL=[
 ("X","site:x.com/radyotrafik06 Ankara"),("X","site:x.com/ankaratrafikcev Ankara"),
 ("Facebook","site:facebook.com Ankara son dakika olay"),
 ("Instagram","site:instagram.com/ankaradatrafik Ankara"),("Instagram","site:instagram.com/ankara.sondakika Ankara"),
-("Instagram","site:instagram.com/ankaradantrafik Ankara"),("YouTube","site:youtube.com Ankara son dakika olay"),
+("Instagram","site:instagram.com/ankaradantrafik Ankara"),
+("Instagram","site:instagram.com/ankaradansondakika (Mamak OR Şirintepe) (yangın OR yanıyor OR itfaiye OR kaza OR polis OR kavga OR cinayet)"),
+("Instagram","site:instagram.com/ankaradansondakika/reel Mamak"),("YouTube","site:youtube.com Ankara son dakika olay"),
 ("TikTok","site:tiktok.com Ankara kaza yangın polis")
 ]
 
@@ -56,11 +58,11 @@ NEIGHBORHOODS={
 "Şafaktepe":(39.9297,32.9302),"Şahintepe":(39.9482,32.9830),"Türközü":(39.9009,32.9144),
 "Üreğil":(39.9370,32.9820),"Altıağaç":(39.9453,32.9285),"Ekin":(39.9467,32.9490),
 "Hüseyingazi":(39.9587,32.9440),"Gülveren":(39.9361,32.9161),"Misket":(39.9585,32.9683),
-"Natoyolu":(39.9087,32.9488),"Yeşilbayır":(39.9496,33.0065)
+"Natoyolu":(39.9087,32.9488),"Yeşilbayır":(39.9496,33.0065),"Şirintepe":(39.9148,32.9237)
 }
 
-C=[("Cinayet","⚫",["cinayet","öldürüldü","öldürdü","ölü bulundu","ceset"]),("İntihar","🟣",["intihar","yaşamına son"]),("Terör","🚨",["terör","terörist","örgüt operasyon","bombalı"]),("Taciz","🟣",["taciz","cinsel saldırı","istismar"]),("Düğünde Silah","🔫",["düğünde silah","havaya ateş","maganda"]),("Silahlı Olay","🔫",["silahlı","silah","kurşun","ateş aç"]),("Kavga","🥊",["kavga","darp","saldırı"]),("Trafik Kazası","🚗",["trafik kazası","kaza","çarpış","araç devr"]),("Hırsızlık","🕵️",["hırsız","çaldı","gasp","soygun"]),("Dolandırıcılık","💳",["dolandır"]),("Uyuşturucu","🚔",["uyuşturucu","narkotik"]),("Kayıp Kişi","👤",["kayıp","aranıyor"]),("Yangın","🔥",["yangın","duman","alev"]),("Sağlık","🚑",["ambulans","yaralı","sağlık"]),("Yol","🚧",["yol kapalı","yol çalışma"]),("Altyapı","⚡",["elektrik","su kesinti","doğalgaz"]),("Asayiş","👮",["polis","emniyet","asayiş","gözaltı","tutuklandı","yakalandı","operasyon","şüpheli","suç"])]
-RELEVANT=["cinayet","öldür","ceset","intihar","terör","bomba","taciz","cinsel saldırı","istismar","silah","kurşun","ateş aç","kavga","darp","saldırı","trafik kazası","kaza","çarpış","devrildi","hırsız","gasp","soygun","dolandır","uyuşturucu","narkotik","kayıp","yangın","alev","ambulans","yaralı","polis","emniyet","asayiş","gözaltı","tutuk","yakalandı","operasyon","şüpheli","suç","patlama","rehin","kaçakçılık","bıçak"]
+C=[("Cinayet","⚫",["cinayet","öldürüldü","öldürdü","ölü bulundu","ceset"]),("İntihar","🟣",["intihar","yaşamına son"]),("Terör","🚨",["terör","terörist","örgüt operasyon","bombalı"]),("Taciz","🟣",["taciz","cinsel saldırı","istismar"]),("Düğünde Silah","🔫",["düğünde silah","havaya ateş","maganda"]),("Silahlı Olay","🔫",["silahlı","silah","kurşun","ateş aç"]),("Kavga","🥊",["kavga","darp","saldırı"]),("Trafik Kazası","🚗",["trafik kazası","kaza","çarpış","araç devr"]),("Hırsızlık","🕵️",["hırsız","çaldı","gasp","soygun"]),("Dolandırıcılık","💳",["dolandır"]),("Uyuşturucu","🚔",["uyuşturucu","narkotik"]),("Kayıp Kişi","👤",["kayıp","aranıyor"]),("Yangın","🔥",["yangın","duman","alev","yanıyor","yanmakta","itfaiye"]),("Sağlık","🚑",["ambulans","yaralı","sağlık"]),("Yol","🚧",["yol kapalı","yol çalışma"]),("Altyapı","⚡",["elektrik","su kesinti","doğalgaz"]),("Asayiş","👮",["polis","emniyet","asayiş","gözaltı","tutuklandı","yakalandı","operasyon","şüpheli","suç"])]
+RELEVANT=["cinayet","öldür","ceset","intihar","terör","bomba","taciz","cinsel saldırı","istismar","silah","kurşun","ateş aç","kavga","darp","saldırı","trafik kazası","kaza","çarpış","devrildi","hırsız","gasp","soygun","dolandır","uyuşturucu","narkotik","kayıp","yangın","alev","yanıyor","yanmakta","itfaiye","ambulans","yaralı","polis","emniyet","asayiş","gözaltı","tutuk","yakalandı","operasyon","şüpheli","suç","patlama","rehin","kaçakçılık","bıçak"]
 BLOCK=["menu","food","restaurant","restoran","yemek","kampanya","indirim","satılık","kiralık","maç","transfer","konser","etkinlik","iş ilanı","job"]
 def clean(s): return re.sub(r"<[^>]+>"," ",s or "").strip()
 def place_in_text(text,name):
