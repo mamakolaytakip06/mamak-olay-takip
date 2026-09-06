@@ -26,6 +26,10 @@ jobs:
       - name: Açık kaynakları tara
         env:
           GOOGLE_ALERT_FEEDS: ${{ secrets.GOOGLE_ALERT_FEEDS }}
+          META_IG_ACCESS_TOKEN: ${{ secrets.META_IG_ACCESS_TOKEN }}
+          META_IG_USER_ID: ${{ secrets.META_IG_USER_ID }}
+          META_IG_TARGETS: ${{ secrets.META_IG_TARGETS }}
+          META_GRAPH_VERSION: ${{ vars.META_GRAPH_VERSION }}
         run: python scripts/fetch_events.py
       - name: Sonuç değiştiyse kaydet
         run: |
