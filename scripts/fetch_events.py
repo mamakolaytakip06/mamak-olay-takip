@@ -147,7 +147,7 @@ meta_instagram_status={"configured":False,"targets":0,"checked":0,"records":0,"e
 def add_meta_instagram(now,out):
  token=os.getenv("META_IG_ACCESS_TOKEN","").strip()
  user_id=os.getenv("META_IG_USER_ID","").strip()
- version=os.getenv("META_GRAPH_VERSION","v23.0").strip()
+ version=os.getenv("META_GRAPH_VERSION","").strip() or "v23.0"
  raw_targets=os.getenv("META_IG_TARGETS",", ".join(META_DEFAULT_TARGETS))
  targets=list(dict.fromkeys(x.strip().lstrip("@") for x in re.split(r"[\n,;]+",raw_targets) if re.match(r"^[A-Za-z0-9._]+$",x.strip().lstrip("@"))))
  meta_instagram_status.update({"configured":bool(token and user_id),"targets":len(targets)})
