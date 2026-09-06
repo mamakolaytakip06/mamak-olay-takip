@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-06T07:46:14.113921+03:00",
+  "updated_at": "2026-09-06T07:54:10.257286+03:00",
   "events": [
     {
       "category": "Asayiş",
@@ -418,6 +418,37 @@
       "id": 9
     },
     {
+      "category": "Uyuşturucu",
+      "categories": [
+        "Uyuşturucu",
+        "Asayiş"
+      ],
+      "icon": "🚔",
+      "title": "🚨 SON DAKİKA | Ankara Cumhuriyet Başsavcılığı Kaçakçılık, Narkotik ve Ekonomik Suçları Soruşturma Bürosu tarafından yürütülen uyuşturucu ve fuhuş soruşturması kapsamında 21 şüpheliye yönelik bu sabah eş zamanlı operasyon başlatıldı. Şüpheliler hakk - x.com",
+      "location": "Ankara Geneli",
+      "published": "2026-09-05T16:09:43+03:00",
+      "confidence": 60,
+      "sources": 1,
+      "status": "Sosyal medya / doğrulanmamış",
+      "summary": "x.com üzerinden bulunan herkese açık kayıt.",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4tR1J0QjlSSjJMdzVvS0NGYi1rVjdTM19SRnRoRUdiblppenI5S3NsUFJDX2NPTXd0WWVHMDdhX3k1eUIwUkJEOXo4OFJYeENFOW5MNk91V0ptR3MyX3A3bkdWbGY?oc=5",
+      "platform": "X",
+      "source_links": [
+        {
+          "platform": "X",
+          "title": "🚨 SON DAKİKA | Ankara Cumhuriyet Başsavcılığı Kaçakçılık, Narkotik ve Ekonomik Suçları Soruşturma Bürosu tarafından yürütülen uyuşturucu ve fuhuş soruşturması kapsamında 21 şüpheliye yönelik bu sabah eş zamanlı operasyon başlatıldı. Şüpheliler hakk - x.com",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4tR1J0QjlSSjJMdzVvS0NGYi1rVjdTM19SRnRoRUdiblppenI5S3NsUFJDX2NPTXd0WWVHMDdhX3k1eUIwUkJEOXo4OFJYeENFOW5MNk91V0ptR3MyX3A3bkdWbGY?oc=5",
+          "published": "2026-09-05T16:09:43+03:00"
+        }
+      ],
+      "district": "Ankara Geneli",
+      "neighborhood": "Ankara Geneli",
+      "lat": 39.9334,
+      "lon": 32.8597,
+      "location_precision": "il",
+      "id": 10
+    },
+    {
       "category": "Trafik Kazası",
       "categories": [
         "Trafik Kazası"
@@ -445,7 +476,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 10
+      "id": 11
     },
     {
       "category": "Trafik Kazası",
@@ -457,9 +488,9 @@
       "location": "Gölbaşı / Ankara",
       "published": "2026-09-05T10:23:35+03:00",
       "confidence": 60,
-      "sources": 1,
+      "sources": 2,
       "status": "Sosyal medya / doğrulanmamış",
-      "summary": "x.com üzerinden bulunan herkese açık kayıt.",
+      "summary": "2 farklı açık kaynakta bulunan aynı olay tek kayıtta birleştirildi.",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8wWjhBR2lrM1dCcFRvaGpkZVdWY2V4b0R4bW9Rd1NlZlJBSm9hcURWMjZFbjJIdjA2ZGF3QnNndUk2bHYwUFdGNlc1ekQ0b2ZtTTlpRnZtWU9Sb2RjVTBrazdRWkFZYnQ5dlBwUlNDZw?oc=5",
       "platform": "X",
       "source_links": [
@@ -468,6 +499,12 @@
           "title": "Konya Yolu, Gölbaşı, Ankara Caddesi, Konya yönünde kaza. 🚦Trafiği etkileyen tüm olaylar anında radyoda ve uygulamamızda:📷https://t.co/RZ8Mgmg3mS - x.com",
           "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8wWjhBR2lrM1dCcFRvaGpkZVdWY2V4b0R4bW9Rd1NlZlJBSm9hcURWMjZFbjJIdjA2ZGF3QnNndUk2bHYwUFdGNlc1ekQ0b2ZtTTlpRnZtWU9Sb2RjVTBrazdRWkFZYnQ5dlBwUlNDZw?oc=5",
           "published": "2026-09-05T10:23:35+03:00"
+        },
+        {
+          "platform": "X",
+          "title": "Konya Yolu, Gölbaşı, Ankara Caddesi, Konya yönünde kaza. 🚦Trafiği etkileyen tüm olaylar anında radyoda ve uygulamamızda:📷https://t.co/RZ8Mgmg3mS - x.com",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE15UXFmdElzbU1HX1V2emZVNFpQNTdQTldQcjFldkdfc3Y2NzlkLV91TDY3cExsWS13SmdXaURNX0t0U1FtbkgtOFd0ZS0xZWdtZVczQUxSV21qWF81QWkyOG5MM08?oc=5",
+          "published": "2026-09-05T10:23:35+03:00"
         }
       ],
       "district": "Gölbaşı",
@@ -475,7 +512,8 @@
       "lat": 39.79,
       "lon": 32.809,
       "location_precision": "ilçe",
-      "id": 11
+      "id": 12,
+      "last_updated": "2026-09-05T10:23:35+03:00"
     },
     {
       "category": "Uyuşturucu",
@@ -506,7 +544,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 12
+      "id": 13
     },
     {
       "category": "Uyuşturucu",
@@ -537,45 +575,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 13
-    },
-    {
-      "category": "Uyuşturucu",
-      "categories": [
-        "Uyuşturucu",
-        "Asayiş"
-      ],
-      "icon": "🚔",
-      "title": "SON DAKİKA | Ankara Cumhuriyet Başsavcılığı Kaçakçılık, Narkotik ve Ekonomik Suçları Soruşturma Bürosu tarafından yürütülen uyuşturucu ve fuhuş soruşturması kapsamında 21 şüpheliye yönelik bu sabah eş zamanlı operasyon başlatıldı. Şüpheliler hakkın - facebook.com",
-      "location": "Ankara Geneli",
-      "published": "2026-09-05T09:55:12+03:00",
-      "confidence": 60,
-      "sources": 2,
-      "status": "Sosyal medya / doğrulanmamış",
-      "summary": "2 farklı açık kaynakta bulunan aynı olay tek kayıtta birleştirildi.",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4tR1J0QjlSSjJMdzVvS0NGYi1rVjdTM19SRnRoRUdiblppenI5S3NsUFJDX2NPTXd0WWVHMDdhX3k1eUIwUkJEOXo4OFJYeENFOW5MNk91V0ptR3MyX3A3bkdWbGY?oc=5",
-      "platform": "X",
-      "source_links": [
-        {
-          "platform": "X",
-          "title": "🚨 SON DAKİKA | Ankara Cumhuriyet Başsavcılığı Kaçakçılık, Narkotik ve Ekonomik Suçları Soruşturma Bürosu tarafından yürütülen uyuşturucu ve fuhuş soruşturması kapsamında 21 şüpheliye yönelik bu sabah eş zamanlı operasyon başlatıldı. Şüpheliler hakk - x.com",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4tR1J0QjlSSjJMdzVvS0NGYi1rVjdTM19SRnRoRUdiblppenI5S3NsUFJDX2NPTXd0WWVHMDdhX3k1eUIwUkJEOXo4OFJYeENFOW5MNk91V0ptR3MyX3A3bkdWbGY?oc=5",
-          "published": "2026-09-05T16:09:43+03:00"
-        },
-        {
-          "platform": "Facebook",
-          "title": "SON DAKİKA | Ankara Cumhuriyet Başsavcılığı Kaçakçılık, Narkotik ve Ekonomik Suçları Soruşturma Bürosu tarafından yürütülen uyuşturucu ve fuhuş soruşturması kapsamında 21 şüpheliye yönelik bu sabah eş zamanlı operasyon başlatıldı. Şüpheliler hakkın - facebook.com",
-          "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNVWN5c3N1RGJ5RzlRbEJPMllpTzBQYS1kOEdaSlpFUUFnSUZHUUlia3o5eDZoUzFxbXJHSEMtcXZuM05tby1qLTN4QkhNTEtLeGpvZXg1ekZ1M0JlelFwbnRqdDdYa1duNUg4OU1raXdPMUVvMGZ1eDc0aHgySFE4MGxJVmxreE5oMzJBUUFEeW40SUxKSndtaUhNMnp4VnNNNlNsdjFIZWNoQmVBOWExNGRlaFpNaHpVcTVrTElfUWF2VWtBRnNlS2JOYl9oS1R3c1pJc0ZzejRPdE5yaVNsaEZ5YWhpZGtLUFp2RGN2VU96YnRNczFUVTBlQjZ3V2hNTG5DOHlHNHhsOFJtQmF1UFJRZUtzcXllVWRZ?oc=5",
-          "published": "2026-09-05T09:55:12+03:00"
-        }
-      ],
-      "district": "Ankara Geneli",
-      "neighborhood": "Ankara Geneli",
-      "lat": 39.9334,
-      "lon": 32.8597,
-      "location_precision": "il",
-      "id": 14,
-      "last_updated": "2026-09-05T09:55:12+03:00"
+      "id": 14
     },
     {
       "category": "Uyuşturucu",
@@ -1191,9 +1191,9 @@
       "location": "Ankara Geneli",
       "published": "2026-09-03T17:06:04+03:00",
       "confidence": 60,
-      "sources": 2,
+      "sources": 1,
       "status": "Sosyal medya / doğrulanmamış",
-      "summary": "2 farklı açık kaynakta bulunan aynı olay tek kayıtta birleştirildi.",
+      "summary": "x.com üzerinden bulunan herkese açık kayıt.",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA3QlNpOGgxeU5xdWo2eVIwaWQ5Mm5FSTl0bUlrNHRiUzVQMDdPYXV3RUIyZUN6QWcwN3N0cU1SNmd2ZnFubEp0RmdmV2FsdlRTUk90QkdFSnNib3FUQXcza0k5RlE?oc=5",
       "platform": "X",
       "source_links": [
@@ -1202,15 +1202,8 @@
           "title": "İl Emniyet Müdürümüz Sayın Maksut Yüksek, mesleğe başladıkları günden bugüne ülkemizin farklı noktalarında, teşkilatımızın çeşitli birimlerinde özveriyle görev yapan ve görev sürelerini tamamlayarak Ankara Emniyet Müdürlüğümüz bünyesinden emekliliğe - x.com",
           "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA3QlNpOGgxeU5xdWo2eVIwaWQ5Mm5FSTl0bUlrNHRiUzVQMDdPYXV3RUIyZUN6QWcwN3N0cU1SNmd2ZnFubEp0RmdmV2FsdlRTUk90QkdFSnNib3FUQXcza0k5RlE?oc=5",
           "published": "2026-09-03T17:06:04+03:00"
-        },
-        {
-          "platform": "X",
-          "title": "İl Emniyet Müdürümüz Sayın Maksut Yüksek, mesleğe başladıkları günden bugüne ülkemizin farklı noktalarında, teşkilatımızın çeşitli birimlerinde özveriyle görev yapan ve görev sürelerini tamamlayarak Ankara Emniyet Müdürlüğümüz bünyesinden emekliliğe - x.com",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1MVXk4RC1ENnRrM2preVlDV0UwbUEwMFZxRXZxM1ZYcDVjSkVaY3hOb0lGNWJ1Z3ZsRkdweVlraDI5eFp5NHFTVXdrUUdPdm01WmZ0TTA5WlBrNXE3d2ZxLVVWYnFwdlNyWkVCbDNjbw?oc=5",
-          "published": "2026-09-03T17:06:04+03:00"
         }
       ],
-      "last_updated": "2026-09-03T17:06:04+03:00",
       "district": "Ankara Geneli",
       "neighborhood": "Ankara Geneli",
       "lat": 39.9334,
@@ -1374,19 +1367,19 @@
         "Uyuşturucu"
       ],
       "icon": "🚔",
-      "title": "Keçiören Belediye Başkanı yaptıklarına pişman oldu! Uyuşturucu testi yaptırdı, sonuçlar ortalığı karıştırdı - sozcu.com.tr",
+      "title": "Keçiören Belediye Başkanı yaptıklarına pişman oldu! Uyuşturucu testi yaptırdı, sonuçlar ortalığı karıştırdı - Sözcü Gazetesi",
       "location": "Keçiören / Ankara",
       "published": "2026-09-03T07:38:00+03:00",
       "confidence": 75,
       "sources": 1,
       "status": "Muhtemel",
-      "summary": "sozcu.com.tr üzerinden bulunan herkese açık kayıt.",
+      "summary": "Sözcü Gazetesi üzerinden bulunan herkese açık kayıt.",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSHhrREl3VGNuNWRKTU9QMWVkX2NVNUhFZ2pFcFRBaUwyXzNEMVV2UnlGZUVJcjU3a3hleThLTERoOWtqNklIQURLQjVSQXNwNWJya2l5UGtkeGZTNGN1Y0pOdkdVTlp2WlU0cmNqRnRWTDl5Wm5tdFJvWVNmeUpNVEsxVTFONlRuREtKMDN1OFFjajl5Z3FqQWdEY3Q5b3c?oc=5",
       "platform": "Haber",
       "source_links": [
         {
           "platform": "Haber",
-          "title": "Keçiören Belediye Başkanı yaptıklarına pişman oldu! Uyuşturucu testi yaptırdı, sonuçlar ortalığı karıştırdı - sozcu.com.tr",
+          "title": "Keçiören Belediye Başkanı yaptıklarına pişman oldu! Uyuşturucu testi yaptırdı, sonuçlar ortalığı karıştırdı - Sözcü Gazetesi",
           "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSHhrREl3VGNuNWRKTU9QMWVkX2NVNUhFZ2pFcFRBaUwyXzNEMVV2UnlGZUVJcjU3a3hleThLTERoOWtqNklIQURLQjVSQXNwNWJya2l5UGtkeGZTNGN1Y0pOdkdVTlp2WlU0cmNqRnRWTDl5Wm5tdFJvWVNmeUpNVEsxVTFONlRuREtKMDN1OFFjajl5Z3FqQWdEY3Q5b3c?oc=5",
           "published": "2026-09-03T07:38:00+03:00"
         }
@@ -1749,9 +1742,9 @@
       "location": "Keçiören / Ankara",
       "published": "2026-09-02T17:53:16+03:00",
       "confidence": 60,
-      "sources": 1,
+      "sources": 2,
       "status": "Sosyal medya / doğrulanmamış",
-      "summary": "x.com üzerinden bulunan herkese açık kayıt.",
+      "summary": "2 farklı açık kaynakta bulunan aynı olay tek kayıtta birleştirildi.",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5JejNvc1k5WU5Hb3VpbWlSSS1keTVLSFduaXBEbWx3bWpoT3hOTjRyRkhCNWtmVjRPekJVY3UtYUxwZVktSktmWG1NTkJlai1jeHhtZ0xqOFg5VENtZkd0clR3VlN5c1ZqQko3Q3lmSQ?oc=5",
       "platform": "X",
       "source_links": [
@@ -1760,6 +1753,12 @@
           "title": "Kazım Karabekir Caddesi Keçiören yönü stadyum önünde sol şeritte kaza kaynaklı yoğunluk etkili. 🚦Trafiği etkileyen tüm olaylar anında radyoda ve uygulamamızda:📷https://t.co/RZ8Mgmg3mS - x.com",
           "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5JejNvc1k5WU5Hb3VpbWlSSS1keTVLSFduaXBEbWx3bWpoT3hOTjRyRkhCNWtmVjRPekJVY3UtYUxwZVktSktmWG1NTkJlai1jeHhtZ0xqOFg5VENtZkd0clR3VlN5c1ZqQko3Q3lmSQ?oc=5",
           "published": "2026-09-02T17:53:16+03:00"
+        },
+        {
+          "platform": "X",
+          "title": "Kazım Karabekir Caddesi Keçiören yönü stadyum önünde sol şeritte kaza kaynaklı yoğunluk etkili. 🚦Trafiği etkileyen tüm olaylar anında radyoda ve uygulamamızda:📷https://t.co/RZ8Mgmg3mS - x.com",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBieVFnMnd3VnBIOXRLX3lmcUlRVlV0R3pYbGRMWURKVzRXZ2U3a0FPVjBwdHFFeWl3RmNvd2JmMVAxNUlCVlBTTXpOYkVFZWdUSXE5TzQ1UklOQWlBeER1SEhwZWNIMV81RVdYdVhZdw?oc=5",
+          "published": "2026-09-02T17:53:16+03:00"
         }
       ],
       "district": "Keçiören",
@@ -1767,7 +1766,8 @@
       "lat": 40.0,
       "lon": 32.866,
       "location_precision": "ilçe",
-      "id": 52
+      "id": 52,
+      "last_updated": "2026-09-02T17:53:16+03:00"
     },
     {
       "category": "Asayiş",
@@ -2084,19 +2084,19 @@
         "Asayiş"
       ],
       "icon": "🚔",
-      "title": "Uyuşturucu test isteği emniyete takıldı: Keçiören Belediyesi Ankara'yı karıştıdı - yenicaggazetesi.com",
+      "title": "Uyuşturucu test isteği emniyete takıldı: Keçiören Belediyesi Ankara'yı karıştıdı - Yeniçağ Gazetesi",
       "location": "Keçiören / Ankara",
       "published": "2026-09-02T09:36:00+03:00",
       "confidence": 75,
       "sources": 1,
       "status": "Muhtemel",
-      "summary": "yenicaggazetesi.com üzerinden bulunan herkese açık kayıt.",
+      "summary": "Yeniçağ Gazetesi üzerinden bulunan herkese açık kayıt.",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNWE8ybURQSEdPdkM1M0VzU2pnN1lQN2pZSDhDc25CMG1UTzFTYjF4b1YwNm52MURtdHI3MjJuQlZRQ29TZHFMcllLYllWRkZ4SWhvRzZUaXVKZDZoSzVnZERpWjBoZkNlTVdEejc3ZnFlRXBnd1BnWWhQQVhOMDVjSWp2QmQzZEdPV1ZzSk1aLUhzb25BMVFjMjJiRjNjTlluVklzYTZHLWtGYV8zM2tDVzVpWElXaWVMY2dFU29sSk4?oc=5",
       "platform": "Haber",
       "source_links": [
         {
           "platform": "Haber",
-          "title": "Uyuşturucu test isteği emniyete takıldı: Keçiören Belediyesi Ankara'yı karıştıdı - yenicaggazetesi.com",
+          "title": "Uyuşturucu test isteği emniyete takıldı: Keçiören Belediyesi Ankara'yı karıştıdı - Yeniçağ Gazetesi",
           "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNWE8ybURQSEdPdkM1M0VzU2pnN1lQN2pZSDhDc25CMG1UTzFTYjF4b1YwNm52MURtdHI3MjJuQlZRQ29TZHFMcllLYllWRkZ4SWhvRzZUaXVKZDZoSzVnZERpWjBoZkNlTVdEejc3ZnFlRXBnd1BnWWhQQVhOMDVjSWp2QmQzZEdPV1ZzSk1aLUhzb25BMVFjMjJiRjNjTlluVklzYTZHLWtGYV8zM2tDVzVpWElXaWVMY2dFU29sSk4?oc=5",
           "published": "2026-09-02T09:36:00+03:00"
         }
@@ -2897,19 +2897,19 @@
         "Diğer"
       ],
       "icon": "⚠️",
-      "title": "Ankara Mamak'ta Tartıştığı Kadını Öldüren Kişi İntihar Etti - Mersin Haber",
+      "title": "Ankara Mamak'ta Tartıştığı Kadını Öldüren Kişi İntihar Etti - mersinhaber.com",
       "location": "Mamak / Ankara",
       "published": "2026-08-30T00:56:00+03:00",
       "confidence": 75,
       "sources": 1,
       "status": "Muhtemel",
-      "summary": "Mersin Haber üzerinden bulunan herkese açık kayıt.",
+      "summary": "mersinhaber.com üzerinden bulunan herkese açık kayıt.",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNYjFFcGhWekJiWEV3Z0F1N1R3VG1yUDE0MjY0Yjc1VEctaldEdk1jdm9Fa2k0dmkxV0JVOGtrMUpBTkJrTjNhTEVvR2V4a1R6RlN0bV9XRGZBZlF3MksydWVuT2gwWENwdnMtcW1GZ0JjbmJVbVpfRDh4TXhSUkV0NWZoT05Bdm13M3FwcnM4akRwNS1KdWpiOURqYzlsZlhX0gFXQVVfeXFMTzdDcmxLR0ZhUE15WnV6OW5NdkJUakVickxjdGFjV3M1WVdlb1hvd0RfNW4xN01Ha0FqdlBEVk1PTk12ME5oTDFZRlBmTkpaSGxjcjVsMFF3?oc=5",
       "platform": "Haber",
       "source_links": [
         {
           "platform": "Haber",
-          "title": "Ankara Mamak'ta Tartıştığı Kadını Öldüren Kişi İntihar Etti - Mersin Haber",
+          "title": "Ankara Mamak'ta Tartıştığı Kadını Öldüren Kişi İntihar Etti - mersinhaber.com",
           "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNYjFFcGhWekJiWEV3Z0F1N1R3VG1yUDE0MjY0Yjc1VEctaldEdk1jdm9Fa2k0dmkxV0JVOGtrMUpBTkJrTjNhTEVvR2V4a1R6RlN0bV9XRGZBZlF3MksydWVuT2gwWENwdnMtcW1GZ0JjbmJVbVpfRDh4TXhSUkV0NWZoT05Bdm13M3FwcnM4akRwNS1KdWpiOURqYzlsZlhX0gFXQVVfeXFMTzdDcmxLR0ZhUE15WnV6OW5NdkJUakVickxjdGFjV3M1WVdlb1hvd0RfNW4xN01Ha0FqdlBEVk1PTk12ME5oTDFZRlBmTkpaSGxjcjVsMFF3?oc=5",
           "published": "2026-08-30T00:56:00+03:00"
         }
@@ -3970,7 +3970,45 @@
         "Asayiş"
       ],
       "icon": "🔥",
-      "title": "Ankara Mamak'ta Ağaçlık Alanda Yangın Çıkması Üzerine İtfaiye Ekipleri Olay Yerinde - Mersin Haber",
+      "title": "SON DAKİKA! Ankara Valiliği duyurdu! Yangına neden olduğu belirtilen şahıs gözaltında! https://t.co/Y6lu6twiDU - x.com",
+      "location": "Ankara Geneli",
+      "published": "2026-08-23T10:00:00+03:00",
+      "confidence": 60,
+      "sources": 2,
+      "status": "Sosyal medya / doğrulanmamış",
+      "summary": "2 farklı açık kaynakta bulunan aynı olay tek kayıtta birleştirildi.",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE52Y3NjU1J0dU5TUXpwa3k3dl94WFQ1VzRKOU5DYlU3N3VGRzNqbjk2M1VzQTFfdkJsTHBtXzU2WTdscWxhT2YzbHRaSXg4eHROWTNhSDFPV3JjTGJEc1JnX05sdmVtWVV4T1QtSw?oc=5",
+      "platform": "X",
+      "source_links": [
+        {
+          "platform": "X",
+          "title": "SON DAKİKA! Ankara Valiliği duyurdu! Yangına neden olduğu belirtilen şahıs gözaltında! https://t.co/Y6lu6twiDU - x.com",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE52Y3NjU1J0dU5TUXpwa3k3dl94WFQ1VzRKOU5DYlU3N3VGRzNqbjk2M1VzQTFfdkJsTHBtXzU2WTdscWxhT2YzbHRaSXg4eHROWTNhSDFPV3JjTGJEc1JnX05sdmVtWVV4T1QtSw?oc=5",
+          "published": "2026-08-24T01:30:00+03:00"
+        },
+        {
+          "platform": "X",
+          "title": "SON DAKİKA! Ankara Valiliği duyurdu! Yangına neden olduğu belirtilen şahıs gözaltında! https://t.co/Y6lu6twiDU - x.com",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1qTkJGT0ZMWjl4Zm9tdi1kaHZRZWdSXzFPOXZMMENFcllSTjlKOGVlaTVTVEhpc2toT0N2RTlxaVlfZW54OE5fNzB0eUplU0NYQXdUUTBTek9ySTRaVGt4S1NB?oc=5",
+          "published": "2026-08-23T10:00:00+03:00"
+        }
+      ],
+      "last_updated": "2026-08-23T10:00:00+03:00",
+      "district": "Ankara Geneli",
+      "neighborhood": "Ankara Geneli",
+      "lat": 39.9334,
+      "lon": 32.8597,
+      "location_precision": "il",
+      "id": 120
+    },
+    {
+      "category": "Yangın",
+      "categories": [
+        "Yangın",
+        "Asayiş"
+      ],
+      "icon": "🔥",
+      "title": "Ankara Mamak'ta Ağaçlık Alanda Yangın Çıkması Üzerine İtfaiye Ekipleri Olay Yerinde - mersinhaber.com",
       "location": "Mamak / Ankara",
       "published": "2026-08-23T10:00:00+03:00",
       "confidence": 75,
@@ -4000,13 +4038,13 @@
         },
         {
           "platform": "Haber",
-          "title": "Ankara Mamak'ta Ağaçlık Alanda Yangın Çıktı, İtfaiye Müdahale Ediyor - Mersin Haber",
+          "title": "Ankara Mamak'ta Ağaçlık Alanda Yangın Çıktı, İtfaiye Müdahale Ediyor - mersinhaber.com",
           "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQczJjY0dyTUVKTk1xZG1iWjRHQzY0ZTdOWlZTWnRiUUs4bk0ycVN6aXNkd1dreS1aNEJJMGVUaFM4YnlNMDlSaWFjcmJvZ2NGcnhZSkFneVFrUF9FWmRXUUVrXzVtV09MdkN1bENFMEVzZnFLdXp1WkxCem01bWlPZG43dFBITmdsUWoyeWZGc0lhTU54YTZSZjVZaWF4RUgxQzZNN0huOUZmTXfSAVdBVV95cUxNYXY5d2NTdFFRVGtsOGJnQ1doUXFKSERodW1NMm9FbnRkd2VIRURteWF6TV9BaXR4UUlmZHQtTUxnUkRTbXRXb1hmd0x6ZlJJd2xEQzl5dG8?oc=5",
           "published": "2026-08-23T23:16:00+03:00"
         },
         {
           "platform": "Haber",
-          "title": "Ankara Mamak'ta Ağaçlık Alanda Yangın Çıkması Üzerine İtfaiye Ekipleri Olay Yerinde - Mersin Haber",
+          "title": "Ankara Mamak'ta Ağaçlık Alanda Yangın Çıkması Üzerine İtfaiye Ekipleri Olay Yerinde - mersinhaber.com",
           "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQYjU4cEt2MjRmNVBYdjRWUjFqMXZKZmRVN09ydlBiSHI3U0E2WUFJR1JvY1VzMmoxandIMTNKY3k4SWFIV0x0cE8yeGRrRFp0b2xrSXpOazBYbFlDUVVINVZjZm9rUjBRaUVuQ1FxcElKNFB5YkdzZGVMR3R4QWZudVRwejE5b2FfUWN4WENWaWR0V1JGQUJ1S1VfQk5sWTd6ZzV3X0xNZjZmbFdpWlNGSnJwbkJ6cTVuLUgyNmdIeE3SAVdBVV95cUxOMDcwUk1Ic3ltYkE4TGM3eEFmeXRIMU5IaWlFZy1xV293MXlhV2RrdTE4bm9tLUNkYU1fSnZ5Rzdjd2pXQ1FkQ1htRGlfay1RTUFMWkx4ejg?oc=5",
           "published": "2026-08-23T10:00:00+03:00"
         }
@@ -4017,7 +4055,7 @@
       "lat": 39.9308,
       "lon": 32.9307,
       "location_precision": "ilçe",
-      "id": 120
+      "id": 121
     },
     {
       "category": "Yangın",
@@ -4042,44 +4080,6 @@
           "published": "2026-08-24T00:04:12+03:00"
         }
       ],
-      "district": "Ankara Geneli",
-      "neighborhood": "Ankara Geneli",
-      "lat": 39.9334,
-      "lon": 32.8597,
-      "location_precision": "il",
-      "id": 121
-    },
-    {
-      "category": "Yangın",
-      "categories": [
-        "Yangın",
-        "Asayiş"
-      ],
-      "icon": "🔥",
-      "title": "SON DAKİKA! Ankara Valiliği duyurdu! Yangına neden olduğu belirtilen şahıs gözaltında! https://t.co/Y6lu6twiDU - x.com",
-      "location": "Ankara Geneli",
-      "published": "2026-08-23T10:00:00+03:00",
-      "confidence": 60,
-      "sources": 2,
-      "status": "Sosyal medya / doğrulanmamış",
-      "summary": "2 farklı açık kaynakta bulunan aynı olay tek kayıtta birleştirildi.",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE52Y3NjU1J0dU5TUXpwa3k3dl94WFQ1VzRKOU5DYlU3N3VGRzNqbjk2M1VzQTFfdkJsTHBtXzU2WTdscWxhT2YzbHRaSXg4eHROWTNhSDFPV3JjTGJEc1JnX05sdmVtWVV4T1QtSw?oc=5",
-      "platform": "X",
-      "source_links": [
-        {
-          "platform": "X",
-          "title": "SON DAKİKA! Ankara Valiliği duyurdu! Yangına neden olduğu belirtilen şahıs gözaltında! https://t.co/Y6lu6twiDU - x.com",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE52Y3NjU1J0dU5TUXpwa3k3dl94WFQ1VzRKOU5DYlU3N3VGRzNqbjk2M1VzQTFfdkJsTHBtXzU2WTdscWxhT2YzbHRaSXg4eHROWTNhSDFPV3JjTGJEc1JnX05sdmVtWVV4T1QtSw?oc=5",
-          "published": "2026-08-24T01:30:00+03:00"
-        },
-        {
-          "platform": "X",
-          "title": "SON DAKİKA! Ankara Valiliği duyurdu! Yangına neden olduğu belirtilen şahıs gözaltında! https://t.co/Y6lu6twiDU - x.com",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1qTkJGT0ZMWjl4Zm9tdi1kaHZRZWdSXzFPOXZMMENFcllSTjlKOGVlaTVTVEhpc2toT0N2RTlxaVlfZW54OE5fNzB0eUplU0NYQXdUUTBTek9ySTRaVGt4S1NB?oc=5",
-          "published": "2026-08-23T10:00:00+03:00"
-        }
-      ],
-      "last_updated": "2026-08-23T10:00:00+03:00",
       "district": "Ankara Geneli",
       "neighborhood": "Ankara Geneli",
       "lat": 39.9334,
@@ -4824,19 +4824,19 @@
         "Asayiş"
       ],
       "icon": "👮",
-      "title": "Ankara Çankaya'da Eğlence Mekanlarına Yönelik Yapılan Operasyonda Dikkat Çeken Olay - Mersin Haber",
+      "title": "Ankara Çankaya'da Eğlence Mekanlarına Yönelik Yapılan Operasyonda Dikkat Çeken Olay - mersinhaber.com",
       "location": "Çankaya / Ankara",
       "published": "2026-08-19T10:00:00+03:00",
       "confidence": 75,
       "sources": 1,
       "status": "Muhtemel",
-      "summary": "Mersin Haber üzerinden bulunan herkese açık kayıt.",
+      "summary": "mersinhaber.com üzerinden bulunan herkese açık kayıt.",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPWC1WSkhxVEZTTjNMVmE2TFRvVEkwWERZaVlvdzBaMklITE85aElDZVR3U1BmSzRCMXFLcWtPT3BTem5xalh6azBOT3YwUkR4NjNJMElBSExuZ3Y4WmtMQTNPZTduSHNKMmRneFpxclEwcFRFOElXZWMwMC1jc0dZVWNWQXZsYXRRLVh6MS1JcENrVnNrUER3bzY0ekFMV2VONm8tU3NrOEJRTENLdmg3QWdod3ZUekljSV9UcTlnSW_SAVdBVV95cUxQanpDRG5aRFRxTzF5VjA4ZDE0ZXhXM053bFUwLVZuOFdSbzI0RkhYd3hDM3hsVFJVNjROLTF0bUtQN3lTcmVuUDZ1cG1LOXRNcGRnYWR1U1E?oc=5",
       "platform": "Haber",
       "source_links": [
         {
           "platform": "Haber",
-          "title": "Ankara Çankaya'da Eğlence Mekanlarına Yönelik Yapılan Operasyonda Dikkat Çeken Olay - Mersin Haber",
+          "title": "Ankara Çankaya'da Eğlence Mekanlarına Yönelik Yapılan Operasyonda Dikkat Çeken Olay - mersinhaber.com",
           "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPWC1WSkhxVEZTTjNMVmE2TFRvVEkwWERZaVlvdzBaMklITE85aElDZVR3U1BmSzRCMXFLcWtPT3BTem5xalh6azBOT3YwUkR4NjNJMElBSExuZ3Y4WmtMQTNPZTduSHNKMmRneFpxclEwcFRFOElXZWMwMC1jc0dZVWNWQXZsYXRRLVh6MS1JcENrVnNrUER3bzY0ekFMV2VONm8tU3NrOEJRTENLdmg3QWdod3ZUekljSV9UcTlnSW_SAVdBVV95cUxQanpDRG5aRFRxTzF5VjA4ZDE0ZXhXM053bFUwLVZuOFdSbzI0RkhYd3hDM3hsVFJVNjROLTF0bUtQN3lTcmVuUDZ1cG1LOXRNcGRnYWR1U1E?oc=5",
           "published": "2026-08-19T10:00:00+03:00"
         }
@@ -5426,19 +5426,19 @@
         "Asayiş"
       ],
       "icon": "🚔",
-      "title": "Ankara'da gece mekânlarına eş zamanlı baskın: Fuhuş ve uyuşturucudan 18 kişi yakalandı - Halk TV",
+      "title": "Ankara'da gece mekânlarına eş zamanlı baskın: Fuhuş ve uyuşturucudan 18 kişi yakalandı - halktv.com.tr",
       "location": "Ankara Geneli",
       "published": "2026-08-16T10:00:00+03:00",
       "confidence": 75,
       "sources": 1,
       "status": "Muhtemel",
-      "summary": "Halk TV üzerinden bulunan herkese açık kayıt.",
+      "summary": "halktv.com.tr üzerinden bulunan herkese açık kayıt.",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOS1kzbUh3aHBKNWY3VXhYY2VmUXdZQmdTWEY2WkMwOE43ZmhjQXY3VEIwdmtubWhjR3JkVHhQMTdjLS1wdENNWGlvSjhFTDZOdGZoYjdjeUhUWTRnQWwzZjlLcHhMdXVsTG9GQzZsVWZ2OU43V0doQWJSTkJhNlZiUEVwRHhXVmRYc2t0TDNWaDJJWWlVRkZRU2t6bGFFLXI0bnFlWFpwbml5bldhUUdSZmloX0h6eEt1UFhNOGp0eHY?oc=5",
       "platform": "Haber",
       "source_links": [
         {
           "platform": "Haber",
-          "title": "Ankara'da gece mekânlarına eş zamanlı baskın: Fuhuş ve uyuşturucudan 18 kişi yakalandı - Halk TV",
+          "title": "Ankara'da gece mekânlarına eş zamanlı baskın: Fuhuş ve uyuşturucudan 18 kişi yakalandı - halktv.com.tr",
           "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOS1kzbUh3aHBKNWY3VXhYY2VmUXdZQmdTWEY2WkMwOE43ZmhjQXY3VEIwdmtubWhjR3JkVHhQMTdjLS1wdENNWGlvSjhFTDZOdGZoYjdjeUhUWTRnQWwzZjlLcHhMdXVsTG9GQzZsVWZ2OU43V0doQWJSTkJhNlZiUEVwRHhXVmRYc2t0TDNWaDJJWWlVRkZRU2t6bGFFLXI0bnFlWFpwbml5bldhUUdSZmloX0h6eEt1UFhNOGp0eHY?oc=5",
           "published": "2026-08-16T10:00:00+03:00"
         }
@@ -6158,19 +6158,19 @@
         "Taciz"
       ],
       "icon": "🟣",
-      "title": "'Taciz' iddiası sonrası CHP'li vekile dayak! CHP sözcüsü Ankara'ya çağırdıklarını duyurdu - sozcu.com.tr",
+      "title": "'Taciz' iddiası sonrası CHP'li vekile dayak! CHP sözcüsü Ankara'ya çağırdıklarını duyurdu - Sözcü Gazetesi",
       "location": "Ankara Geneli",
       "published": "2026-08-13T10:00:00+03:00",
       "confidence": 75,
       "sources": 1,
       "status": "Muhtemel",
-      "summary": "sozcu.com.tr üzerinden bulunan herkese açık kayıt.",
+      "summary": "Sözcü Gazetesi üzerinden bulunan herkese açık kayıt.",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPZjd3NWxQbEc3MnI4emJWaHE4YXZDZ0NDTmtPXzVmN1hlT1AtaDI2bWp5RlczWmoyY1VuRDVCZXRELW45TzhHMmk3RnFxeGRGLUNfVGQ4c2FsdnIxV2NzMWJzcV8zVEk3Z21zWVpWdUlPS1hDQXdzd3dHdTRzZ050cA?oc=5",
       "platform": "Haber",
       "source_links": [
         {
           "platform": "Haber",
-          "title": "'Taciz' iddiası sonrası CHP'li vekile dayak! CHP sözcüsü Ankara'ya çağırdıklarını duyurdu - sozcu.com.tr",
+          "title": "'Taciz' iddiası sonrası CHP'li vekile dayak! CHP sözcüsü Ankara'ya çağırdıklarını duyurdu - Sözcü Gazetesi",
           "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPZjd3NWxQbEc3MnI4emJWaHE4YXZDZ0NDTmtPXzVmN1hlT1AtaDI2bWp5RlczWmoyY1VuRDVCZXRELW45TzhHMmk3RnFxeGRGLUNfVGQ4c2FsdnIxV2NzMWJzcV8zVEk3Z21zWVpWdUlPS1hDQXdzd3dHdTRzZ050cA?oc=5",
           "published": "2026-08-13T10:00:00+03:00"
         }
@@ -7091,19 +7091,19 @@
         "Yangın"
       ],
       "icon": "🔥",
-      "title": "Ankara Etimesgut'ta Ağaçlık Alanda Yangın Sebebiyle Ekipler Olay Yerinde - Mersin Haber",
+      "title": "Ankara Etimesgut'ta Ağaçlık Alanda Yangın Sebebiyle Ekipler Olay Yerinde - mersinhaber.com",
       "location": "Etimesgut / Ankara",
       "published": "2026-08-08T10:00:00+03:00",
       "confidence": 75,
       "sources": 1,
       "status": "Muhtemel",
-      "summary": "Mersin Haber üzerinden bulunan herkese açık kayıt.",
+      "summary": "mersinhaber.com üzerinden bulunan herkese açık kayıt.",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRFBsNzYwbXhybjhjanFvX3JUUGhoYnZKMVAyVy1vX1dfdEUxRC10VUJ5MUdqaWlJSXVEWm1qc1JwZ3dyWndkSW9OMEFtRkV3MERXWGdhc0x1aW4yUDI1LWdzRmpHY2Z2Mk9IU3NfNkRmc0VtWE9mRGNHRGJ1YzYxYjZ4em5oRDJSeW52bUtIUlBaWlR3SHNxMUlkTW10bnktSGpFZFBsSGM2Mmc5NmZCV1hB0gFXQVVfeXFMTXd4czZRTWpaQjdUVDc1T0lEYmdCbkRaY0pTSDZ4aGpyWTNxQ1dYSUF6NE8yWEkxcE50YkJJVHoyZWFJTFRqdWxHdXlxd0lnZ3JoT0JqUVlN?oc=5",
       "platform": "Haber",
       "source_links": [
         {
           "platform": "Haber",
-          "title": "Ankara Etimesgut'ta Ağaçlık Alanda Yangın Sebebiyle Ekipler Olay Yerinde - Mersin Haber",
+          "title": "Ankara Etimesgut'ta Ağaçlık Alanda Yangın Sebebiyle Ekipler Olay Yerinde - mersinhaber.com",
           "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRFBsNzYwbXhybjhjanFvX3JUUGhoYnZKMVAyVy1vX1dfdEUxRC10VUJ5MUdqaWlJSXVEWm1qc1JwZ3dyWndkSW9OMEFtRkV3MERXWGdhc0x1aW4yUDI1LWdzRmpHY2Z2Mk9IU3NfNkRmc0VtWE9mRGNHRGJ1YzYxYjZ4em5oRDJSeW52bUtIUlBaWlR3SHNxMUlkTW10bnktSGpFZFBsSGM2Mmc5NmZCV1hB0gFXQVVfeXFMTXd4czZRTWpaQjdUVDc1T0lEYmdCbkRaY0pTSDZ4aGpyWTNxQ1dYSUF6NE8yWEkxcE50YkJJVHoyZWFJTFRqdWxHdXlxd0lnZ3JoT0JqUVlN?oc=5",
           "published": "2026-08-08T10:00:00+03:00"
         }
@@ -7648,19 +7648,19 @@
         "Yangın"
       ],
       "icon": "🔥",
-      "title": "Ankara’nın Yenimahalle ilçesinde dir dükkan alevlere teslim oldu ! Ankara’nın Yenimahalle ilçesinde bir hırdavat dükkanında çıkan yangın, itfaiye ekipleri tarafından söndürüldü. Yangın, dün akşam saatlerinde Yenimahalle İvedik OSB Mahallesi 1467.Cadde’d - TikTok",
+      "title": "Ankara’nın Yenimahalle ilçesinde dir dükkan alevlere teslim oldu ! Ankara’nın Yenimahalle ilçesinde bir hırdavat dükkanında çıkan yangın, itfaiye ekipleri tarafından söndürüldü. Yangın, dün akşam saatlerinde Yenimahalle İvedik OSB Mahallesi 1467.Cadde’d - tiktok.com",
       "location": "Yenimahalle / Ankara",
       "published": "2026-08-04T10:00:00+03:00",
       "confidence": 60,
       "sources": 1,
       "status": "Sosyal medya / doğrulanmamış",
-      "summary": "TikTok üzerinden bulunan herkese açık kayıt.",
+      "summary": "tiktok.com üzerinden bulunan herkese açık kayıt.",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBiODR1b2JJeU1xOGJOb3R5eDUxbU8zaW1yY0VKYzItU1hnZWdxOU9tSjctZGhjcmRYc2pRVmdkNUJScWRHREVPNG1ITEhfZnJSM1ZNbENvQ1pxcDZ0UmdiNVpJQ2lWS3hYNXc2amtCeW9tZw?oc=5",
       "platform": "TikTok",
       "source_links": [
         {
           "platform": "TikTok",
-          "title": "Ankara’nın Yenimahalle ilçesinde dir dükkan alevlere teslim oldu ! Ankara’nın Yenimahalle ilçesinde bir hırdavat dükkanında çıkan yangın, itfaiye ekipleri tarafından söndürüldü. Yangın, dün akşam saatlerinde Yenimahalle İvedik OSB Mahallesi 1467.Cadde’d - TikTok",
+          "title": "Ankara’nın Yenimahalle ilçesinde dir dükkan alevlere teslim oldu ! Ankara’nın Yenimahalle ilçesinde bir hırdavat dükkanında çıkan yangın, itfaiye ekipleri tarafından söndürüldü. Yangın, dün akşam saatlerinde Yenimahalle İvedik OSB Mahallesi 1467.Cadde’d - tiktok.com",
           "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBiODR1b2JJeU1xOGJOb3R5eDUxbU8zaW1yY0VKYzItU1hnZWdxOU9tSjctZGhjcmRYc2pRVmdkNUJScWRHREVPNG1ITEhfZnJSM1ZNbENvQ1pxcDZ0UmdiNVpJQ2lWS3hYNXc2amtCeW9tZw?oc=5",
           "published": "2026-08-04T10:00:00+03:00"
         }
@@ -8052,19 +8052,19 @@
         "Asayiş"
       ],
       "icon": "👮",
-      "title": "Ankara Çankaya'da Yol Kenarında Bulunan Kadınla İlgili 1 Şüpheli Gözaltında - Mersin Haber",
+      "title": "Ankara Çankaya'da Yol Kenarında Bulunan Kadınla İlgili 1 Şüpheli Gözaltında - mersinhaber.com",
       "location": "Çankaya / Ankara",
       "published": "2026-07-30T10:00:00+03:00",
       "confidence": 75,
       "sources": 1,
       "status": "Muhtemel",
-      "summary": "Mersin Haber üzerinden bulunan herkese açık kayıt.",
+      "summary": "mersinhaber.com üzerinden bulunan herkese açık kayıt.",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQaEJvWHpRYmJ4eFl6OWl0cGtwLXRoVWlwWE9fMnNJbF9IMS1rRmhsWk5wR01samRRVkFLUXlHVjNuSVJMdWxlc0pNc1N2bVM5cnN5Zk1zaUQzR2loV1MyRklNazM4Tkp3TEdBbUlSUHZzYmRzUlVsNjNkUkhnRHZ5M0FPcGRwMEhlMzNmSTdkZVljOVg3VUJvSlFHN1V3N3dta1ZOVDlYcmdzTFhram0yV3dMbGRVQdIBV0FVX3lxTFB6WnRib0JUbVBDTTVFS2FjZFNkc2JveXVaU25XenV1OWYxa21SS0M4RHYxa0stQnUteDctUjVNZ2t5NEZJWFd3V1RTdm04ZEplT2pCM240UQ?oc=5",
       "platform": "Haber",
       "source_links": [
         {
           "platform": "Haber",
-          "title": "Ankara Çankaya'da Yol Kenarında Bulunan Kadınla İlgili 1 Şüpheli Gözaltında - Mersin Haber",
+          "title": "Ankara Çankaya'da Yol Kenarında Bulunan Kadınla İlgili 1 Şüpheli Gözaltında - mersinhaber.com",
           "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQaEJvWHpRYmJ4eFl6OWl0cGtwLXRoVWlwWE9fMnNJbF9IMS1rRmhsWk5wR01samRRVkFLUXlHVjNuSVJMdWxlc0pNc1N2bVM5cnN5Zk1zaUQzR2loV1MyRklNazM4Tkp3TEdBbUlSUHZzYmRzUlVsNjNkUkhnRHZ5M0FPcGRwMEhlMzNmSTdkZVljOVg3VUJvSlFHN1V3N3dta1ZOVDlYcmdzTFhram0yV3dMbGRVQdIBV0FVX3lxTFB6WnRib0JUbVBDTTVFS2FjZFNkc2JveXVaU25XenV1OWYxa21SS0M4RHYxa0stQnUteDctUjVNZ2t5NEZJWFd3V1RTdm04ZEplT2pCM240UQ?oc=5",
           "published": "2026-07-30T10:00:00+03:00"
         }
@@ -8143,19 +8143,19 @@
         "Kavga"
       ],
       "icon": "🟣",
-      "title": "Ankara Mamak'ta Kız Çocuklarını Taciz Eden Saldırganlara Müdahale Eden Yaşlı Adam Darp Edildi - Mersin Haber",
+      "title": "Ankara Mamak'ta Kız Çocuklarını Taciz Eden Saldırganlara Müdahale Eden Yaşlı Adam Darp Edildi - mersinhaber.com",
       "location": "Mamak / Ankara",
       "published": "2026-07-30T10:00:00+03:00",
       "confidence": 75,
       "sources": 1,
       "status": "Muhtemel",
-      "summary": "Mersin Haber üzerinden bulunan herkese açık kayıt.",
+      "summary": "mersinhaber.com üzerinden bulunan herkese açık kayıt.",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOT3pobWVmcU5WUk5MWktxUF9rT0FhUndTLVRwYW13TFlSTTFlRW43VEg5dWxaejdneDBxWlZaMWljUlFMY1ZaS1NvUzV5VExNSFRUaGc4S2RHS0R1Z19sYm9oQ1BzV2lrUUdEcmduSDBDQ3ZsMk9rU21kMXBHN1N4RzB0cm51c2V4Yl9qZzlTZml5QVJkeWhfRWpjRDdQZlN2YjRYVkRRVG1OS0RhdkV4N2hDekcxMUpiM0wzUGI4VGZXbkxxX1k5OUFDY2FnQdIBV0FVX3lxTE9sR0o2VElpXzQ3UklkQXdyREpjOExlY09JT2JFMTJ2VWxVMFIwMkRTVVlhTTQ0M3gwa1lNYkU3Vl9xYldwNERnTi15ZTdFZXlDOWpjdTRXdw?oc=5",
       "platform": "Haber",
       "source_links": [
         {
           "platform": "Haber",
-          "title": "Ankara Mamak'ta Kız Çocuklarını Taciz Eden Saldırganlara Müdahale Eden Yaşlı Adam Darp Edildi - Mersin Haber",
+          "title": "Ankara Mamak'ta Kız Çocuklarını Taciz Eden Saldırganlara Müdahale Eden Yaşlı Adam Darp Edildi - mersinhaber.com",
           "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOT3pobWVmcU5WUk5MWktxUF9rT0FhUndTLVRwYW13TFlSTTFlRW43VEg5dWxaejdneDBxWlZaMWljUlFMY1ZaS1NvUzV5VExNSFRUaGc4S2RHS0R1Z19sYm9oQ1BzV2lrUUdEcmduSDBDQ3ZsMk9rU21kMXBHN1N4RzB0cm51c2V4Yl9qZzlTZml5QVJkeWhfRWpjRDdQZlN2YjRYVkRRVG1OS0RhdkV4N2hDekcxMUpiM0wzUGI4VGZXbkxxX1k5OUFDY2FnQdIBV0FVX3lxTE9sR0o2VElpXzQ3UklkQXdyREpjOExlY09JT2JFMTJ2VWxVMFIwMkRTVVlhTTQ0M3gwa1lNYkU3Vl9xYldwNERnTi15ZTdFZXlDOWpjdTRXdw?oc=5",
           "published": "2026-07-30T10:00:00+03:00"
         }
@@ -8388,19 +8388,19 @@
         "Silahlı Olay"
       ],
       "icon": "⚫",
-      "title": "Güdül'de Damat Dehşeti: Kaynanası ve Kayınbabasını Silahla Vurarak Öldürdü - bizimankara.com.tr",
+      "title": "Güdül'de Damat Dehşeti: Kaynanası ve Kayınbabasını Silahla Vurarak Öldürdü - Bizim Ankara",
       "location": "Güdül / Ankara",
       "published": "2026-07-28T17:20:00+03:00",
       "confidence": 75,
       "sources": 1,
       "status": "Muhtemel",
-      "summary": "bizimankara.com.tr üzerinden bulunan herkese açık kayıt.",
+      "summary": "Bizim Ankara üzerinden bulunan herkese açık kayıt.",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZ0tfWnQ3d3NXQXJ0aWhqVlA4WXJQNExOZEl3TWNMQ2pZMEEwYl9TU1BLY2pIN3lYNVNvckphVUlKZzdrV3ZFLVJySThLUFNPT25wLTlhdjVHcF9EeVRQN2hPZTBKNm0tM1NaZEhjU3hhLVJLSDRfVjdPdkZTbnFwbzFvaGJjQUlPbXo2RFFTZUlBSTRqcW1RNlNTUUtQQlZ3aWp6NUxR0gGrAUFVX3lxTE9sRkdTWUZLMGdvUnJ1UzZBZ1BlNzhHTFZsN2Q1RGxZdmkyRmhZQWRWQXdqYV9oOG8yNFBxekhTTi1QNDNZc3pWZE82VXMyQUhqQWRzVl95ZVRrLXY1V21ISnlEOTRhOWlOaUhqZ0tYRms5VkJXclN6alJaSXk2eFVSaXFEZVoxdEtGSnRGUjEzZ1ZMcGY0ZHg5N3JHdkZKWHdlbno2eERGVmoydw?oc=5",
       "platform": "Haber",
       "source_links": [
         {
           "platform": "Haber",
-          "title": "Güdül'de Damat Dehşeti: Kaynanası ve Kayınbabasını Silahla Vurarak Öldürdü - bizimankara.com.tr",
+          "title": "Güdül'de Damat Dehşeti: Kaynanası ve Kayınbabasını Silahla Vurarak Öldürdü - Bizim Ankara",
           "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZ0tfWnQ3d3NXQXJ0aWhqVlA4WXJQNExOZEl3TWNMQ2pZMEEwYl9TU1BLY2pIN3lYNVNvckphVUlKZzdrV3ZFLVJySThLUFNPT25wLTlhdjVHcF9EeVRQN2hPZTBKNm0tM1NaZEhjU3hhLVJLSDRfVjdPdkZTbnFwbzFvaGJjQUlPbXo2RFFTZUlBSTRqcW1RNlNTUUtQQlZ3aWp6NUxR0gGrAUFVX3lxTE9sRkdTWUZLMGdvUnJ1UzZBZ1BlNzhHTFZsN2Q1RGxZdmkyRmhZQWRWQXdqYV9oOG8yNFBxekhTTi1QNDNZc3pWZE82VXMyQUhqQWRzVl95ZVRrLXY1V21ISnlEOTRhOWlOaUhqZ0tYRms5VkJXclN6alJaSXk2eFVSaXFEZVoxdEtGSnRGUjEzZ1ZMcGY0ZHg5N3JHdkZKWHdlbno2eERGVmoydw?oc=5",
           "published": "2026-07-28T17:20:00+03:00"
         }
@@ -8791,19 +8791,19 @@
         "Yangın"
       ],
       "icon": "🔥",
-      "title": "Ankara Haymana'da Seyir Halindeki Tırda Yangın Çıktı - Mersin Haber",
+      "title": "Ankara Haymana'da Seyir Halindeki Tırda Yangın Çıktı - mersinhaber.com",
       "location": "Haymana / Ankara",
       "published": "2026-07-27T10:00:00+03:00",
       "confidence": 75,
       "sources": 1,
       "status": "Muhtemel",
-      "summary": "Mersin Haber üzerinden bulunan herkese açık kayıt.",
+      "summary": "mersinhaber.com üzerinden bulunan herkese açık kayıt.",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPVE14QkZaaGNpbmp0MTNwWVhQTlB0WFRabjJUYUxxaFNENmpLMUY4Ui1CMnRlTGRRMkttM1NBWWVKVFEyRnlIRmZHYnZkdUJkb0ZOZ1pCQ1NOcEpLWHJsUjFTLXNHMlcyWHN1Mk5TTWVGQjlFc3dhLTNPMU5xcjJqSWhxa3VGZ1daLVZfWnU3dl9NMVdDUEVz0gFXQVVfeXFMT1dOYWZOc2tfMEllTzNNSGwyZ3Jva1h6Z1UyT0hxV20yMXQyYVNDaHMwMXRRbXVFNUluSjN2VGo2UlNpWkh5S1Z0d2NNMlZNb3hqd0JZeU5r?oc=5",
       "platform": "Haber",
       "source_links": [
         {
           "platform": "Haber",
-          "title": "Ankara Haymana'da Seyir Halindeki Tırda Yangın Çıktı - Mersin Haber",
+          "title": "Ankara Haymana'da Seyir Halindeki Tırda Yangın Çıktı - mersinhaber.com",
           "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPVE14QkZaaGNpbmp0MTNwWVhQTlB0WFRabjJUYUxxaFNENmpLMUY4Ui1CMnRlTGRRMkttM1NBWWVKVFEyRnlIRmZHYnZkdUJkb0ZOZ1pCQ1NOcEpLWHJsUjFTLXNHMlcyWHN1Mk5TTWVGQjlFc3dhLTNPMU5xcjJqSWhxa3VGZ1daLVZfWnU3dl9NMVdDUEVz0gFXQVVfeXFMT1dOYWZOc2tfMEllTzNNSGwyZ3Jva1h6Z1UyT0hxV20yMXQyYVNDaHMwMXRRbXVFNUluSjN2VGo2UlNpWkh5S1Z0d2NNMlZNb3hqd0JZeU5r?oc=5",
           "published": "2026-07-27T10:00:00+03:00"
         }
@@ -9199,19 +9199,19 @@
         "Trafik Kazası"
       ],
       "icon": "🚗",
-      "title": "Ankara'da kahreden kaza: Görev yolundaki uzman çavuş şehit oldu - yenicaggazetesi.com",
+      "title": "Ankara'da kahreden kaza: Görev yolundaki uzman çavuş şehit oldu - Yeniçağ Gazetesi",
       "location": "Ankara Geneli",
       "published": "2026-07-23T10:00:00+03:00",
       "confidence": 75,
       "sources": 1,
       "status": "Muhtemel",
-      "summary": "yenicaggazetesi.com üzerinden bulunan herkese açık kayıt.",
+      "summary": "Yeniçağ Gazetesi üzerinden bulunan herkese açık kayıt.",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZ1NwQmdmaDJTZXdXb0Nzd0pHb28xMkRUb29aZ0dHbW82clJKdlIwN29MMmdvaFlUODB5WTJVTmlYZXpnRGxRdFdHR1VhN29WTEs4MFRiSXNGR2lNUVp2QXpCSEhlVFgxQi1SaXlsUHJ1T2pVSDVsZ1Q4ZkN5Tkt3SExSTC1zOHR0d2Y5eFZfMktHUUg3ZENXczZBX1YwdjVLWW1GNEJLTHd4UQ?oc=5",
       "platform": "Haber",
       "source_links": [
         {
           "platform": "Haber",
-          "title": "Ankara'da kahreden kaza: Görev yolundaki uzman çavuş şehit oldu - yenicaggazetesi.com",
+          "title": "Ankara'da kahreden kaza: Görev yolundaki uzman çavuş şehit oldu - Yeniçağ Gazetesi",
           "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZ1NwQmdmaDJTZXdXb0Nzd0pHb28xMkRUb29aZ0dHbW82clJKdlIwN29MMmdvaFlUODB5WTJVTmlYZXpnRGxRdFdHR1VhN29WTEs4MFRiSXNGR2lNUVp2QXpCSEhlVFgxQi1SaXlsUHJ1T2pVSDVsZ1Q4ZkN5Tkt3SExSTC1zOHR0d2Y5eFZfMktHUUg3ZENXczZBX1YwdjVLWW1GNEJLTHd4UQ?oc=5",
           "published": "2026-07-23T10:00:00+03:00"
         }
@@ -9358,19 +9358,19 @@
         "Asayiş"
       ],
       "icon": "👮",
-      "title": "Ankara Altındağ'da Pompalı Tüfekle Sevgilisinin Dükkanını ve Aracını Yakan Şahıs Gözaltına Alındı - Mersin Haber",
+      "title": "Ankara Altındağ'da Pompalı Tüfekle Sevgilisinin Dükkanını ve Aracını Yakan Şahıs Gözaltına Alındı - mersinhaber.com",
       "location": "Altındağ / Ankara",
       "published": "2026-07-22T10:00:00+03:00",
       "confidence": 75,
       "sources": 1,
       "status": "Muhtemel",
-      "summary": "Mersin Haber üzerinden bulunan herkese açık kayıt.",
+      "summary": "mersinhaber.com üzerinden bulunan herkese açık kayıt.",
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNNFhDaUJxd2ZPeVdSLXpFWXc1cGhIWFBqX1RFUS16c2hxeXdZdmNVVDVQQTREVGVXRlF6a0RVRjduQ2drRU00a3RQcjd1aWxla1lhNjZNMXFGUU1JZ2ZUQ3ZEaXplbTVPU1V4U2VLd2tDSVBTSE9PX0dOZzlwUzh2SERzOU03R0FNSzZySW1CdE5Ud2Rmd2wyLWtYRjlCSjF4RzRfNjExN3hDbDg0Y3JJQUZEc0pjTDNhcHlEcG8zRGV4dmsxNml2M1Byd0lKdUZOWWdB0gFXQVVfeXFMUFo1a2l3em81UEZFOEF4bEprXzdVTmdYSGFGdndLWFNTVFpab2lfU041Z3FraHp2Snk1TDhZTGNIY1NyUTl0Y0RhVl9RTFZCMkJTSEozZC1z?oc=5",
       "platform": "Haber",
       "source_links": [
         {
           "platform": "Haber",
-          "title": "Ankara Altındağ'da Pompalı Tüfekle Sevgilisinin Dükkanını ve Aracını Yakan Şahıs Gözaltına Alındı - Mersin Haber",
+          "title": "Ankara Altındağ'da Pompalı Tüfekle Sevgilisinin Dükkanını ve Aracını Yakan Şahıs Gözaltına Alındı - mersinhaber.com",
           "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNNFhDaUJxd2ZPeVdSLXpFWXc1cGhIWFBqX1RFUS16c2hxeXdZdmNVVDVQQTREVGVXRlF6a0RVRjduQ2drRU00a3RQcjd1aWxla1lhNjZNMXFGUU1JZ2ZUQ3ZEaXplbTVPU1V4U2VLd2tDSVBTSE9PX0dOZzlwUzh2SERzOU03R0FNSzZySW1CdE5Ud2Rmd2wyLWtYRjlCSjF4RzRfNjExN3hDbDg0Y3JJQUZEc0pjTDNhcHlEcG8zRGV4dmsxNml2M1Byd0lKdUZOWWdB0gFXQVVfeXFMUFo1a2l3em81UEZFOEF4bEprXzdVTmdYSGFGdndLWFNTVFpab2lfU041Z3FraHp2Snk1TDhZTGNIY1NyUTl0Y0RhVl9RTFZCMkJTSEozZC1z?oc=5",
           "published": "2026-07-22T10:00:00+03:00"
         }
@@ -9689,19 +9689,19 @@
         "Asayiş"
       ],
       "icon": "👮",
-      "title": "Ankara Yenimahalle'de Otluk Alanını Ateşe Veren Şüpheli Tutuklandı - Mersin Haber",
+      "title": "Ankara Yenimahalle'de Otluk Alanını Ateşe Veren Şüpheli Tutuklandı - mersinhaber.com",
       "location": "Yenimahalle / Ankara",
       "published": "2026-07-21T10:00:00+03:00",
       "confidence": 75,
       "sources": 1,
       "status": "Muhtemel",
-      "summary": "Mersin Haber üzerinden bulunan herkese açık kayıt.",
+      "summary": "mersinhaber.com üzerinden bulunan herkese açık kayıt.",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZnczS0VFZ0tmZHVZX1ZuX0dnc2RFaTBlbkNWLUR3dl9ZZTlmeWY4SWwxX1ZtTWs3V2dvOTJ5OURIbEhrLVBhdEYyTjdKV0ljdzcyMU9LWndqOTIzNF9fZ1FjZ0ZoRXJOeE9UZHloUDFKLXkzWXY5enVOX1A3d2FINmRwTy1sZ292V2hJYTE0bTl4NWRlTHpBSG15N09YWXdOZy1RSGNKQk1zQdIBV0FVX3lxTE53NkY3T0ozaHdNbm53X3QxdXptRVNHbU9LY2IzUXRVVWQ0SVAwYXdKOVJqNkliRU81TVhhWHRUVjFCMkQ1cG1tZlU5N0xmNzBaakRVT1A5TQ?oc=5",
       "platform": "Haber",
       "source_links": [
         {
           "platform": "Haber",
-          "title": "Ankara Yenimahalle'de Otluk Alanını Ateşe Veren Şüpheli Tutuklandı - Mersin Haber",
+          "title": "Ankara Yenimahalle'de Otluk Alanını Ateşe Veren Şüpheli Tutuklandı - mersinhaber.com",
           "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZnczS0VFZ0tmZHVZX1ZuX0dnc2RFaTBlbkNWLUR3dl9ZZTlmeWY4SWwxX1ZtTWs3V2dvOTJ5OURIbEhrLVBhdEYyTjdKV0ljdzcyMU9LWndqOTIzNF9fZ1FjZ0ZoRXJOeE9UZHloUDFKLXkzWXY5enVOX1A3d2FINmRwTy1sZ292V2hJYTE0bTl4NWRlTHpBSG15N09YWXdOZy1RSGNKQk1zQdIBV0FVX3lxTE53NkY3T0ozaHdNbm53X3QxdXptRVNHbU9LY2IzUXRVVWQ0SVAwYXdKOVJqNkliRU81TVhhWHRUVjFCMkQ1cG1tZlU5N0xmNzBaakRVT1A5TQ?oc=5",
           "published": "2026-07-21T10:00:00+03:00"
         }
@@ -10067,7 +10067,7 @@
         "Yangın"
       ],
       "icon": "🚗",
-      "title": "Ankara Kahramankazan'da Kimyasal Ürün Fabrikasında Yangın Yaşandı, Alevler Yan Fabrikaya Sıçradı - Mersin Haber",
+      "title": "Ankara Kahramankazan'da Kimyasal Ürün Fabrikasında Yangın Yaşandı, Alevler Yan Fabrikaya Sıçradı - mersinhaber.com",
       "location": "Kahramankazan / Ankara",
       "published": "2026-07-19T10:00:00+03:00",
       "confidence": 75,
@@ -10079,13 +10079,13 @@
       "source_links": [
         {
           "platform": "Haber",
-          "title": "Ankara Kahramankazan'daki Bir Fabrikada Yangın Çıktı, İtfaiye Ekipleri Müdahale Ediyor - Mersin Haber",
+          "title": "Ankara Kahramankazan'daki Bir Fabrikada Yangın Çıktı, İtfaiye Ekipleri Müdahale Ediyor - mersinhaber.com",
           "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQdlpZakpxbVpmSTYxdU05eERVeE1XcDJUU0k1ZlRqX1B0WHViTUhyWkRLVWMwSlZVU2Z3VWo1aHF1bDZ0eFp2RWhZaW1oN1BqMGFnNkhJSFJSNTlWb0xUaHkyVlRzbDlUc1ZJZEpGY0V3MjRYT09yTVdqbUIxcGZVY0VuVzlhNnFNaUdaYy00MjNJdFRDNmF5Ym1KMXNqWTRWSVNDSEJGOWUtWlNBRlJGc0pScEM3VUdsdjBaOEFPRFdENknSAVdBVV95cUxObDdhdDFpY2lNaFNwOENPbmxvZzMteUVodXVGMEVSNWpVeW1Bc1FwZDBaSWJma0EyNTV2RFd4alA0YndMb25IRTBtNHRRWDJadVBOdkZhY00?oc=5",
           "published": "2026-07-19T10:00:00+03:00"
         },
         {
           "platform": "Haber",
-          "title": "Ankara Kahramankazan'da Kimyasal Ürün Fabrikasında Yangın Yaşandı, Alevler Yan Fabrikaya Sıçradı - Mersin Haber",
+          "title": "Ankara Kahramankazan'da Kimyasal Ürün Fabrikasında Yangın Yaşandı, Alevler Yan Fabrikaya Sıçradı - mersinhaber.com",
           "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQS3lDQzJvNzVhdnNHako5Q0ptSmVxOGdyQklCUG4zRXZQRDNLQnRjaWU3Y2NZOFVTRXduMG83WVNweUZsRXhBcW4tZXFiVkhLR0dDdXRrM2J4WklDaUxwUTRfZ1l4dFdidENjT2lmU1VsRTY5WXJQMXNVN0h3MEJFdG13ZFFHNnpMZk9FUVhIWlpaa2c3dWxzX2NVR3k4NjJLUXdVUHMzNHptSXB1VV96Ujc3MWZqRTlnZjd3ZF9wWGVzaWhxSkc0YldUak84V3NB0gFXQVVfeXFMUHlpdXEtbkJuLWxIcHdCVXMyWnNraWxjM2M4NFdpUW9ZNWhkRk5HQ3ZPd29yMjY2dlVBSjBRQzhZSWRwWHBFbWRWc2tQNFJxT3RQX2RzOUxj?oc=5",
           "published": "2026-07-19T10:00:00+03:00"
         }
@@ -10259,19 +10259,19 @@
         "Trafik Kazası"
       ],
       "icon": "🚗",
-      "title": "Ankara Mamak'ta Meydana Gelen Trafik Kazasında 3 Kişi Yaralandı - Mersin Haber",
+      "title": "Ankara Mamak'ta Meydana Gelen Trafik Kazasında 3 Kişi Yaralandı - mersinhaber.com",
       "location": "Mamak / Ankara",
       "published": "2026-07-17T10:00:00+03:00",
       "confidence": 75,
       "sources": 1,
       "status": "Muhtemel",
-      "summary": "Mersin Haber üzerinden bulunan herkese açık kayıt.",
+      "summary": "mersinhaber.com üzerinden bulunan herkese açık kayıt.",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPa3BJdEx2OHFqREdZX1BEZHlIekl0ck14RWZ6RllmZHhXdjllZ2JKWnB6cDJPejJnNlMybnFNV1FoYmRVRThvRUZXYk5DOHdCS0VfQTFCY2JLaFBvZGg5ZzMzeHZmd2RoaldsSXpDUlF0V3JZeWFzVHNhWF9wc0ZNdFZqZU5IelJ1UzEzalcwZWdPZXh2SXg2UkZvUlVZbkZQYm0tTld30gFXQVVfeXFMTVBSTGxSOU91VGpHUUQ5aXBvY3V5akg2YzA5MVF1RFFpRFRYbFhQX0FoTnBWQmNSZ3Z3MG5adVZ1NFVCTENIQUlES0JMLU5kX2ctbXQ2TUxB?oc=5",
       "platform": "Haber",
       "source_links": [
         {
           "platform": "Haber",
-          "title": "Ankara Mamak'ta Meydana Gelen Trafik Kazasında 3 Kişi Yaralandı - Mersin Haber",
+          "title": "Ankara Mamak'ta Meydana Gelen Trafik Kazasında 3 Kişi Yaralandı - mersinhaber.com",
           "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPa3BJdEx2OHFqREdZX1BEZHlIekl0ck14RWZ6RllmZHhXdjllZ2JKWnB6cDJPejJnNlMybnFNV1FoYmRVRThvRUZXYk5DOHdCS0VfQTFCY2JLaFBvZGg5ZzMzeHZmd2RoaldsSXpDUlF0V3JZeWFzVHNhWF9wc0ZNdFZqZU5IelJ1UzEzalcwZWdPZXh2SXg2UkZvUlVZbkZQYm0tTld30gFXQVVfeXFMTVBSTGxSOU91VGpHUUQ5aXBvY3V5akg2YzA5MVF1RFFpRFRYbFhQX0FoTnBWQmNSZ3Z3MG5adVZ1NFVCTENIQUlES0JMLU5kX2ctbXQ2TUxB?oc=5",
           "published": "2026-07-17T10:00:00+03:00"
         }
@@ -10327,19 +10327,19 @@
         "Silahlı Olay"
       ],
       "icon": "🔫",
-      "title": "Ankara Etimesgut'ta Kuyumcuyu Silahla Soyan Zanlının Görüntüleri Yayınlandı - Mersin Haber",
+      "title": "Ankara Etimesgut'ta Kuyumcuyu Silahla Soyan Zanlının Görüntüleri Yayınlandı - mersinhaber.com",
       "location": "Etimesgut / Ankara",
       "published": "2026-07-17T10:00:00+03:00",
       "confidence": 75,
       "sources": 1,
       "status": "Muhtemel",
-      "summary": "Mersin Haber üzerinden bulunan herkese açık kayıt.",
+      "summary": "mersinhaber.com üzerinden bulunan herkese açık kayıt.",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdW41d0tHeE5ncExtYWFaQkVUdFgyalFLdmdNMUFzc1EyQmlLYXZ6ak1CUWVNdkJaMEhpNWdiZlBhdzg3U3NNZjZyb09pTFJtVmpoX1RkV1N5YzNtV096TEFwbHl6azdxandqd0lMUldaQ3NraU0xUzhkZzlCU01SbnpJUDExcWxIeDlJRE1LWC0walZnekpTU0lEVWNfLVFMQzBacHNTVXRQODJHM0dQNzhNMUg0QdIBV0FVX3lxTFBlVWhTWjZuc0FRZS1LTHRZNTlObkhnLTduc0M0NkVBWXA4TXJyTHZmeTVXUUMzWkNhQVhBTFJyOHM4MEdOLVlKQzhYT1B2MGpENEhMeDhLUQ?oc=5",
       "platform": "Haber",
       "source_links": [
         {
           "platform": "Haber",
-          "title": "Ankara Etimesgut'ta Kuyumcuyu Silahla Soyan Zanlının Görüntüleri Yayınlandı - Mersin Haber",
+          "title": "Ankara Etimesgut'ta Kuyumcuyu Silahla Soyan Zanlının Görüntüleri Yayınlandı - mersinhaber.com",
           "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdW41d0tHeE5ncExtYWFaQkVUdFgyalFLdmdNMUFzc1EyQmlLYXZ6ak1CUWVNdkJaMEhpNWdiZlBhdzg3U3NNZjZyb09pTFJtVmpoX1RkV1N5YzNtV096TEFwbHl6azdxandqd0lMUldaQ3NraU0xUzhkZzlCU01SbnpJUDExcWxIeDlJRE1LWC0walZnekpTU0lEVWNfLVFMQzBacHNTVXRQODJHM0dQNzhNMUg0QdIBV0FVX3lxTFBlVWhTWjZuc0FRZS1LTHRZNTlObkhnLTduc0M0NkVBWXA4TXJyTHZmeTVXUUMzWkNhQVhBTFJyOHM4MEdOLVlKQzhYT1B2MGpENEhMeDhLUQ?oc=5",
           "published": "2026-07-17T10:00:00+03:00"
         }
@@ -10493,19 +10493,19 @@
         "Kavga"
       ],
       "icon": "🥊",
-      "title": "Ankara Mamak'ta Yanlış Park Nedeniyle Çıkan Kavga Sonrası 2 Kişi Yaralandı - Mersin Haber",
+      "title": "Ankara Mamak'ta Yanlış Park Nedeniyle Çıkan Kavga Sonrası 2 Kişi Yaralandı - mersinhaber.com",
       "location": "Mamak / Ankara",
       "published": "2026-07-16T10:00:00+03:00",
       "confidence": 75,
       "sources": 1,
       "status": "Muhtemel",
-      "summary": "Mersin Haber üzerinden bulunan herkese açık kayıt.",
+      "summary": "mersinhaber.com üzerinden bulunan herkese açık kayıt.",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQdU03ck1aUjZzeHAxaXlJZVFoUk16bzBVTTQxVkY4VjRvak40Q1IwazNHR2ZESWhwVFdXc00yeFRKMjdoZjc0ZUZWS0ptcXJwTWc1dG9jVGQ5M2FTZEdqNXlzV2pqVEtMLWU3WFh6MmxsYi13NFJzbmJnbDRvajdnNWUwUzljQjl4WXRnR3pKT1VTTjZleUJRTjc0V1RwUVFqbTQ0VE9fdmlCcXhrSzkyQ0E0NXHSAVdBVV95cUxOYzZSYk9ZVGtsS3k5UGRyZWRPZHBrZ2poXzd3RlByU244eVZ6WWRIM2JnV0Rmb25YM0xqUzdHYzhVRjRXNGJkTjJzaVUxMUxCeGVweUlUNGs?oc=5",
       "platform": "Haber",
       "source_links": [
         {
           "platform": "Haber",
-          "title": "Ankara Mamak'ta Yanlış Park Nedeniyle Çıkan Kavga Sonrası 2 Kişi Yaralandı - Mersin Haber",
+          "title": "Ankara Mamak'ta Yanlış Park Nedeniyle Çıkan Kavga Sonrası 2 Kişi Yaralandı - mersinhaber.com",
           "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQdU03ck1aUjZzeHAxaXlJZVFoUk16bzBVTTQxVkY4VjRvak40Q1IwazNHR2ZESWhwVFdXc00yeFRKMjdoZjc0ZUZWS0ptcXJwTWc1dG9jVGQ5M2FTZEdqNXlzV2pqVEtMLWU3WFh6MmxsYi13NFJzbmJnbDRvajdnNWUwUzljQjl4WXRnR3pKT1VTTjZleUJRTjc0V1RwUVFqbTQ0VE9fdmlCcXhrSzkyQ0E0NXHSAVdBVV95cUxOYzZSYk9ZVGtsS3k5UGRyZWRPZHBrZ2poXzd3RlByU244eVZ6WWRIM2JnV0Rmb25YM0xqUzdHYzhVRjRXNGJkTjJzaVUxMUxCeGVweUlUNGs?oc=5",
           "published": "2026-07-16T10:00:00+03:00"
         }
@@ -10614,19 +10614,19 @@
         "Trafik Kazası"
       ],
       "icon": "🚗",
-      "title": "Ankara’nın Mamak ilçesinde kontrolden çıkan EGO otobüsünün yol kenarındaki araçlara çarpıp bir dükkana daldığı anların görüntülerine ulaşıldı. Kazada 4 araç hasar aldı, 7 kişi yaralandı. - TikTok",
+      "title": "Ankara’nın Mamak ilçesinde kontrolden çıkan EGO otobüsünün yol kenarındaki araçlara çarpıp bir dükkana daldığı anların görüntülerine ulaşıldı. Kazada 4 araç hasar aldı, 7 kişi yaralandı. - tiktok.com",
       "location": "Mamak / Ankara",
       "published": "2026-07-16T10:00:00+03:00",
       "confidence": 60,
       "sources": 1,
       "status": "Sosyal medya / doğrulanmamış",
-      "summary": "TikTok üzerinden bulunan herkese açık kayıt.",
+      "summary": "tiktok.com üzerinden bulunan herkese açık kayıt.",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1oM2FHTElxQVlCTmhRblVuc0NzUVRPVGxuZldmcFBxd1NNMk1sQXU5MjBWaWR6eTFGVzVlbFAyTHNBby1TYlBaYThnSjk5Wi1xcEh4cDZPWTlScVNldkw0dmt2Z1F2UmNvVHc?oc=5",
       "platform": "TikTok",
       "source_links": [
         {
           "platform": "TikTok",
-          "title": "Ankara’nın Mamak ilçesinde kontrolden çıkan EGO otobüsünün yol kenarındaki araçlara çarpıp bir dükkana daldığı anların görüntülerine ulaşıldı. Kazada 4 araç hasar aldı, 7 kişi yaralandı. - TikTok",
+          "title": "Ankara’nın Mamak ilçesinde kontrolden çıkan EGO otobüsünün yol kenarındaki araçlara çarpıp bir dükkana daldığı anların görüntülerine ulaşıldı. Kazada 4 araç hasar aldı, 7 kişi yaralandı. - tiktok.com",
           "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1oM2FHTElxQVlCTmhRblVuc0NzUVRPVGxuZldmcFBxd1NNMk1sQXU5MjBWaWR6eTFGVzVlbFAyTHNBby1TYlBaYThnSjk5Wi1xcEh4cDZPWTlScVNldkw0dmt2Z1F2UmNvVHc?oc=5",
           "published": "2026-07-16T10:00:00+03:00"
         }
@@ -11091,14 +11091,14 @@
         },
         {
           "platform": "X",
-          "title": "SON DAKİKA | 70 kişi gözaltında... Ankara Cumhuriyet Başsavcılığı tarafından yürütülen FETÖ soruşturması kapsamında, Emniyet Genel Müdürlüğü'nde hala farklı rütbelerde aktif olarak görevde bulunan toplam 80 Emniyet Personeli hakkında gözaltı kararı ver - x.com",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9WZ19pNFplelB2ME5MRDlDcGtNenM5aUdaM0VTb3h1OU1qXzN5Zlg3Y0lqSC1hOFYzM21GQzBYckhOWXRpRVpSRnNmcWc4UnpEUHFzQmRsY0lmczMyaDRENnczSmo?oc=5",
+          "title": "SON DAKİKA / FETÖ operasyonları büyüyor. Ankara Cumhuriyet Başsavcılığının yürüttüğü FETÖ soruşturması kapsamında, Emniyet Genel Müdürlüğünde farklı rütbelerde görev yapan 80 aktif emniyet personeli hakkında gözaltı kararı verildi. Şüphelilerden 70’ - x.com",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE84dEVOLXNjQkg0NUlJQ2p6SXdkUlJYN1QzRXltenhzdkhudDFveWZhVDctRzc3VkNObmI2dWk5Rmp2dGRhel9LUXE5NmVHZExBc3hJc2JlSzZ4Sm8?oc=5",
           "published": "2026-07-13T10:00:00+03:00"
         },
         {
           "platform": "X",
-          "title": "SON DAKİKA / FETÖ operasyonları büyüyor. Ankara Cumhuriyet Başsavcılığının yürüttüğü FETÖ soruşturması kapsamında, Emniyet Genel Müdürlüğünde farklı rütbelerde görev yapan 80 aktif emniyet personeli hakkında gözaltı kararı verildi. Şüphelilerden 70’ - x.com",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE84dEVOLXNjQkg0NUlJQ2p6SXdkUlJYN1QzRXltenhzdkhudDFveWZhVDctRzc3VkNObmI2dWk5Rmp2dGRhel9LUXE5NmVHZExBc3hJc2JlSzZ4Sm8?oc=5",
+          "title": "SON DAKİKA | 70 kişi gözaltında... Ankara Cumhuriyet Başsavcılığı tarafından yürütülen FETÖ soruşturması kapsamında, Emniyet Genel Müdürlüğü'nde hala farklı rütbelerde aktif olarak görevde bulunan toplam 80 Emniyet Personeli hakkında gözaltı kararı ver - x.com",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9WZ19pNFplelB2ME5MRDlDcGtNenM5aUdaM0VTb3h1OU1qXzN5Zlg3Y0lqSC1hOFYzM21GQzBYckhOWXRpRVpSRnNmcWc4UnpEUHFzQmRsY0lmczMyaDRENnczSmo?oc=5",
           "published": "2026-07-13T10:00:00+03:00"
         }
       ],
@@ -11425,19 +11425,19 @@
         "Yangın"
       ],
       "icon": "🔥",
-      "title": "Ankara Altındağ'da Otluk Alanda Yangın Çıktı, İtfaiye Müdahale Etti - Mersin Haber",
+      "title": "Ankara Altındağ'da Otluk Alanda Yangın Çıktı, İtfaiye Müdahale Etti - mersinhaber.com",
       "location": "Altındağ / Ankara",
       "published": "2026-07-11T10:00:00+03:00",
       "confidence": 75,
       "sources": 1,
       "status": "Muhtemel",
-      "summary": "Mersin Haber üzerinden bulunan herkese açık kayıt.",
+      "summary": "mersinhaber.com üzerinden bulunan herkese açık kayıt.",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNTzcwb3l6Y0IxQXhSakhabmtKQTlwSHJlOHVtYUc4RlpjeGNTVE5ucU9YSUFSUENsTWY2S2FpcmFqTmw2Sk8tTHpQVFJEVFNRWXdNV3F1b2lqX3RJVXgwZlYtLTlaeGk3eHpGUm0wckN3Rll6TVkyTEJYUjQzSUZTTzhNc3BxWjlhQVhyd9IBV0FVX3lxTFBpcDhDTEQzTUpBaGF0aUZvOXA2a2wxbXg4aHpSMFp0YWR0cW5yQ0pwNXpyY2gwdEQyekx0RXVRVUstbTlZOVU4WElUNnlOUWdMX1A2OWdiRQ?oc=5",
       "platform": "Haber",
       "source_links": [
         {
           "platform": "Haber",
-          "title": "Ankara Altındağ'da Otluk Alanda Yangın Çıktı, İtfaiye Müdahale Etti - Mersin Haber",
+          "title": "Ankara Altındağ'da Otluk Alanda Yangın Çıktı, İtfaiye Müdahale Etti - mersinhaber.com",
           "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNTzcwb3l6Y0IxQXhSakhabmtKQTlwSHJlOHVtYUc4RlpjeGNTVE5ucU9YSUFSUENsTWY2S2FpcmFqTmw2Sk8tTHpQVFJEVFNRWXdNV3F1b2lqX3RJVXgwZlYtLTlaeGk3eHpGUm0wckN3Rll6TVkyTEJYUjQzSUZTTzhNc3BxWjlhQVhyd9IBV0FVX3lxTFBpcDhDTEQzTUpBaGF0aUZvOXA2a2wxbXg4aHpSMFp0YWR0cW5yQ0pwNXpyY2gwdEQyekx0RXVRVUstbTlZOVU4WElUNnlOUWdMX1A2OWdiRQ?oc=5",
           "published": "2026-07-11T10:00:00+03:00"
         }
@@ -11485,19 +11485,19 @@
         "Trafik Kazası"
       ],
       "icon": "🚗",
-      "title": "BURDUR-ANKARA KARAYOLU'NDA TEK TARAFLI TRAFİK KAZASI - cagdasburdur.com",
+      "title": "BURDUR-ANKARA KARAYOLU'NDA TEK TARAFLI TRAFİK KAZASI - Çağdaş Burdur",
       "location": "Ankara Geneli",
       "published": "2026-07-10T10:00:00+03:00",
       "confidence": 75,
       "sources": 1,
       "status": "Muhtemel",
-      "summary": "cagdasburdur.com üzerinden bulunan herkese açık kayıt.",
+      "summary": "Çağdaş Burdur üzerinden bulunan herkese açık kayıt.",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOVkFGWEFjX2NGa3VRRHFrbmpSR2FPemRrUEI4NXJzLWtkSTBTcE9adDBPRlYzemZmLURLNnVlTnJlTDQ2M2tscmxoa3BZODQzYjBrU0wzcFM2TEZUSzMwM2dZOXlCa2hYSENJU1RQdUc0QmhZd2VuaE9ucW9vWkZIWGRENG9ob2RyNU1RYUlzRQ?oc=5",
       "platform": "Haber",
       "source_links": [
         {
           "platform": "Haber",
-          "title": "BURDUR-ANKARA KARAYOLU'NDA TEK TARAFLI TRAFİK KAZASI - cagdasburdur.com",
+          "title": "BURDUR-ANKARA KARAYOLU'NDA TEK TARAFLI TRAFİK KAZASI - Çağdaş Burdur",
           "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOVkFGWEFjX2NGa3VRRHFrbmpSR2FPemRrUEI4NXJzLWtkSTBTcE9adDBPRlYzemZmLURLNnVlTnJlTDQ2M2tscmxoa3BZODQzYjBrU0wzcFM2TEZUSzMwM2dZOXlCa2hYSENJU1RQdUc0QmhZd2VuaE9ucW9vWkZIWGRENG9ob2RyNU1RYUlzRQ?oc=5",
           "published": "2026-07-10T10:00:00+03:00"
         }
@@ -12498,19 +12498,19 @@
         "Yangın"
       ],
       "icon": "🔥",
-      "title": "Ankara Beypazarı'nda Çıkan Yangında Ahşap Ev Kullanılamaz Hale Geldi - Mersin Haber",
+      "title": "Ankara Beypazarı'nda Çıkan Yangında Ahşap Ev Kullanılamaz Hale Geldi - mersinhaber.com",
       "location": "Beypazarı / Ankara",
       "published": "2026-07-01T10:00:00+03:00",
       "confidence": 75,
       "sources": 1,
       "status": "Muhtemel",
-      "summary": "Mersin Haber üzerinden bulunan herkese açık kayıt.",
+      "summary": "mersinhaber.com üzerinden bulunan herkese açık kayıt.",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNN1FkOHFtTVduTVJFOVJCd0pXYmtadVE0cm1RLUZScUhMYW1oTDFkN3Y4WTlJYU41Tjl4aUtlOGQ2Y05NQ3FTQlhxU1o5ak96Wks3ZEI3Unh0dktyazMycnNqbnFsOXlFWTJyYnBZclFzZkhnQlpDRlZQT1lyZVBwVnk0dmNQcF9oTWRvREFiSHgweUMwbS1LazNtZ09EZGtTREdJTjlqd3BOMjQ10gFXQVVfeXFMUFVNbGI4NFgzQUlvNE5pQlNEOHFTdmVIOFJpRnUxUkQwYWp6dEZaU2g2RFVzR3MwajVxeG1LcG1iTzh6OUFfR3BvWkQ4RFJuZmZpb2l4LV9B?oc=5",
       "platform": "Haber",
       "source_links": [
         {
           "platform": "Haber",
-          "title": "Ankara Beypazarı'nda Çıkan Yangında Ahşap Ev Kullanılamaz Hale Geldi - Mersin Haber",
+          "title": "Ankara Beypazarı'nda Çıkan Yangında Ahşap Ev Kullanılamaz Hale Geldi - mersinhaber.com",
           "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNN1FkOHFtTVduTVJFOVJCd0pXYmtadVE0cm1RLUZScUhMYW1oTDFkN3Y4WTlJYU41Tjl4aUtlOGQ2Y05NQ3FTQlhxU1o5ak96Wks3ZEI3Unh0dktyazMycnNqbnFsOXlFWTJyYnBZclFzZkhnQlpDRlZQT1lyZVBwVnk0dmNQcF9oTWRvREFiSHgweUMwbS1LazNtZ09EZGtTREdJTjlqd3BOMjQ10gFXQVVfeXFMUFVNbGI4NFgzQUlvNE5pQlNEOHFTdmVIOFJpRnUxUkQwYWp6dEZaU2g2RFVzR3MwajVxeG1LcG1iTzh6OUFfR3BvWkQ4RFJuZmZpb2l4LV9B?oc=5",
           "published": "2026-07-01T10:00:00+03:00"
         }
@@ -12777,19 +12777,19 @@
         "Trafik Kazası"
       ],
       "icon": "🚗",
-      "title": "Ankara Mamak'ta Meydana Gelen Kazada 8 Kişi Yaralandı - Mersin Haber",
+      "title": "Ankara Mamak'ta Meydana Gelen Kazada 8 Kişi Yaralandı - mersinhaber.com",
       "location": "Mamak / Ankara",
       "published": "2026-06-30T10:00:00+03:00",
       "confidence": 75,
       "sources": 1,
       "status": "Muhtemel",
-      "summary": "Mersin Haber üzerinden bulunan herkese açık kayıt.",
+      "summary": "mersinhaber.com üzerinden bulunan herkese açık kayıt.",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNM2NYNUltcXB4U2M1QkRGNzlodXZUYnRwOWRqT290c0kzcllwUDBUbGhZd0dNU2lfUklZZVU5M0hxUUFfUUhKSmZqQ0lOS0M3N3NXVGx2Sy1ScW4yZnlQSmFjcHJFaDVCTHZZckNhWEQyRmlGX3NmWXdHUnpEdUtHM08wd0dsLUMtLW05SVY2SzlSalVObXZkWdIBV0FVX3lxTE9DcC1JWlZadHUtUjZfTXpFaVpfT2FJS1E2Z1ZsMmttc2tHa1RKRXFidVJjN3BiVndSOXliay1PRDNCM29rdkJFLXZDUFoweEl1OVFPN21XRQ?oc=5",
       "platform": "Haber",
       "source_links": [
         {
           "platform": "Haber",
-          "title": "Ankara Mamak'ta Meydana Gelen Kazada 8 Kişi Yaralandı - Mersin Haber",
+          "title": "Ankara Mamak'ta Meydana Gelen Kazada 8 Kişi Yaralandı - mersinhaber.com",
           "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNM2NYNUltcXB4U2M1QkRGNzlodXZUYnRwOWRqT290c0kzcllwUDBUbGhZd0dNU2lfUklZZVU5M0hxUUFfUUhKSmZqQ0lOS0M3N3NXVGx2Sy1ScW4yZnlQSmFjcHJFaDVCTHZZckNhWEQyRmlGX3NmWXdHUnpEdUtHM08wd0dsLUMtLW05SVY2SzlSalVObXZkWdIBV0FVX3lxTE9DcC1JWlZadHUtUjZfTXpFaVpfT2FJS1E2Z1ZsMmttc2tHa1RKRXFidVJjN3BiVndSOXliay1PRDNCM29rdkJFLXZDUFoweEl1OVFPN21XRQ?oc=5",
           "published": "2026-06-30T10:00:00+03:00"
         }
@@ -13088,19 +13088,19 @@
         "Silahlı Olay"
       ],
       "icon": "🔫",
-      "title": "Ankara Yenimahalle'de Bekçiye Bıçakla Saldıran Şahıs, Silahla Etkisiz Hale Getirildi - Mersin Haber",
+      "title": "Ankara Yenimahalle'de Bekçiye Bıçakla Saldıran Şahıs, Silahla Etkisiz Hale Getirildi - mersinhaber.com",
       "location": "Yenimahalle / Ankara",
       "published": "2026-06-26T10:00:00+03:00",
       "confidence": 75,
       "sources": 1,
       "status": "Muhtemel",
-      "summary": "Mersin Haber üzerinden bulunan herkese açık kayıt.",
+      "summary": "mersinhaber.com üzerinden bulunan herkese açık kayıt.",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQQ1FuZmhoNjFpZGRTdmRMc1BDRFU3d0JOQm1HY20yTVhpYWNNNDNpODNUbkF1NXJDMkJjbTkyTVpOYXh1SElWZlN6Q09KeVN3aDJuYUtWaEo5Z2FXb2xoU2kzcFdnbU1TR1l6ZTJ3TWw2RUhXTW9Zb0xYMkJWWm9BT05PSmdLbmRFemVqVDB2Z3UydFg2VkE3Q0tXNmU1TVdYeWFUVnpvUl9GNWUzVlBkLTRjTGZnVHQ5Rzd1d2hXZFLSAVdBVV95cUxOMmFBWEp2dEl2cGViYWVlTng4aE5BdGZLbnp4WU94c2VtRUdpZFUydFV0ZGFNRnFad19jSXFWSC1tckZKM0FFU3hKVnNpNFhqV3p2bDUyYzQ?oc=5",
       "platform": "Haber",
       "source_links": [
         {
           "platform": "Haber",
-          "title": "Ankara Yenimahalle'de Bekçiye Bıçakla Saldıran Şahıs, Silahla Etkisiz Hale Getirildi - Mersin Haber",
+          "title": "Ankara Yenimahalle'de Bekçiye Bıçakla Saldıran Şahıs, Silahla Etkisiz Hale Getirildi - mersinhaber.com",
           "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQQ1FuZmhoNjFpZGRTdmRMc1BDRFU3d0JOQm1HY20yTVhpYWNNNDNpODNUbkF1NXJDMkJjbTkyTVpOYXh1SElWZlN6Q09KeVN3aDJuYUtWaEo5Z2FXb2xoU2kzcFdnbU1TR1l6ZTJ3TWw2RUhXTW9Zb0xYMkJWWm9BT05PSmdLbmRFemVqVDB2Z3UydFg2VkE3Q0tXNmU1TVdYeWFUVnpvUl9GNWUzVlBkLTRjTGZnVHQ5Rzd1d2hXZFLSAVdBVV95cUxOMmFBWEp2dEl2cGViYWVlTng4aE5BdGZLbnp4WU94c2VtRUdpZFUydFV0ZGFNRnFad19jSXFWSC1tckZKM0FFU3hKVnNpNFhqV3p2bDUyYzQ?oc=5",
           "published": "2026-06-26T10:00:00+03:00"
         }
@@ -13179,19 +13179,19 @@
         "Asayiş"
       ],
       "icon": "👮",
-      "title": "Haymana'da IŞİD operasyonu: Muhammed Kavi nasıl öldü? - dw.com",
+      "title": "Haymana'da IŞİD operasyonu: Muhammed Kavi nasıl öldü? - DW.com",
       "location": "Haymana / Ankara",
       "published": "2026-06-25T10:00:00+03:00",
       "confidence": 75,
       "sources": 1,
       "status": "Muhtemel",
-      "summary": "dw.com üzerinden bulunan herkese açık kayıt.",
+      "summary": "DW.com üzerinden bulunan herkese açık kayıt.",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNdzA1Y2ZWSHBQOTRsZEZlWVdDd1p3TUxFQy1WWkI5V2JJWFVwLW9aM0pYQmJ1dHdqU2ZNODZIWEF0dUZkdXFIbVd1UDc3UXdfX3g3UmVubEFLbnl0UzRmSkpEUklEUWtidEdld21kVzVmRGMyWE01TTc0Y0htaTlhQ3Z4TTBTa2FYdFd1V0RDSDJoSHB4OHZETHp2RDJtN2QzQTZDY0FlX0x6M0J1cHfSAa4BQVVfeXFMTXRBOEZYSW1lSG1WdHA3U3VpZG5vaFBUMkRGa0wxcDBLaF9IWWNSY2VfemZXNm9lMmpKU0VBZG1oUk5zM0lweVZyZXZLMlNNRUZlYzdWV0QxQ0pZS0x6VUYzTnpUM3U3LV80OHViWEdEczRBUFo4dFpWcXQyYXZpYS14bGhURnJ6M0lpOERTWF9EWDJGc3RxbWw0V0xxNU1lM2ZSQUk1dlY5TUVoR3VB?oc=5",
       "platform": "Haber",
       "source_links": [
         {
           "platform": "Haber",
-          "title": "Haymana'da IŞİD operasyonu: Muhammed Kavi nasıl öldü? - dw.com",
+          "title": "Haymana'da IŞİD operasyonu: Muhammed Kavi nasıl öldü? - DW.com",
           "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNdzA1Y2ZWSHBQOTRsZEZlWVdDd1p3TUxFQy1WWkI5V2JJWFVwLW9aM0pYQmJ1dHdqU2ZNODZIWEF0dUZkdXFIbVd1UDc3UXdfX3g3UmVubEFLbnl0UzRmSkpEUklEUWtidEdld21kVzVmRGMyWE01TTc0Y0htaTlhQ3Z4TTBTa2FYdFd1V0RDSDJoSHB4OHZETHp2RDJtN2QzQTZDY0FlX0x6M0J1cHfSAa4BQVVfeXFMTXRBOEZYSW1lSG1WdHA3U3VpZG5vaFBUMkRGa0wxcDBLaF9IWWNSY2VfemZXNm9lMmpKU0VBZG1oUk5zM0lweVZyZXZLMlNNRUZlYzdWV0QxQ0pZS0x6VUYzTnpUM3U3LV80OHViWEdEczRBUFo4dFpWcXQyYXZpYS14bGhURnJ6M0lpOERTWF9EWDJGc3RxbWw0V0xxNU1lM2ZSQUk1dlY5TUVoR3VB?oc=5",
           "published": "2026-06-25T10:00:00+03:00"
         }
@@ -13590,19 +13590,19 @@
         "Asayiş"
       ],
       "icon": "👮",
-      "title": "Ankara Haymana'da DEAŞ üyesi karı koca gerçekleştirilen operasyonda etkisiz hale getirildi. - Mersin Haber",
+      "title": "Ankara Haymana'da DEAŞ üyesi karı koca gerçekleştirilen operasyonda etkisiz hale getirildi. - mersinhaber.com",
       "location": "Haymana / Ankara",
       "published": "2026-06-24T10:00:00+03:00",
       "confidence": 75,
       "sources": 1,
       "status": "Muhtemel",
-      "summary": "Mersin Haber üzerinden bulunan herkese açık kayıt.",
+      "summary": "mersinhaber.com üzerinden bulunan herkese açık kayıt.",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNS0xEWTRYbExkYmxXSGZlZ09PQ2tVSEhSMF9ON1B0T1E5VWtuN3RQMFRVV1dLRHFtWTZKV0VzZkJTSDVRc0JtUW9SZE9TTk9yNzFtNmw2a3l0OVB5Q0NFSFVnbTZvejZ3dlgtaUtXMGdDa0RFVlh5UHBqaTVSbndoNUlGUFVFM0ttOGlvM3pTQzFhVFpZVkZ2UWJ4LTVLT3EwRVRtX0lnQkFCV2xEY0xoZkNndWwtZGdVUjIxMjNTbW1rRU5HbjVQcGRR0gFXQVVfeXFMTmZ2MFI4RG4wWXAxekppbmtldkJSRDdRNDZhb0VOUnNaZVFMZ21KNWhUUXZ4eWx6SXl4UlVvb0lQZi1Jc1V1OFVLRVhuRFA2NXNhcWo1WDFN?oc=5",
       "platform": "Haber",
       "source_links": [
         {
           "platform": "Haber",
-          "title": "Ankara Haymana'da DEAŞ üyesi karı koca gerçekleştirilen operasyonda etkisiz hale getirildi. - Mersin Haber",
+          "title": "Ankara Haymana'da DEAŞ üyesi karı koca gerçekleştirilen operasyonda etkisiz hale getirildi. - mersinhaber.com",
           "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNS0xEWTRYbExkYmxXSGZlZ09PQ2tVSEhSMF9ON1B0T1E5VWtuN3RQMFRVV1dLRHFtWTZKV0VzZkJTSDVRc0JtUW9SZE9TTk9yNzFtNmw2a3l0OVB5Q0NFSFVnbTZvejZ3dlgtaUtXMGdDa0RFVlh5UHBqaTVSbndoNUlGUFVFM0ttOGlvM3pTQzFhVFpZVkZ2UWJ4LTVLT3EwRVRtX0lnQkFCV2xEY0xoZkNndWwtZGdVUjIxMjNTbW1rRU5HbjVQcGRR0gFXQVVfeXFMTmZ2MFI4RG4wWXAxekppbmtldkJSRDdRNDZhb0VOUnNaZVFMZ21KNWhUUXZ4eWx6SXl4UlVvb0lQZi1Jc1V1OFVLRVhuRFA2NXNhcWo1WDFN?oc=5",
           "published": "2026-06-24T10:00:00+03:00"
         }
@@ -13985,19 +13985,19 @@
         "Trafik Kazası"
       ],
       "icon": "🚗",
-      "title": "Ankara Kahramankazan'da Scooterla Seyir Halindeki Çocuğa Araç Çarptı - Mersin Haber",
+      "title": "Ankara Kahramankazan'da Scooterla Seyir Halindeki Çocuğa Araç Çarptı - mersinhaber.com",
       "location": "Kahramankazan / Ankara",
       "published": "2026-06-23T10:00:00+03:00",
       "confidence": 75,
       "sources": 1,
       "status": "Muhtemel",
-      "summary": "Mersin Haber üzerinden bulunan herkese açık kayıt.",
+      "summary": "mersinhaber.com üzerinden bulunan herkese açık kayıt.",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUS00YUVzSEhFNVdYc0xBMnh5SFVwUUU4bWlMUi1NWWZEMllRTXFpTVVRd2JVMWhZWk4zUi02TzNabzBaN1Q2ZHFLaFJIOWw3UEtIRV9MQjRIaDJJcDJCRHJyUFo4RkV1MnNWMzBYQ2xzVGE1RWEzaDkybFAwT0lVMC1mand6ajY3QlA4bnBNSE9nRTZrVEt6ODFtRXYtTW5OMjZFLUpxalcyNGd20gFXQVVfeXFMT0l1czJRYUZCZ3lxMEhRMGFBSE9jbmF6XzBmM0h3eGN2eTZrb3k1ZkExMjkwNzZLbV8zSm1ZWkxGNjNqZ3E5Q21XRkpLM2UtSnRPdXRzSmJR?oc=5",
       "platform": "Haber",
       "source_links": [
         {
           "platform": "Haber",
-          "title": "Ankara Kahramankazan'da Scooterla Seyir Halindeki Çocuğa Araç Çarptı - Mersin Haber",
+          "title": "Ankara Kahramankazan'da Scooterla Seyir Halindeki Çocuğa Araç Çarptı - mersinhaber.com",
           "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUS00YUVzSEhFNVdYc0xBMnh5SFVwUUU4bWlMUi1NWWZEMllRTXFpTVVRd2JVMWhZWk4zUi02TzNabzBaN1Q2ZHFLaFJIOWw3UEtIRV9MQjRIaDJJcDJCRHJyUFo4RkV1MnNWMzBYQ2xzVGE1RWEzaDkybFAwT0lVMC1mand6ajY3QlA4bnBNSE9nRTZrVEt6ODFtRXYtTW5OMjZFLUpxalcyNGd20gFXQVVfeXFMT0l1czJRYUZCZ3lxMEhRMGFBSE9jbmF6XzBmM0h3eGN2eTZrb3k1ZkExMjkwNzZLbV8zSm1ZWkxGNjNqZ3E5Q21XRkpLM2UtSnRPdXRzSmJR?oc=5",
           "published": "2026-06-23T10:00:00+03:00"
         }
@@ -14182,19 +14182,19 @@
         "Kavga"
       ],
       "icon": "🥊",
-      "title": "Ankara Akyurt'ta Eşinin Bıçaklı Saldırısına Uğrayan Kadın Hayatını Kaybetti - Mersin Haber",
+      "title": "Ankara Akyurt'ta Eşinin Bıçaklı Saldırısına Uğrayan Kadın Hayatını Kaybetti - mersinhaber.com",
       "location": "Akyurt / Ankara",
       "published": "2026-06-22T10:00:00+03:00",
       "confidence": 75,
       "sources": 1,
       "status": "Muhtemel",
-      "summary": "Mersin Haber üzerinden bulunan herkese açık kayıt.",
+      "summary": "mersinhaber.com üzerinden bulunan herkese açık kayıt.",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQc01TTHZfRDdPU0w4dFBZNklRcEZmX2VpaUR5TDhERGdNUEZXS2hIUlhiQkFsdWtnY0Uwb2lya1Mzb0E0Ymd1MGVUQlNTaTdmbTBaMXl3VGt1Zlo1R0NYbW54dHZGYWdlUjJKYlpEel9FdF9rUmlzTWNmVlZXLWJJS1l2SkZpSkYzNVg4ZXNZMGNObnhYZl9oYk1nQ2Fzc1B1Uld1RG9zdUZRc3p6amo3VUkyVDRNUdIBV0FVX3lxTE9UMjFkTGV0bENNZ0FyWS0tTG1vQTg1NVpldHFsYjIzQlJweDZuLThBRGwtNFlhd3dZa0xIX09BampXWUdnMDNtd1pGcnIxWXZxMVJMc01oQQ?oc=5",
       "platform": "Haber",
       "source_links": [
         {
           "platform": "Haber",
-          "title": "Ankara Akyurt'ta Eşinin Bıçaklı Saldırısına Uğrayan Kadın Hayatını Kaybetti - Mersin Haber",
+          "title": "Ankara Akyurt'ta Eşinin Bıçaklı Saldırısına Uğrayan Kadın Hayatını Kaybetti - mersinhaber.com",
           "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQc01TTHZfRDdPU0w4dFBZNklRcEZmX2VpaUR5TDhERGdNUEZXS2hIUlhiQkFsdWtnY0Uwb2lya1Mzb0E0Ymd1MGVUQlNTaTdmbTBaMXl3VGt1Zlo1R0NYbW54dHZGYWdlUjJKYlpEel9FdF9rUmlzTWNmVlZXLWJJS1l2SkZpSkYzNVg4ZXNZMGNObnhYZl9oYk1nQ2Fzc1B1Uld1RG9zdUZRc3p6amo3VUkyVDRNUdIBV0FVX3lxTE9UMjFkTGV0bENNZ0FyWS0tTG1vQTg1NVpldHFsYjIzQlJweDZuLThBRGwtNFlhd3dZa0xIX09BampXWUdnMDNtd1pGcnIxWXZxMVJMc01oQQ?oc=5",
           "published": "2026-06-22T10:00:00+03:00"
         }
@@ -14546,7 +14546,7 @@
         "Trafik Kazası"
       ],
       "icon": "🚗",
-      "title": "Ankara'da Zincirleme Trafik Kazası - bizimankara.com.tr",
+      "title": "Ankara'da Zincirleme Trafik Kazası - Bizim Ankara",
       "location": "Ankara Geneli",
       "published": "2026-06-14T10:00:00+03:00",
       "confidence": 75,
@@ -14558,7 +14558,7 @@
       "source_links": [
         {
           "platform": "Haber",
-          "title": "Ankara'da Zincirleme Trafik Kazası - bizimankara.com.tr",
+          "title": "Ankara'da Zincirleme Trafik Kazası - Bizim Ankara",
           "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5nV1M3d0pvNkhGMlZ3a3pzZS1qUlhPS2gxcGs0NjNucjRucWRlbDZkd2xFVUlfTzFmZE01NnhqaFlDQllETWJCUmVXRWpYZl94eUZzeFZKdWVIcGtFN016SHpsOFN0cldwc0FKczFDSWV6MGJD0gF6QVVfeXFMTmJ6TjFRaUd5d19UM0owaW56VFAwNzAxUVhLa2paX2k1LXg4VlU1bkNtdnh2Qkptd3B5aVloU2xrZF84Tl9xZTdhOEpzdHB1TVlYVTlzdkVrRkY1UkFGNW9Fc1BRTXFiaHN1ZXd3RGdjeUc5a0FqZlJrRHc?oc=5",
           "published": "2026-06-15T10:00:00+03:00"
         },
@@ -14743,19 +14743,19 @@
         "Trafik Kazası"
       ],
       "icon": "🚗",
-      "title": "Ankara Kahramankazan'da Sağanak Yağış Nedeniyle Bir Ev Sular Altında Kaldı - Mersin Haber",
+      "title": "Ankara Kahramankazan'da Sağanak Yağış Nedeniyle Bir Ev Sular Altında Kaldı - mersinhaber.com",
       "location": "Kahramankazan / Ankara",
       "published": "2026-06-13T10:00:00+03:00",
       "confidence": 75,
       "sources": 1,
       "status": "Muhtemel",
-      "summary": "Mersin Haber üzerinden bulunan herkese açık kayıt.",
+      "summary": "mersinhaber.com üzerinden bulunan herkese açık kayıt.",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNT3dnVXVNUFJBUFpzMGVzSXB6azdqQlRnMTY3THFzWjJFMHNmekJVRDdjdm5ELXF3YlFHRllLVmdoUF9acWZBLTFFS194WDZBeTBPSS1OREpCSVhVWFo3NDd5ZExUN01qQnVSTEV1RTM4S0xmV0JfZ3hlNmZIV2k4d19pX2V2b01ISUpjNUZlTHpBcWphdEJCMjN5OXM0XzU5QVl5ZmRhbm9VV25rSlh3c1lMYWnSAVdBVV95cUxOWnlva25ORW1EckNtUGFrRHhGOWxuMW90d1E2c0ZNVkpnaU9IbHY4Vm5RUWs3RFFPZkt5ZDZpQmxBWDFJSE5lSzhGSnJOZ2pGMEFxWFJEVlE?oc=5",
       "platform": "Haber",
       "source_links": [
         {
           "platform": "Haber",
-          "title": "Ankara Kahramankazan'da Sağanak Yağış Nedeniyle Bir Ev Sular Altında Kaldı - Mersin Haber",
+          "title": "Ankara Kahramankazan'da Sağanak Yağış Nedeniyle Bir Ev Sular Altında Kaldı - mersinhaber.com",
           "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNT3dnVXVNUFJBUFpzMGVzSXB6azdqQlRnMTY3THFzWjJFMHNmekJVRDdjdm5ELXF3YlFHRllLVmdoUF9acWZBLTFFS194WDZBeTBPSS1OREpCSVhVWFo3NDd5ZExUN01qQnVSTEV1RTM4S0xmV0JfZ3hlNmZIV2k4d19pX2V2b01ISUpjNUZlTHpBcWphdEJCMjN5OXM0XzU5QVl5ZmRhbm9VV25rSlh3c1lMYWnSAVdBVV95cUxOWnlva25ORW1EckNtUGFrRHhGOWxuMW90d1E2c0ZNVkpnaU9IbHY4Vm5RUWs3RFFPZkt5ZDZpQmxBWDFJSE5lSzhGSnJOZ2pGMEFxWFJEVlE?oc=5",
           "published": "2026-06-13T10:00:00+03:00"
         }
@@ -14940,7 +14940,7 @@
         "Sağlık"
       ],
       "icon": "🥊",
-      "title": "Ankara Çubuk'ta Husumetli İki Grup Arasında Kavga Çıktı - Mersin Haber",
+      "title": "Ankara Çubuk'ta Husumetli İki Grup Arasında Kavga Çıktı - mersinhaber.com",
       "location": "Çubuk / Ankara",
       "published": "2026-06-10T10:00:00+03:00",
       "confidence": 75,
@@ -14952,7 +14952,7 @@
       "source_links": [
         {
           "platform": "Haber",
-          "title": "Ankara Çubuk'ta Husumetli İki Grup Arasında Kavga Çıktı - Mersin Haber",
+          "title": "Ankara Çubuk'ta Husumetli İki Grup Arasında Kavga Çıktı - mersinhaber.com",
           "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNYWJiMzFwTHhpaDBWSjFqT2Z4X2l5WmVJQ1E1bGdzcjFjeW15ZFhEbm9ZVGJ1d1NfUTY4NFlGcEQ3OUdGcXN2UG56VldTS3l4Umc3dko1NVVDOWZfS3BCd2Z4YV9oc2dlWWVrYk1HSUtYc1QzNTNHQmtURHpEOUhONENxd3BHbzExOFljNENGZzhNWWw1WmVQdVU3SdIBV0FVX3lxTFBJQURRcWtjVkNwTnVZU1ZsU3doUEdJWHZ6RVRCaHBnckIyNkRsbEhDbHktLWFzVUVqbHpGMEM5VEpUT05BMExqbE5MdlZnTmpTYkdKdDVKOA?oc=5",
           "published": "2026-06-12T10:00:00+03:00"
         },
@@ -15766,7 +15766,7 @@
         },
         {
           "platform": "Haber",
-          "title": "Ankara-Eskişehir kara yolunda 3 aracın karıştığı trafik kazası - Samsun Son Haber",
+          "title": "Ankara-Eskişehir kara yolunda 3 aracın karıştığı trafik kazası - samsunsonhaber.com",
           "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNeEptVkNTMDVkQVdNYjQ4TDZNSVZOblhpbEFzUlU3dEx2b2VqYlZxelpXZHd0Qkt6UXR2bldELTlwZ0UxUlRGNVFYc3dJejJhY1QxS0cxa1ZOQ09nd3pjTlo2Ymt1RWg3UkhDUEVXemdLcTVBUFRJUXEyWTgzMXRIVnRZaURVNzRhdUxJSEZwTE56eF9rRzQ5N291eGoxQ1l2dEJ1cE5GOEo0UdIBpwFBVV95cUxNWG85MUNqR1VpTWt4TFU3N1pidmJwMEcxQmYyVUxTMjY5ZUxadzFZRjhHcnJsb05OZ0xsa2ZUVzB6ZElYNHZoVHRVR2phaW5VY1htS1RJZ1BwcVRZZXRQQ2xacDBGV0RaMWc3ZU41T0JONmhNYjlrdGF1Tm41T1M2Y0R2eHpwNm9yR2ttQUpoZzJnMzBpV01YWHo2eFAtMGFkWkNoQmxTRQ?oc=5",
           "published": "2026-06-05T10:00:00+03:00"
         },
@@ -16622,19 +16622,19 @@
         "Trafik Kazası"
       ],
       "icon": "🚗",
-      "title": "Ankara'da trafik kazası sonrası araç Sıhhiye Köprüsü'nden aşağıya düştü - yenicaggazetesi.com",
+      "title": "Ankara'da trafik kazası sonrası araç Sıhhiye Köprüsü'nden aşağıya düştü - Yeniçağ Gazetesi",
       "location": "Ankara Geneli",
       "published": "2026-05-21T10:00:00+03:00",
       "confidence": 75,
       "sources": 1,
       "status": "Muhtemel",
-      "summary": "yenicaggazetesi.com üzerinden bulunan herkese açık kayıt.",
+      "summary": "Yeniçağ Gazetesi üzerinden bulunan herkese açık kayıt.",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQTlhncTExUDNYdE11UHRxUWFELUNxc0J2QTQtcE8wM3NUSFZOS01GOTBYSGpCc2JldWdFZmhWMzEwQUFiWHAwaHBHclh5UnNnRDJqV2REVTQtLWhMdDV4bndsOFdoVWxwVE5kaF9iRUZmLWhSQ1ZiY29tQ0ZEZl9ES1VSbDJqR3V6QU1xclJHYnlwaFlPNndSZ2ttdkFrSTV2NUp2ZzdZQk4zNzZ5cUNNRzdMNlg?oc=5",
       "platform": "Haber",
       "source_links": [
         {
           "platform": "Haber",
-          "title": "Ankara'da trafik kazası sonrası araç Sıhhiye Köprüsü'nden aşağıya düştü - yenicaggazetesi.com",
+          "title": "Ankara'da trafik kazası sonrası araç Sıhhiye Köprüsü'nden aşağıya düştü - Yeniçağ Gazetesi",
           "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQTlhncTExUDNYdE11UHRxUWFELUNxc0J2QTQtcE8wM3NUSFZOS01GOTBYSGpCc2JldWdFZmhWMzEwQUFiWHAwaHBHclh5UnNnRDJqV2REVTQtLWhMdDV4bndsOFdoVWxwVE5kaF9iRUZmLWhSQ1ZiY29tQ0ZEZl9ES1VSbDJqR3V6QU1xclJHYnlwaFlPNndSZ2ttdkFrSTV2NUp2ZzdZQk4zNzZ5cUNNRzdMNlg?oc=5",
           "published": "2026-05-21T10:00:00+03:00"
         }
@@ -16742,19 +16742,19 @@
         "Yangın"
       ],
       "icon": "🔥",
-      "title": "Ankara Yenimahalle'de Korku Dolu Anlar: Seyir Halindeki Araç Alev Alev Yandı - nnchaber.com",
+      "title": "Ankara Yenimahalle'de Korku Dolu Anlar: Seyir Halindeki Araç Alev Alev Yandı - NNC Haber",
       "location": "Yenimahalle / Ankara",
       "published": "2026-05-19T10:00:00+03:00",
       "confidence": 75,
       "sources": 1,
       "status": "Muhtemel",
-      "summary": "nnchaber.com üzerinden bulunan herkese açık kayıt.",
+      "summary": "NNC Haber üzerinden bulunan herkese açık kayıt.",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQWXhDWWJnekZLam9xZ0tmYWptbzhaVUZwUEhwZ2J1MzlxN3lMZGNYbDVWTERDN0R5X2Z4TEh2STFQMHNpZzVldFZPdnZrcUFNRW5KaVhxenFUSlM5OHB3V1dCdk5FVWw3SWc2eVRvcnprc3JBaG5lSzNVQ2wzejdwTGQtRDBhNGhkSlR1cng3YnFrNkxhaXp6eHhPd1Q3dzBkdnfSAacBQVVfeXFMTVdrT3NMaVJEbVB5Q1dtb2E1enl5MUFzVU1MRjZSVENIUXpOSW4wV19PZThwMXhuclplbFp1azVtRHJqeU5EeHZRTFk5ZEJ3dVlpTHNwek11cHNadldjQlkyMlZWQ3E1WV8zSVpqNllEelRITFV1Z0lSQmpPMlZaazJKVjE1aEpjR050RUp6WnA3YnlleXBvbHRsRU9HOG5YZWdkblZodzA?oc=5",
       "platform": "Haber",
       "source_links": [
         {
           "platform": "Haber",
-          "title": "Ankara Yenimahalle'de Korku Dolu Anlar: Seyir Halindeki Araç Alev Alev Yandı - nnchaber.com",
+          "title": "Ankara Yenimahalle'de Korku Dolu Anlar: Seyir Halindeki Araç Alev Alev Yandı - NNC Haber",
           "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQWXhDWWJnekZLam9xZ0tmYWptbzhaVUZwUEhwZ2J1MzlxN3lMZGNYbDVWTERDN0R5X2Z4TEh2STFQMHNpZzVldFZPdnZrcUFNRW5KaVhxenFUSlM5OHB3V1dCdk5FVWw3SWc2eVRvcnprc3JBaG5lSzNVQ2wzejdwTGQtRDBhNGhkSlR1cng3YnFrNkxhaXp6eHhPd1Q3dzBkdnfSAacBQVVfeXFMTVdrT3NMaVJEbVB5Q1dtb2E1enl5MUFzVU1MRjZSVENIUXpOSW4wV19PZThwMXhuclplbFp1azVtRHJqeU5EeHZRTFk5ZEJ3dVlpTHNwek11cHNadldjQlkyMlZWQ3E1WV8zSVpqNllEelRITFV1Z0lSQmpPMlZaazJKVjE1aEpjR050RUp6WnA3YnlleXBvbHRsRU9HOG5YZWdkblZodzA?oc=5",
           "published": "2026-05-19T10:00:00+03:00"
         }
@@ -16821,7 +16821,7 @@
         },
         {
           "platform": "Haber",
-          "title": "Ankara Yenimahalle'deki AVM'de Çıkan Bıçaklı Kavgada 2 Kişi Yaralandı - Mersin Haber",
+          "title": "Ankara Yenimahalle'deki AVM'de Çıkan Bıçaklı Kavgada 2 Kişi Yaralandı - mersinhaber.com",
           "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPQ0NsYVZDU29YVGdTNWpueDd4SmdnTTk4c3BrVng2Q09QTll5RGpmSDc2ZnNkYlRfZFJqMmJLQ2VyR0NLb2c4MDRLeDdVdlk2Rk1yTTNWdC1zX2FtVTlMRDExZDE2NkxEMFRIRG1KbVlrdG1MemtpN2xIRHc3Slkwa3RGTU05UkpKQkI3QVJSVFM0aHhuT2JpMlpnc3c2N0xNX2ZlbXB2aGNDaEU40gFXQVVfeXFMTWZUNXN5WGYwMDZDSGk0LVQtcDh0cW1qYmVWZTJyQ19HR1BJNDdBWGgxMnh5SngwV0V2aWI4ZEYwajQyWlphTG5QTXoyZGQ4QlN2WHNVTXJj?oc=5",
           "published": "2026-05-18T10:00:00+03:00"
         }
@@ -19330,19 +19330,19 @@
         "Kavga"
       ],
       "icon": "🥊",
-      "title": "Ankara Mamak'ta Ticari Takside Çıkan Kavgada 1 Kişi Yaralandı - Mersin Haber",
+      "title": "Ankara Mamak'ta Ticari Takside Çıkan Kavgada 1 Kişi Yaralandı - mersinhaber.com",
       "location": "Mamak / Ankara",
       "published": "2026-04-17T10:00:00+03:00",
       "confidence": 75,
       "sources": 1,
       "status": "Muhtemel",
-      "summary": "Mersin Haber üzerinden bulunan herkese açık kayıt.",
+      "summary": "mersinhaber.com üzerinden bulunan herkese açık kayıt.",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQVWdtZTVjT18yS0tzUVM3VENXbTd4T01TQ2dKQlVaYUZJTDV1MmJyU0NmQkw5VGd3VG15VDJmek11b09wc2NIOTJYN05JWGV2aUNXYktWbnl3MkpzSnIwWjVCSEQ4Q1NmRTNaUFVncldIY2JDMWNqNC1TTjFnSEVfVGRablg2aktSQlNZME9nMjQ4LTJoTVoxcnBqdzZCYVJrSGpF0gFXQVVfeXFMTnppb3lEbFlzZzlDUHY2TFU2ckpQTWdwNnBRTVBJWFdhcFY1WktDNWVUaktVX3V3ZEdseTFmck9FeHVoVVdzanFGSUVpRGZLR0ZHVzVuYzhj?oc=5",
       "platform": "Haber",
       "source_links": [
         {
           "platform": "Haber",
-          "title": "Ankara Mamak'ta Ticari Takside Çıkan Kavgada 1 Kişi Yaralandı - Mersin Haber",
+          "title": "Ankara Mamak'ta Ticari Takside Çıkan Kavgada 1 Kişi Yaralandı - mersinhaber.com",
           "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQVWdtZTVjT18yS0tzUVM3VENXbTd4T01TQ2dKQlVaYUZJTDV1MmJyU0NmQkw5VGd3VG15VDJmek11b09wc2NIOTJYN05JWGV2aUNXYktWbnl3MkpzSnIwWjVCSEQ4Q1NmRTNaUFVncldIY2JDMWNqNC1TTjFnSEVfVGRablg2aktSQlNZME9nMjQ4LTJoTVoxcnBqdzZCYVJrSGpF0gFXQVVfeXFMTnppb3lEbFlzZzlDUHY2TFU2ckpQTWdwNnBRTVBJWFdhcFY1WktDNWVUaktVX3V3ZEdseTFmck9FeHVoVVdzanFGSUVpRGZLR0ZHVzVuYzhj?oc=5",
           "published": "2026-04-17T10:00:00+03:00"
         }
@@ -21141,19 +21141,19 @@
         "Trafik Kazası"
       ],
       "icon": "🚗",
-      "title": "Ankara Beypazarı'nda Meydana Gelen Motosiklet Kazasında 1 Kişi Hayatını Kaybetti - Mersin Haber",
+      "title": "Ankara Beypazarı'nda Meydana Gelen Motosiklet Kazasında 1 Kişi Hayatını Kaybetti - mersinhaber.com",
       "location": "Beypazarı / Ankara",
       "published": "2026-03-25T10:00:00+03:00",
       "confidence": 75,
       "sources": 1,
       "status": "Muhtemel",
-      "summary": "Mersin Haber üzerinden bulunan herkese açık kayıt.",
+      "summary": "mersinhaber.com üzerinden bulunan herkese açık kayıt.",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNNktxSGV3MUlvdVphSjZ3eXdpeDJGbUY0MGlET1cxcExkWVRyQk5HS2MxYU8zVFlJT0NIRGdjSm1FZ2xrd0c5NG1tLVFwdFdSTkxaVUdvYzNMQWllMU51aS1YZDdmd2U1U0pYbUhQeUdodWVuZXZKc2ZfQXF0c2xaTFlZbmhscEdWWjVoSjZIWGtsV3RyaUh6Qk5YV2NEb29yYW41WG1ub2F3NHRIVUZMaVFQaVZQUnZ2TjB6aNIBV0FVX3lxTE9kenRqclNrcUFMQnNUSDA4UTlWaWVpTER2czdhS0pnQV9MY1Y0RmxnZUtkS3E0R192Tmc5Um9xRkdjRlBxT0ppMkRic1h4X2tqYzNqVTgtRQ?oc=5",
       "platform": "Haber",
       "source_links": [
         {
           "platform": "Haber",
-          "title": "Ankara Beypazarı'nda Meydana Gelen Motosiklet Kazasında 1 Kişi Hayatını Kaybetti - Mersin Haber",
+          "title": "Ankara Beypazarı'nda Meydana Gelen Motosiklet Kazasında 1 Kişi Hayatını Kaybetti - mersinhaber.com",
           "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNNktxSGV3MUlvdVphSjZ3eXdpeDJGbUY0MGlET1cxcExkWVRyQk5HS2MxYU8zVFlJT0NIRGdjSm1FZ2xrd0c5NG1tLVFwdFdSTkxaVUdvYzNMQWllMU51aS1YZDdmd2U1U0pYbUhQeUdodWVuZXZKc2ZfQXF0c2xaTFlZbmhscEdWWjVoSjZIWGtsV3RyaUh6Qk5YV2NEb29yYW41WG1ub2F3NHRIVUZMaVFQaVZQUnZ2TjB6aNIBV0FVX3lxTE9kenRqclNrcUFMQnNUSDA4UTlWaWVpTER2czdhS0pnQV9MY1Y0RmxnZUtkS3E0R192Tmc5Um9xRkdjRlBxT0ppMkRic1h4X2tqYzNqVTgtRQ?oc=5",
           "published": "2026-03-25T10:00:00+03:00"
         }
@@ -21885,19 +21885,19 @@
         "Trafik Kazası"
       ],
       "icon": "🚗",
-      "title": "Ankara Elmadağ’da Kaza Tıra Çarpan Tanker Sürücüsü Hayatını Kaybetti - nnchaber.com",
+      "title": "Ankara Elmadağ’da Kaza Tıra Çarpan Tanker Sürücüsü Hayatını Kaybetti - NNC Haber",
       "location": "Ankara Geneli",
       "published": "2026-03-07T11:00:00+03:00",
       "confidence": 75,
       "sources": 1,
       "status": "Muhtemel",
-      "summary": "nnchaber.com üzerinden bulunan herkese açık kayıt.",
+      "summary": "NNC Haber üzerinden bulunan herkese açık kayıt.",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQOUl2V05rTG1MVzg3cGNjU3d5djdUMFBtZ3J1WlRKUHprT2dEQk5lZjh1cDYyTVFkZFhWTjZqVGFaQjlrNVppZ1pHNFl4aUJzYk1uWlVhRUtRMERUaElWb1pRd0FLbFRLUENSeU4wbUhFaWtqRnhrdUd6cXYtei1sZW9JT0ZJYTJncHVLcmNpcmNoVEVaYzZoc9IBngFBVV95cUxQQkpsZE9mUXVjWFNlOFVEelliZHp2Ulc1UGktSHB5clRSQkgybEM2Wm9UY2hGRXpXZ1FXVXpyOTg5bjNxRUw1TUJVLWU3SmlTRGFxaGQzM2VBU2pOejg4ekUxa3ZtczMwWGJxUWZyNDZqLWlMVkRqTzBVcTUxZURudHpGajlPQ2xmd1NJNnVOc1dkNXZhVEJrbEZ4VnJPQQ?oc=5",
       "platform": "Haber",
       "source_links": [
         {
           "platform": "Haber",
-          "title": "Ankara Elmadağ’da Kaza Tıra Çarpan Tanker Sürücüsü Hayatını Kaybetti - nnchaber.com",
+          "title": "Ankara Elmadağ’da Kaza Tıra Çarpan Tanker Sürücüsü Hayatını Kaybetti - NNC Haber",
           "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQOUl2V05rTG1MVzg3cGNjU3d5djdUMFBtZ3J1WlRKUHprT2dEQk5lZjh1cDYyTVFkZFhWTjZqVGFaQjlrNVppZ1pHNFl4aUJzYk1uWlVhRUtRMERUaElWb1pRd0FLbFRLUENSeU4wbUhFaWtqRnhrdUd6cXYtei1sZW9JT0ZJYTJncHVLcmNpcmNoVEVaYzZoc9IBngFBVV95cUxQQkpsZE9mUXVjWFNlOFVEelliZHp2Ulc1UGktSHB5clRSQkgybEM2Wm9UY2hGRXpXZ1FXVXpyOTg5bjNxRUw1TUJVLWU3SmlTRGFxaGQzM2VBU2pOejg4ekUxa3ZtczMwWGJxUWZyNDZqLWlMVkRqTzBVcTUxZURudHpGajlPQ2xmd1NJNnVOc1dkNXZhVEJrbEZ4VnJPQQ?oc=5",
           "published": "2026-03-07T11:00:00+03:00"
         }
@@ -22097,19 +22097,19 @@
         "Trafik Kazası"
       ],
       "icon": "🚗",
-      "title": "Ankara Kahramankazan'da Tıra Çarpan Otomobilin Sürücüsü Ağır Yaralandı - Mersin Haber",
+      "title": "Ankara Kahramankazan'da Tıra Çarpan Otomobilin Sürücüsü Ağır Yaralandı - mersinhaber.com",
       "location": "Kahramankazan / Ankara",
       "published": "2026-03-02T11:00:00+03:00",
       "confidence": 75,
       "sources": 1,
       "status": "Muhtemel",
-      "summary": "Mersin Haber üzerinden bulunan herkese açık kayıt.",
+      "summary": "mersinhaber.com üzerinden bulunan herkese açık kayıt.",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQRmpYOUlEYUV5cjhKT0xIdEhhb0hTTFFxTkNId2pvU1BibHF5MEJ2Z0Uza18tcjRMVVJvbGRhNW1LTFYxY0R3MkhwVEZKd3FUMFdYMXFiQWZwNkI4Ry1UYmlId2ZGRE9pZms4RDAteURqOEZUc0lRZFpiR2llNjZySTVMUS04WlFYUkcyX0lUelBGRS1CX09oMGE3elJwY1lfZWE2TVJ4Z1M2RGZaYmxn0gFXQVVfeXFMTU1uY1Q1MVdaM1hLN3U4V3JRdmVnMlRjY2RPZjZQN3VxNDljZlZROERiQVNNS0RyZ0ZvVVZUZGZLTGlydjdvTzFnWE9Jd29IN2JNVWhzSWNR?oc=5",
       "platform": "Haber",
       "source_links": [
         {
           "platform": "Haber",
-          "title": "Ankara Kahramankazan'da Tıra Çarpan Otomobilin Sürücüsü Ağır Yaralandı - Mersin Haber",
+          "title": "Ankara Kahramankazan'da Tıra Çarpan Otomobilin Sürücüsü Ağır Yaralandı - mersinhaber.com",
           "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQRmpYOUlEYUV5cjhKT0xIdEhhb0hTTFFxTkNId2pvU1BibHF5MEJ2Z0Uza18tcjRMVVJvbGRhNW1LTFYxY0R3MkhwVEZKd3FUMFdYMXFiQWZwNkI4Ry1UYmlId2ZGRE9pZms4RDAteURqOEZUc0lRZFpiR2llNjZySTVMUS04WlFYUkcyX0lUelBGRS1CX09oMGE3elJwY1lfZWE2TVJ4Z1M2RGZaYmxn0gFXQVVfeXFMTU1uY1Q1MVdaM1hLN3U4V3JRdmVnMlRjY2RPZjZQN3VxNDljZlZROERiQVNNS0RyZ0ZvVVZUZGZLTGlydjdvTzFnWE9Jd29IN2JNVWhzSWNR?oc=5",
           "published": "2026-03-02T11:00:00+03:00"
         }
@@ -22685,19 +22685,19 @@
         "Kavga"
       ],
       "icon": "🔫",
-      "title": "Ankara Altındağ'da Gerçekleşen Silahlı Saldırıda 2 Kişi Yaralandı - Mersin Haber",
+      "title": "Ankara Altındağ'da Gerçekleşen Silahlı Saldırıda 2 Kişi Yaralandı - mersinhaber.com",
       "location": "Altındağ / Ankara",
       "published": "2026-02-10T11:00:00+03:00",
       "confidence": 75,
       "sources": 1,
       "status": "Muhtemel",
-      "summary": "Mersin Haber üzerinden bulunan herkese açık kayıt.",
+      "summary": "mersinhaber.com üzerinden bulunan herkese açık kayıt.",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTlEtNUhVbmRIenVQb3dRU1RCTlI2WE5GZ2Z2ZGU1T09FWGNZN0U4SW5yVEx4ZTZGZERNUld3bUE4Xzh3RkgtRUZJY2JaY2JiN3NRTDdIOUZDcTZKU2tudVhLdlJRVG14d3pGVWxxc08tSWdja2FRbnpFQ3UzZDkzdGJ2UXRPbUdyS3A1ZVQ2cXllUHVpbXdkQmdHc2JORTBZZ3MtSUhyaWXSAVdBVV95cUxOejl3Zm5XVU1EV3FqeDBHZ3NSX1gyUXBCMml1OXJJOExFR0VZbXJMNGM1Y0d0M29tOW1YaHI1MmFZQjFyR1I0VENHcVg2MUlZQnlPZ3FPVFk?oc=5",
       "platform": "Haber",
       "source_links": [
         {
           "platform": "Haber",
-          "title": "Ankara Altındağ'da Gerçekleşen Silahlı Saldırıda 2 Kişi Yaralandı - Mersin Haber",
+          "title": "Ankara Altındağ'da Gerçekleşen Silahlı Saldırıda 2 Kişi Yaralandı - mersinhaber.com",
           "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTlEtNUhVbmRIenVQb3dRU1RCTlI2WE5GZ2Z2ZGU1T09FWGNZN0U4SW5yVEx4ZTZGZERNUld3bUE4Xzh3RkgtRUZJY2JaY2JiN3NRTDdIOUZDcTZKU2tudVhLdlJRVG14d3pGVWxxc08tSWdja2FRbnpFQ3UzZDkzdGJ2UXRPbUdyS3A1ZVQ2cXllUHVpbXdkQmdHc2JORTBZZ3MtSUhyaWXSAVdBVV95cUxOejl3Zm5XVU1EV3FqeDBHZ3NSX1gyUXBCMml1OXJJOExFR0VZbXJMNGM1Y0d0M29tOW1YaHI1MmFZQjFyR1I0VENHcVg2MUlZQnlPZ3FPVFk?oc=5",
           "published": "2026-02-10T11:00:00+03:00"
         }
@@ -22836,7 +22836,7 @@
         },
         {
           "platform": "Haber",
-          "title": "Ankara'da seri cinayet! Annesini, kızını ve eski eşini öldürüp intihar etti - Nefes Gazetesi",
+          "title": "Ankara'da seri cinayet! Annesini, kızını ve eski eşini öldürüp intihar etti - nefes.com.tr",
           "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5oODhyZjdoT3ZnNi1EZ3ZCX1RaU1JFcExrenNvdGRPX3BHb3g1TU44V19WRUFacWJXejBJVjN4bHk2eXBiRE1hUVV1NDJIVms1ZkgwQi1uQjhqcmpfdWg2MlZtVW9Fblg0VkE?oc=5",
           "published": "2026-02-09T11:00:00+03:00"
         },
@@ -22861,19 +22861,19 @@
         "Diğer"
       ],
       "icon": "⚠️",
-      "title": "Ankara Keçiören'de Bir Şahıs, Ailesini Öldürüp İntihar Etti - Mersin Haber",
+      "title": "Ankara Keçiören'de Bir Şahıs, Ailesini Öldürüp İntihar Etti - mersinhaber.com",
       "location": "Keçiören / Ankara",
       "published": "2026-02-09T11:00:00+03:00",
       "confidence": 75,
       "sources": 1,
       "status": "Muhtemel",
-      "summary": "Mersin Haber üzerinden bulunan herkese açık kayıt.",
+      "summary": "mersinhaber.com üzerinden bulunan herkese açık kayıt.",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQN25Ea2I0WUZSWmhuZkt4cHZ1dU9PYlVpWGotUjBOU2VfLUh4c0hnVEZFZ0RVNENNV2t4RFhCb2ZjRGVOdEhoeGttLW41bHZhMzhTcXBJYkhXYlNnVFJsako2T3BBNnlOMS1udGhQcTNtU3NqTjRBOC00enlTYlpYTDY1VkF5WU9PUVFvYy1wQ1VuQlcyd0VpLWk5ZC1xbVHSAVdBVV95cUxOVWNqWlRQWTcyWUdmY2gydFdMZUtnLWJlcDJvS1NyaVVCTUJoUUJDOFdrT1RaSjRta2lwdlUxaEVlOTdOQ2R1VWNRem01Ynd1ZkxXUlZVYmM?oc=5",
       "platform": "Haber",
       "source_links": [
         {
           "platform": "Haber",
-          "title": "Ankara Keçiören'de Bir Şahıs, Ailesini Öldürüp İntihar Etti - Mersin Haber",
+          "title": "Ankara Keçiören'de Bir Şahıs, Ailesini Öldürüp İntihar Etti - mersinhaber.com",
           "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQN25Ea2I0WUZSWmhuZkt4cHZ1dU9PYlVpWGotUjBOU2VfLUh4c0hnVEZFZ0RVNENNV2t4RFhCb2ZjRGVOdEhoeGttLW41bHZhMzhTcXBJYkhXYlNnVFJsako2T3BBNnlOMS1udGhQcTNtU3NqTjRBOC00enlTYlpYTDY1VkF5WU9PUVFvYy1wQ1VuQlcyd0VpLWk5ZC1xbVHSAVdBVV95cUxOVWNqWlRQWTcyWUdmY2gydFdMZUtnLWJlcDJvS1NyaVVCTUJoUUJDOFdrT1RaSjRta2lwdlUxaEVlOTdOQ2R1VWNRem01Ynd1ZkxXUlZVYmM?oc=5",
           "published": "2026-02-09T11:00:00+03:00"
         }
@@ -23095,7 +23095,7 @@
       "source_links": [
         {
           "platform": "Haber",
-          "title": "Sincan'da silahlı kavgada 4 gözaltı yapıldı - yenicaggazetesi.com",
+          "title": "Sincan'da silahlı kavgada 4 gözaltı yapıldı - Yeniçağ Gazetesi",
           "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOdm10WGxleUY0dkhmclBadDQyLTZYZVJOcXp5bG40LWRLeHhfMm5sQmhrVXZjUGtyMjVwZ09EbXA1MDdlcEUxeXJpa2VWQThjT0FsZmh0ajlvdU4tR0RTQzhUZmIxeEdyWDFfTGFXU2tiaGFJd0gtMF9MNnhVZlVUMXZsNTRvdTdjVDY2RlJTNA?oc=5",
           "published": "2026-02-02T11:00:00+03:00"
         },
@@ -25951,19 +25951,19 @@
         "Yangın"
       ],
       "icon": "🔥",
-      "title": "Ankara'da fabrika yangını - Nefes Gazetesi",
+      "title": "Ankara'da fabrika yangını - nefes.com.tr",
       "location": "Ankara Geneli",
       "published": "2025-10-10T10:00:00+03:00",
       "confidence": 75,
       "sources": 1,
       "status": "Muhtemel",
-      "summary": "Nefes Gazetesi üzerinden bulunan herkese açık kayıt.",
+      "summary": "nefes.com.tr üzerinden bulunan herkese açık kayıt.",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9UQ0lkQVd5MUdZTzdNb1B1TTBaQjA0cTNqNTJsVEtnZW5jd1ByYnRJazVSWFpPWmh3cHNVckQ0eFMzbWlyX204dlVvc0JoUGV4TUlKbll0R1dxVnhzeHprOFVYNEN3d9IBa0FVX3lxTE5oV3piN2FXQ1RUeGs5S1NZcDFwQ0VNS3ItMUVYeXY5YTJ0R1pzWFhQSXM1ZnczWjY5bkJHV01ZYU5RdVhpaVVIZUVCakxEVWNhY0pfbGpRWTBRT25yMllxdk4zakhJdmVFQ01B?oc=5",
       "platform": "Haber",
       "source_links": [
         {
           "platform": "Haber",
-          "title": "Ankara'da fabrika yangını - Nefes Gazetesi",
+          "title": "Ankara'da fabrika yangını - nefes.com.tr",
           "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9UQ0lkQVd5MUdZTzdNb1B1TTBaQjA0cTNqNTJsVEtnZW5jd1ByYnRJazVSWFpPWmh3cHNVckQ0eFMzbWlyX204dlVvc0JoUGV4TUlKbll0R1dxVnhzeHprOFVYNEN3d9IBa0FVX3lxTE5oV3piN2FXQ1RUeGs5S1NZcDFwQ0VNS3ItMUVYeXY5YTJ0R1pzWFhQSXM1ZnczWjY5bkJHV01ZYU5RdVhpaVVIZUVCakxEVWNhY0pfbGpRWTBRT25yMllxdk4zakhJdmVFQ01B?oc=5",
           "published": "2025-10-10T10:00:00+03:00"
         }
@@ -26898,8 +26898,8 @@
   "google_alert_invalid_count": 0,
   "google_alert_query_count": 9,
   "platform_counts": {
-    "X": 148,
-    "Facebook": 65,
+    "X": 149,
+    "Facebook": 64,
     "Haber": 822,
     "TikTok": 38,
     "YouTube": 10
@@ -26910,8 +26910,8 @@
     "google_news_social_queries": 11,
     "google_alert_feeds": 9,
     "new_results_this_scan": {
-      "Haber": 362,
-      "X": 72,
+      "Haber": 366,
+      "X": 70,
       "Facebook": 31,
       "YouTube": 7,
       "TikTok": 2
