@@ -140,6 +140,42 @@ def add_alert_feed(url,now,out):
    categories,icon=classify_all(text);cat=categories[0]
    out.append({"category":cat,"categories":categories,"icon":icon,"title":title,"location":"Mamak / Ankara","published":dt.isoformat(),"confidence":60,"sources":1,"status":"Sosyal medya / doğrulanmamış","summary":"Google Alerts üzerinden bulunan herkese açık "+platform+" kaydı.","url":link,"platform":platform})
  except Exception:pass
+
+META_DEFAULT_TARGETS=["ankaradatrafik","ankara.sondakika","ankaradantrafik","ankaradansondakika"]
+meta_instagram_status={"configured":False,"targets":0,"checked":0,"records":0,"errors":[]}
+
+def add_meta_instagram(now,out):
+ token=os.getenv("META_IG_ACCESS_TOKEN","").strip()
+ user_id=os.getenv("META_IG_USER_ID","").strip()
+ version=os.getenv("META_GRAPH_VERSION","v23.0").strip()
+ raw_targets=os.getenv("META_IG_TARGETS",", ".join(META_DEFAULT_TARGETS))
+ targets=list(dict.fromkeys(x.strip().lstrip("@") for x in re.split(r"[\n,;]+",raw_targets) if re.match(r"^[A-Za-z0-9._]+$",x.strip().lstrip("@"))))
+ meta_instagram_status.update({"configured":bool(token and user_id),"targets":len(targets)})
+ if not token or not user_id:return
+ for username in targets:
+  try:
+   fields="business_discovery.username("+username+"){username,media.limit(50){caption,permalink,timestamp,media_type}}"
+   params=urllib.parse.urlencode({"fields":fields,"access_token":token})
+   url="https://graph.facebook.com/"+version+"/"+urllib.parse.quote(user_id,safe="")+"?"+params
+   req=urllib.request.Request(url,headers={"User-Agent":"AnkaraOlayTakip/3.3"})
+   payload=json.loads(urllib.request.urlopen(req,timeout=30).read().decode("utf-8"))
+   meta_instagram_status["checked"]+=1
+   media=((payload.get("business_discovery") or {}).get("media") or {}).get("data") or []
+   for post in media:
+    caption=clean(post.get("caption") or "")
+    permalink=post.get("permalink") or ""
+    try:dt=datetime.fromisoformat((post.get("timestamp") or "").replace("Z","+00:00")).astimezone(now.tzinfo)
+    except:continue
+    if now-dt>timedelta(days=365) or not detect_district(caption) or not relevant(caption):continue
+    categories,icon=classify_all(caption)
+    title=(caption[:220]+"…") if len(caption)>220 else caption
+    if not title:title="@"+username+" Instagram gönderisi"
+    out.append({"category":categories[0],"categories":categories,"icon":icon,"title":title,"location":(detect_district(caption) or "Ankara Geneli")+" / Ankara","published":dt.isoformat(),"confidence":70,"sources":1,"status":"Sosyal medya / doğrulanmamış","summary":"Meta Instagram API ile @"+username+" hesabında bulunan herkese açık gönderi.","url":permalink,"platform":"Instagram","instagram_username":username,"ingestion":"Meta Instagram API"})
+    meta_instagram_status["records"]+=1
+  except Exception as ex:
+   message=str(ex)
+   meta_instagram_status["errors"].append("@"+username+": "+message[:140])
+
 STOP_WORDS={"mamak","ankara","son","dakika","haber","haberi","olay","olayi","ilcesi","ilcesinde","mahallesi","icin","ile","bir","ve","da","de","ta","te","the"}
 SYNONYMS={"agaclik":"orman","koruluk":"orman","alevler":"yangin","alev":"yangin","itfaiye":"yangin","carpisti":"kaza","carpisma":"kaza","devrildi":"kaza","gozaltina":"gozalti","yakalandi":"gozalti"}
 
@@ -246,6 +282,7 @@ for platform,q in SOCIAL:
 raw_alert_urls=[u.strip() for u in re.split(r"[\n,;]+",os.getenv("GOOGLE_ALERT_FEEDS","")) if u.strip()]
 alert_urls=list(dict.fromkeys(u for u in raw_alert_urls if re.match(r"^https://[^/]*google[^/]*/alerts/feeds/",u,re.I)))
 for alert_url in alert_urls:add_alert_feed(alert_url,now,new)
+add_meta_instagram(now,new)
 try:
  with open("data/events.json",encoding="utf-8") as f:old=json.load(f).get("events",[])
 except:old=[]
@@ -269,5 +306,5 @@ for e in new:
 social_targets={};social_attempts={}
 for platform,_ in SOCIAL:
  social_targets[platform]=social_targets.get(platform,0)+1;social_attempts[platform]=social_attempts.get(platform,0)+2
-scan_status={"social_queries":len(SOCIAL)*2+len(alert_urls),"bing_social_queries":len(SOCIAL),"google_news_social_queries":len(SOCIAL),"google_alert_feeds":len(alert_urls),"social_targets":social_targets,"social_attempts":social_attempts,"new_results_this_scan":new_platform_counts}
-with open("data/events.json","w",encoding="utf-8") as f:json.dump({"updated_at":now.isoformat(),"events":items,"google_alerts_active":bool(alert_urls),"google_alert_feed_count":len(alert_urls),"google_alert_invalid_count":len(raw_alert_urls)-len(alert_urls),"google_alert_query_count":len(ALERT_QUERY_TEMPLATES),"platform_counts":platform_counts,"scan_status":scan_status,"sources":["Google Alerts RSS","Google News RSS","Bing RSS","X (indekslenen açık gönderiler)","Facebook (indekslenen açık sayfa/gruplar)","Instagram","YouTube","TikTok"]},f,ensure_ascii=False,indent=2)
+scan_status={"social_queries":len(SOCIAL)*2+len(alert_urls),"bing_social_queries":len(SOCIAL),"google_news_social_queries":len(SOCIAL),"google_alert_feeds":len(alert_urls),"social_targets":social_targets,"social_attempts":social_attempts,"new_results_this_scan":new_platform_counts,"meta_instagram":meta_instagram_status}
+with open("data/events.json","w",encoding="utf-8") as f:json.dump({"updated_at":now.isoformat(),"events":items,"google_alerts_active":bool(alert_urls),"google_alert_feed_count":len(alert_urls),"google_alert_invalid_count":len(raw_alert_urls)-len(alert_urls),"google_alert_query_count":len(ALERT_QUERY_TEMPLATES),"platform_counts":platform_counts,"scan_status":scan_status,"sources":["Meta Instagram API","Google Alerts RSS","Google News RSS","Bing RSS","X (indekslenen açık gönderiler)","Facebook (indekslenen açık sayfa/gruplar)","Instagram","YouTube","TikTok"]},f,ensure_ascii=False,indent=2)
