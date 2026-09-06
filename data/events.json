@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-06T23:47:57.618667+03:00",
+  "updated_at": "2026-09-06T23:56:20.680918+03:00",
   "events": [
     {
       "category": "Uyuşturucu",
@@ -148,9 +148,9 @@
       "location": "Ankara Geneli",
       "published": "2026-09-06T18:35:05+03:00",
       "confidence": 60,
-      "sources": 2,
+      "sources": 1,
       "status": "Sosyal medya / doğrulanmamış",
-      "summary": "2 farklı açık kaynakta bulunan aynı olay tek kayıtta birleştirildi.",
+      "summary": "x.com üzerinden bulunan herkese açık kayıt.",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1zOTJ6VVpzSnZuQUFCajdTMGQ2cm4wbDdmeUUwbHlFOE5lR0lESlRXWndPRDJlZEFEaUNnSUtBUGFZRnZRa3p6bEM0N05kSk1DODFBX2lEUGh4ZXp1TjFZMElNNUtvODJvNjdSMkZWSQ?oc=5",
       "platform": "X",
       "source_links": [
@@ -159,12 +159,6 @@
           "title": "Ankara istikametinde kazaya karışan araç bölgeden tahliye edildi, trafik normale döndü. Kırıkkale istikametinde kazaya karışan aracın bölgeden tahliye aşaması devam ederken zaman kaybı ortalama 10 dakika. - x.com",
           "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1zOTJ6VVpzSnZuQUFCajdTMGQ2cm4wbDdmeUUwbHlFOE5lR0lESlRXWndPRDJlZEFEaUNnSUtBUGFZRnZRa3p6bEM0N05kSk1DODFBX2lEUGh4ZXp1TjFZMElNNUtvODJvNjdSMkZWSQ?oc=5",
           "published": "2026-09-06T18:35:05+03:00"
-        },
-        {
-          "platform": "X",
-          "title": "Ankara istikametinde kazaya karışan araç bölgeden tahliye edildi, trafik normale döndü. Kırıkkale istikametinde kazaya karışan aracın bölgeden tahliye aşaması devam ederken zaman kaybı ortalama 10 dakika. - x.com",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5CamRncHFPLUdtU2VSRllJYVhWQW16Z3luTW56MVh2SmtiMzVyVURqRXpsMUotZHBZREc0OU1LaFhuNTZ4c2F0aVF1TUc5aVlQTnhZV0F3ZDFVT2VXY0R0YkxWeEY?oc=5",
-          "published": "2026-09-06T18:35:05+03:00"
         }
       ],
       "district": "Ankara Geneli",
@@ -172,8 +166,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 3,
-      "last_updated": "2026-09-06T18:35:05+03:00"
+      "id": 3
     },
     {
       "category": "Kayıp Kişi",
@@ -4184,9 +4177,9 @@
       "location": "Ankara Geneli",
       "published": "2026-08-25T10:00:00+03:00",
       "confidence": 75,
-      "sources": 3,
+      "sources": 2,
       "status": "Muhtemel",
-      "summary": "3 farklı açık kaynakta bulunan aynı olay tek kayıtta birleştirildi.",
+      "summary": "2 farklı açık kaynakta bulunan aynı olay tek kayıtta birleştirildi.",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOZGxpdDVxLW5oNENHZGt4NDB5YWFUZERPUXpTc2tWSTg0dEl0OTZ1SWRqaElKZ0ZSS0ctOUZiLWZGOEhCckR6OGp2dVRmcGxybHNVUzFadnJ3S1ZZVGJremo0Ml9KbkZSWDJOTWtVMkFqTG4wVzlJa3E2ZUx2ek9haUE2aXVwQnJEOEpQaFNBNTdaWnotRUtNWW5lUXdxSTBwbUhEVktOWHJodk44RGgzWlJFV3M2eXJOR01tek5uZWJsOWcyMjR2Mk9tT0U?oc=5",
       "platform": "Haber",
       "source_links": [
@@ -4198,18 +4191,12 @@
         },
         {
           "platform": "Haber",
-          "title": "Ankara'da kargo paketlerinde 109 kilo 300 gram uyuşturucu ele geçirildi - Yeni Mesaj",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNbHItQjBMSm1vUnI1OEVlUG9xdzVIcnpNc004WW0tWTRPYUlNSVJfM0RLWkhWOXNsczN6cXIyYXZ4RzFCQnIxM2tJNHVhbldFSUQzY1Zub0xVQ1VwUmUxSWNJTFA5RDB1ckFRVUczb053emFIM1podlNwcHNnUVpac2ZQX3dlWl9JSmxFQU01cjBVME1ScDZNclpaX1kySUV4WjNTdFRtSFFEV3BEemFlR3VR?oc=5",
-          "published": "2026-08-26T05:00:00+03:00"
-        },
-        {
-          "platform": "Haber",
           "title": "Ankara'da kargo paketlerinde 109 kilogram uyuşturucu ele geçirildi - TRT Haber",
           "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPeENacFFPUnFlRVh0MUgyOGIxWk5XbHZlUnRwVWtPR2V2QjNnUzVtcTVCWmJ0RS03aXJuQTBmWC1NcGtzSXAwNHE0bUN5S2RUMnZ2anpCNHJaWTlMQndIOHBhZnYzY0U4UkNKeldBWTlLME1Ddlp0QmZET2pCVXdyaE9PcjRFM0xOZFhkWk9aeW9zS3A5RkFkcEZMd25iWk5OSU9icTBfVlhwdV8tNUZqYVhaVUlac1E?oc=5",
           "published": "2026-08-25T10:00:00+03:00"
         }
       ],
-      "last_updated": "2026-08-26T05:00:00+03:00",
+      "last_updated": "2026-08-25T10:00:00+03:00",
       "district": "Ankara Geneli",
       "neighborhood": "Ankara Geneli",
       "lat": 39.9334,
@@ -14638,8 +14625,8 @@
         "Sağlık"
       ],
       "icon": "🚗",
-      "title": "Ankara'da belediye otobüsü ve hafif ticari araç çarpıştı: 1 ölü, 9 yaralı - DHA | Demirören Haber Ajansı",
-      "location": "Ankara Geneli",
+      "title": "Ankara'da 4 kişinin öldüğü kaza anı kamerada #Ankara'nın Polatlı ilçesinde otomobilin kamyona arkadan çarpması sonucu meydana gelen kazada, 3 kişi hayatını kaybederken, 1 kişi ise ağır yaralandı. Kaza anı çevredeki güvenlik kamerası tarafından kaydedil - instagram.com",
+      "location": "Polatlı / Ankara",
       "published": "2026-06-23T10:00:00+03:00",
       "confidence": 75,
       "sources": 6,
@@ -14668,6 +14655,12 @@
         },
         {
           "platform": "Haber",
+          "title": "Ankara'da 4 kişinin öldüğü kaza anı kamerada #Ankara'nın Polatlı ilçesinde otomobilin kamyona arkadan çarpması sonucu meydana gelen kazada, 3 kişi hayatını kaybederken, 1 kişi ise ağır yaralandı. Kaza anı çevredeki güvenlik kamerası tarafından kaydedil - instagram.com",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE10U0NCMm1RMEVYNS1GTXVvY0VER3A4dWE5eTBnNUxJUUFTNmJoR3E4X0ltUW05LWt4N0tzX3hmMEtHbWtzSGx4OXc4VjJmZU9iV09PUEdB?oc=5",
+          "published": "2026-06-23T10:00:00+03:00"
+        },
+        {
+          "platform": "Haber",
           "title": "Ankara'da feci kaza! Otomobil kamyona çarptı: 4 kişi hayatını kaybetti - hurriyet.com.tr",
           "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNNlJzY01ud1hmdmNGcmhsa1dZNzhaNHBQZ1hLOVlUNzNENDYyWU5JOTF3NWxWbFpFXzQySnRVRlNIWFZVc2NMaEdLSWZCaG94YWxsaWVWbHNnX19NdEtjb2hGMXhkNFlUMkhGQ2Fqc3JvZDBQZERsSXNTSDJGdXhfNThqMTlXaENsVDBNZkZaYmQwN2NvYm5vN1BvVE5IT2VmU3hkVzB1ckdZVC1ueHJ3Zw?oc=5",
           "published": "2026-06-23T10:00:00+03:00"
@@ -14677,20 +14670,14 @@
           "title": "Ankara'da belediye otobüsü ve hafif ticari araç çarpıştı: 1 ölü, 9 yaralı - CNN Türk",
           "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQRTlqV3hMZEFlOFdyQWZXVnUwMjU0dTZTVnhoUF9rcHlibzBJX1pnV1p1WG1vMUtMWURoN0NkM0VCSDY3STBBWlpOb0NMYlp3UFE2X3M2SElVVFF4SmttSWtLamhPeGR6dDRMTlBPWGF4bUxmaFduT2hkSXg1ZmZwTGNvUmRqVDM0U1NzX1NVOW5ncXA5Q3I0VDNYS3BvOG0ydDJGSUh0ZF9MdXl4NmZGZUJBbU1FcGZKUDZ4Z1Bfd1BoZw?oc=5",
           "published": "2026-06-23T10:00:00+03:00"
-        },
-        {
-          "platform": "Haber",
-          "title": "Ankara'da Otobüs Kazası: 1 Ölü, 9 Yaralı - Son Dakika",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPMHUxRjdaamVmNVM2S05WLXVnaDlzU1FMTlczOTNlTEZYRWRRdjA3dW9lMjA4RlZ2WnRGTzczYXVyMmQzdmNFaUJMUEQzOEl0Wk9zaG1YYS1sdEZqUkphZ3VrN2hOTmhUQ3E4SGU3WUl5eUZ6cHlMS05sM0NsNmd0OHQxUzJMR1VGc3dQdnViUEN0Z9IBjAFBVV95cUxNWm9FeW0xZGRTU2s1R0tXdnJCaUVISHlzeXpDYlhmN1JZNmNPNElvcE45MWZwTzgydk1CM1pnX2ZjN2ExTFNKXzFqc1hwb191bzNfMnVjTjlWQlMxSFR3RVN1RlcydVRIUmNYT2pRM3F0dDlfbmxrQ3AxcHdWX3RUQVM2LTBLdmp5aXk5WA?oc=5",
-          "published": "2026-06-23T10:00:00+03:00"
         }
       ],
       "last_updated": "2026-06-23T10:00:00+03:00",
-      "district": "Ankara Geneli",
-      "neighborhood": "Ankara Geneli",
-      "lat": 39.9334,
-      "lon": 32.8597,
-      "location_precision": "il",
+      "district": "Polatlı",
+      "neighborhood": "Polatlı Geneli",
+      "lat": 39.584,
+      "lon": 32.147,
+      "location_precision": "ilçe",
       "id": 445
     },
     {
@@ -16700,9 +16687,9 @@
       "location": "Gölbaşı / Ankara",
       "published": "2026-06-05T10:00:00+03:00",
       "confidence": 75,
-      "sources": 5,
+      "sources": 7,
       "status": "Muhtemel",
-      "summary": "5 farklı açık kaynakta bulunan aynı olay tek kayıtta birleştirildi.",
+      "summary": "7 farklı açık kaynakta bulunan aynı olay tek kayıtta birleştirildi.",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNNnl1d18yT2dEd0NtOTBibWVKTXpwejBqTHhOSW5aS0owdkhuc1BzZnd5ZXBEVXZYbWtjcHJOQ0FxMTZBRFpNQWl1LXo2RE8wRGJkMWlFeDVhTDJhbTNZbXQ2T19vZ0NLVndmdW5kVGlGdE5xQVhPUEJqSDAxa2lKazdRc2I2eHZvbjZqMXAyZ09KdnVseVFBcFh0UXJpeGtGQkVLRkQ2SQ?oc=5",
       "platform": "Haber",
       "source_links": [
@@ -16710,6 +16697,12 @@
           "platform": "Haber",
           "title": "Ankara-Eskişehir kara yolunda 3 aracın karıştığı trafik kazası - Medya Gazete",
           "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNNnl1d18yT2dEd0NtOTBibWVKTXpwejBqTHhOSW5aS0owdkhuc1BzZnd5ZXBEVXZYbWtjcHJOQ0FxMTZBRFpNQWl1LXo2RE8wRGJkMWlFeDVhTDJhbTNZbXQ2T19vZ0NLVndmdW5kVGlGdE5xQVhPUEJqSDAxa2lKazdRc2I2eHZvbjZqMXAyZ09KdnVseVFBcFh0UXJpeGtGQkVLRkQ2SQ?oc=5",
+          "published": "2026-06-05T10:00:00+03:00"
+        },
+        {
+          "platform": "Haber",
+          "title": "Ankara-Eskişehir kara yolunda 3 aracın karıştığı trafik kazası Bir otomobil şarampole uçtu, kaza maddi hasarla atlatıldı - Habertürk",
+          "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNSElnWXh3N01TQ0swbGcwanFDUDRIUjJuU1lBWVFVVm40cmx5WGg2SjctSnB0UXlwYUFEbnV2QnF3bVhhUTVmM1oxMzMwbzNFQzE0QVYzVXNfYThzTHZObXlQYWdCZGF1bE9Kdk9xRjMwMlctbEdXaEdyRzcwVHlxcmpUTjFTZE5EWmxSSVU3REdEdXhpYktvNVB4UmJTR1Y5RlhWc0ZjQV9JNXVBS2xKOEJ1YnByOEEzTzFrdktQNDhEWGVqcEtLQTJ6X0cyLVR4eGhmVXhEX2ZqOVdwX2JMdXNHNDJVMmxxalZNZmpB?oc=5",
           "published": "2026-06-05T10:00:00+03:00"
         },
         {
@@ -16722,6 +16715,12 @@
           "platform": "Haber",
           "title": "Ankara-Eskişehir kara yolunda 3 aracın karıştığı trafik kazası İhlas Haber Ajansı - iha.com.tr",
           "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPYUtsSUZPY1NubXU4N0piOTlhUVg3UVprS0c5bVZyYXVXVDRZM25SQVBRaElzMVJxamdjR3d3S0dBY1R2VzdpZHoxRXRiVzJXaXg4TVJhV2I1YXdmZE1mcEZKTGltbEN5VjJQQ2QzMTRJZnRXdFllTmpVWmRvclZfRTZsdnBQRHdxWGNhNGhZS2ZhaWIydEE4NGR1ZTY0aWxuTUtMVGFDRHllaHZaTlAxVzE5MXRXQQ?oc=5",
+          "published": "2026-06-05T10:00:00+03:00"
+        },
+        {
+          "platform": "Haber",
+          "title": "Ankara-Eskişehir kara yolunda 3 aracın karıştığı trafik kazası - Eskişehir Haber Ötesi",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOc2dmZTlrSktMbjVpUjZqMkVMRFRhOTdtM056YktFUk8tUGVMekpTVVA3a2xLbDZqcnNyWWtyV1NxaVRzVU5PeDRleTJVbndMZXdSM1BvSjhBVWRuUFY1ZVhjQkc1U09zTWkwd0dLU0dkcDFTRlR2dUw2dzZhZXpRblBvX0ZnZm1TbTBlTkFSRThpLTlkQVY0?oc=5",
           "published": "2026-06-05T10:00:00+03:00"
         },
         {
@@ -28253,8 +28252,8 @@
   "google_alert_invalid_count": 0,
   "google_alert_query_count": 9,
   "platform_counts": {
-    "Haber": 863,
-    "X": 162,
+    "Haber": 864,
+    "X": 161,
     "Facebook": 67,
     "TikTok": 42,
     "YouTube": 11,
@@ -28280,9 +28279,9 @@
       "TikTok": 2
     },
     "new_results_this_scan": {
-      "Haber": 381,
+      "Haber": 379,
       "X": 71,
-      "Facebook": 30,
+      "Facebook": 32,
       "YouTube": 7,
       "TikTok": 3
     },
