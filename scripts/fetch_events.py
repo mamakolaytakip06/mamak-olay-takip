@@ -266,5 +266,8 @@ for e in items:
 new_platform_counts={}
 for e in new:
  p=e.get("platform") or "Bilinmiyor";new_platform_counts[p]=new_platform_counts.get(p,0)+1
-scan_status={"social_queries":len(SOCIAL)*2+len(alert_urls),"bing_social_queries":len(SOCIAL),"google_news_social_queries":len(SOCIAL),"google_alert_feeds":len(alert_urls),"new_results_this_scan":new_platform_counts}
+social_targets={};social_attempts={}
+for platform,_ in SOCIAL:
+ social_targets[platform]=social_targets.get(platform,0)+1;social_attempts[platform]=social_attempts.get(platform,0)+2
+scan_status={"social_queries":len(SOCIAL)*2+len(alert_urls),"bing_social_queries":len(SOCIAL),"google_news_social_queries":len(SOCIAL),"google_alert_feeds":len(alert_urls),"social_targets":social_targets,"social_attempts":social_attempts,"new_results_this_scan":new_platform_counts}
 with open("data/events.json","w",encoding="utf-8") as f:json.dump({"updated_at":now.isoformat(),"events":items,"google_alerts_active":bool(alert_urls),"google_alert_feed_count":len(alert_urls),"google_alert_invalid_count":len(raw_alert_urls)-len(alert_urls),"google_alert_query_count":len(ALERT_QUERY_TEMPLATES),"platform_counts":platform_counts,"scan_status":scan_status,"sources":["Google Alerts RSS","Google News RSS","Bing RSS","X (indekslenen açık gönderiler)","Facebook (indekslenen açık sayfa/gruplar)","Instagram","YouTube","TikTok"]},f,ensure_ascii=False,indent=2)
