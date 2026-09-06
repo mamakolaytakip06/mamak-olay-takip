@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-06T07:24:46.437496+03:00",
+  "updated_at": "2026-09-06T07:36:28.048951+03:00",
   "events": [
     {
       "category": "Asayiş",
@@ -3375,9 +3375,9 @@
       "location": "Mamak / Ankara",
       "published": "2026-08-27T17:11:34+03:00",
       "confidence": 60,
-      "sources": 1,
+      "sources": 2,
       "status": "Sosyal medya / doğrulanmamış",
-      "summary": "x.com üzerinden bulunan herkese açık kayıt.",
+      "summary": "2 farklı açık kaynakta bulunan aynı olay tek kayıtta birleştirildi.",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1pNGdfVVQ4WGRXOFU5bTF0ZkpxVURVUTNGYjJRMHpBTS0xN3lYTnVIUm5taFlIam44VTljRjlLcGlVNU5IZ21Mc0J2MklHWU5lcllaOE94MS1lSlVCTVNDOEJkVFY?oc=5",
       "platform": "X",
       "source_links": [
@@ -3386,6 +3386,12 @@
           "title": "Samsun Yolu Mamak yönü Çiğiltepe ayrımına gelmeden sol şeritte zincirleme kaza kaynaklı yoğunluk geride Musta Tuna alt geçidinden itibaren başlıyor. 🚦Trafiği etkileyen tüm olaylar anında radyoda ve uygulamamızda:📷https://t.co/RZ8Mgmg3mS - x.com",
           "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1pNGdfVVQ4WGRXOFU5bTF0ZkpxVURVUTNGYjJRMHpBTS0xN3lYTnVIUm5taFlIam44VTljRjlLcGlVNU5IZ21Mc0J2MklHWU5lcllaOE94MS1lSlVCTVNDOEJkVFY?oc=5",
           "published": "2026-08-27T17:11:34+03:00"
+        },
+        {
+          "platform": "X",
+          "title": "Samsun Yolu Mamak yönü Çiğiltepe ayrımına gelmeden sol şeritte zincirleme kaza kaynaklı yoğunluk geride Musta Tuna alt geçidinden itibaren başlıyor. 🚦Trafiği etkileyen tüm olaylar anında radyoda ve uygulamamızda:📷https://t.co/RZ8Mgmg3mS - x.com",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9XcTNuNFc3UmZROVYtOEx5c1dfaGl1R0xJT2wxVWVWZkl1dk5ENDExZjRXeTlJWlNmWEhfcGVDeU1JT0daZGRWZFJBMlNSNXhkOHh1QXBEbHN6Ri1QSU0tTWRkOGE4aW1vdFJCYTMyVQ?oc=5",
+          "published": "2026-08-27T17:11:34+03:00"
         }
       ],
       "district": "Mamak",
@@ -3393,7 +3399,8 @@
       "lat": 39.9308,
       "lon": 32.9307,
       "location_precision": "ilçe",
-      "id": 102
+      "id": 102,
+      "last_updated": "2026-08-27T17:11:34+03:00"
     },
     {
       "category": "Asayiş",
@@ -3963,44 +3970,6 @@
         "Asayiş"
       ],
       "icon": "🔥",
-      "title": "SON DAKİKA! Ankara Valiliği duyurdu! Yangına neden olduğu belirtilen şahıs gözaltında! https://t.co/Y6lu6twiDU - x.com",
-      "location": "Ankara Geneli",
-      "published": "2026-08-23T10:00:00+03:00",
-      "confidence": 60,
-      "sources": 2,
-      "status": "Sosyal medya / doğrulanmamış",
-      "summary": "2 farklı açık kaynakta bulunan aynı olay tek kayıtta birleştirildi.",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE52Y3NjU1J0dU5TUXpwa3k3dl94WFQ1VzRKOU5DYlU3N3VGRzNqbjk2M1VzQTFfdkJsTHBtXzU2WTdscWxhT2YzbHRaSXg4eHROWTNhSDFPV3JjTGJEc1JnX05sdmVtWVV4T1QtSw?oc=5",
-      "platform": "X",
-      "source_links": [
-        {
-          "platform": "X",
-          "title": "SON DAKİKA! Ankara Valiliği duyurdu! Yangına neden olduğu belirtilen şahıs gözaltında! https://t.co/Y6lu6twiDU - x.com",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE52Y3NjU1J0dU5TUXpwa3k3dl94WFQ1VzRKOU5DYlU3N3VGRzNqbjk2M1VzQTFfdkJsTHBtXzU2WTdscWxhT2YzbHRaSXg4eHROWTNhSDFPV3JjTGJEc1JnX05sdmVtWVV4T1QtSw?oc=5",
-          "published": "2026-08-24T01:30:00+03:00"
-        },
-        {
-          "platform": "X",
-          "title": "SON DAKİKA! Ankara Valiliği duyurdu! Yangına neden olduğu belirtilen şahıs gözaltında! https://t.co/Y6lu6twiDU - x.com",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1qTkJGT0ZMWjl4Zm9tdi1kaHZRZWdSXzFPOXZMMENFcllSTjlKOGVlaTVTVEhpc2toT0N2RTlxaVlfZW54OE5fNzB0eUplU0NYQXdUUTBTek9ySTRaVGt4S1NB?oc=5",
-          "published": "2026-08-23T10:00:00+03:00"
-        }
-      ],
-      "last_updated": "2026-08-23T10:00:00+03:00",
-      "district": "Ankara Geneli",
-      "neighborhood": "Ankara Geneli",
-      "lat": 39.9334,
-      "lon": 32.8597,
-      "location_precision": "il",
-      "id": 120
-    },
-    {
-      "category": "Yangın",
-      "categories": [
-        "Yangın",
-        "Asayiş"
-      ],
-      "icon": "🔥",
       "title": "Ankara Mamak'ta Ağaçlık Alanda Yangın Çıkması Üzerine İtfaiye Ekipleri Olay Yerinde - Mersin Haber",
       "location": "Mamak / Ankara",
       "published": "2026-08-23T10:00:00+03:00",
@@ -4048,7 +4017,7 @@
       "lat": 39.9308,
       "lon": 32.9307,
       "location_precision": "ilçe",
-      "id": 121
+      "id": 120
     },
     {
       "category": "Yangın",
@@ -4073,6 +4042,44 @@
           "published": "2026-08-24T00:04:12+03:00"
         }
       ],
+      "district": "Ankara Geneli",
+      "neighborhood": "Ankara Geneli",
+      "lat": 39.9334,
+      "lon": 32.8597,
+      "location_precision": "il",
+      "id": 121
+    },
+    {
+      "category": "Yangın",
+      "categories": [
+        "Yangın",
+        "Asayiş"
+      ],
+      "icon": "🔥",
+      "title": "SON DAKİKA! Ankara Valiliği duyurdu! Yangına neden olduğu belirtilen şahıs gözaltında! https://t.co/Y6lu6twiDU - x.com",
+      "location": "Ankara Geneli",
+      "published": "2026-08-23T10:00:00+03:00",
+      "confidence": 60,
+      "sources": 2,
+      "status": "Sosyal medya / doğrulanmamış",
+      "summary": "2 farklı açık kaynakta bulunan aynı olay tek kayıtta birleştirildi.",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE52Y3NjU1J0dU5TUXpwa3k3dl94WFQ1VzRKOU5DYlU3N3VGRzNqbjk2M1VzQTFfdkJsTHBtXzU2WTdscWxhT2YzbHRaSXg4eHROWTNhSDFPV3JjTGJEc1JnX05sdmVtWVV4T1QtSw?oc=5",
+      "platform": "X",
+      "source_links": [
+        {
+          "platform": "X",
+          "title": "SON DAKİKA! Ankara Valiliği duyurdu! Yangına neden olduğu belirtilen şahıs gözaltında! https://t.co/Y6lu6twiDU - x.com",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE52Y3NjU1J0dU5TUXpwa3k3dl94WFQ1VzRKOU5DYlU3N3VGRzNqbjk2M1VzQTFfdkJsTHBtXzU2WTdscWxhT2YzbHRaSXg4eHROWTNhSDFPV3JjTGJEc1JnX05sdmVtWVV4T1QtSw?oc=5",
+          "published": "2026-08-24T01:30:00+03:00"
+        },
+        {
+          "platform": "X",
+          "title": "SON DAKİKA! Ankara Valiliği duyurdu! Yangına neden olduğu belirtilen şahıs gözaltında! https://t.co/Y6lu6twiDU - x.com",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1qTkJGT0ZMWjl4Zm9tdi1kaHZRZWdSXzFPOXZMMENFcllSTjlKOGVlaTVTVEhpc2toT0N2RTlxaVlfZW54OE5fNzB0eUplU0NYQXdUUTBTek9ySTRaVGt4S1NB?oc=5",
+          "published": "2026-08-23T10:00:00+03:00"
+        }
+      ],
+      "last_updated": "2026-08-23T10:00:00+03:00",
       "district": "Ankara Geneli",
       "neighborhood": "Ankara Geneli",
       "lat": 39.9334,
@@ -17091,13 +17098,13 @@
         "Trafik Kazası"
       ],
       "icon": "🚗",
-      "title": "⏰SAAT 19.00 İTİBARIYLA ANKARA'DA TRAFİK YOĞUNLUĞU %90 📌Kuzey çevre yolu Forum kavşağa gelmeden Pursakalr yönünde araç arızası 📌1071 Malazgirt Bulvarı Öveçler yönü Eskişehir Yolu bağlantısından sonra kaza 📌Kuzey çevre yolu İvedik kavş - x.com",
-      "location": "Ankara Geneli",
+      "title": "⏰SAAT 20.00 İTİBARIYLA ANKARA'DA TRAFİK YOĞUNLUĞU %70 📌Kuzey çevre yolu Pursaklar yönü Batıkent geçisi sonrasında kaza 📌İstanbul Yolu jandarma bölümü sağ şeritte Sincan yönünde araç arızası Ayrıntıları takip edin: ⬇️ https://t.co/mDVs6mJyb - x.com",
+      "location": "Pursaklar / Ankara",
       "published": "2026-05-14T10:00:00+03:00",
       "confidence": 60,
-      "sources": 1,
+      "sources": 2,
       "status": "Sosyal medya / doğrulanmamış",
-      "summary": "x.com üzerinden bulunan herkese açık kayıt.",
+      "summary": "2 farklı açık kaynakta bulunan aynı olay tek kayıtta birleştirildi.",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5SdW5fUWFRYmRwa19UTDIyYjN1X01MRVBOSTFrTU9TX2RfQkZtOVpkd0tuQkQ1RXZWWE1fYUlfUlhUOUdhX3NxeTZLMDU3bnRQWHlyd3NocG1LUnQ2UUhiU2RIb3RXd1JxWExoVVRKSQ?oc=5",
       "platform": "X",
       "source_links": [
@@ -17106,13 +17113,20 @@
           "title": "⏰SAAT 19.00 İTİBARIYLA ANKARA'DA TRAFİK YOĞUNLUĞU %90 📌Kuzey çevre yolu Forum kavşağa gelmeden Pursakalr yönünde araç arızası 📌1071 Malazgirt Bulvarı Öveçler yönü Eskişehir Yolu bağlantısından sonra kaza 📌Kuzey çevre yolu İvedik kavş - x.com",
           "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5SdW5fUWFRYmRwa19UTDIyYjN1X01MRVBOSTFrTU9TX2RfQkZtOVpkd0tuQkQ1RXZWWE1fYUlfUlhUOUdhX3NxeTZLMDU3bnRQWHlyd3NocG1LUnQ2UUhiU2RIb3RXd1JxWExoVVRKSQ?oc=5",
           "published": "2026-05-14T10:00:00+03:00"
+        },
+        {
+          "platform": "X",
+          "title": "⏰SAAT 20.00 İTİBARIYLA ANKARA'DA TRAFİK YOĞUNLUĞU %70 📌Kuzey çevre yolu Pursaklar yönü Batıkent geçisi sonrasında kaza 📌İstanbul Yolu jandarma bölümü sağ şeritte Sincan yönünde araç arızası Ayrıntıları takip edin: ⬇️ https://t.co/mDVs6mJyb - x.com",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5HNkZncVhZOFpLcXhxR0hQNnYxc0xMNkdxX0YwZ1ZqSExOazA0QUxYNHNXMXphQ1Vid0tnZ1EycDFmREJwWXZnZ1k5Z19Jd0pjajBHSXVSb1pPYjVUbHhqVUJxVWo5b1p1VXpQdUF6RQ?oc=5",
+          "published": "2026-05-14T10:00:00+03:00"
         }
       ],
-      "district": "Ankara Geneli",
-      "neighborhood": "Ankara Geneli",
-      "lat": 39.9334,
-      "lon": 32.8597,
-      "location_precision": "il",
+      "last_updated": "2026-05-14T10:00:00+03:00",
+      "district": "Pursaklar",
+      "neighborhood": "Pursaklar Geneli",
+      "lat": 40.039,
+      "lon": 32.902,
+      "location_precision": "ilçe",
       "id": 521
     },
     {
@@ -26884,7 +26898,7 @@
   "google_alert_invalid_count": 0,
   "google_alert_query_count": 9,
   "platform_counts": {
-    "X": 146,
+    "X": 148,
     "Facebook": 65,
     "Haber": 822,
     "TikTok": 38,
@@ -26897,10 +26911,10 @@
     "google_alert_feeds": 9,
     "new_results_this_scan": {
       "Haber": 363,
-      "X": 75,
-      "Facebook": 33,
+      "X": 72,
+      "Facebook": 31,
       "YouTube": 7,
-      "TikTok": 3
+      "TikTok": 2
     }
   },
   "sources": [
