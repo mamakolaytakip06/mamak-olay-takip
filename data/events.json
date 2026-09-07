@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-07T04:55:23.141563+03:00",
+  "updated_at": "2026-09-07T05:06:11.201857+03:00",
   "events": [
     {
       "category": "Uyuşturucu",
@@ -43,9 +43,9 @@
       "location": "Ankara Geneli",
       "published": "2026-09-05T10:31:00+03:00",
       "confidence": 75,
-      "sources": 11,
+      "sources": 12,
       "status": "Muhtemel",
-      "summary": "11 farklı açık kaynakta bulunan aynı olay tek kayıtta birleştirildi.",
+      "summary": "12 farklı açık kaynakta bulunan aynı olay tek kayıtta birleştirildi.",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOWllyamw0STNWUzQ0dWRTWE5nd0R5Q1pjdllrTmx1SmNsZmRkTlotZXU1YWg0c3pEQ3haUG5xaGpRRlB1MkdzV3lhYjIwdVNXVmdPU3JqRlY3ZjM0aVdIZkFYM29kX3cxR2NpM1AzajlzdE5WVzEwN1pSYnpndlRPN2FJTTdwaFJjc3JHVU9JOURldEV1dGZwNDltTlRUSTMtZHpneXRoSWNxWFZpQVByeGliak13ZDZnT1J6ME5LQmZkMWtEbHlydkpEMXE1UQ?oc=5",
       "platform": "Haber",
       "source_links": [
@@ -54,6 +54,12 @@
           "title": "Ankara'da uyuşturucu ve fuhuş soruşturması! 3'üncü dalga operasyon; gözaltı sayısı 17'ye çıktı - Habertürk",
           "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOWllyamw0STNWUzQ0dWRTWE5nd0R5Q1pjdllrTmx1SmNsZmRkTlotZXU1YWg0c3pEQ3haUG5xaGpRRlB1MkdzV3lhYjIwdVNXVmdPU3JqRlY3ZjM0aVdIZkFYM29kX3cxR2NpM1AzajlzdE5WVzEwN1pSYnpndlRPN2FJTTdwaFJjc3JHVU9JOURldEV1dGZwNDltTlRUSTMtZHpneXRoSWNxWFZpQVByeGliak13ZDZnT1J6ME5LQmZkMWtEbHlydkpEMXE1UQ?oc=5",
           "published": "2026-09-06T20:50:49+03:00"
+        },
+        {
+          "platform": "Haber",
+          "title": "Ankara Merkezli Uyuşturucu Ve Fuhuş Operasyonunda Gözaltı Sayısı 17’ye Çıktı - tekha.com.tr",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQS1F5ejlSbEVmallxY2pDS3ZkVzRiWDlkd3kwaFU3ckZDZTRjNTJUenhrenpZU0diTkFWNFhOOGlKS3A3WEZXTUFpNkRDU0Q4ZnhrTkVJcF9pdXMzeWJVT2c0WmpLRGo3SjA4dXhRNXNWZzF1WS1VWFpHOTFSTUtQSVo4ckYtUFlNbno5aXZ5YXhJc1NZdnA5QmNNVUM?oc=5",
+          "published": "2026-09-06T20:40:59+03:00"
         },
         {
           "platform": "Haber",
@@ -116,7 +122,7 @@
           "published": "2026-09-05T10:31:00+03:00"
         }
       ],
-      "last_updated": "2026-09-06T17:27:17+03:00",
+      "last_updated": "2026-09-06T20:40:59+03:00",
       "district": "Ankara Geneli",
       "neighborhood": "Ankara Geneli",
       "lat": 39.9334,
@@ -28389,7 +28395,7 @@
   "google_alert_invalid_count": 0,
   "google_alert_query_count": 9,
   "platform_counts": {
-    "Haber": 867,
+    "Haber": 868,
     "X": 164,
     "Facebook": 67,
     "TikTok": 42,
@@ -28416,7 +28422,7 @@
       "TikTok": 2
     },
     "new_results_this_scan": {
-      "Haber": 375,
+      "Haber": 376,
       "X": 71,
       "Facebook": 30,
       "YouTube": 6,
