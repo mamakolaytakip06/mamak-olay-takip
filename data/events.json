@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-07T12:45:06.455524+03:00",
+  "updated_at": "2026-09-07T12:56:02.535783+03:00",
   "events": [
     {
       "category": "Trafik Kazası",
@@ -362,9 +362,9 @@
       "location": "Ankara Geneli",
       "published": "2026-09-05T09:43:09+03:00",
       "confidence": 75,
-      "sources": 17,
+      "sources": 16,
       "status": "Muhtemel",
-      "summary": "17 farklı açık kaynakta bulunan aynı olay tek kayıtta birleştirildi.",
+      "summary": "16 farklı açık kaynakta bulunan aynı olay tek kayıtta birleştirildi.",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQdWFrc3RBNzRrVVdEczE1VlRFdXE4WmFENmxqLVNLcXZreGp3VGZjVE10NmFlNjBwbnliTFpzRUxVbmVWWlU5V0w0eTZQbFV5WE1IQWxsaVFHUHRKRlVLMmpHU3dYOGR2RnJndVRHR1pjT0YxcmlWY1F3a0JRYlN1aXprcmFmTkM5VjNVcXVBX29sbUk?oc=5",
       "platform": "Haber",
       "source_links": [
@@ -451,12 +451,6 @@
           "title": "Ankara'da fuhuş ve uyuşturucu operasyonu! 21 kişi aranıyor - Türkiye Gazetesi",
           "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdW9qVjlicUJoanBuWGViZHdrSlFUcXVIemMwRUN3QkFPWGtkOFhOMnpBN3JFUkhVaFQzb1RqM3pBNDNWeFQxc1FYelhZM0w1NjlGc3NOODFrUkRwUkZ0S0hJMl9Ibk1YRHRhME5ROVFRSXhhNEI5R3RfRlA3OWxIdjV1YjF6SF9DczluMVZBWXpvLTlYaEI1THRBeEQ5NVVQVl9mak1HZXFZdw?oc=5",
           "published": "2026-09-05T09:45:31+03:00"
-        },
-        {
-          "platform": "Haber",
-          "title": "Ankara'da uyuşturucu ve fuhuş operasyonu: 15 gözaltı - DHA | Demirören Haber Ajansı",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNajU5cF9ycHVTLU9BQ2hZQVJRZHFGcW5JR3ByMlNILUpuVEtzYUdqVjBHWWhQTUhqcENlblFtejdRM2VFeXZlQ0VrU1FQckFwOGQyTm9oTF8zb250SzhyN1U0bmRlOFNNZXRxc2NXWkR1Y2Fwbnp5Z1g1bXN6ZHBoNDNfY2YxRUI2V1dDV0ZDWlHSAZYBQVVfeXFMTVlocTZRQ0FVVVpady1ka3A5NklTZzJrZW53cWc0dVdlamJUd2ZXQk5SQmtaODRLV0NEd0tWZUJXMF94em8ySDR0dnpPcThjNF96VkloaWwzUTFpVXNNM1RyV182MDhXdlp6cVpzdDNLb1ktcmhGbTNrXzFjSGRXU3I3SjJkXzNHbDRyUEJtX0J3dkxKaHRB?oc=5",
-          "published": "2026-09-05T09:45:00+03:00"
         },
         {
           "platform": "Haber",
@@ -916,13 +910,13 @@
         "Asayiş"
       ],
       "icon": "🚔",
-      "title": "Ankara'da 'uyuşturucu ve fuhuş' soruşturması: 21 isme gözaltı - Kamudanhaber",
+      "title": "Ankara'da 'uyuşturucu' ve 'fuhuş' operasyonu: 21 kişi için gözaltı kararı - Son Kale İzmir",
       "location": "Ankara Geneli",
-      "published": "2026-09-05T11:12:00+03:00",
+      "published": "2026-09-05T10:51:14+03:00",
       "confidence": 75,
-      "sources": 2,
+      "sources": 4,
       "status": "Muhtemel",
-      "summary": "2 farklı açık kaynakta bulunan aynı olay tek kayıtta birleştirildi.",
+      "summary": "4 farklı açık kaynakta bulunan aynı olay tek kayıtta birleştirildi.",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNMnhxd3FjT0JmQWhiWTBCaG4yWlBZXzJnajVzLVJXaTNSUnZWX2Z3OTh4ejFSSWlTRHNCTENFT3JRSl9KaDFKTnNnSldUOE5EaEtiWFZWV2RBNmRNYlZJZUV6SjYwWS1rOEhxOVFoMXF4dlBuMkJaVDI2TFJLV1RzMkI5N0R0bEN3SWVfLU5LWnZmRTJ4UmdBNGRPSTJsbDJpLXY0enpn?oc=5",
       "platform": "Haber",
       "source_links": [
@@ -934,12 +928,24 @@
         },
         {
           "platform": "Haber",
+          "title": "Ankara'da uyuşturucu ve fuhuş operasyonu: 15 gözaltı - DHA | Demirören Haber Ajansı",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNWWhxNlFDQVVVWlp3LWRrcDk2SVNnMmtlbndxZzR1V2VqYlR3ZldCTlJCa1o4NEtXQ0R3S1ZlQlcwX3h6bzJINHR2ek9xOGM0X3pWSWhpbDNRMWlVc00zVHJXXzYwOFd2WnpxWnN0M0tvWS1yaEZtM2tfMWNIZFdTcjdKMmRfM0dsNHJQQm1fQnd2TEpodEHSAZYBQVVfeXFMTVlocTZRQ0FVVVpady1ka3A5NklTZzJrZW53cWc0dVdlamJUd2ZXQk5SQmtaODRLV0NEd0tWZUJXMF94em8ySDR0dnpPcThjNF96VkloaWwzUTFpVXNNM1RyV182MDhXdlp6cVpzdDNLb1ktcmhGbTNrXzFjSGRXU3I3SjJkXzNHbDRyUEJtX0J3dkxKaHRB?oc=5",
+          "published": "2026-09-05T16:54:25+03:00"
+        },
+        {
+          "platform": "Haber",
           "title": "Ankara'da 'uyuşturucu ve fuhuş' soruşturması: 21 isme gözaltı - Kamudanhaber",
           "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQb19hYmJZRWpjWk5udkgyNS1VUlRSaGl4ZVNNLTA1V21mSFlUNWdYZFVPR0ZYWWhNZDM3MExXQm4tSWVWaWU1VkYzaUpGZnY5SjdyQ3UtUFlZSXJnSjhhTGVaT1VYQmJyaWdBdU5fMElYVDNnT0lEdUZPekFSc21RM0F4Y2ZZNlMzazRFQmpUdw?oc=5",
           "published": "2026-09-05T11:12:00+03:00"
+        },
+        {
+          "platform": "Haber",
+          "title": "Ankara'da 'uyuşturucu' ve 'fuhuş' operasyonu: 21 kişi için gözaltı kararı - Son Kale İzmir",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQQUlYWFN0ZVRHSWxic0dYamxKNVh5RWdneHdGNmtDdHpadkNDbVBBYUFSQllVeUpFSGNvdzlxQ0VabXpqdExYaDV3U1ctODktTU9zN3ZqN2JFSzNBY3F5aTNhMHZWZnRxb1FzUHp2dE1CUmlJLW5TUU9qN2laM1lDc3BfNG5sZkd1LUtvdDVhYkhybE81ZU5XRS1scVoxcm5xNk9WMUEwV0lGVWwwUTZz?oc=5",
+          "published": "2026-09-05T10:51:14+03:00"
         }
       ],
-      "last_updated": "2026-09-05T11:12:00+03:00",
+      "last_updated": "2026-09-05T16:54:25+03:00",
       "district": "Ankara Geneli",
       "neighborhood": "Ankara Geneli",
       "lat": 39.9334,
@@ -2877,17 +2883,16 @@
       "category": "Silahlı Olay",
       "categories": [
         "Silahlı Olay",
-        "Kavga",
-        "Sağlık"
+        "Kavga"
       ],
       "icon": "🔫",
       "title": "Ankara'da markette silahlı kavga kamerada | Video videosunu izle | Son Dakika Haberleri - Sabah",
       "location": "Ankara Geneli",
       "published": "2026-09-02T07:33:10+03:00",
       "confidence": 75,
-      "sources": 3,
+      "sources": 2,
       "status": "Muhtemel",
-      "summary": "3 farklı açık kaynakta bulunan aynı olay tek kayıtta birleştirildi.",
+      "summary": "2 farklı açık kaynakta bulunan aynı olay tek kayıtta birleştirildi.",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNRGE2SFpFZzdNNklZalJheF9DblhIZFhJblhTUXhfdklGX1Q4dXpRODJFUHVHbzVLNWdYV01CRTFaRWZpWEJMQVRIc0FuXzJJQkhhREswdXU4bFhmdEhOR0I2NEk2VjlZRDN0dTc5V1VHVWQ4WmV2bjNmcjdhbWJ0X2NSV090SEwyQUJN?oc=5",
       "platform": "Haber",
       "source_links": [
@@ -2899,18 +2904,12 @@
         },
         {
           "platform": "Haber",
-          "title": "Ankara Sincan’da Markette Silahlı Kavga: 1 Yaralı - Gerede Medya Takip",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOcjB5cXpkNjlVVkVrOGh6WFBKOFVyS0xpY0twSG01MWhFWHZXMHJ1ci1JQUEyRmU2WFRVOXpVeE0xMjZRRUJMTERuMkowa3pNY0tEMXRiOUd0MkpYZE9XZjZaald5bGFNdEpGMnJXckluYndSdVVlZkg2V196NEJlRV8yeVJSakxBQmx5RVBHZmVhbHJOM0o1aDNn?oc=5",
-          "published": "2026-09-02T17:03:23+03:00"
-        },
-        {
-          "platform": "Haber",
           "title": "Ankara'da marketteki silahlı kavganın yeni görüntüleri ortaya çıktı - A Haber",
           "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOT2hnUzV6SjNYTG4wOGoxWVdJWEVMcmVHNHdyNFF6NXVRVjN4bVAxdWhKVGNjT3dmb3V5Q0NFVkcwbXh4VDAxSkd2UWsxTEpuQlZqZjBPR1hOODhxS205SDJBVlFOS05TT1pxRE5pV1RPV0RkWV9BUmVxbkl3Uk5qZTM1RktJMTR6LWQ3ZFhXZ2JNWWhPVFQxZ1ozdmdXR2FNbERRbFc0TUtzY3dfeHNsZzhsaGw?oc=5",
           "published": "2026-09-02T07:33:10+03:00"
         }
       ],
-      "last_updated": "2026-09-02T08:24:18+03:00",
+      "last_updated": "2026-09-02T07:33:10+03:00",
       "district": "Ankara Geneli",
       "neighborhood": "Ankara Geneli",
       "lat": 39.9334,
@@ -3466,7 +3465,7 @@
         "Silahlı Olay"
       ],
       "icon": "🔫",
-      "title": "Sayın Bakanımızın Libya Silahlı Kuvvetleri Genelkurmay Başkan Vekili Orgeneral Salahaddin Nemruş'u Kabulü, 30 Ağustos 2026, Ankara - Republic of Türkiye Ministry of Foreign Affairs",
+      "title": "Sayın Bakanımızın Libya Silahlı Kuvvetleri Genelkurmay Başkan Vekili Orgeneral Salahaddin Nemruş'u Kabulü, 30 Ağustos 2026, Ankara - mfa.gov.tr",
       "location": "Ankara Geneli",
       "published": "2026-08-30T15:59:55+03:00",
       "confidence": 75,
@@ -3478,7 +3477,7 @@
       "source_links": [
         {
           "platform": "Haber",
-          "title": "Sayın Bakanımızın Libya Silahlı Kuvvetleri Genelkurmay Başkan Vekili Orgeneral Salahaddin Nemruş'u Kabulü, 30 Ağustos 2026, Ankara - Republic of Türkiye Ministry of Foreign Affairs",
+          "title": "Sayın Bakanımızın Libya Silahlı Kuvvetleri Genelkurmay Başkan Vekili Orgeneral Salahaddin Nemruş'u Kabulü, 30 Ağustos 2026, Ankara - mfa.gov.tr",
           "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQZ1BET1dxV0pQNXJrOVJmREFVOGpKcnRPamtNa0lVci1ncWVFdzR6dG9mNU5sZG9nUXZpOFRnYmVJV09fZzY0ejVOSmFHaGVRaHpHUkdJLXpPcEFKZkgwUmpHck5rNkJqSkN2UnNTeldMZnZnSURycV9RWU02RkVGUjdoZ3VSeExwOVAtOWFXdkpqU00ySWltYWdYMlYyaU5tb1FWbnFPV1NDVjJvM2xEekg5Mjk3TlVnYWJNX0F1azZsSHRSbkFENHZ5Y3Q4QmUzd1VSQXNPam15eGgtUlJiR3Z3OW9Ca0VSd3NIRVNmM1NSQQ?oc=5",
           "published": "2026-08-31T13:55:59+03:00"
         },
@@ -4319,16 +4318,17 @@
       "category": "Uyuşturucu",
       "categories": [
         "Uyuşturucu",
-        "Asayiş"
+        "Asayiş",
+        "Trafik Kazası"
       ],
       "icon": "🚔",
-      "title": "Ankara'da 'uyuşturucu' operasyonu: Kargo merkezinde 109 kilo 300 gram eroin ele geçirildi - Cumhuriyet",
-      "location": "Ankara Geneli",
+      "title": "Kahramankazan'da kargo takip merkezinde 109 kilo uyuşturucu ele geçirildi: Bir kişi tutuklandı - Yeni Şafak",
+      "location": "Kahramankazan / Ankara",
       "published": "2026-08-25T10:00:00+03:00",
       "confidence": 75,
-      "sources": 3,
+      "sources": 5,
       "status": "Muhtemel",
-      "summary": "3 farklı açık kaynakta bulunan aynı olay tek kayıtta birleştirildi.",
+      "summary": "5 farklı açık kaynakta bulunan aynı olay tek kayıtta birleştirildi.",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOZGxpdDVxLW5oNENHZGt4NDB5YWFUZERPUXpTc2tWSTg0dEl0OTZ1SWRqaElKZ0ZSS0ctOUZiLWZGOEhCckR6OGp2dVRmcGxybHNVUzFadnJ3S1ZZVGJremo0Ml9KbkZSWDJOTWtVMkFqTG4wVzlJa3E2ZUx2ek9haUE2aXVwQnJEOEpQaFNBNTdaWnotRUtNWW5lUXdxSTBwbUhEVktOWHJodk44RGgzWlJFV3M2eXJOR01tek5uZWJsOWcyMjR2Mk9tT0U?oc=5",
       "platform": "Haber",
       "source_links": [
@@ -4346,17 +4346,29 @@
         },
         {
           "platform": "Haber",
+          "title": "Ankara'da kargo paketlerinde 109 kilo 300 gram uyuşturucu ele geçirildi - Memurlar.Net",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcE5OU3E5MkdvcXR3M3ZfNFE3LWJLWEFnaUdwR2FjQXFwTmVSbGpfeC03SEQxRF82aGlJUFdfV0hoRFU2cnc4RVBfUllPVXpENmRPcHNVUk1PVmZYZHJ1WmtDV2kwUGd2NEJxWWxFcEltNGVFbld5R1FhSGlScmxFb1lUeHUwbE1OOG1jUlVSTjFzM2lEWnFMTFlseGNwSDlPV09GNmJ1VmdISF85TkdqZ2Q5UFBIQdIBvgFBVV95cUxPY0pCUWUyZUxjeFN5N3FTcFNtanZ2XzBncm1HYm1LZFcwZ2R3bFlrMXQwVl9PeUtKSWpvZmpBbXlXLWVfeEFVOVdtc0lrTHY3NUpKalYxdUpCb19sZ2pxQU5HYlo0YnlkUjUtYnJ5MTRpcllJY0psQTBNZmh2V2dnTHNlY05XWU9Rb0VPRVp6YVkyQmRpcHNkZFR4QjAydk40WkE0RFJwSFpIcWk2cGlRaUtJSHNGOUJvcjZLa2lB?oc=5",
+          "published": "2026-08-25T23:45:00+03:00"
+        },
+        {
+          "platform": "Haber",
           "title": "Ankara'da kargo paketlerinde 109 kilogram uyuşturucu ele geçirildi - TRT Haber",
           "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPeENacFFPUnFlRVh0MUgyOGIxWk5XbHZlUnRwVWtPR2V2QjNnUzVtcTVCWmJ0RS03aXJuQTBmWC1NcGtzSXAwNHE0bUN5S2RUMnZ2anpCNHJaWTlMQndIOHBhZnYzY0U4UkNKeldBWTlLME1Ddlp0QmZET2pCVXdyaE9PcjRFM0xOZFhkWk9aeW9zS3A5RkFkcEZMd25iWk5OSU9icTBfVlhwdV8tNUZqYVhaVUlac1E?oc=5",
+          "published": "2026-08-25T10:00:00+03:00"
+        },
+        {
+          "platform": "Haber",
+          "title": "Kahramankazan'da kargo takip merkezinde 109 kilo uyuşturucu ele geçirildi: Bir kişi tutuklandı - Yeni Şafak",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNWVp1cWszQ3FXQTVwcDVfQnYySFhacTcwdTB3M3JkQWs5d2Zudko5SkgwZnN2d3p5eWdxLU5oQTA1bmx0Ql9vVV9JS3A0TDN2TFhWemZtTDh6WG1WalhYZkhfVklyUmI1N1ktOS01OGpRS2tPMlJ2MjhlaThsN0xWcUVRSE8temkya2xXZmt5cTdPYUs2dlV2cm91OVpiREhpMVVPNDZhUm1FYlZpQ1gwMENxaE5Mc0R0MGFkVTE5OWtHWFMtX1lBV3pwMnY3d9IB2AFBVV95cUxQZnF4dVk4SXJWZDFxOFBGcUQ3dzB5U2hzNU9XOUo0NWxaZUllZjF1TnFrMWNTT0RNazNITGtMVHRNR2ZNYTVVc0RFNnJnaWJ1Z3loMlZRZ1g1azg3dWxZbGZKcE9jOEsxOU16T3FRQUV2UjZuQUxWZlFpank2QmJGem9IcTY1c0N0cTFxX2hSVDZseE5ISkplVUk2ZElWTDJkX1AwcV9Jd24tU05fSzVmTllrSTFlcGFKY2k5djV1eEJOU1N3MVBUNWZFejY2dVIwem9PeXBhN2o?oc=5",
           "published": "2026-08-25T10:00:00+03:00"
         }
       ],
       "last_updated": "2026-08-26T05:00:00+03:00",
-      "district": "Ankara Geneli",
-      "neighborhood": "Ankara Geneli",
-      "lat": 39.9334,
-      "lon": 32.8597,
-      "location_precision": "il",
+      "district": "Kahramankazan",
+      "neighborhood": "Kahramankazan Geneli",
+      "lat": 40.205,
+      "lon": 32.682,
+      "location_precision": "ilçe",
       "id": 128
     },
     {
@@ -9422,13 +9434,13 @@
         "Silahlı Olay"
       ],
       "icon": "⚫",
-      "title": "Ankara'da damat dehşet saçtı: Kaynanası ve kayınbabasını öldürdü - Son Dakika Haberleri - Hürriyet",
-      "location": "Ankara Geneli",
-      "published": "2026-07-27T10:00:00+03:00",
+      "title": "Güdül'de Damat Dehşeti: Kaynanası ve Kayınbabasını Silahla Vurarak Öldürdü - Bizim Ankara",
+      "location": "Güdül / Ankara",
+      "published": "2026-07-28T17:20:00+03:00",
       "confidence": 75,
-      "sources": 2,
+      "sources": 1,
       "status": "Muhtemel",
-      "summary": "2 farklı açık kaynakta bulunan aynı olay tek kayıtta birleştirildi.",
+      "summary": "Bizim Ankara üzerinden bulunan herkese açık kayıt.",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZ0tfWnQ3d3NXQXJ0aWhqVlA4WXJQNExOZEl3TWNMQ2pZMEEwYl9TU1BLY2pIN3lYNVNvckphVUlKZzdrV3ZFLVJySThLUFNPT25wLTlhdjVHcF9EeVRQN2hPZTBKNm0tM1NaZEhjU3hhLVJLSDRfVjdPdkZTbnFwbzFvaGJjQUlPbXo2RFFTZUlBSTRqcW1RNlNTUUtQQlZ3aWp6NUxR0gGrAUFVX3lxTE9sRkdTWUZLMGdvUnJ1UzZBZ1BlNzhHTFZsN2Q1RGxZdmkyRmhZQWRWQXdqYV9oOG8yNFBxekhTTi1QNDNZc3pWZE82VXMyQUhqQWRzVl95ZVRrLXY1V21ISnlEOTRhOWlOaUhqZ0tYRms5VkJXclN6alJaSXk2eFVSaXFEZVoxdEtGSnRGUjEzZ1ZMcGY0ZHg5N3JHdkZKWHdlbno2eERGVmoydw?oc=5",
       "platform": "Haber",
       "source_links": [
@@ -9437,20 +9449,13 @@
           "title": "Güdül'de Damat Dehşeti: Kaynanası ve Kayınbabasını Silahla Vurarak Öldürdü - Bizim Ankara",
           "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZ0tfWnQ3d3NXQXJ0aWhqVlA4WXJQNExOZEl3TWNMQ2pZMEEwYl9TU1BLY2pIN3lYNVNvckphVUlKZzdrV3ZFLVJySThLUFNPT25wLTlhdjVHcF9EeVRQN2hPZTBKNm0tM1NaZEhjU3hhLVJLSDRfVjdPdkZTbnFwbzFvaGJjQUlPbXo2RFFTZUlBSTRqcW1RNlNTUUtQQlZ3aWp6NUxR0gGrAUFVX3lxTE9sRkdTWUZLMGdvUnJ1UzZBZ1BlNzhHTFZsN2Q1RGxZdmkyRmhZQWRWQXdqYV9oOG8yNFBxekhTTi1QNDNZc3pWZE82VXMyQUhqQWRzVl95ZVRrLXY1V21ISnlEOTRhOWlOaUhqZ0tYRms5VkJXclN6alJaSXk2eFVSaXFEZVoxdEtGSnRGUjEzZ1ZMcGY0ZHg5N3JHdkZKWHdlbno2eERGVmoydw?oc=5",
           "published": "2026-07-28T17:20:00+03:00"
-        },
-        {
-          "platform": "Haber",
-          "title": "Ankara'da damat dehşet saçtı: Kaynanası ve kayınbabasını öldürdü - Son Dakika Haberleri - Hürriyet",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOd2xDWXh6Q29vSXUwUHk4XzFtczJyRnJ4bGNmYUs0cTJJWmkzc25yd0tscndfM2pVVHZka0VWYzVJdzlDSWxaUkxaaDJ1Uko1bWRMNVpTSUFVS0ZnNzl5UkJnNkt3cHpfYk11SDluMzh6cjlZZ0poekxnYWJEWkpXb05INkQxRjFJWE5uam5SY1NZaWZrME42V3UxMy00WVRaYXdUTkFvb3p3Zw?oc=5",
-          "published": "2026-07-27T10:00:00+03:00"
         }
       ],
-      "last_updated": "2026-07-27T10:00:00+03:00",
-      "district": "Ankara Geneli",
-      "neighborhood": "Ankara Geneli",
-      "lat": 39.9334,
-      "lon": 32.8597,
-      "location_precision": "il",
+      "district": "Güdül",
+      "neighborhood": "Güdül Geneli",
+      "lat": 40.21,
+      "lon": 32.245,
+      "location_precision": "ilçe",
       "id": 282
     },
     {
@@ -28669,7 +28674,7 @@
   "google_alert_query_count": 9,
   "platform_counts": {
     "X": 164,
-    "Haber": 873,
+    "Haber": 874,
     "Facebook": 70,
     "TikTok": 43,
     "YouTube": 11,
@@ -28696,7 +28701,7 @@
     },
     "new_results_this_scan": {
       "Haber": 381,
-      "X": 73,
+      "X": 72,
       "Facebook": 30,
       "YouTube": 7,
       "TikTok": 3
