@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-08T12:26:56.788104+03:00",
+  "updated_at": "2026-09-08T12:41:54.371249+03:00",
   "events": [
     {
       "category": "Asayiş",
@@ -524,6 +524,43 @@
       "id": 14
     },
     {
+      "category": "Sağlık",
+      "categories": [
+        "Sağlık"
+      ],
+      "icon": "🚑",
+      "title": "Ankara'da kontrolden çıkan otomobil karşı şeride geçti: 1 ölü, 7 yaralı - TRT Haber",
+      "location": "Ankara Geneli",
+      "published": "2026-09-06T20:05:13+03:00",
+      "confidence": 75,
+      "sources": 2,
+      "status": "Muhtemel",
+      "summary": "2 farklı açık kaynakta bulunan aynı olay tek kayıtta birleştirildi.",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQTDRWNjNvZlBvLV9kckxsT3lPNE9KWVJqWmFVSWZWblFMLWV0VW14cVhrWmhTdGFfT3lMSkRHbGJnYlR1NDNNODM5U20tamZZcTVGa2JwaWNqd1NJdnp4MXZPUmtmaWc2N3lYNkdoZzZJNjgtRHFVcng4QTBKSnYxT1g3WHp6LXhEZzNPd2FQd0QxWjF4MTlaYXk1WW1HTGRSYjJ3SjJ1NXBlM0R2NzhvVGhpV2dMdEJMTDQw?oc=5",
+      "platform": "Haber",
+      "source_links": [
+        {
+          "platform": "Haber",
+          "title": "Ankara'da kontrolden çıkan otomobil karşı şeride geçti: 1 ölü, 7 yaralı - TRT Haber",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQTDRWNjNvZlBvLV9kckxsT3lPNE9KWVJqWmFVSWZWblFMLWV0VW14cVhrWmhTdGFfT3lMSkRHbGJnYlR1NDNNODM5U20tamZZcTVGa2JwaWNqd1NJdnp4MXZPUmtmaWc2N3lYNkdoZzZJNjgtRHFVcng4QTBKSnYxT1g3WHp6LXhEZzNPd2FQd0QxWjF4MTlaYXk1WW1HTGRSYjJ3SjJ1NXBlM0R2NzhvVGhpV2dMdEJMTDQw?oc=5",
+          "published": "2026-09-07T10:43:00+03:00"
+        },
+        {
+          "platform": "Haber",
+          "title": "Ankara Elmadağ’da otomobil karşı şeride geçti: 1 ölü, 7 yaralı - Hey Haber",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSHBHMDZNVmNzM09ITDdVS2pJQzRvMEJXbkpwVUtHUXBNVVlvMkJlM2dxRzdBM3cwOVZLV29xcXJuUzd6UmpjWkxXT0hWNGJTQWNIVy1IT3hoZEhGMlNjQmFuT1p3WndhQmFmQ2VXTUloM3V5SWRHWUMyU3ljbWJ0c1JMNW1lcFRw?oc=5",
+          "published": "2026-09-06T20:05:13+03:00"
+        }
+      ],
+      "last_updated": "2026-09-06T20:05:13+03:00",
+      "district": "Ankara Geneli",
+      "neighborhood": "Ankara Geneli",
+      "lat": 39.9334,
+      "lon": 32.8597,
+      "location_precision": "il",
+      "id": 15
+    },
+    {
       "category": "Uyuşturucu",
       "categories": [
         "Uyuşturucu"
@@ -551,7 +588,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 15
+      "id": 16
     },
     {
       "category": "Trafik Kazası",
@@ -581,36 +618,6 @@
       "lat": 39.92,
       "lon": 33.23,
       "location_precision": "ilçe",
-      "id": 16
-    },
-    {
-      "category": "Sağlık",
-      "categories": [
-        "Sağlık"
-      ],
-      "icon": "🚑",
-      "title": "Ankara Elmadağ’da otomobil karşı şeride geçti: 1 ölü, 7 yaralı - Hey Haber",
-      "location": "Ankara Geneli",
-      "published": "2026-09-06T20:05:13+03:00",
-      "confidence": 75,
-      "sources": 1,
-      "status": "Muhtemel",
-      "summary": "Hey Haber üzerinden bulunan herkese açık kayıt.",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSHBHMDZNVmNzM09ITDdVS2pJQzRvMEJXbkpwVUtHUXBNVVlvMkJlM2dxRzdBM3cwOVZLV29xcXJuUzd6UmpjWkxXT0hWNGJTQWNIVy1IT3hoZEhGMlNjQmFuT1p3WndhQmFmQ2VXTUloM3V5SWRHWUMyU3ljbWJ0c1JMNW1lcFRw?oc=5",
-      "platform": "Haber",
-      "source_links": [
-        {
-          "platform": "Haber",
-          "title": "Ankara Elmadağ’da otomobil karşı şeride geçti: 1 ölü, 7 yaralı - Hey Haber",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSHBHMDZNVmNzM09ITDdVS2pJQzRvMEJXbkpwVUtHUXBNVVlvMkJlM2dxRzdBM3cwOVZLV29xcXJuUzd6UmpjWkxXT0hWNGJTQWNIVy1IT3hoZEhGMlNjQmFuT1p3WndhQmFmQ2VXTUloM3V5SWRHWUMyU3ljbWJ0c1JMNW1lcFRw?oc=5",
-          "published": "2026-09-06T20:05:13+03:00"
-        }
-      ],
-      "district": "Ankara Geneli",
-      "neighborhood": "Ankara Geneli",
-      "lat": 39.9334,
-      "lon": 32.8597,
-      "location_precision": "il",
       "id": 17
     },
     {
@@ -1199,7 +1206,7 @@
       "icon": "🚔",
       "title": "Ankara Haberleri - Ankara'da uyuşturucu ve fuhuş operasyonu: 15 gözaltı (3) - Yerel Haberler - Hürriyet",
       "location": "Ankara Geneli",
-      "published": "2026-09-05T09:45:00+03:00",
+      "published": "2026-09-05T09:45:31+03:00",
       "confidence": 75,
       "sources": 8,
       "status": "Muhtemel",
@@ -1212,6 +1219,12 @@
           "title": "Ankara Haberleri - Ankara'da uyuşturucu ve fuhuş operasyonu: 15 gözaltı (3) - Yerel Haberler - Hürriyet",
           "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQYTJZUEZ3WE1ieFZJdmdrNE9YcWx6VFluVjhQSmF3YmhHUXgtRTRmNGZyek81X3prTktjcG5jR0pWUlVtYWgwNkdGR0I3S0djd2p1NExLMFF3UUlJbVJ3eTBWNDR0WVg1a0RuYzVhU1huZjlwMjBZaUREOU9KVGJoS1pCRE1HZDR5aDlrOTZ3TGpQRThvdVdnMnZLV2RBOUdxcGVUbmxjNA?oc=5",
           "published": "2026-09-05T17:49:06+03:00"
+        },
+        {
+          "platform": "Haber",
+          "title": "Ankara'da uyuşturucu ve fuhuş operasyonu: 15 gözaltı - DHA | Demirören Haber Ajansı",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNWWhxNlFDQVVVWlp3LWRrcDk2SVNnMmtlbndxZzR1V2VqYlR3ZldCTlJCa1o4NEtXQ0R3S1ZlQlcwX3h6bzJINHR2ek9xOGM0X3pWSWhpbDNRMWlVc00zVHJXXzYwOFd2WnpxWnN0M0tvWS1yaEZtM2tfMWNIZFdTcjdKMmRfM0dsNHJQQm1fQnd2TEpodEHSAZYBQVVfeXFMTVlocTZRQ0FVVVpady1ka3A5NklTZzJrZW53cWc0dVdlamJUd2ZXQk5SQmtaODRLV0NEd0tWZUJXMF94em8ySDR0dnpPcThjNF96VkloaWwzUTFpVXNNM1RyV182MDhXdlp6cVpzdDNLb1ktcmhGbTNrXzFjSGRXU3I3SjJkXzNHbDRyUEJtX0J3dkxKaHRB?oc=5",
+          "published": "2026-09-05T16:54:25+03:00"
         },
         {
           "platform": "Haber",
@@ -1248,15 +1261,9 @@
           "title": "Ankara'da fuhuş ve uyuşturucu operasyonu! 21 kişi aranıyor - turkiyegazetesi.com.tr",
           "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdW9qVjlicUJoanBuWGViZHdrSlFUcXVIemMwRUN3QkFPWGtkOFhOMnpBN3JFUkhVaFQzb1RqM3pBNDNWeFQxc1FYelhZM0w1NjlGc3NOODFrUkRwUkZ0S0hJMl9Ibk1YRHRhME5ROVFRSXhhNEI5R3RfRlA3OWxIdjV1YjF6SF9DczluMVZBWXpvLTlYaEI1THRBeEQ5NVVQVl9mak1HZXFZdw?oc=5",
           "published": "2026-09-05T09:45:31+03:00"
-        },
-        {
-          "platform": "Haber",
-          "title": "Ankara'da uyuşturucu ve fuhuş operasyonu: 15 gözaltı - DHA | Demirören Haber Ajansı",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNajU5cF9ycHVTLU9BQ2hZQVJRZHFGcW5JR3ByMlNILUpuVEtzYUdqVjBHWWhQTUhqcENlblFtejdRM2VFeXZlQ0VrU1FQckFwOGQyTm9oTF8zb250SzhyN1U0bmRlOFNNZXRxc2NXWkR1Y2Fwbnp5Z1g1bXN6ZHBoNDNfY2YxRUI2V1dDV0ZDWlHSAZYBQVVfeXFMTVlocTZRQ0FVVVpady1ka3A5NklTZzJrZW53cWc0dVdlamJUd2ZXQk5SQmtaODRLV0NEd0tWZUJXMF94em8ySDR0dnpPcThjNF96VkloaWwzUTFpVXNNM1RyV182MDhXdlp6cVpzdDNLb1ktcmhGbTNrXzFjSGRXU3I3SjJkXzNHbDRyUEJtX0J3dkxKaHRB?oc=5",
-          "published": "2026-09-05T09:45:00+03:00"
         }
       ],
-      "last_updated": "2026-09-05T10:22:00+03:00",
+      "last_updated": "2026-09-05T16:54:25+03:00",
       "district": "Ankara Geneli",
       "neighborhood": "Ankara Geneli",
       "lat": 39.9334,
@@ -3158,19 +3165,19 @@
         "Asayiş"
       ],
       "icon": "🚔",
-      "title": "Uyuşturucu test isteği emniyete takıldı: Keçiören Belediyesi Ankara'yı karıştıdı - Yeniçağ Gazetesi",
+      "title": "Uyuşturucu test isteği emniyete takıldı: Keçiören Belediyesi Ankara'yı karıştıdı - yenicaggazetesi.com",
       "location": "Keçiören / Ankara",
       "published": "2026-09-02T09:36:00+03:00",
       "confidence": 75,
       "sources": 1,
       "status": "Muhtemel",
-      "summary": "Yeniçağ Gazetesi üzerinden bulunan herkese açık kayıt.",
+      "summary": "yenicaggazetesi.com üzerinden bulunan herkese açık kayıt.",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNWE8ybURQSEdPdkM1M0VzU2pnN1lQN2pZSDhDc25CMG1UTzFTYjF4b1YwNm52MURtdHI3MjJuQlZRQ29TZHFMcllLYllWRkZ4SWhvRzZUaXVKZDZoSzVnZERpWjBoZkNlTVdEejc3ZnFlRXBnd1BnWWhQQVhOMDVjSWp2QmQzZEdPV1ZzSk1aLUhzb25BMVFjMjJiRjNjTlluVklzYTZHLWtGYV8zM2tDVzVpWElXaWVMY2dFU29sSk4?oc=5",
       "platform": "Haber",
       "source_links": [
         {
           "platform": "Haber",
-          "title": "Uyuşturucu test isteği emniyete takıldı: Keçiören Belediyesi Ankara'yı karıştıdı - Yeniçağ Gazetesi",
+          "title": "Uyuşturucu test isteği emniyete takıldı: Keçiören Belediyesi Ankara'yı karıştıdı - yenicaggazetesi.com",
           "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNWE8ybURQSEdPdkM1M0VzU2pnN1lQN2pZSDhDc25CMG1UTzFTYjF4b1YwNm52MURtdHI3MjJuQlZRQ29TZHFMcllLYllWRkZ4SWhvRzZUaXVKZDZoSzVnZERpWjBoZkNlTVdEejc3ZnFlRXBnd1BnWWhQQVhOMDVjSWp2QmQzZEdPV1ZzSk1aLUhzb25BMVFjMjJiRjNjTlluVklzYTZHLWtGYV8zM2tDVzVpWElXaWVMY2dFU29sSk4?oc=5",
           "published": "2026-09-02T09:36:00+03:00"
         }
@@ -7455,12 +7462,6 @@
         },
         {
           "platform": "Haber",
-          "title": "Ankara'da özel halk otobüsü ile kamyon çarpıştı: 2 kişi öldü, 25 kişi yaralandı - TRT Haber",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPcllVTlQ5R1VfOWtvNGNLZ0JhVGlWX1ZmVUhYc2ctWk44NU44OXJkQlN2ejRrZ1VWdlNBM0ZBVm5zUWZ0MTlYUXdPWk1xRjA2S19SRWpMMDhfSFVocmt0T1hBNUdseUxET2J3NGdYMWNZT1g3RnZoZnNOXzJwZVlpNGphTVhDMi1yOE5tdmJhRGxMbUdTWEI5NUpCTGlKQTJFRWN1cEFiYy1MdU9zNl9qRVMzNzhOMmdLX3JBZjBtSnJ1YlZTVnc?oc=5",
-          "published": "2026-08-13T10:00:00+03:00"
-        },
-        {
-          "platform": "Haber",
           "title": "Ankara-Eskişehir yolunda dehşet! Halk otobüsü ile hafriyat kamyonu çarpıştı: 2 ölü, 25 yaralı - A Haber",
           "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQelh2U1RzT0tuLVdQMXhCc2gyRDVVUVdUdGVudk93RkRfWjlIdncybnItcHFWYm5sQXRMM3lfbG1fWjYzR3ltT1lXOHFlUXhFWGZnYWFTZkZtVnZmRFdJd256UUQtSC1VMWZvZEoyRHA2NDZ0Y3V6LXlzOU90dWt0RjJQbGQyeV9HZnNTV0s1UmtZQWpMSHNYTHFFanNqUldCekdFM2FWSHViSG10bE8wZHhQN1YxUC1XaFFaaTdBaEFRdVhOVURRUC13ZTNtb1k?oc=5",
           "published": "2026-08-13T10:00:00+03:00"
@@ -7475,6 +7476,12 @@
           "platform": "Haber",
           "title": "Ankara'da midibüs ile hafriyat kamyonu çarpıştı: 1 ölü, 16 yaralı - Hürriyet",
           "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxON2xkZ3A0MXRZZkxibkcwUG52YldwckJodmhCUUpUSVc4VmZIS0tpV08yZEN4cmdtbjU1dTdENmx3TEFtNEhwdHBoYjBJblJxdUFBTG1lUk1uaUVLZWJYeG5iQnVuUTBrSHpjNndnWkFjc1pSdUZ2UjVUVDZNZ1dncmVCd1R2WVZwR2RoQlpHOW9GODY3czFhLVM2bmhya251RU5nSmliYkN3QQ?oc=5",
+          "published": "2026-08-13T10:00:00+03:00"
+        },
+        {
+          "platform": "Haber",
+          "title": "Ankara'da özel halk otobüsü ile kamyon çarpıştı: 2 kişi öldü, 25 kişi yaralandı - TRT Haber",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPcllVTlQ5R1VfOWtvNGNLZ0JhVGlWX1ZmVUhYc2ctWk44NU44OXJkQlN2ejRrZ1VWdlNBM0ZBVm5zUWZ0MTlYUXdPWk1xRjA2S19SRWpMMDhfSFVocmt0T1hBNUdseUxET2J3NGdYMWNZT1g3RnZoZnNOXzJwZVlpNGphTVhDMi1yOE5tdmJhRGxMbUdTWEI5NUpCTGlKQTJFRWN1cEFiYy1MdU9zNl9qRVMzNzhOMmdLX3JBZjBtSnJ1YlZTVnc?oc=5",
           "published": "2026-08-13T10:00:00+03:00"
         }
       ],
@@ -7638,44 +7645,6 @@
       "id": 228
     },
     {
-      "category": "Uyuşturucu",
-      "categories": [
-        "Uyuşturucu",
-        "Asayiş"
-      ],
-      "icon": "🚔",
-      "title": "Ankara Haberleri - Ankara’da uyuşturucu ve fuhuş operasyonu: 10 tutuklama - Yerel Haberler - Hürriyet",
-      "location": "Ankara Geneli",
-      "published": "2026-08-11T10:00:00+03:00",
-      "confidence": 75,
-      "sources": 2,
-      "status": "Muhtemel",
-      "summary": "2 farklı açık kaynakta bulunan aynı olay tek kayıtta birleştirildi.",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZno4Mk9sYnNsT1l1TjIxRGxPU2Q2X1dJaXp3RFVvRDlXdGFZdkhBM0ZLV2xCdFkxMnl0SDVKU2gyTWlIVHRTNDR1SkQzbVYyVjNFanJlN0lRNlVMQmhVT2tBM3pwTThRNFQzSXR2T2hQTkxDOE93bElhdDRfc0NrREpaeGU0amZxMy16NVV1Yk1Kam10RWkydHlJWkVHbGpoMUHSAacBQVVfeXFMTTFzMlJkenk2OUdKX3NwSnhFckY2ZE51Vmk2SXJmR0NUdVdoX2VESThEQ3ZMc2hUMzlRd19rdUFZb3QyVEhETEV2R21iSUVVLUwzcktzdnI1cTA1Q0VHdDRHV0JDTFVRZlRJM3JOU3RZdkgtZm9aSjZyYUc3WWpGbHhDYWtXWkZYMVZTTEt1TUFKRUpRZDZqZzFkRDJWSWNXRTFSb0xrUlE?oc=5",
-      "platform": "Haber",
-      "source_links": [
-        {
-          "platform": "Haber",
-          "title": "Ankara'da uyuşturucu operasyonu: 2 tutuklama - DHA | Demirören Haber Ajansı",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZno4Mk9sYnNsT1l1TjIxRGxPU2Q2X1dJaXp3RFVvRDlXdGFZdkhBM0ZLV2xCdFkxMnl0SDVKU2gyTWlIVHRTNDR1SkQzbVYyVjNFanJlN0lRNlVMQmhVT2tBM3pwTThRNFQzSXR2T2hQTkxDOE93bElhdDRfc0NrREpaeGU0amZxMy16NVV1Yk1Kam10RWkydHlJWkVHbGpoMUHSAacBQVVfeXFMTTFzMlJkenk2OUdKX3NwSnhFckY2ZE51Vmk2SXJmR0NUdVdoX2VESThEQ3ZMc2hUMzlRd19rdUFZb3QyVEhETEV2R21iSUVVLUwzcktzdnI1cTA1Q0VHdDRHV0JDTFVRZlRJM3JOU3RZdkgtZm9aSjZyYUc3WWpGbHhDYWtXWkZYMVZTTEt1TUFKRUpRZDZqZzFkRDJWSWNXRTFSb0xrUlE?oc=5",
-          "published": "2026-08-13T10:00:00+03:00"
-        },
-        {
-          "platform": "Haber",
-          "title": "Ankara Haberleri - Ankara’da uyuşturucu ve fuhuş operasyonu: 10 tutuklama - Yerel Haberler - Hürriyet",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNd0JmVEs0a250di1WM3FJX3pRakVqV1Q3UmVCaWRLU2k2dHAtSFJWRXRmRE9fOF9SWWlZbWZOa3VUckMyMmhUb3lVRGZYRU5jVjA5c3BfUnBHWVg5RGFZRjhkM3E1YmRXdy1wcGRQMnNldlRCWDM5SDhtbHRpZDc5Y0JLY3NKR2toMkRMVVV5QWJRdmxDSmJWTDU1cHdxQjRIOHRYUEN4bw?oc=5",
-          "published": "2026-08-11T10:00:00+03:00"
-        }
-      ],
-      "last_updated": "2026-08-11T10:00:00+03:00",
-      "district": "Ankara Geneli",
-      "neighborhood": "Ankara Geneli",
-      "lat": 39.9334,
-      "lon": 32.8597,
-      "location_precision": "il",
-      "id": 229
-    },
-    {
       "category": "Asayiş",
       "categories": [
         "Asayiş"
@@ -7703,7 +7672,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 230
+      "id": 229
     },
     {
       "category": "Asayiş",
@@ -7740,7 +7709,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 231
+      "id": 230
     },
     {
       "category": "Asayiş",
@@ -7770,7 +7739,7 @@
       "lat": 39.965,
       "lon": 32.805,
       "location_precision": "ilçe",
-      "id": 232
+      "id": 231
     },
     {
       "category": "Asayiş",
@@ -7800,7 +7769,7 @@
       "lat": 39.584,
       "lon": 32.147,
       "location_precision": "ilçe",
-      "id": 233
+      "id": 232
     },
     {
       "category": "Uyuşturucu",
@@ -7830,7 +7799,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 234
+      "id": 233
     },
     {
       "category": "Silahlı Olay",
@@ -7861,7 +7830,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 235
+      "id": 234
     },
     {
       "category": "Silahlı Olay",
@@ -7887,6 +7856,44 @@
           "published": "2026-08-12T10:00:00+03:00"
         }
       ],
+      "district": "Ankara Geneli",
+      "neighborhood": "Ankara Geneli",
+      "lat": 39.9334,
+      "lon": 32.8597,
+      "location_precision": "il",
+      "id": 235
+    },
+    {
+      "category": "Uyuşturucu",
+      "categories": [
+        "Uyuşturucu",
+        "Asayiş"
+      ],
+      "icon": "🚔",
+      "title": "Ankara Haberleri - Ankara’da uyuşturucu ve fuhuş operasyonu: 10 tutuklama - Yerel Haberler - Hürriyet",
+      "location": "Ankara Geneli",
+      "published": "2026-08-11T10:00:00+03:00",
+      "confidence": 75,
+      "sources": 2,
+      "status": "Muhtemel",
+      "summary": "2 farklı açık kaynakta bulunan aynı olay tek kayıtta birleştirildi.",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZno4Mk9sYnNsT1l1TjIxRGxPU2Q2X1dJaXp3RFVvRDlXdGFZdkhBM0ZLV2xCdFkxMnl0SDVKU2gyTWlIVHRTNDR1SkQzbVYyVjNFanJlN0lRNlVMQmhVT2tBM3pwTThRNFQzSXR2T2hQTkxDOE93bElhdDRfc0NrREpaeGU0amZxMy16NVV1Yk1Kam10RWkydHlJWkVHbGpoMUHSAacBQVVfeXFMTTFzMlJkenk2OUdKX3NwSnhFckY2ZE51Vmk2SXJmR0NUdVdoX2VESThEQ3ZMc2hUMzlRd19rdUFZb3QyVEhETEV2R21iSUVVLUwzcktzdnI1cTA1Q0VHdDRHV0JDTFVRZlRJM3JOU3RZdkgtZm9aSjZyYUc3WWpGbHhDYWtXWkZYMVZTTEt1TUFKRUpRZDZqZzFkRDJWSWNXRTFSb0xrUlE?oc=5",
+      "platform": "Haber",
+      "source_links": [
+        {
+          "platform": "Haber",
+          "title": "Ankara'da uyuşturucu operasyonu: 2 tutuklama - DHA | Demirören Haber Ajansı",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZno4Mk9sYnNsT1l1TjIxRGxPU2Q2X1dJaXp3RFVvRDlXdGFZdkhBM0ZLV2xCdFkxMnl0SDVKU2gyTWlIVHRTNDR1SkQzbVYyVjNFanJlN0lRNlVMQmhVT2tBM3pwTThRNFQzSXR2T2hQTkxDOE93bElhdDRfc0NrREpaeGU0amZxMy16NVV1Yk1Kam10RWkydHlJWkVHbGpoMUHSAacBQVVfeXFMTTFzMlJkenk2OUdKX3NwSnhFckY2ZE51Vmk2SXJmR0NUdVdoX2VESThEQ3ZMc2hUMzlRd19rdUFZb3QyVEhETEV2R21iSUVVLUwzcktzdnI1cTA1Q0VHdDRHV0JDTFVRZlRJM3JOU3RZdkgtZm9aSjZyYUc3WWpGbHhDYWtXWkZYMVZTTEt1TUFKRUpRZDZqZzFkRDJWSWNXRTFSb0xrUlE?oc=5",
+          "published": "2026-08-13T10:00:00+03:00"
+        },
+        {
+          "platform": "Haber",
+          "title": "Ankara Haberleri - Ankara’da uyuşturucu ve fuhuş operasyonu: 10 tutuklama - Yerel Haberler - Hürriyet",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNd0JmVEs0a250di1WM3FJX3pRakVqV1Q3UmVCaWRLU2k2dHAtSFJWRXRmRE9fOF9SWWlZbWZOa3VUckMyMmhUb3lVRGZYRU5jVjA5c3BfUnBHWVg5RGFZRjhkM3E1YmRXdy1wcGRQMnNldlRCWDM5SDhtbHRpZDc5Y0JLY3NKR2toMkRMVVV5QWJRdmxDSmJWTDU1cHdxQjRIOHRYUEN4bw?oc=5",
+          "published": "2026-08-11T10:00:00+03:00"
+        }
+      ],
+      "last_updated": "2026-08-11T10:00:00+03:00",
       "district": "Ankara Geneli",
       "neighborhood": "Ankara Geneli",
       "lat": 39.9334,
@@ -10610,19 +10617,19 @@
         "Trafik Kazası"
       ],
       "icon": "🚗",
-      "title": "Ankara'da kahreden kaza: Görev yolundaki uzman çavuş şehit oldu - Yeniçağ Gazetesi",
+      "title": "Ankara'da kahreden kaza: Görev yolundaki uzman çavuş şehit oldu - yenicaggazetesi.com",
       "location": "Ankara Geneli",
       "published": "2026-07-23T10:00:00+03:00",
       "confidence": 75,
       "sources": 1,
       "status": "Muhtemel",
-      "summary": "Yeniçağ Gazetesi üzerinden bulunan herkese açık kayıt.",
+      "summary": "yenicaggazetesi.com üzerinden bulunan herkese açık kayıt.",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZ1NwQmdmaDJTZXdXb0Nzd0pHb28xMkRUb29aZ0dHbW82clJKdlIwN29MMmdvaFlUODB5WTJVTmlYZXpnRGxRdFdHR1VhN29WTEs4MFRiSXNGR2lNUVp2QXpCSEhlVFgxQi1SaXlsUHJ1T2pVSDVsZ1Q4ZkN5Tkt3SExSTC1zOHR0d2Y5eFZfMktHUUg3ZENXczZBX1YwdjVLWW1GNEJLTHd4UQ?oc=5",
       "platform": "Haber",
       "source_links": [
         {
           "platform": "Haber",
-          "title": "Ankara'da kahreden kaza: Görev yolundaki uzman çavuş şehit oldu - Yeniçağ Gazetesi",
+          "title": "Ankara'da kahreden kaza: Görev yolundaki uzman çavuş şehit oldu - yenicaggazetesi.com",
           "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZ1NwQmdmaDJTZXdXb0Nzd0pHb28xMkRUb29aZ0dHbW82clJKdlIwN29MMmdvaFlUODB5WTJVTmlYZXpnRGxRdFdHR1VhN29WTEs4MFRiSXNGR2lNUVp2QXpCSEhlVFgxQi1SaXlsUHJ1T2pVSDVsZ1Q4ZkN5Tkt3SExSTC1zOHR0d2Y5eFZfMktHUUg3ZENXczZBX1YwdjVLWW1GNEJLTHd4UQ?oc=5",
           "published": "2026-07-23T10:00:00+03:00"
         }
@@ -15311,7 +15318,7 @@
         },
         {
           "platform": "Haber",
-          "title": "Ankara'da silahlı ve sopalı kavga: 2 yaralı - bursasaati.com.tr",
+          "title": "Ankara'da silahlı ve sopalı kavga: 2 yaralı - Bursa Saati",
           "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9jNmhzQ2NiRmhRR2gzLTNQQm1mYmQwR3FxdmlaUTNnNTRwTDRJVGJBZVMzMXlvZU1zZ3c3Y19FSU1jd0s5eURBVC1UWklPVmRaQ1dnTEpBVDdaWEFrS0JPTU4wUUR4aHFVUzVoZ3o5dUtVTUJwRmt0QkdkWdIBgAFBVV95cUxOR0l5bUJDb3dWaGR0SVB3VlJNa1Y1MmpwVGxwaHZ0X0M5TFhkR2lsbVYzbndsU3NZQnZYdnRMTDVUS003andPSHY1azVveGs0WXZvWk1zeUtQOTNCSGtRZUNTWXdRazFJTDdjcDZCQmIyYWdCSU5KOTdDMkdjYlM5ag?oc=5",
           "published": "2026-06-24T10:00:00+03:00"
         }
@@ -17481,7 +17488,7 @@
         "Sağlık"
       ],
       "icon": "🔫",
-      "title": "Polatlı'da silahlı kavga: 1 yaralı - bursasaati.com.tr",
+      "title": "Polatlı'da silahlı kavga: 1 yaralı - Bursa Saati",
       "location": "Polatlı / Ankara",
       "published": "2026-06-01T10:00:00+03:00",
       "confidence": 75,
@@ -17493,7 +17500,7 @@
       "source_links": [
         {
           "platform": "Haber",
-          "title": "Polatlı'da silahlı kavga: 1 yaralı - bursasaati.com.tr",
+          "title": "Polatlı'da silahlı kavga: 1 yaralı - Bursa Saati",
           "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBzd0pGU0tPcmhVcnl5eWtWWEFiNEhFdDU1NDVKVF9Kd1djYS1Rd2l5eFgwZjgyQ2dQMFJCbTVlUmZRUzRKYkVNcTJzVFN0cnNlSmNoeEFqX2hZYnRta0RhVDdFbmFrTzR0SjRONjdKWdIBdEFVX3lxTE1JWWxPdlJUMHoxRGVUWE4tUUVaVVhnR0taRDNYZmp6cEx1Q3p3a0VSOHhGcUlWQWdPbi13QXZ6Y1YzX2RiVklyeUNkdndoUUNEUUVFSGh4bEtYYjVOd1JKWUE5cm4zUFZ4bVpGVUg3TlN3ajFY?oc=5",
           "published": "2026-06-03T10:00:00+03:00"
         },
@@ -18264,19 +18271,19 @@
         "Trafik Kazası"
       ],
       "icon": "🚗",
-      "title": "Ankara'da trafik kazası sonrası araç Sıhhiye Köprüsü'nden aşağıya düştü - Yeniçağ Gazetesi",
+      "title": "Ankara'da trafik kazası sonrası araç Sıhhiye Köprüsü'nden aşağıya düştü - yenicaggazetesi.com",
       "location": "Ankara Geneli",
       "published": "2026-05-21T10:00:00+03:00",
       "confidence": 75,
       "sources": 1,
       "status": "Muhtemel",
-      "summary": "Yeniçağ Gazetesi üzerinden bulunan herkese açık kayıt.",
+      "summary": "yenicaggazetesi.com üzerinden bulunan herkese açık kayıt.",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQTlhncTExUDNYdE11UHRxUWFELUNxc0J2QTQtcE8wM3NUSFZOS01GOTBYSGpCc2JldWdFZmhWMzEwQUFiWHAwaHBHclh5UnNnRDJqV2REVTQtLWhMdDV4bndsOFdoVWxwVE5kaF9iRUZmLWhSQ1ZiY29tQ0ZEZl9ES1VSbDJqR3V6QU1xclJHYnlwaFlPNndSZ2ttdkFrSTV2NUp2ZzdZQk4zNzZ5cUNNRzdMNlg?oc=5",
       "platform": "Haber",
       "source_links": [
         {
           "platform": "Haber",
-          "title": "Ankara'da trafik kazası sonrası araç Sıhhiye Köprüsü'nden aşağıya düştü - Yeniçağ Gazetesi",
+          "title": "Ankara'da trafik kazası sonrası araç Sıhhiye Köprüsü'nden aşağıya düştü - yenicaggazetesi.com",
           "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQTlhncTExUDNYdE11UHRxUWFELUNxc0J2QTQtcE8wM3NUSFZOS01GOTBYSGpCc2JldWdFZmhWMzEwQUFiWHAwaHBHclh5UnNnRDJqV2REVTQtLWhMdDV4bndsOFdoVWxwVE5kaF9iRUZmLWhSQ1ZiY29tQ0ZEZl9ES1VSbDJqR3V6QU1xclJHYnlwaFlPNndSZ2ttdkFrSTV2NUp2ZzdZQk4zNzZ5cUNNRzdMNlg?oc=5",
           "published": "2026-05-21T10:00:00+03:00"
         }
@@ -21869,7 +21876,7 @@
         "İntihar"
       ],
       "icon": "🟣",
-      "title": "Ankara'da feci olay. Tartıştığı sevgilisini öldürüp intihar etti - ntv.com.tr",
+      "title": "Ankara'da korkunç olay: Kız arkadaşını öldürüp, intihar etti - haberglobal.com",
       "location": "Ankara Geneli",
       "published": "2026-04-08T10:00:00+03:00",
       "confidence": 75,
@@ -21887,7 +21894,7 @@
         },
         {
           "platform": "Haber",
-          "title": "Ankara'da korkunç olay: Kız arkadaşını öldürüp, intihar etti - Haber Global",
+          "title": "Ankara'da korkunç olay: Kız arkadaşını öldürüp, intihar etti - haberglobal.com",
           "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQVERlWG03TW1GaTBfRXNDbHhMNzJCdnVTNExCU2I2WHEyOGlPRzIxaWVtZ1lEN1JrZkJxM0dlQUZwVnFfdllJOVltXzhVSFFrd21heTJGV2RDanhtLW1BQTMycHNxRjhBQTJJckRsZUJFZ2ZqR2x5NXFNTmw5aGg3djFGTVYxT09WRmlvYTZjVHRYdG5WNEl1VXhRRdIBoAFBVV95cUxQT1JIX2lSUE1RUEJHNE1zelV1ZjFublBCay1XZV9QaTR6d0JkNzlZNEhuOTA4UWFzaXZUeEdhNms0SXl1OWNxWTVmVzJtamR6RzV6Q3FsQkkxNkl3blJ2aHJ5UHJTSklWdmhpdzc0MnYyeU9tQzBkbzRqdVJrR1hZdmpGcXlXVDRKUnJMUE5NVENTem1OV0ZhSTZlT3RaSDha?oc=5",
           "published": "2026-04-08T10:00:00+03:00"
         }
@@ -25162,7 +25169,7 @@
       "source_links": [
         {
           "platform": "Haber",
-          "title": "Sincan'da silahlı kavgada 4 gözaltı yapıldı - Yeniçağ Gazetesi",
+          "title": "Sincan'da silahlı kavgada 4 gözaltı yapıldı - yenicaggazetesi.com",
           "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOdm10WGxleUY0dkhmclBadDQyLTZYZVJOcXp5bG40LWRLeHhfMm5sQmhrVXZjUGtyMjVwZ09EbXA1MDdlcEUxeXJpa2VWQThjT0FsZmh0ajlvdU4tR0RTQzhUZmIxeEdyWDFfTGFXU2tiaGFJd0gtMF9MNnhVZlVUMXZsNTRvdTdjVDY2RlJTNA?oc=5",
           "published": "2026-02-02T11:00:00+03:00"
         },
@@ -29173,7 +29180,7 @@
   "google_alert_query_count": 9,
   "platform_counts": {
     "X": 169,
-    "Haber": 875,
+    "Haber": 876,
     "YouTube": 15,
     "Facebook": 72,
     "TikTok": 45,
@@ -29199,7 +29206,7 @@
       "TikTok": 2
     },
     "new_results_this_scan": {
-      "Haber": 377,
+      "Haber": 376,
       "X": 80,
       "Facebook": 34,
       "Instagram": 3,
