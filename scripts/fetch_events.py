@@ -12,7 +12,7 @@ NEWS=[
 "Nallıhan OR Polatlı OR Pursaklar OR Sincan Ankara olay",
 "Şereflikoçhisar OR Yenimahalle Ankara olay"
 ]
-IG_ACCOUNTS=["ankaradatrafik","ankara.sondakika","ankaradantrafik","ankaradansondakika"]
+IG_ACCOUNTS=["ankaradatrafik","ankara.sondakika","ankaradantrafik","ankaradansondakika","mamak.haber","mamak.sondakika"]
 IG_DISTRICT_TERMS="(Mamak OR Altındağ OR Çankaya OR Şirintepe OR Tuzluçayır OR Akdere OR Fahri Korutürk OR Fahrikorutürk OR Keçiören)"
 IG_EVENT_TERMS="(yangın OR kaza OR cinayet OR kavga OR polis OR asayiş OR silahlı OR taciz OR hırsızlık OR uyuşturucu OR ambulans OR son dakika)"
 SOCIAL=[
@@ -68,6 +68,31 @@ NEIGHBORHOODS={
 "Fahri Korutürk":(39.9670,32.9580),"Fahrikorutürk":(39.9670,32.9580)
 }
 
+MAMAK_NEIGHBORHOOD_VARIANTS={
+"Abidinpaşa":["Abidinpaşa"],"Akdere":["Akdere"],"Akşemsettin":["Akşemsettin"],
+"Altıağaç":["Altıağaç"],"Altınevler":["Altınevler"],"Araplar":["Araplar"],
+"Aşık Veysel":["Aşık Veysel","Aşıkveysel"],"Bahçeleriçi":["Bahçeleriçi"],"Bahçelerüstü":["Bahçelerüstü"],
+"Balkiraz":["Balkiraz"],"Başak":["Başak"],"Bayındır":["Eski Bayındır","Bayındır"],
+"Boğaziçi":["Boğaziçi"],"Bostancık":["Bostancık"],"Cengizhan":["Cengizhan"],
+"Çağlayan":["Çağlayan"],"Çiğiltepe":["Çiğiltepe","PTT Evleri"],"Demirlibahçe":["Demirlibahçe"],
+"Derbent":["Derbent"],"Diriliş":["Diriliş"],"Dostlar":["Dostlar"],"Durali Alıç":["Durali Alıç","Duralialıç"],
+"Dutluk":["Dutluk"],"Ege":["Ege"],"Ekin":["Ekin"],"Fahri Korutürk":["Fahri Korutürk","Fahrikorutürk"],
+"General Zeki Doğan":["General Zeki Doğan","Generalzekidoğan"],"Gökçeyurt":["Gökçeyurt"],
+"Gülveren":["Gülveren"],"Harman":["Harman"],"Hürel":["Hürel"],"Hüseyingazi":["Hüseyingazi","Hüseyin Gazi"],
+"Karaağaç":["Karaağaç","Kara Ağaç"],"Karşıyaka":["Karşıyaka"],"Kartaltepe":["Kartaltepe"],
+"Kayaş":["Kayaş"],"Kazım Orbay":["Kazım Orbay","Kazımorbay"],"Kıbrıs":["Kıbrıs","Kıbrısköy"],
+"Kızılca":["Kızılca"],"Köstence":["Köstence"],"Kusunlar":["Kusunlar"],"Kutlu":["Kutlu"],
+"Kutludüğün":["Kutludüğün"],"Küçük Kayaş":["Küçük Kayaş","Küçükkayaş"],
+"Lalahan":["Lalahan"],"Mehtap":["Mehtap"],"Misket":["Misket"],"Mutlu":["Mutlu"],
+"Ortaköy":["Ortaköy"],"Peyami Sefa":["Peyami Sefa","Peyamisefa"],"Saimekadın":["Saimekadın","Saime Kadın"],
+"Şafaktepe":["Şafaktepe"],"Şahap Gürler":["Şahap Gürler","Şahapgürler"],"Şahintepe":["Şahintepe"],
+"Şehit Cengiz Topel":["Şehit Cengiz Topel","Şehitcengiztopel"],"Şirintepe":["Şirintepe"],
+"Tepecik":["Tepecik"],"Tuzluçayır":["Tuzluçayır"],"Türközü":["Türközü"],"Üreğil":["Üreğil"],
+"Yeni Bayındır":["Yeni Bayındır","Yenibayındır"],"Yeşilbayır":["Yeşilbayır"],
+"Yukarı İmrahor":["Yukarı İmrahor","Yukarıimrahor"],"Zirvekent":["Zirvekent"]
+}
+
+
 C=[("Cinayet","⚫",["cinayet","öldürüldü","öldürdü","ölü bulundu","ceset"]),("İntihar","🟣",["intihar","yaşamına son"]),("Terör","🚨",["terör","terörist","örgüt operasyon","bombalı"]),("Taciz","🟣",["taciz","cinsel saldırı","istismar"]),("Düğünde Silah","🔫",["düğünde silah","havaya ateş","maganda"]),("Silahlı Olay","🔫",["silahlı","silah","kurşun","ateş aç"]),("Kavga","🥊",["kavga","darp","saldırı"]),("Trafik Kazası","🚗",["trafik kazası","kaza","çarpış","araç devr"]),("Hırsızlık","🕵️",["hırsız","çaldı","gasp","soygun"]),("Dolandırıcılık","💳",["dolandır"]),("Uyuşturucu","🚔",["uyuşturucu","narkotik"]),("Kayıp Kişi","👤",["kayıp","aranıyor"]),("Yangın","🔥",["yangın","duman","alev","yanıyor","yanmakta","itfaiye"]),("Sağlık","🚑",["ambulans","yaralı","sağlık"]),("Yol","🚧",["yol kapalı","yol çalışma"]),("Altyapı","⚡",["elektrik","su kesinti","doğalgaz"]),("Asayiş","👮",["polis","emniyet","asayiş","gözaltı","tutuklandı","yakalandı","operasyon","şüpheli","suç"])]
 RELEVANT=["cinayet","öldür","ceset","intihar","terör","bomba","taciz","cinsel saldırı","istismar","silah","kurşun","ateş aç","kavga","darp","saldırı","trafik kazası","kaza","çarpış","devrildi","hırsız","gasp","soygun","dolandır","uyuşturucu","narkotik","kayıp","yangın","alev","yanıyor","yanmakta","itfaiye","ambulans","yaralı","polis","emniyet","asayiş","gözaltı","tutuk","yakalandı","operasyon","şüpheli","suç","patlama","rehin","kaçakçılık","bıçak"]
 BLOCK=["menu","food","restaurant","restoran","yemek","kampanya","indirim","satılık","kiralık","maç","transfer","konser","etkinlik","iş ilanı","job"]
@@ -76,12 +101,20 @@ def place_in_text(text,name):
  folded=ascii_text(text);needle=ascii_text(name).strip()
  return bool(re.search(r"(?<![a-z0-9])"+re.escape(needle)+r"(?![a-z0-9])",folded))
 
+def detect_neighborhood(text):
+ candidates=[]
+ for canonical,variants in MAMAK_NEIGHBORHOOD_VARIANTS.items():
+  for variant in variants:candidates.append((variant,canonical))
+ for variant,canonical in sorted(candidates,key=lambda x:len(x[0]),reverse=True):
+  if place_in_text(text,variant):return canonical
+ return None
+
 def detect_district(text):
  folded=ascii_text(text)
  for name in DISTRICT_CENTERS:
   if place_in_text(folded,name):return name
  if place_in_text(folded,"Kazan"):return "Kahramankazan"
- if any(place_in_text(folded,name) for name in NEIGHBORHOODS):return "Mamak"
+ if detect_neighborhood(text):return "Mamak"
  return "Ankara Geneli" if place_in_text(folded,"Ankara") else None
 
 POLITICAL_IDENTITIES=["belediye baskani","eski belediye baskani","abb baskani","baskan ","baskani","cumhurbaskani","milletvekili","genel baskan","siyasi","siyasetci","bakan ","parti yoneticisi","melih gokcek","mansur yavas","chp","akp","ak parti","mhp","iyi parti","dem parti"]
@@ -193,9 +226,10 @@ def same_event(a,b):
 def add_location(e):
  text=e.get("title","").rsplit(" - ",1)[0]
  district=detect_district(text) or "Ankara Geneli"
- found=next(((name,coords) for name,coords in NEIGHBORHOODS.items() if name.lower() in text.lower()),None) if district=="Mamak" else None
- if found:
-  e["district"]="Mamak";e["neighborhood"]=found[0];e["lat"],e["lon"]=found[1];e["location"]=found[0]+" / Mamak / Ankara";e["location_precision"]="mahalle"
+ neighborhood=detect_neighborhood(text) if district=="Mamak" else None
+ if neighborhood:
+  coords=NEIGHBORHOODS.get(neighborhood,DISTRICT_CENTERS["Mamak"])
+  e["district"]="Mamak";e["neighborhood"]=neighborhood;e["lat"],e["lon"]=coords;e["location"]=neighborhood+" / Mamak / Ankara";e["location_precision"]="mahalle" if neighborhood in NEIGHBORHOODS else "mahalle_yaklaşık"
  elif district in DISTRICT_CENTERS:
   e["district"]=district;e["neighborhood"]=district+" Geneli";e["lat"],e["lon"]=DISTRICT_CENTERS[district];e["location"]=district+" / Ankara";e["location_precision"]="ilçe"
  else:
@@ -289,6 +323,7 @@ instagram_accounts={}
 for account in IG_ACCOUNTS:
  account_items=[e for e in new+items if e.get("instagram_target")==account]
  dates=sorted((e.get("published","") for e in account_items if e.get("published")),reverse=True)
- instagram_accounts[account]={"queries":6,"records":len({e.get("url") or e.get("title") for e in account_items}),"last_seen":dates[0] if dates else None,"indexed":bool(account_items)}
+ query_count=sum(2 for platform,q in SOCIAL if platform=="Instagram" and "instagram.com/"+account.lower() in q.lower())
+ instagram_accounts[account]={"queries":query_count,"records":len({e.get("url") or e.get("title") for e in account_items}),"last_seen":dates[0] if dates else None,"indexed":bool(account_items)}
 scan_status={"social_queries":len(SOCIAL)*2+len(alert_urls),"bing_social_queries":len(SOCIAL),"google_news_social_queries":len(SOCIAL),"google_alert_feeds":len(alert_urls),"social_targets":social_targets,"social_attempts":social_attempts,"new_results_this_scan":new_platform_counts,"instagram_accounts":instagram_accounts}
 with open("data/events.json","w",encoding="utf-8") as f:json.dump({"updated_at":now.isoformat(),"events":items,"google_alerts_active":bool(alert_urls),"google_alert_feed_count":len(alert_urls),"google_alert_invalid_count":len(raw_alert_urls)-len(alert_urls),"google_alert_query_count":len(ALERT_QUERY_TEMPLATES),"platform_counts":platform_counts,"scan_status":scan_status,"sources":["Google Alerts RSS","Google News RSS","Bing RSS","X (indekslenen açık gönderiler)","Facebook (indekslenen açık sayfa/gruplar)","Instagram","YouTube","TikTok"]},f,ensure_ascii=False,indent=2)
