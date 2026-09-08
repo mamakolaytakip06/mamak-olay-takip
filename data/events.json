@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-08T09:53:57.156740+03:00",
+  "updated_at": "2026-09-08T10:04:54.475378+03:00",
   "events": [
     {
       "category": "Asayiş",
@@ -192,7 +192,7 @@
         },
         {
           "platform": "Haber",
-          "title": "Ankara'daki uyuşturucu ve fuhuş soruşturmasında 3. dalga: 17 gözaltı - nefes.com.tr",
+          "title": "Ankara'daki uyuşturucu ve fuhuş soruşturmasında 3. dalga: 17 gözaltı - Nefes Gazetesi",
           "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNQy05VHhfTmxDak5yeDVWRHhxYm4wNEpvRmNyX2QyVUxMUDBKb0dfR25COTJEOGY1RW1QY243dXJNSVRKQXlNNVFtMmxmQ2RjMkZnWGFXY0plb1I4OU1QSi13ZmpmYVhrYlpOeEo5VnN0TUdiYnA2cDJpaEFlYkdzNGFOb2Q0Y1dJel9hUjlvaHdsY3hIZFo1MlNOYnJNZw?oc=5",
           "published": "2026-09-06T16:53:00+03:00"
         },
@@ -337,9 +337,9 @@
       "location": "Gölbaşı / Ankara",
       "published": "2026-09-07T16:25:56+03:00",
       "confidence": 60,
-      "sources": 1,
+      "sources": 2,
       "status": "Sosyal medya / doğrulanmamış",
-      "summary": "x.com üzerinden bulunan herkese açık kayıt.",
+      "summary": "2 farklı açık kaynakta bulunan aynı olay tek kayıtta birleştirildi.",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1IcUllMWFUMVBkRTJhcXU4cnpwenZzc2lDQkpTYldMTGhLTlBKdlZFMkFoZ3JMRmJlRVgxbnF2NGxRdDRtTlFISTNlUGdldVo2bWV3X19QaEUwN0ZqdUJvSGNRSzJqUGhNRXlLYUlraw?oc=5",
       "platform": "X",
       "source_links": [
@@ -348,6 +348,12 @@
           "title": "Konya Yolu Gölbaşı yönü Akköprü'de kaza meydana geldi. Ekipler ve kurtarıcı bölgede. 16.20 itibarıyla zaman kayıpları uzun değil, farklı bir noktaya yönelmeye gerek yok. 🚦Trafiği etkileyen tüm olaylar anında radyoda ve uygulamamızda:📷https://t.co/RZ8Mgm - x.com",
           "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1IcUllMWFUMVBkRTJhcXU4cnpwenZzc2lDQkpTYldMTGhLTlBKdlZFMkFoZ3JMRmJlRVgxbnF2NGxRdDRtTlFISTNlUGdldVo2bWV3X19QaEUwN0ZqdUJvSGNRSzJqUGhNRXlLYUlraw?oc=5",
           "published": "2026-09-07T16:25:56+03:00"
+        },
+        {
+          "platform": "X",
+          "title": "Konya Yolu Gölbaşı yönü Akköprü'de kaza meydana geldi. Ekipler ve kurtarıcı bölgede. 16.20 itibarıyla zaman kayıpları uzun değil, farklı bir noktaya yönelmeye gerek yok. 🚦Trafiği etkileyen tüm olaylar anında radyoda ve uygulamamızda:📷https://t.co/RZ8Mgm - x.com",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5SV19fX3BIY3VmRW4xN3JycWJPRF9RSVRSQTgzMDlBYXUzaXc4MUk0V2ZMVVNoeFMzc0FjLTNwT3NnM1hLTkxtZDE0ZUlkY09adHJDNzlHcHFPUm82WGxrZTBVanM?oc=5",
+          "published": "2026-09-07T16:25:56+03:00"
         }
       ],
       "district": "Gölbaşı",
@@ -355,7 +361,8 @@
       "lat": 39.79,
       "lon": 32.809,
       "location_precision": "ilçe",
-      "id": 9
+      "id": 9,
+      "last_updated": "2026-09-07T16:25:56+03:00"
     },
     {
       "category": "Uyuşturucu",
@@ -592,17 +599,16 @@
     {
       "category": "Sağlık",
       "categories": [
-        "Sağlık",
-        "Trafik Kazası"
+        "Sağlık"
       ],
       "icon": "🚑",
-      "title": "Ankara'da feci kaza: Otomobil karşı şeride geçti! 1 ölü, 7 yaralı... - Sabah",
+      "title": "Ankara Elmadağ’da otomobil karşı şeride geçti: 1 ölü, 7 yaralı - Hey Haber",
       "location": "Ankara Geneli",
-      "published": "2026-09-06T19:59:44+03:00",
+      "published": "2026-09-06T20:05:13+03:00",
       "confidence": 75,
-      "sources": 2,
+      "sources": 1,
       "status": "Muhtemel",
-      "summary": "2 farklı açık kaynakta bulunan aynı olay tek kayıtta birleştirildi.",
+      "summary": "Hey Haber üzerinden bulunan herkese açık kayıt.",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSHBHMDZNVmNzM09ITDdVS2pJQzRvMEJXbkpwVUtHUXBNVVlvMkJlM2dxRzdBM3cwOVZLV29xcXJuUzd6UmpjWkxXT0hWNGJTQWNIVy1IT3hoZEhGMlNjQmFuT1p3WndhQmFmQ2VXTUloM3V5SWRHWUMyU3ljbWJ0c1JMNW1lcFRw?oc=5",
       "platform": "Haber",
       "source_links": [
@@ -611,15 +617,8 @@
           "title": "Ankara Elmadağ’da otomobil karşı şeride geçti: 1 ölü, 7 yaralı - Hey Haber",
           "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSHBHMDZNVmNzM09ITDdVS2pJQzRvMEJXbkpwVUtHUXBNVVlvMkJlM2dxRzdBM3cwOVZLV29xcXJuUzd6UmpjWkxXT0hWNGJTQWNIVy1IT3hoZEhGMlNjQmFuT1p3WndhQmFmQ2VXTUloM3V5SWRHWUMyU3ljbWJ0c1JMNW1lcFRw?oc=5",
           "published": "2026-09-06T20:05:13+03:00"
-        },
-        {
-          "platform": "Haber",
-          "title": "Ankara'da feci kaza: Otomobil karşı şeride geçti! 1 ölü, 7 yaralı... - Sabah",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxORTRSSG1Fdks1dUlUUlE4Ui0zc1g1d1FTNDJOcnI3d3pwbDNEZlBsNzdZZGtDaXR5VEpuSS1YWHJURVlEaURDOUJSVUl1enV0dlZ0VUZQbjB6bnc5enEtaGRNeXJaQmYzVDdTN3NLSmZsOF9VMDNpaGhsOEJVWFgyT1RVbUp6VVk5UFRCanRTRDJXaXhsQk1FRmlyMVl0NnFHOHc?oc=5",
-          "published": "2026-09-06T19:59:44+03:00"
         }
       ],
-      "last_updated": "2026-09-06T19:59:44+03:00",
       "district": "Ankara Geneli",
       "neighborhood": "Ankara Geneli",
       "lat": 39.9334,
@@ -852,7 +851,7 @@
         },
         {
           "platform": "Haber",
-          "title": "Ankara'da uyuşturucu ve fuhuş operasyonu. 21 gözaltı - NTV Haber",
+          "title": "Ankara'da uyuşturucu ve fuhuş operasyonu. 21 gözaltı - ntv.com.tr",
           "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPNVJkUnowZVFCMEpRWEo3R1ZXTnp3d1pGdjV0REt2S0FrVHNSNnBEWkswNk02allGV3RYZENVcE9DSXBvQmI0UDhRUHROZmVSREdFRGJZSldFX3hMeVN5OXpjbFVCM1AxdktQRldhTFlXSV9XazVWT0xUaVBINm01eHFGcHRNcFUwOWk4RTBVU1BXSTDSAZgBQVVfeXFMUC10MWROSlh4cl9wWUdUY3gwSlN0bDhPY0ZaX1RyLThjUUZHMTBuSThhcHdkNm1sS0VmdFFVVEVienBIZ0ZfUzZDYkxSTFJZTy1KZ2hEb1FHN2NtbXhrM1FFV19JSWZCamRqWjQ5UERDMTgtVTY4dHhhZ183RGxqVU9pb1hFMUcyZ1hOQjhlclJONXdtNHliOHk?oc=5",
           "published": "2026-09-05T09:49:55+03:00"
         }
@@ -1265,13 +1264,13 @@
         },
         {
           "platform": "Haber",
-          "title": "Ankara'da uyuşturucu ve fuhuş soruşturmasında 21 şüpheliye yönelik operasyon | Yerel Haberler - gzt.com",
+          "title": "Ankara'da uyuşturucu ve fuhuş soruşturmasında 21 şüpheliye yönelik operasyon | Yerel Haberler - GZT",
           "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPMGZzbmNMSVlzNHpYN3UwR0V4MTRLbmpwWk5GY2NYVk5KTTdrSkNremR2bk1JaVFRMzFKTFVBVjdTR3JxX19HaG1BaGItM0lzUFZlekI5c0F2bmpadnJCVFo3UVh2aHdzRnJ0ZkdsZkNSNmQzeFRRS25lQ2pra01IazdaLTkzaDJWWURLVlJzamo4MWx5Y19sRmdCdWFXZGpMNUotd3RDdlVYZ3lrTzNr?oc=5",
           "published": "2026-09-05T10:15:49+03:00"
         },
         {
           "platform": "Haber",
-          "title": "Ankara'da 21 şüpheliye eş zamanlı uyuşturucu ve fuhuş operasyonu - nefes.com.tr",
+          "title": "Ankara'da 21 şüpheliye eş zamanlı uyuşturucu ve fuhuş operasyonu - Nefes Gazetesi",
           "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQdk5qWTk0VGlSMXdHOFJULW1rVHVYYnI5NDM1a1ZnUHhZUEhBQjdjMlhreFRsQ3hKaEFyQXBleGdsSjU5RVFsZ3BLQ2hiN1UwWlN0VmF2TURaZ1BZbWRmcGRpTWg4Sk8wYVc3eE1OMk1XTjNJQ2UtY3hMREVRb3did1ctc1FIb1RlOVo0bWpHaFpEdVZYS3hab2l4Yw?oc=5",
           "published": "2026-09-05T09:57:00+03:00"
         },
@@ -2560,19 +2559,19 @@
         "Kavga"
       ],
       "icon": "🥊",
-      "title": "Ankara Altındağ’da iki aile arasında taşlı sopalı kavga - ankaramasasi.com.tr",
+      "title": "Ankara Altındağ’da iki aile arasında taşlı sopalı kavga - Ankara Masası",
       "location": "Ankara Geneli",
       "published": "2026-09-03T01:07:16+03:00",
       "confidence": 75,
       "sources": 1,
       "status": "Muhtemel",
-      "summary": "ankaramasasi.com.tr üzerinden bulunan herkese açık kayıt.",
+      "summary": "Ankara Masası üzerinden bulunan herkese açık kayıt.",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZEpPdjZvc1RHZ2JnWjBLUmZXdTNab05uMWZ6S1B6U1I3MHdyOUFsT0k1R0tPcThaY2ZUZC1qRk50ZWQ5VTRYM0xIZ0RYQ0ZtWHo3SVgtMWVoMGFwdkJrTGQ4TElXMEc2R213cnp0TVFudkFpSkNDWWZZMmdqcHRENUV2cEpqU1cwZkoza2xLbjVSbEExOWhVRl9DTU9BSUpObW5v?oc=5",
       "platform": "Haber",
       "source_links": [
         {
           "platform": "Haber",
-          "title": "Ankara Altındağ’da iki aile arasında taşlı sopalı kavga - ankaramasasi.com.tr",
+          "title": "Ankara Altındağ’da iki aile arasında taşlı sopalı kavga - Ankara Masası",
           "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZEpPdjZvc1RHZ2JnWjBLUmZXdTNab05uMWZ6S1B6U1I3MHdyOUFsT0k1R0tPcThaY2ZUZC1qRk50ZWQ5VTRYM0xIZ0RYQ0ZtWHo3SVgtMWVoMGFwdkJrTGQ4TElXMEc2R213cnp0TVFudkFpSkNDWWZZMmdqcHRENUV2cEpqU1cwZkoza2xLbjVSbEExOWhVRl9DTU9BSUpObW5v?oc=5",
           "published": "2026-09-03T01:07:16+03:00"
         }
@@ -3411,19 +3410,19 @@
         "Asayiş"
       ],
       "icon": "🟣",
-      "title": "Ankara'da eczanede taciz skandalı: Suçüstü yakalandı, delilleri sildi, serbest bırakıldı - Evrensel.net",
+      "title": "Ankara'da eczanede taciz skandalı: Suçüstü yakalandı, delilleri sildi, serbest bırakıldı - evrensel.net",
       "location": "Ankara Geneli",
       "published": "2026-09-01T12:34:00+03:00",
       "confidence": 75,
       "sources": 1,
       "status": "Muhtemel",
-      "summary": "Evrensel.net üzerinden bulunan herkese açık kayıt.",
+      "summary": "evrensel.net üzerinden bulunan herkese açık kayıt.",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNWmFJZ2xxVDhtOENyanJMaXB1Vm9oeWo0ZnVGVVRBS05MVkR5Sm5RQlloTVR0VnVWUGQxSXdLc1ZiVTJ2ek1qOUNkT3l4WmpUa2tRN0ZfdG50WV8wNk9Qa0hWZ3pxZ2F0aGI4LW11cXFaUWdpdXBhMVowanRRd01JdzdiYUtNd2VSRGNHQUVTRDFUdE1TbnM1WUNQSE1ndWZDU0tseEJRcUMtWUJyNHlhUXdJRmt5WGtrUWpHZE1TQ3c4QQ?oc=5",
       "platform": "Haber",
       "source_links": [
         {
           "platform": "Haber",
-          "title": "Ankara'da eczanede taciz skandalı: Suçüstü yakalandı, delilleri sildi, serbest bırakıldı - Evrensel.net",
+          "title": "Ankara'da eczanede taciz skandalı: Suçüstü yakalandı, delilleri sildi, serbest bırakıldı - evrensel.net",
           "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNWmFJZ2xxVDhtOENyanJMaXB1Vm9oeWo0ZnVGVVRBS05MVkR5Sm5RQlloTVR0VnVWUGQxSXdLc1ZiVTJ2ek1qOUNkT3l4WmpUa2tRN0ZfdG50WV8wNk9Qa0hWZ3pxZ2F0aGI4LW11cXFaUWdpdXBhMVowanRRd01JdzdiYUtNd2VSRGNHQUVTRDFUdE1TbnM1WUNQSE1ndWZDU0tseEJRcUMtWUJyNHlhUXdJRmt5WGtrUWpHZE1TQ3c4QQ?oc=5",
           "published": "2026-09-01T12:34:00+03:00"
         }
@@ -4335,19 +4334,19 @@
         "Asayiş"
       ],
       "icon": "🚔",
-      "title": "Ankara'da uyuşturucu operasyonunda 3 zanlı yakalandı - mynet.com",
+      "title": "Ankara'da uyuşturucu operasyonunda 3 zanlı yakalandı - Mynet",
       "location": "Ankara Geneli",
       "published": "2026-08-28T10:51:08+03:00",
       "confidence": 75,
       "sources": 1,
       "status": "Muhtemel",
-      "summary": "mynet.com üzerinden bulunan herkese açık kayıt.",
+      "summary": "Mynet üzerinden bulunan herkese açık kayıt.",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPSEpyWmhsa3ZkNE5LTWhZRlp1dVFGanFBUmU0LUtYbmhYcUc3b19LOVY5SlRNSjNHQUhVMGFVZVYxaXRmdVFTdDBuWDdjb0d2R19CYW1nc09qeU5ubF9CT0h6YzQ4RTB5UkU3Y2VGNEhTQVczXzBuMlREQUJsdHFidWFCTC1sckc1bG04RDNlb9IBlAFBVV95cUxPRzRpRnQtNndRYTdoUDhwdFNoalRLWDNkbEw3N29ldDBNZmgtWUNUblNrV3ZWWVBBY1MwdzYxV3pKUjNPYVBwX0NJWGdoaTBNNXFfVG9wSVgwWDc0UTU3QW9PN2ZiOVdxU1lGVFRoSHNkUVhqR2JENzhlZlNBMnQtZDg0WDRSaXF3emFvNzVJcDEyaUNm?oc=5",
       "platform": "Haber",
       "source_links": [
         {
           "platform": "Haber",
-          "title": "Ankara'da uyuşturucu operasyonunda 3 zanlı yakalandı - mynet.com",
+          "title": "Ankara'da uyuşturucu operasyonunda 3 zanlı yakalandı - Mynet",
           "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPSEpyWmhsa3ZkNE5LTWhZRlp1dVFGanFBUmU0LUtYbmhYcUc3b19LOVY5SlRNSjNHQUhVMGFVZVYxaXRmdVFTdDBuWDdjb0d2R19CYW1nc09qeU5ubF9CT0h6YzQ4RTB5UkU3Y2VGNEhTQVczXzBuMlREQUJsdHFidWFCTC1sckc1bG04RDNlb9IBlAFBVV95cUxPRzRpRnQtNndRYTdoUDhwdFNoalRLWDNkbEw3N29ldDBNZmgtWUNUblNrV3ZWWVBBY1MwdzYxV3pKUjNPYVBwX0NJWGdoaTBNNXFfVG9wSVgwWDc0UTU3QW9PN2ZiOVdxU1lGVFRoSHNkUVhqR2JENzhlZlNBMnQtZDg0WDRSaXF3emFvNzVJcDEyaUNm?oc=5",
           "published": "2026-08-28T10:51:08+03:00"
         }
@@ -4654,9 +4653,9 @@
       "location": "Ankara Geneli",
       "published": "2026-08-25T10:00:00+03:00",
       "confidence": 75,
-      "sources": 3,
+      "sources": 2,
       "status": "Muhtemel",
-      "summary": "3 farklı açık kaynakta bulunan aynı olay tek kayıtta birleştirildi.",
+      "summary": "2 farklı açık kaynakta bulunan aynı olay tek kayıtta birleştirildi.",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOZGxpdDVxLW5oNENHZGt4NDB5YWFUZERPUXpTc2tWSTg0dEl0OTZ1SWRqaElKZ0ZSS0ctOUZiLWZGOEhCckR6OGp2dVRmcGxybHNVUzFadnJ3S1ZZVGJremo0Ml9KbkZSWDJOTWtVMkFqTG4wVzlJa3E2ZUx2ek9haUE2aXVwQnJEOEpQaFNBNTdaWnotRUtNWW5lUXdxSTBwbUhEVktOWHJodk44RGgzWlJFV3M2eXJOR01tek5uZWJsOWcyMjR2Mk9tT0U?oc=5",
       "platform": "Haber",
       "source_links": [
@@ -4668,24 +4667,48 @@
         },
         {
           "platform": "Haber",
-          "title": "Ankara'da kargo paketlerinde 109 kilo 300 gram uyuşturucu ele geçirildi - Memurlar.Net",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcE5OU3E5MkdvcXR3M3ZfNFE3LWJLWEFnaUdwR2FjQXFwTmVSbGpfeC03SEQxRF82aGlJUFdfV0hoRFU2cnc4RVBfUllPVXpENmRPcHNVUk1PVmZYZHJ1WmtDV2kwUGd2NEJxWWxFcEltNGVFbld5R1FhSGlScmxFb1lUeHUwbE1OOG1jUlVSTjFzM2lEWnFMTFlseGNwSDlPV09GNmJ1VmdISF85TkdqZ2Q5UFBIQdIBvgFBVV95cUxPY0pCUWUyZUxjeFN5N3FTcFNtanZ2XzBncm1HYm1LZFcwZ2R3bFlrMXQwVl9PeUtKSWpvZmpBbXlXLWVfeEFVOVdtc0lrTHY3NUpKalYxdUpCb19sZ2pxQU5HYlo0YnlkUjUtYnJ5MTRpcllJY0psQTBNZmh2V2dnTHNlY05XWU9Rb0VPRVp6YVkyQmRpcHNkZFR4QjAydk40WkE0RFJwSFpIcWk2cGlRaUtJSHNGOUJvcjZLa2lB?oc=5",
-          "published": "2026-08-25T23:45:00+03:00"
-        },
-        {
-          "platform": "Haber",
           "title": "Ankara'da kargo paketlerinde 109 kilogram uyuşturucu ele geçirildi - TRT Haber",
           "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPeENacFFPUnFlRVh0MUgyOGIxWk5XbHZlUnRwVWtPR2V2QjNnUzVtcTVCWmJ0RS03aXJuQTBmWC1NcGtzSXAwNHE0bUN5S2RUMnZ2anpCNHJaWTlMQndIOHBhZnYzY0U4UkNKeldBWTlLME1Ddlp0QmZET2pCVXdyaE9PcjRFM0xOZFhkWk9aeW9zS3A5RkFkcEZMd25iWk5OSU9icTBfVlhwdV8tNUZqYVhaVUlac1E?oc=5",
           "published": "2026-08-25T10:00:00+03:00"
         }
       ],
-      "last_updated": "2026-08-25T23:45:00+03:00",
+      "last_updated": "2026-08-25T10:00:00+03:00",
       "district": "Ankara Geneli",
       "neighborhood": "Ankara Geneli",
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
       "id": 139
+    },
+    {
+      "category": "Trafik Kazası",
+      "categories": [
+        "Trafik Kazası"
+      ],
+      "icon": "🚗",
+      "title": "Ankara'da kahreden trafik kazası: Bakan Gürlek’ten başsağlığı mesajı - Yeni Ankara",
+      "location": "Ankara Geneli",
+      "published": "2026-08-26T10:00:00+03:00",
+      "confidence": 75,
+      "sources": 1,
+      "status": "Muhtemel",
+      "summary": "Yeni Ankara üzerinden bulunan herkese açık kayıt.",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZXhNRkoxa1lvM1k1U2RyXzBRbThuLTZXdTEzT180YmJoOWNmNmJEdlluM1QtdVZXTVVZTkU2ZEZ5cnZSU2hPZXkydFRJMVhwUUd2WEhWQmxRdUt2U2NtN0xiV1kxZWE1dmVSUmhTN0ZUM2RiTjZQWkJtdVBUc0lsWVJBSTlxVnpvNmhGWG9pcENVVlNLdGJJMlg3b0tOdUpVbVJRNU5tenRtcEEyb1HSAbMBQVVfeXFMT2QtZGN3M004T0RqUW9RZlluNElidFR1WUtCRWhzQUVCVUlsSFhDLXZpNHhDd3BpX0ZWbFpVMm55d3g5cW5uYkNnc3AxLVJmeXlYdVBreTUtUktQMHVocVY1YUx2ZFYzVXJYanZsME1hY2xPbFZCbUlnYWVSY1VPSVJ5MFlTVGY2NWNLRHhSdWFwc1ZPTXFITXdheEZKSk1rY3puU0xfQjhqblZpU0hEbW5CalU?oc=5",
+      "platform": "Haber",
+      "source_links": [
+        {
+          "platform": "Haber",
+          "title": "Ankara'da kahreden trafik kazası: Bakan Gürlek’ten başsağlığı mesajı - Yeni Ankara",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZXhNRkoxa1lvM1k1U2RyXzBRbThuLTZXdTEzT180YmJoOWNmNmJEdlluM1QtdVZXTVVZTkU2ZEZ5cnZSU2hPZXkydFRJMVhwUUd2WEhWQmxRdUt2U2NtN0xiV1kxZWE1dmVSUmhTN0ZUM2RiTjZQWkJtdVBUc0lsWVJBSTlxVnpvNmhGWG9pcENVVlNLdGJJMlg3b0tOdUpVbVJRNU5tenRtcEEyb1HSAbMBQVVfeXFMT2QtZGN3M004T0RqUW9RZlluNElidFR1WUtCRWhzQUVCVUlsSFhDLXZpNHhDd3BpX0ZWbFpVMm55d3g5cW5uYkNnc3AxLVJmeXlYdVBreTUtUktQMHVocVY1YUx2ZFYzVXJYanZsME1hY2xPbFZCbUlnYWVSY1VPSVJ5MFlTVGY2NWNLRHhSdWFwc1ZPTXFITXdheEZKSk1rY3puU0xfQjhqblZpU0hEbW5CalU?oc=5",
+          "published": "2026-08-26T10:00:00+03:00"
+        }
+      ],
+      "district": "Ankara Geneli",
+      "neighborhood": "Ankara Geneli",
+      "lat": 39.9334,
+      "lon": 32.8597,
+      "location_precision": "il",
+      "id": 140
     },
     {
       "category": "Yangın",
@@ -4721,7 +4744,7 @@
       "lat": 39.434,
       "lon": 32.497,
       "location_precision": "ilçe",
-      "id": 140,
+      "id": 141,
       "last_updated": "2026-08-25T10:00:00+03:00"
     },
     {
@@ -4753,7 +4776,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 141
+      "id": 142
     },
     {
       "category": "Asayiş",
@@ -4783,7 +4806,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 142
+      "id": 143
     },
     {
       "category": "Yangın",
@@ -4812,7 +4835,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 143,
+      "id": 144,
       "district": "Ankara Geneli"
     },
     {
@@ -4850,7 +4873,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 144
+      "id": 145
     },
     {
       "category": "Silahlı Olay",
@@ -4882,7 +4905,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 145
+      "id": 146
     },
     {
       "category": "Asayiş",
@@ -4912,7 +4935,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 146
+      "id": 147
     },
     {
       "category": "Trafik Kazası",
@@ -4942,7 +4965,7 @@
       "lat": 39.9587,
       "lon": 32.944,
       "location_precision": "mahalle",
-      "id": 147
+      "id": 148
     },
     {
       "category": "Trafik Kazası",
@@ -4972,7 +4995,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 148
+      "id": 149
     },
     {
       "category": "Trafik Kazası",
@@ -5002,7 +5025,7 @@
       "lat": 39.92,
       "lon": 33.23,
       "location_precision": "ilçe",
-      "id": 149
+      "id": 150
     },
     {
       "category": "Trafik Kazası",
@@ -5032,7 +5055,7 @@
       "lat": 39.79,
       "lon": 32.809,
       "location_precision": "ilçe",
-      "id": 150
+      "id": 151
     },
     {
       "category": "Trafik Kazası",
@@ -5062,7 +5085,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 151
+      "id": 152
     },
     {
       "category": "Yangın",
@@ -5092,7 +5115,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 152
+      "id": 153
     },
     {
       "category": "Yangın",
@@ -5142,7 +5165,7 @@
       "lat": 39.9308,
       "lon": 32.9307,
       "location_precision": "ilçe",
-      "id": 153
+      "id": 154
     },
     {
       "category": "Yangın",
@@ -5172,7 +5195,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 154
+      "id": 155
     },
     {
       "category": "Kayıp Kişi",
@@ -5215,7 +5238,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 155
+      "id": 156
     },
     {
       "category": "Yangın",
@@ -5253,7 +5276,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 156
+      "id": 157
     },
     {
       "category": "Kavga",
@@ -5289,7 +5312,7 @@
       "lat": 39.584,
       "lon": 32.147,
       "location_precision": "ilçe",
-      "id": 157,
+      "id": 158,
       "last_updated": "2026-08-23T10:00:00+03:00"
     },
     {
@@ -5327,7 +5350,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 158
+      "id": 159
     },
     {
       "category": "Yangın",
@@ -5362,7 +5385,7 @@
       "lat": 39.9308,
       "lon": 32.9307,
       "location_precision": "ilçe",
-      "id": 159,
+      "id": 160,
       "district": "Mamak",
       "last_updated": "2026-08-23T10:00:00+03:00"
     },
@@ -5393,7 +5416,7 @@
       "lat": 39.9308,
       "lon": 32.9307,
       "location_precision": "ilçe",
-      "id": 160,
+      "id": 161,
       "district": "Mamak"
     },
     {
@@ -5424,7 +5447,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 161
+      "id": 162
     },
     {
       "category": "Asayiş",
@@ -5461,7 +5484,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 162
+      "id": 163
     },
     {
       "category": "Cinayet",
@@ -5492,7 +5515,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 163
+      "id": 164
     },
     {
       "category": "Trafik Kazası",
@@ -5523,7 +5546,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 164
+      "id": 165
     },
     {
       "category": "Cinayet",
@@ -5553,7 +5576,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 165
+      "id": 166
     },
     {
       "category": "Yangın",
@@ -5584,7 +5607,7 @@
       "lat": 39.9308,
       "lon": 32.9307,
       "location_precision": "ilçe",
-      "id": 166
+      "id": 167
     },
     {
       "category": "Cinayet",
@@ -5615,7 +5638,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 167
+      "id": 168
     },
     {
       "category": "Asayiş",
@@ -5645,7 +5668,7 @@
       "lat": 40.167,
       "lon": 31.921,
       "location_precision": "ilçe",
-      "id": 168
+      "id": 169
     },
     {
       "category": "Asayiş",
@@ -5681,7 +5704,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 169,
+      "id": 170,
       "last_updated": "2026-08-22T10:00:00+03:00"
     },
     {
@@ -5690,19 +5713,19 @@
         "Cinayet"
       ],
       "icon": "⚫",
-      "title": "Dosyalar yeniden açıldı, Ankara'daki seri cinayetler çözüldü - NTV Haber",
+      "title": "Dosyalar yeniden açıldı, Ankara'daki seri cinayetler çözüldü - ntv.com.tr",
       "location": "Ankara Geneli",
       "published": "2026-08-22T10:00:00+03:00",
       "confidence": 75,
       "sources": 1,
       "status": "Muhtemel",
-      "summary": "NTV Haber üzerinden bulunan herkese açık kayıt.",
+      "summary": "ntv.com.tr üzerinden bulunan herkese açık kayıt.",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOMFZLM0haTlRMMU9SUUZ1S180d1cwU3pZdXh3dHFJUF9VeEw0c0xydWhKTl9qV0gzQUpjQXkyT0pCVHNuMkRZcnJqRmpfd2dRWWZTdFNDWjdrb1ZKSTJCanpKZE1Selg3ajV0cGJNVFFoTzg0VGRtM1VodWFBVVgzQnEwcEhlY1dNSEF1dEFPSXYzeWx5MzVGV2Q4U2VpUm9BZTg0OFpyNTFvLXF5Y0t3b2lYcjBORWtR0gG-AUFVX3lxTE5rWnRwRFZmalFpajBlUU5TMVRwdEtHYVZuZDhuSFkxRHNPVmhnLS1mdzJHR3pwZm5IXzRSVU1GeVVOdWdtZWJuQ2txdWtHUTZWUjRiZUc4TlJfWXkzczNEZDZQV0VEMWJSNWtSYkVsYk5Dc3lURzNTWkd4RmRUMmNrTHpBSFZIU1pOUGl4TmJ4OE9XZnVYRnBHSDgxNTRoWXZvWWw2WHBzTnREMEx3Q1pLNnpVX19VbW1aaFJMRFE?oc=5",
       "platform": "Haber",
       "source_links": [
         {
           "platform": "Haber",
-          "title": "Dosyalar yeniden açıldı, Ankara'daki seri cinayetler çözüldü - NTV Haber",
+          "title": "Dosyalar yeniden açıldı, Ankara'daki seri cinayetler çözüldü - ntv.com.tr",
           "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOMFZLM0haTlRMMU9SUUZ1S180d1cwU3pZdXh3dHFJUF9VeEw0c0xydWhKTl9qV0gzQUpjQXkyT0pCVHNuMkRZcnJqRmpfd2dRWWZTdFNDWjdrb1ZKSTJCanpKZE1Selg3ajV0cGJNVFFoTzg0VGRtM1VodWFBVVgzQnEwcEhlY1dNSEF1dEFPSXYzeWx5MzVGV2Q4U2VpUm9BZTg0OFpyNTFvLXF5Y0t3b2lYcjBORWtR0gG-AUFVX3lxTE5rWnRwRFZmalFpajBlUU5TMVRwdEtHYVZuZDhuSFkxRHNPVmhnLS1mdzJHR3pwZm5IXzRSVU1GeVVOdWdtZWJuQ2txdWtHUTZWUjRiZUc4TlJfWXkzczNEZDZQV0VEMWJSNWtSYkVsYk5Dc3lURzNTWkd4RmRUMmNrTHpBSFZIU1pOUGl4TmJ4OE9XZnVYRnBHSDgxNTRoWXZvWWw2WHBzTnREMEx3Q1pLNnpVX19VbW1aaFJMRFE?oc=5",
           "published": "2026-08-22T10:00:00+03:00"
         }
@@ -5712,7 +5735,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 170
+      "id": 171
     },
     {
       "category": "Uyuşturucu",
@@ -5743,7 +5766,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 171
+      "id": 172
     },
     {
       "category": "Asayiş",
@@ -5773,7 +5796,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 172
+      "id": 173
     },
     {
       "category": "Trafik Kazası",
@@ -5811,7 +5834,7 @@
       "lat": 39.92,
       "lon": 33.23,
       "location_precision": "ilçe",
-      "id": 173
+      "id": 174
     },
     {
       "category": "Uyuşturucu",
@@ -5841,7 +5864,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 174
+      "id": 175
     },
     {
       "category": "Yangın",
@@ -5871,7 +5894,7 @@
       "lat": 39.97,
       "lon": 32.584,
       "location_precision": "ilçe",
-      "id": 175
+      "id": 176
     },
     {
       "category": "Sağlık",
@@ -5883,9 +5906,9 @@
       "location": "Ankara Geneli",
       "published": "2026-08-21T10:00:00+03:00",
       "confidence": 60,
-      "sources": 1,
+      "sources": 2,
       "status": "Sosyal medya / doğrulanmamış",
-      "summary": "x.com üzerinden bulunan herkese açık kayıt.",
+      "summary": "2 farklı açık kaynakta bulunan aynı olay tek kayıtta birleştirildi.",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFA5cDh0a1lIVEZmRXFaS0lqVnFxRTVSN1RoTV9ZMU1GdmwxTWlDYVNjUlJlVVpfOGNvRmp6QmQ0ZGVjaTA1YnAzTFQ1ZDNBS2o0REZVNFQ2cEViQVlUV21HODBB?oc=5",
       "platform": "X",
       "source_links": [
@@ -5894,14 +5917,21 @@
           "title": "SON DAKİKA | Ankara'da bir maden ocağında göçük meydana geldi. ▪️Bir işçi hayatını kaybetti, çok sayıda yaralı var. - x.com",
           "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFA5cDh0a1lIVEZmRXFaS0lqVnFxRTVSN1RoTV9ZMU1GdmwxTWlDYVNjUlJlVVpfOGNvRmp6QmQ0ZGVjaTA1YnAzTFQ1ZDNBS2o0REZVNFQ2cEViQVlUV21HODBB?oc=5",
           "published": "2026-08-21T10:00:00+03:00"
+        },
+        {
+          "platform": "X",
+          "title": "SON DAKİKA | Ankara'da bir maden ocağında göçük meydana geldi. ▪️Bir işçi hayatını kaybetti, çok sayıda yaralı var. - x.com",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1Mell4cjRVMDlsWkRFdVV1VFhMSGpKUjlsalVDU0RpeGx6UzJITndLVGx5Rzd0N0lUTDRJbUltMnFwdlJCT3R1RlE4UE5EcmpMRXNod2VYdFg2Sy1ZdEl2dGE5VmVVVkpHTFYwYQ?oc=5",
+          "published": "2026-08-21T10:00:00+03:00"
         }
       ],
+      "last_updated": "2026-08-21T10:00:00+03:00",
       "district": "Ankara Geneli",
       "neighborhood": "Ankara Geneli",
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 176
+      "id": 177
     },
     {
       "category": "Asayiş",
@@ -5931,7 +5961,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 177
+      "id": 178
     },
     {
       "category": "Asayiş",
@@ -5961,7 +5991,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 178
+      "id": 179
     },
     {
       "category": "Uyuşturucu",
@@ -5992,7 +6022,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 179
+      "id": 180
     },
     {
       "category": "Uyuşturucu",
@@ -6022,7 +6052,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 180
+      "id": 181
     },
     {
       "category": "Asayiş",
@@ -6052,7 +6082,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 181
+      "id": 182
     },
     {
       "category": "Asayiş",
@@ -6082,7 +6112,7 @@
       "lat": 39.903,
       "lon": 32.859,
       "location_precision": "ilçe",
-      "id": 182
+      "id": 183
     },
     {
       "category": "Yangın",
@@ -6119,7 +6149,7 @@
       "lat": 39.584,
       "lon": 32.147,
       "location_precision": "ilçe",
-      "id": 183
+      "id": 184
     },
     {
       "category": "Trafik Kazası",
@@ -6150,7 +6180,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 184
+      "id": 185
     },
     {
       "category": "Asayiş",
@@ -6180,7 +6210,7 @@
       "lat": 39.948,
       "lon": 32.669,
       "location_precision": "ilçe",
-      "id": 185
+      "id": 186
     },
     {
       "category": "Asayiş",
@@ -6210,7 +6240,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 186
+      "id": 187
     },
     {
       "category": "Asayiş",
@@ -6240,7 +6270,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 187
+      "id": 188
     },
     {
       "category": "Trafik Kazası",
@@ -6270,7 +6300,7 @@
       "lat": 40.039,
       "lon": 32.902,
       "location_precision": "ilçe",
-      "id": 188
+      "id": 189
     },
     {
       "category": "Trafik Kazası",
@@ -6300,7 +6330,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 189
+      "id": 190
     },
     {
       "category": "Trafik Kazası",
@@ -6330,7 +6360,7 @@
       "lat": 40.205,
       "lon": 32.682,
       "location_precision": "ilçe",
-      "id": 190
+      "id": 191
     },
     {
       "category": "Trafik Kazası",
@@ -6360,7 +6390,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 191
+      "id": 192
     },
     {
       "category": "Trafik Kazası",
@@ -6390,7 +6420,7 @@
       "lat": 40.489,
       "lon": 32.474,
       "location_precision": "ilçe",
-      "id": 192
+      "id": 193
     },
     {
       "category": "Trafik Kazası",
@@ -6421,7 +6451,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 193
+      "id": 194
     },
     {
       "category": "Uyuşturucu",
@@ -6483,7 +6513,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 194
+      "id": 195
     },
     {
       "category": "Uyuşturucu",
@@ -6546,7 +6576,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 195
+      "id": 196
     },
     {
       "category": "Uyuşturucu",
@@ -6583,7 +6613,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 196,
+      "id": 197,
       "last_updated": "2026-08-16T10:00:00+03:00"
     },
     {
@@ -6615,7 +6645,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 197
+      "id": 198
     },
     {
       "category": "Uyuşturucu",
@@ -6646,7 +6676,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 198
+      "id": 199
     },
     {
       "category": "Uyuşturucu",
@@ -6677,7 +6707,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 199
+      "id": 200
     },
     {
       "category": "Uyuşturucu",
@@ -6726,7 +6756,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 200,
+      "id": 201,
       "last_updated": "2026-08-16T10:00:00+03:00"
     },
     {
@@ -6758,7 +6788,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 201
+      "id": 202
     },
     {
       "category": "Asayiş",
@@ -6788,7 +6818,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 202
+      "id": 203
     },
     {
       "category": "Uyuşturucu",
@@ -6819,7 +6849,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 203
+      "id": 204
     },
     {
       "category": "Uyuşturucu",
@@ -6850,7 +6880,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 204
+      "id": 205
     },
     {
       "category": "Uyuşturucu",
@@ -6888,7 +6918,7 @@
       "lat": 39.952,
       "lon": 32.875,
       "location_precision": "ilçe",
-      "id": 205
+      "id": 206
     },
     {
       "category": "Uyuşturucu",
@@ -6919,7 +6949,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 206
+      "id": 207
     },
     {
       "category": "Uyuşturucu",
@@ -6950,7 +6980,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 207
+      "id": 208
     },
     {
       "category": "Asayiş",
@@ -6980,7 +7010,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 208
+      "id": 209
     },
     {
       "category": "Kayıp Kişi",
@@ -7010,7 +7040,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 209
+      "id": 210
     },
     {
       "category": "Uyuşturucu",
@@ -7048,7 +7078,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 210
+      "id": 211
     },
     {
       "category": "Asayiş",
@@ -7078,7 +7108,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 211
+      "id": 212
     },
     {
       "category": "Yangın",
@@ -7110,7 +7140,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 212
+      "id": 213
     },
     {
       "category": "Yangın",
@@ -7140,7 +7170,7 @@
       "lat": 40.135,
       "lon": 33.086,
       "location_precision": "ilçe",
-      "id": 213
+      "id": 214
     },
     {
       "category": "Kavga",
@@ -7170,7 +7200,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 214
+      "id": 215
     },
     {
       "category": "Trafik Kazası",
@@ -7179,13 +7209,13 @@
         "Sağlık"
       ],
       "icon": "🚗",
-      "title": "SON DAKİKA: Ankara Temelli'de kamyon ile otobüsün çarpıştığı trafik kazasında 2 ölü, çok sayıda yaralı - 24 Saat Gazetesi Ankara",
+      "title": "Ankara-Eskişehir yolunda trafik kazası: 2 can kaybı, 25 yaralı - İstikbal Gazetesi",
       "location": "Ankara Geneli",
       "published": "2026-08-13T10:00:00+03:00",
       "confidence": 75,
-      "sources": 6,
+      "sources": 3,
       "status": "Muhtemel",
-      "summary": "6 farklı açık kaynakta bulunan aynı olay tek kayıtta birleştirildi.",
+      "summary": "3 farklı açık kaynakta bulunan aynı olay tek kayıtta birleştirildi.",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQN3NFekg3b2J0azlyeE5xQ3djNFNGRmtMSG1LcjdGNVcwZEJNbHp5NU5VYkRzMGp4VFBPNTd0TjV1VHRVc0RjY0duU0NkOWNwV29BeW85V1EyQjdTN2pFOWk1dTBBRW9zdXVsYUZYdFNiYXRSdXUxdGhLMVZnUm03T2ZBZXpkVlBLN2dBRVFTTmhyZw?oc=5",
       "platform": "Haber",
       "source_links": [
@@ -7197,32 +7227,14 @@
         },
         {
           "platform": "Haber",
-          "title": "Eskişehir-Ankara yolunda iki otomobil çarpıştı: 5 yaralı - gzt.com",
+          "title": "Eskişehir-Ankara yolunda iki otomobil çarpıştı: 5 yaralı - GZT",
           "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOeTJNTUtDN0JPWGJodVJaU09wcDdFbmNBaXpyWDhQSHdQVy1FOTdRelVuR18xb3ZhVjVUbGkyS2phMmVOUkQ3MVNnaDhYX1VFSTF2b256U2h1cmlmektSMlo4MDN5ZndjWlZVbjBsZ3RpVUZMQmlZQVlmdThmOGJjUzV3NE5SRUttVFNKd1kyeUt1UnJm?oc=5",
           "published": "2026-08-14T10:00:00+03:00"
         },
         {
           "platform": "Haber",
-          "title": "Ankara-Eskişehir yolunda dehşet! Halk otobüsü ile hafriyat kamyonu çarpıştı: 2 ölü, 25 yaralı - A Haber",
-          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQelh2U1RzT0tuLVdQMXhCc2gyRDVVUVdUdGVudk93RkRfWjlIdncybnItcHFWYm5sQXRMM3lfbG1fWjYzR3ltT1lXOHFlUXhFWGZnYWFTZkZtVnZmRFdJd256UUQtSC1VMWZvZEoyRHA2NDZ0Y3V6LXlzOU90dWt0RjJQbGQyeV9HZnNTV0s1UmtZQWpMSHNYTHFFanNqUldCekdFM2FWSHViSG10bE8wZHhQN1YxUC1XaFFaaTdBaEFRdVhOVURRUC13ZTNtb1k?oc=5",
-          "published": "2026-08-13T10:00:00+03:00"
-        },
-        {
-          "platform": "Haber",
-          "title": "Ankara'da midibüs ile hafriyat kamyonu çarpıştı: 1 ölü, 16 yaralı - Hürriyet",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxON2xkZ3A0MXRZZkxibkcwUG52YldwckJodmhCUUpUSVc4VmZIS0tpV08yZEN4cmdtbjU1dTdENmx3TEFtNEhwdHBoYjBJblJxdUFBTG1lUk1uaUVLZWJYeG5iQnVuUTBrSHpjNndnWkFjc1pSdUZ2UjVUVDZNZ1dncmVCd1R2WVZwR2RoQlpHOW9GODY3czFhLVM2bmhya251RU5nSmliYkN3QQ?oc=5",
-          "published": "2026-08-13T10:00:00+03:00"
-        },
-        {
-          "platform": "Haber",
-          "title": "Ankara'da özel halk otobüsü ile kamyon çarpıştı: 2 kişi öldü, 25 kişi yaralandı - TRT Haber",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPcllVTlQ5R1VfOWtvNGNLZ0JhVGlWX1ZmVUhYc2ctWk44NU44OXJkQlN2ejRrZ1VWdlNBM0ZBVm5zUWZ0MTlYUXdPWk1xRjA2S19SRWpMMDhfSFVocmt0T1hBNUdseUxET2J3NGdYMWNZT1g3RnZoZnNOXzJwZVlpNGphTVhDMi1yOE5tdmJhRGxMbUdTWEI5NUpCTGlKQTJFRWN1cEFiYy1MdU9zNl9qRVMzNzhOMmdLX3JBZjBtSnJ1YlZTVnc?oc=5",
-          "published": "2026-08-13T10:00:00+03:00"
-        },
-        {
-          "platform": "Haber",
-          "title": "SON DAKİKA: Ankara Temelli'de kamyon ile otobüsün çarpıştığı trafik kazasında 2 ölü, çok sayıda yaralı - 24 Saat Gazetesi Ankara",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPRE9EcEpWMjZ3QUEzeVYxRjEyRTd4RzBWdEMyN3RuMXpLYXJ0VXRuSkZVTDFnRXBpSUQ0dmJDWmxVVll1ZzBUbExOQUMxbXFxQ01waWdjNXJrTVpUQmdSX2g5SWVqbFVvUVF2S1J5RVRUWjFwT0k2Mk9zZWpBU241dHc3VVNncGF6cFJfNWVSQTVGUkY2eWtUamJTYjMyR3Z1MzVodi1GajlXcHI0dE1DVnY5LU1hNVNrZFM1N19SaU9rTW9MY0NOWk5n?oc=5",
+          "title": "Ankara-Eskişehir yolunda trafik kazası: 2 can kaybı, 25 yaralı - İstikbal Gazetesi",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNeTF0TU9xN2taMUFLYmNncWhGMkNWbTNwZE5lVVZJX2FxeUdwU2IySzhlWEs2b2F2eWtndlUyaks2S3pkNEhQcU5YTXpBdkdzRGlpcFF2U29xVnlKZ2ZZYmN4VDJjdGh1OGtiYkFfX2xqWWpjazczVXVRUGY1d3MyalF1TFIzbkJIZGFIYmIwck03Uk5aT0lCLQ?oc=5",
           "published": "2026-08-13T10:00:00+03:00"
         }
       ],
@@ -7232,7 +7244,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 215
+      "id": 216
     },
     {
       "category": "Yangın",
@@ -7262,7 +7274,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 216
+      "id": 217
     },
     {
       "category": "Silahlı Olay",
@@ -7300,7 +7312,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 217
+      "id": 218
     },
     {
       "category": "Cinayet",
@@ -7337,7 +7349,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 218
+      "id": 219
     },
     {
       "category": "Cinayet",
@@ -7367,7 +7379,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 219
+      "id": 220
     },
     {
       "category": "Silahlı Olay",
@@ -7398,7 +7410,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 220
+      "id": 221
     },
     {
       "category": "Trafik Kazası",
@@ -7428,7 +7440,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 221
+      "id": 222
     },
     {
       "category": "Trafik Kazası",
@@ -7437,13 +7449,13 @@
         "Sağlık"
       ],
       "icon": "🚗",
-      "title": "Ankara - Eskişehir Yolunda Feci Kaza! Halk Otobüsü İle Kamyon Çarpıştı | A Haber - YouTube",
+      "title": "SON DAKİKA: Ankara Temelli'de kamyon ile otobüsün çarpıştığı trafik kazasında 2 ölü, çok sayıda yaralı - 24 Saat Gazetesi Ankara",
       "location": "Ankara Geneli",
       "published": "2026-08-13T10:00:00+03:00",
       "confidence": 75,
-      "sources": 2,
+      "sources": 6,
       "status": "Sosyal medya / doğrulanmamış",
-      "summary": "2 farklı açık kaynakta bulunan aynı olay tek kayıtta birleştirildi.",
+      "summary": "6 farklı açık kaynakta bulunan aynı olay tek kayıtta birleştirildi.",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9PckRldklmNFNDazFOS3RpZVNMZUFMQlphN1QzWTlRRUxEX1EtcGZ0LWlaVkV2a3FBYnhLYlppZkhRTnNpUXhJLU9xZFdLWUE0OG83WUFR?oc=5",
       "platform": "YouTube",
       "source_links": [
@@ -7458,6 +7470,30 @@
           "title": "Ankara'da midibüs ile kamyon çarpıştı; 2 ölü, 25 yaralı - DHA | Demirören Haber Ajansı",
           "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQNG1OM2MwMlBhZ1Nib3BlUEl5MkpUUk90VlpPWWdaRjdjQnJfQlNENE8wcUVxNHlGMkdma2NCMjRwOTJsc1hjbjBlaHVld1JmLXhnSkNMb1JVcEMza2RVZXJ0SHVrUzJmT3hlTmJ6MGVzWHdpbmdTSFU1eUZCZmZHWjBaSDZxUUtfTFM0NDVSVXBySGfSAZgBQVVfeXFMUEJ4LWVrM0FweUYxZ2RZdzBBYlBFbGJfTTQyWGpTTHhQdnQzN3lTWWhubkgyNWZsWmoyUFR2eThxMndGLVVGUDB6bUZXc2txRmwzSmtpQkVOXzNYVnZqMjNocjJDV0lId3djaWFnVjdTMllJOHVDcUtFeGpfMTRJOEEtMGU0LVNNaFhkNlpNVEV4X2F0UUxrSFA?oc=5",
           "published": "2026-08-13T10:00:00+03:00"
+        },
+        {
+          "platform": "Haber",
+          "title": "Ankara-Eskişehir yolunda dehşet! Halk otobüsü ile hafriyat kamyonu çarpıştı: 2 ölü, 25 yaralı - A Haber",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQelh2U1RzT0tuLVdQMXhCc2gyRDVVUVdUdGVudk93RkRfWjlIdncybnItcHFWYm5sQXRMM3lfbG1fWjYzR3ltT1lXOHFlUXhFWGZnYWFTZkZtVnZmRFdJd256UUQtSC1VMWZvZEoyRHA2NDZ0Y3V6LXlzOU90dWt0RjJQbGQyeV9HZnNTV0s1UmtZQWpMSHNYTHFFanNqUldCekdFM2FWSHViSG10bE8wZHhQN1YxUC1XaFFaaTdBaEFRdVhOVURRUC13ZTNtb1k?oc=5",
+          "published": "2026-08-13T10:00:00+03:00"
+        },
+        {
+          "platform": "Haber",
+          "title": "Ankara'da midibüs ile hafriyat kamyonu çarpıştı: 1 ölü, 16 yaralı - Hürriyet",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxON2xkZ3A0MXRZZkxibkcwUG52YldwckJodmhCUUpUSVc4VmZIS0tpV08yZEN4cmdtbjU1dTdENmx3TEFtNEhwdHBoYjBJblJxdUFBTG1lUk1uaUVLZWJYeG5iQnVuUTBrSHpjNndnWkFjc1pSdUZ2UjVUVDZNZ1dncmVCd1R2WVZwR2RoQlpHOW9GODY3czFhLVM2bmhya251RU5nSmliYkN3QQ?oc=5",
+          "published": "2026-08-13T10:00:00+03:00"
+        },
+        {
+          "platform": "Haber",
+          "title": "Ankara'da özel halk otobüsü ile kamyon çarpıştı: 2 kişi öldü, 25 kişi yaralandı - TRT Haber",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPcllVTlQ5R1VfOWtvNGNLZ0JhVGlWX1ZmVUhYc2ctWk44NU44OXJkQlN2ejRrZ1VWdlNBM0ZBVm5zUWZ0MTlYUXdPWk1xRjA2S19SRWpMMDhfSFVocmt0T1hBNUdseUxET2J3NGdYMWNZT1g3RnZoZnNOXzJwZVlpNGphTVhDMi1yOE5tdmJhRGxMbUdTWEI5NUpCTGlKQTJFRWN1cEFiYy1MdU9zNl9qRVMzNzhOMmdLX3JBZjBtSnJ1YlZTVnc?oc=5",
+          "published": "2026-08-13T10:00:00+03:00"
+        },
+        {
+          "platform": "Haber",
+          "title": "SON DAKİKA: Ankara Temelli'de kamyon ile otobüsün çarpıştığı trafik kazasında 2 ölü, çok sayıda yaralı - 24 Saat Gazetesi Ankara",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPRE9EcEpWMjZ3QUEzeVYxRjEyRTd4RzBWdEMyN3RuMXpLYXJ0VXRuSkZVTDFnRXBpSUQ0dmJDWmxVVll1ZzBUbExOQUMxbXFxQ01waWdjNXJrTVpUQmdSX2g5SWVqbFVvUVF2S1J5RVRUWjFwT0k2Mk9zZWpBU241dHc3VVNncGF6cFJfNWVSQTVGUkY2eWtUamJTYjMyR3Z1MzVodi1GajlXcHI0dE1DVnY5LU1hNVNrZFM1N19SaU9rTW9MY0NOWk5n?oc=5",
+          "published": "2026-08-13T10:00:00+03:00"
         }
       ],
       "last_updated": "2026-08-13T10:00:00+03:00",
@@ -7466,7 +7502,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 222
+      "id": 223
     },
     {
       "category": "Taciz",
@@ -7496,7 +7532,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 223
+      "id": 224
     },
     {
       "category": "Trafik Kazası",
@@ -7526,7 +7562,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 224
+      "id": 225
     },
     {
       "category": "Asayiş",
@@ -7556,7 +7592,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 225
+      "id": 226
     },
     {
       "category": "Yangın",
@@ -7586,7 +7622,7 @@
       "lat": 39.9334,
       "lon": 32.8597,
       "location_precision": "il",
-      "id": 226
+      "id": 227
     },
     {
       "category": "Trafik Kazası",
@@ -7609,37 +7645,6 @@
           "platform": "Haber",
           "title": "Ankara'da feci kaza: 2 ölü, 25 yaralı! - Sabah",
           "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNSXgwZmdzaktaMGx1WU1hUkZ0VkNyME4zNGZqRGo2MzlkMDVBdlFGbGIyVHgyZGdKSVh3YWlFaUFwMzdnUk5BZHgtRVM0QnN4RjE4SklfZVZSamRjZGI5M3hZUTZwai1pX0hiU1MtUERFMW5QRXRjQ1NPWFMwVTVyeWlWQlRTeXhCUEJMMU93Uzg1ejg?oc=5",
-          "published": "2026-08-13T10:00:00+03:00"
-        }
-      ],
-      "district": "Ankara Geneli",
-      "neighborhood": "Ankara Geneli",
-      "lat": 39.9334,
-      "lon": 32.8597,
-      "location_precision": "il",
-      "id": 227
-    },
-    {
-      "category": "Trafik Kazası",
-      "categories": [
-        "Trafik Kazası",
-        "Sağlık"
-      ],
-      "icon": "🚗",
-      "title": "Ankara-Eskişehir yolunda trafik kazası: 2 can kaybı, 25 yaralı - İstikbal Gazetesi",
-      "location": "Ankara Geneli",
-      "published": "2026-08-13T10:00:00+03:00",
-      "confidence": 75,
-      "sources": 1,
-      "status": "Muhtemel",
-      "summary": "İstikbal Gazetesi üzerinden bulunan herkese açık kayıt.",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNeTF0TU9xN2taMUFLYmNncWhGMkNWbTNwZE5lVVZJX2FxeUdwU2IySzhlWEs2b2F2eWtndlUyaks2S3pkNEhQcU5YTXpBdkdzRGlpcFF2U29xVnlKZ2ZZYmN4VDJjdGh1OGtiYkFfX2xqWWpjazczVXVRUGY1d3MyalF1TFIzbkJIZGFIYmIwck03Uk5aT0lCLQ?oc=5",
-      "platform": "Haber",
-      "source_links": [
-        {
-          "platform": "Haber",
-          "title": "Ankara-Eskişehir yolunda trafik kazası: 2 can kaybı, 25 yaralı - İstikbal Gazetesi",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNeTF0TU9xN2taMUFLYmNncWhGMkNWbTNwZE5lVVZJX2FxeUdwU2IySzhlWEs2b2F2eWtndlUyaks2S3pkNEhQcU5YTXpBdkdzRGlpcFF2U29xVnlKZ2ZZYmN4VDJjdGh1OGtiYkFfX2xqWWpjazczVXVRUGY1d3MyalF1TFIzbkJIZGFIYmIwck03Uk5aT0lCLQ?oc=5",
           "published": "2026-08-13T10:00:00+03:00"
         }
       ],
@@ -8222,7 +8227,7 @@
       "source_links": [
         {
           "platform": "Haber",
-          "title": "Ankara'da soğan torbaları içinden 150 kilo uyuşturucu ele geçirildi - NTV Haber",
+          "title": "Ankara'da soğan torbaları içinden 150 kilo uyuşturucu ele geçirildi - ntv.com.tr",
           "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOei0tNS1HMjNmRDVRNEhZSUdCMG40ZTNqMGZqYzdYYnNIMmJHTVBjMG9TZjJKVENoY0QwTTV3OURpOUhDWW1CWlBqemtyRlpyNUZGaFRSWHdNUlBRdE9pSFlQcC1MQTNBS05CTFZSRW15Y0dKY29xMy1HYWxvUlhkNjhBT3dtb1kzTXdpajh0QW9nX1huTUtGSmZnTDhFM3M3b01vSlNyRW04R3JPZ19GRNIBtgFBVV95cUxObzRRNU4xZGlTb1JrYnlrSlV6QkJNVjlzMHBrM3VCQWk4MnVMVzNHbjFoc1N4aGxZM0JEdWVEOHo5QU5Sd1NfT25ta2hjU0xiaHBKdUVQRXVQamdFYXZnOUpDd0dSTFI3S0FxUVExVTBYRG5uT0dSdHpUclY2YkNkZW1nSngzV3FMdG44d3E3a3dGWGlXeTh2RDM5bmRpU1laUmRraTBjeUM3aS1ERjFheXBBdndVdw?oc=5",
           "published": "2026-08-10T10:00:00+03:00"
         },
@@ -8874,19 +8879,19 @@
         "Asayiş"
       ],
       "icon": "👮",
-      "title": "Ankara'da ablasını öldüren ağabey yakalandı. 1 kişi tutuklandı, 5 kişi gözaltında - NTV Haber",
+      "title": "Ankara'da ablasını öldüren ağabey yakalandı. 1 kişi tutuklandı, 5 kişi gözaltında - ntv.com.tr",
       "location": "Ankara Geneli",
       "published": "2026-08-05T10:00:00+03:00",
       "confidence": 75,
       "sources": 1,
       "status": "Muhtemel",
-      "summary": "NTV Haber üzerinden bulunan herkese açık kayıt.",
+      "summary": "ntv.com.tr üzerinden bulunan herkese açık kayıt.",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNRXJjRFhfdUxqcEViNUwwc0lmcmozY0xGaG5UOERLT2VLSTJLdTN1dFcxU043QVI3YzVCOTVOdEJRem1mcWtxVUxRZ2x6dXUxWXIwY3YwNEUzSnlKckFCMHpuZmxaNkhlRVRBTS1KbTRyNUFXUFFBU28wOHhxRlNsUnBHYmpNLXlHaEF6ZDFETWRoOG5oYVBBaVl3YjRDS0IyUi1KckY1ajdCN2RKcFFNUmlJNTF2NUVM0gG-AUFVX3lxTFBabEloX1Q2dW5QMDE3ajdJUlh2Q1ZIeUpBVVJ5SFpvQUNXRm9sMEtoTnZUV3Z4cFNRaklUOEY3RkVKZFp2cXdsdHVIN0FvUk1fRVUtTzJPSUVlTmRrR09Ja0JLQmJKS05YRHFQTlNuLWVvWnJqMlJPUkRJd293emNndkFtZUVSTk9ZMTNPaWk0V0QwVHRjNnJsMmljU0xSY25yUWZ5bzJYX1RXbDJEQk9hcGE0eTlBSHR4M2R0VHc?oc=5",
       "platform": "Haber",
       "source_links": [
         {
           "platform": "Haber",
-          "title": "Ankara'da ablasını öldüren ağabey yakalandı. 1 kişi tutuklandı, 5 kişi gözaltında - NTV Haber",
+          "title": "Ankara'da ablasını öldüren ağabey yakalandı. 1 kişi tutuklandı, 5 kişi gözaltında - ntv.com.tr",
           "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNRXJjRFhfdUxqcEViNUwwc0lmcmozY0xGaG5UOERLT2VLSTJLdTN1dFcxU043QVI3YzVCOTVOdEJRem1mcWtxVUxRZ2x6dXUxWXIwY3YwNEUzSnlKckFCMHpuZmxaNkhlRVRBTS1KbTRyNUFXUFFBU28wOHhxRlNsUnBHYmpNLXlHaEF6ZDFETWRoOG5oYVBBaVl3YjRDS0IyUi1KckY1ajdCN2RKcFFNUmlJNTF2NUVM0gG-AUFVX3lxTFBabEloX1Q2dW5QMDE3ajdJUlh2Q1ZIeUpBVVJ5SFpvQUNXRm9sMEtoTnZUV3Z4cFNRaklUOEY3RkVKZFp2cXdsdHVIN0FvUk1fRVUtTzJPSUVlTmRrR09Ja0JLQmJKS05YRHFQTlNuLWVvWnJqMlJPUkRJd293emNndkFtZUVSTk9ZMTNPaWk0V0QwVHRjNnJsMmljU0xSY25yUWZ5bzJYX1RXbDJEQk9hcGE0eTlBSHR4M2R0VHc?oc=5",
           "published": "2026-08-05T10:00:00+03:00"
         }
@@ -10697,19 +10702,19 @@
         "Trafik Kazası"
       ],
       "icon": "🚗",
-      "title": "Ankara'da trafik kazası. Mustafa Tuna Alt Geçidi nerde? | Afet & Kaza Haberleri - gzt.com",
+      "title": "Ankara'da trafik kazası. Mustafa Tuna Alt Geçidi nerde? | Afet & Kaza Haberleri - GZT",
       "location": "Ankara Geneli",
       "published": "2026-07-23T10:00:00+03:00",
       "confidence": 75,
       "sources": 1,
       "status": "Muhtemel",
-      "summary": "gzt.com üzerinden bulunan herkese açık kayıt.",
+      "summary": "GZT üzerinden bulunan herkese açık kayıt.",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPLUpKYUc1ak1oOWZuS2ZBcV9rOU0tRDB0Szg5TXFaTEdsNTdBMFdqWEFDbXBZeDgxNmtXV2F4RHdFUURIODNUT1FTOEs1Y0NOaTRHbExVRVJGT2UtcUhxSS1JN0I3c2xvSVVlcUQxVGVfR0U0ZnV5MjVvdS1WVC0xaXRrYlNQWEJaZERnUl9KWWE?oc=5",
       "platform": "Haber",
       "source_links": [
         {
           "platform": "Haber",
-          "title": "Ankara'da trafik kazası. Mustafa Tuna Alt Geçidi nerde? | Afet & Kaza Haberleri - gzt.com",
+          "title": "Ankara'da trafik kazası. Mustafa Tuna Alt Geçidi nerde? | Afet & Kaza Haberleri - GZT",
           "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPLUpKYUc1ak1oOWZuS2ZBcV9rOU0tRDB0Szg5TXFaTEdsNTdBMFdqWEFDbXBZeDgxNmtXV2F4RHdFUURIODNUT1FTOEs1Y0NOaTRHbExVRVJGT2UtcUhxSS1JN0I3c2xvSVVlcUQxVGVfR0U0ZnV5MjVvdS1WVC0xaXRrYlNQWEJaZERnUl9KWWE?oc=5",
           "published": "2026-07-23T10:00:00+03:00"
         }
@@ -11060,19 +11065,19 @@
         "Trafik Kazası"
       ],
       "icon": "🚗",
-      "title": "Trafik kazası verileri açıklandı! Ankara İstanbul'u geçti: En çok kaza hangi ilde oldu? | Ekonomi Haberleri - gzt.com",
+      "title": "Trafik kazası verileri açıklandı! Ankara İstanbul'u geçti: En çok kaza hangi ilde oldu? | Ekonomi Haberleri - GZT",
       "location": "Ankara Geneli",
       "published": "2026-07-21T10:00:00+03:00",
       "confidence": 75,
       "sources": 1,
       "status": "Muhtemel",
-      "summary": "gzt.com üzerinden bulunan herkese açık kayıt.",
+      "summary": "GZT üzerinden bulunan herkese açık kayıt.",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNek9JZTFEcWVzM1hQM1NsLU0zdE0wcFlyR2pxRnhseS1aWWxxWmpDQU55ejVhN0FaN25VZHNrbWtfaXBGMlItZ2ZjSXdfSF9UR21RNzI4enc2c1BhT2lwNUd4QUVTNEUwTjN1YV9OTlBlZXctUTkyVTJMdHNHeFBpMFVpV3ZOQ01iX29leDhJV2Ryb3F0aWE4ckRVQk9iMDF3enlhZEE3T3V3SGp2YVdOYTd1bERLeldqVlZn?oc=5",
       "platform": "Haber",
       "source_links": [
         {
           "platform": "Haber",
-          "title": "Trafik kazası verileri açıklandı! Ankara İstanbul'u geçti: En çok kaza hangi ilde oldu? | Ekonomi Haberleri - gzt.com",
+          "title": "Trafik kazası verileri açıklandı! Ankara İstanbul'u geçti: En çok kaza hangi ilde oldu? | Ekonomi Haberleri - GZT",
           "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNek9JZTFEcWVzM1hQM1NsLU0zdE0wcFlyR2pxRnhseS1aWWxxWmpDQU55ejVhN0FaN25VZHNrbWtfaXBGMlItZ2ZjSXdfSF9UR21RNzI4enc2c1BhT2lwNUd4QUVTNEUwTjN1YV9OTlBlZXctUTkyVTJMdHNHeFBpMFVpV3ZOQ01iX29leDhJV2Ryb3F0aWE4ckRVQk9iMDF3enlhZEE3T3V3SGp2YVdOYTd1bERLeldqVlZn?oc=5",
           "published": "2026-07-21T10:00:00+03:00"
         }
@@ -11819,7 +11824,7 @@
         "Sağlık"
       ],
       "icon": "🚗",
-      "title": "Ankara'da trafik kazası: 3 yaralı - gazeteduvar.com.tr",
+      "title": "Ankara'da trafik kazası: 3 yaralı - Gazete Duvar",
       "location": "Ankara Geneli",
       "published": "2026-07-17T10:00:00+03:00",
       "confidence": 75,
@@ -11831,7 +11836,7 @@
       "source_links": [
         {
           "platform": "Haber",
-          "title": "Ankara'da trafik kazası: 3 yaralı - gazeteduvar.com.tr",
+          "title": "Ankara'da trafik kazası: 3 yaralı - Gazete Duvar",
           "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNYmRqX2s2RGR0bW94b3hLbWRXdkVvNklXYi14TGVEWjhrVUtDeGlYZHo3TUJ3XzBycDU1R3B5c0xyTGlxZ2lLZkJMYVEtNXotVl9IUlVBQWZuck02cmRDSzJyWkJkWkZ0VmtfYTFqemg5ck1WRjB3WTRPSmVSSjZ4QS1B0gGHAUFVX3lxTFBKd3FtMTZKdDdBUEJlcXRvdU9zRGZiS3RLOVVFUkZSVWwtTHRLNDBhUjFwdy1CU1Zkb0hnSkQzWE9zUjFwQW9MejlkYUtDQ19yTFppYmRQNHhSdGRfbUpHSGF3NlkybzdROGw3ZDFkeHpMVjlqYVlrRUxXOEpHVGUzeDJZWVpNVQ?oc=5",
           "published": "2026-07-17T10:00:00+03:00"
         },
@@ -14434,19 +14439,19 @@
         "Trafik Kazası"
       ],
       "icon": "🚗",
-      "title": "Ankara'da trafik kazası: 1 kişi hayatını kaybetti - Evrensel.net",
+      "title": "Ankara'da trafik kazası: 1 kişi hayatını kaybetti - evrensel.net",
       "location": "Ankara Geneli",
       "published": "2026-06-28T10:00:00+03:00",
       "confidence": 75,
       "sources": 1,
       "status": "Muhtemel",
-      "summary": "Evrensel.net üzerinden bulunan herkese açık kayıt.",
+      "summary": "evrensel.net üzerinden bulunan herkese açık kayıt.",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNZ2hfQ1pxSE45OVlvdDhvREhHd3MweHRJZDlZRFZQN2Q4Z0ZObDhKSXRWejFaRzRGU2VPSFVmNldoTlZhZFBWbVI1NTk1dHNjc3lSWWpybWFLT3J4bjIzVXlpUXBEcVd2am91a20tdjZyQTM3cDdvOHFJSTIyRnpYaThJWU4zXzZNaVJxLTN6VQ?oc=5",
       "platform": "Haber",
       "source_links": [
         {
           "platform": "Haber",
-          "title": "Ankara'da trafik kazası: 1 kişi hayatını kaybetti - Evrensel.net",
+          "title": "Ankara'da trafik kazası: 1 kişi hayatını kaybetti - evrensel.net",
           "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNZ2hfQ1pxSE45OVlvdDhvREhHd3MweHRJZDlZRFZQN2Q4Z0ZObDhKSXRWejFaRzRGU2VPSFVmNldoTlZhZFBWbVI1NTk1dHNjc3lSWWpybWFLT3J4bjIzVXlpUXBEcVd2am91a20tdjZyQTM3cDdvOHFJSTIyRnpYaThJWU4zXzZNaVJxLTN6VQ?oc=5",
           "published": "2026-06-28T10:00:00+03:00"
         }
@@ -15632,19 +15637,19 @@
         "Asayiş"
       ],
       "icon": "🚨",
-      "title": "Ankara'da terör örgütü operasyonunda 103 kişi tutuklandı - NTV Haber",
+      "title": "Ankara'da terör örgütü operasyonunda 103 kişi tutuklandı - ntv.com.tr",
       "location": "Ankara Geneli",
       "published": "2026-06-23T10:00:00+03:00",
       "confidence": 75,
       "sources": 1,
       "status": "Muhtemel",
-      "summary": "NTV Haber üzerinden bulunan herkese açık kayıt.",
+      "summary": "ntv.com.tr üzerinden bulunan herkese açık kayıt.",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOSzVmVnFGOFU1MGtpSXlzWkdKbUVDUkxZbVpHcjZ3OGhDZmF0YXlBbEN5blh1WHFyYTBldnJWV1NONFlBbkplRXVUMUpHUnR3NlNxTlYtaDdoMWRxQ19fYnRkaWtiRGp3S1hQNjZTQ00xRFFjb1o1ZTlQREk5XzNLUXppZWVDamtiUzF1N0Rnc3otRnpsVy1ZRdIBngFBVV95cUxNd2FwUFhHSk41TVFGZW0wN1NNSHd6TFhlbDRseWhfVTQ2T0R6ZFRzTUlHeVdqMzRfZzZMNWdqN0ZQc01aaU5pRkIzRnVlbVUtanZxaVRha0FRUUk0TW9Cc0JsNGdJekUyQ0ptWlBDTHBoTncxSXZLRFZKanlCNk56R1F0Y0lTOWQxUFVNbEdEZFJGclNZalFBOVQ2UjZrUQ?oc=5",
       "platform": "Haber",
       "source_links": [
         {
           "platform": "Haber",
-          "title": "Ankara'da terör örgütü operasyonunda 103 kişi tutuklandı - NTV Haber",
+          "title": "Ankara'da terör örgütü operasyonunda 103 kişi tutuklandı - ntv.com.tr",
           "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOSzVmVnFGOFU1MGtpSXlzWkdKbUVDUkxZbVpHcjZ3OGhDZmF0YXlBbEN5blh1WHFyYTBldnJWV1NONFlBbkplRXVUMUpHUnR3NlNxTlYtaDdoMWRxQ19fYnRkaWtiRGp3S1hQNjZTQ00xRFFjb1o1ZTlQREk5XzNLUXppZWVDamtiUzF1N0Rnc3otRnpsVy1ZRdIBngFBVV95cUxNd2FwUFhHSk41TVFGZW0wN1NNSHd6TFhlbDRseWhfVTQ2T0R6ZFRzTUlHeVdqMzRfZzZMNWdqN0ZQc01aaU5pRkIzRnVlbVUtanZxaVRha0FRUUk0TW9Cc0JsNGdJekUyQ0ptWlBDTHBoTncxSXZLRFZKanlCNk56R1F0Y0lTOWQxUFVNbEdEZFJGclNZalFBOVQ2UjZrUQ?oc=5",
           "published": "2026-06-23T10:00:00+03:00"
         }
@@ -15723,19 +15728,19 @@
         "Cinayet"
       ],
       "icon": "⚫",
-      "title": "Ankara Akyurt'ta kadın cinayeti yaşandı - ankaramasasi.com.tr",
+      "title": "Ankara Akyurt'ta kadın cinayeti yaşandı - Ankara Masası",
       "location": "Akyurt / Ankara",
       "published": "2026-06-22T10:00:00+03:00",
       "confidence": 75,
       "sources": 1,
       "status": "Muhtemel",
-      "summary": "ankaramasasi.com.tr üzerinden bulunan herkese açık kayıt.",
+      "summary": "Ankara Masası üzerinden bulunan herkese açık kayıt.",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNU3daQk44OU9TYS1qelVQTkRfa2R6Y2VkMlppcmJUekhrVkZ2czJNQng0aUlYeVFjNmhTSk9GUHUzRnVVdVRadXJJZVR6Wmw5Q1FZNnpaQlBpWTlpaU5Cd1pvV0lTTE90SDdSM3VlTWZzNzlEMTJ6c1NQQjJCWTJEbGN5REt3VmxGUENrbVln?oc=5",
       "platform": "Haber",
       "source_links": [
         {
           "platform": "Haber",
-          "title": "Ankara Akyurt'ta kadın cinayeti yaşandı - ankaramasasi.com.tr",
+          "title": "Ankara Akyurt'ta kadın cinayeti yaşandı - Ankara Masası",
           "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNU3daQk44OU9TYS1qelVQTkRfa2R6Y2VkMlppcmJUekhrVkZ2czJNQng0aUlYeVFjNmhTSk9GUHUzRnVVdVRadXJJZVR6Wmw5Q1FZNnpaQlBpWTlpaU5Cd1pvV0lTTE90SDdSM3VlTWZzNzlEMTJ6c1NQQjJCWTJEbGN5REt3VmxGUENrbVln?oc=5",
           "published": "2026-06-22T10:00:00+03:00"
         }
@@ -16622,7 +16627,7 @@
       "source_links": [
         {
           "platform": "Haber",
-          "title": "Ankara Etimesgut'ta cinayet: 16 yaşındaki çocuk parkta bıçaklanarak hayatını kaybetti | Asayiş Haberleri | Yerel Haberler - gzt.com",
+          "title": "Ankara Etimesgut'ta cinayet: 16 yaşındaki çocuk parkta bıçaklanarak hayatını kaybetti | Asayiş Haberleri | Yerel Haberler - GZT",
           "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNSTRoUEItdDNtcURoNXJIQlkxWEpaX09JY055TkRJZnduX0o0NEl4Z1B6Ukx3akVHVFJLZFZYUVhhVEpTbkhVbk9VTW5RVmdpS1FZbGZGRVZ6TTJleUkxa2MxekM1aXZITVVuS3hoV2FPYW0yekVVejB4UnVYT2F4ZGRlTmxWczNZSmZqSmxkb1p6aTAzcnlrZkxiV0xKUzlYb0JFLWQ5T2xiMmI3VTdmMnV4bzFtMkZ0UHpQYmdzd2gwd2xUZ2VBcW9uZER1WGl2?oc=5",
           "published": "2026-06-10T10:00:00+03:00"
         },
@@ -17353,9 +17358,9 @@
       "location": "Gölbaşı / Ankara",
       "published": "2026-06-05T10:00:00+03:00",
       "confidence": 75,
-      "sources": 6,
+      "sources": 5,
       "status": "Muhtemel",
-      "summary": "6 farklı açık kaynakta bulunan aynı olay tek kayıtta birleştirildi.",
+      "summary": "5 farklı açık kaynakta bulunan aynı olay tek kayıtta birleştirildi.",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNNnl1d18yT2dEd0NtOTBibWVKTXpwejBqTHhOSW5aS0owdkhuc1BzZnd5ZXBEVXZYbWtjcHJOQ0FxMTZBRFpNQWl1LXo2RE8wRGJkMWlFeDVhTDJhbTNZbXQ2T19vZ0NLVndmdW5kVGlGdE5xQVhPUEJqSDAxa2lKazdRc2I2eHZvbjZqMXAyZ09KdnVseVFBcFh0UXJpeGtGQkVLRkQ2SQ?oc=5",
       "platform": "Haber",
       "source_links": [
@@ -17373,20 +17378,14 @@
         },
         {
           "platform": "Haber",
-          "title": "Ankara-Eskişehir kara yolunda 3 aracın karıştığı trafik kazası İhlas Haber Ajansı - İhlas Haber Ajansı",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPYUtsSUZPY1NubXU4N0piOTlhUVg3UVprS0c5bVZyYXVXVDRZM25SQVBRaElzMVJxamdjR3d3S0dBY1R2VzdpZHoxRXRiVzJXaXg4TVJhV2I1YXdmZE1mcEZKTGltbEN5VjJQQ2QzMTRJZnRXdFllTmpVWmRvclZfRTZsdnBQRHdxWGNhNGhZS2ZhaWIydEE4NGR1ZTY0aWxuTUtMVGFDRHllaHZaTlAxVzE5MXRXQQ?oc=5",
-          "published": "2026-06-05T10:00:00+03:00"
-        },
-        {
-          "platform": "Haber",
-          "title": "Ankara-Eskişehir kara yolunda 3 aracın karıştığı trafik kazası - haberotesi.com.tr",
+          "title": "Ankara-Eskişehir kara yolunda 3 aracın karıştığı trafik kazası - Eskişehir Haber Ötesi",
           "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOc2dmZTlrSktMbjVpUjZqMkVMRFRhOTdtM056YktFUk8tUGVMekpTVVA3a2xLbDZqcnNyWWtyV1NxaVRzVU5PeDRleTJVbndMZXdSM1BvSjhBVWRuUFY1ZVhjQkc1U09zTWkwd0dLU0dkcDFTRlR2dUw2dzZhZXpRblBvX0ZnZm1TbTBlTkFSRThpLTlkQVY0?oc=5",
           "published": "2026-06-05T10:00:00+03:00"
         },
         {
           "platform": "Haber",
-          "title": "Ankara-Eskişehir kara yolunda 3 aracın karıştığı trafik kazası - Samsun Son Haber",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNeEptVkNTMDVkQVdNYjQ4TDZNSVZOblhpbEFzUlU3dEx2b2VqYlZxelpXZHd0Qkt6UXR2bldELTlwZ0UxUlRGNVFYc3dJejJhY1QxS0cxa1ZOQ09nd3pjTlo2Ymt1RWg3UkhDUEVXemdLcTVBUFRJUXEyWTgzMXRIVnRZaURVNzRhdUxJSEZwTE56eF9rRzQ5N291eGoxQ1l2dEJ1cE5GOEo0UdIBpwFBVV95cUxNWG85MUNqR1VpTWt4TFU3N1pidmJwMEcxQmYyVUxTMjY5ZUxadzFZRjhHcnJsb05OZ0xsa2ZUVzB6ZElYNHZoVHRVR2phaW5VY1htS1RJZ1BwcVRZZXRQQ2xacDBGV0RaMWc3ZU41T0JONmhNYjlrdGF1Tm41T1M2Y0R2eHpwNm9yR2ttQUpoZzJnMzBpV01YWHo2eFAtMGFkWkNoQmxTRQ?oc=5",
+          "title": "Ankara-Eskişehir kara yolunda 3 aracın karıştığı trafik kazası İhlas Haber Ajansı - İhlas Haber Ajansı",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPYUtsSUZPY1NubXU4N0piOTlhUVg3UVprS0c5bVZyYXVXVDRZM25SQVBRaElzMVJxamdjR3d3S0dBY1R2VzdpZHoxRXRiVzJXaXg4TVJhV2I1YXdmZE1mcEZKTGltbEN5VjJQQ2QzMTRJZnRXdFllTmpVWmRvclZfRTZsdnBQRHdxWGNhNGhZS2ZhaWIydEE4NGR1ZTY0aWxuTUtMVGFDRHllaHZaTlAxVzE5MXRXQQ?oc=5",
           "published": "2026-06-05T10:00:00+03:00"
         },
         {
@@ -18406,19 +18405,19 @@
         "Yangın"
       ],
       "icon": "🔥",
-      "title": "Ankara Yenimahalle'de Korku Dolu Anlar: Seyir Halindeki Araç Alev Alev Yandı - NNC Haber",
+      "title": "Ankara Yenimahalle'de Korku Dolu Anlar: Seyir Halindeki Araç Alev Alev Yandı - nnchaber.com",
       "location": "Yenimahalle / Ankara",
       "published": "2026-05-19T10:00:00+03:00",
       "confidence": 75,
       "sources": 1,
       "status": "Muhtemel",
-      "summary": "NNC Haber üzerinden bulunan herkese açık kayıt.",
+      "summary": "nnchaber.com üzerinden bulunan herkese açık kayıt.",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQWXhDWWJnekZLam9xZ0tmYWptbzhaVUZwUEhwZ2J1MzlxN3lMZGNYbDVWTERDN0R5X2Z4TEh2STFQMHNpZzVldFZPdnZrcUFNRW5KaVhxenFUSlM5OHB3V1dCdk5FVWw3SWc2eVRvcnprc3JBaG5lSzNVQ2wzejdwTGQtRDBhNGhkSlR1cng3YnFrNkxhaXp6eHhPd1Q3dzBkdnfSAacBQVVfeXFMTVdrT3NMaVJEbVB5Q1dtb2E1enl5MUFzVU1MRjZSVENIUXpOSW4wV19PZThwMXhuclplbFp1azVtRHJqeU5EeHZRTFk5ZEJ3dVlpTHNwek11cHNadldjQlkyMlZWQ3E1WV8zSVpqNllEelRITFV1Z0lSQmpPMlZaazJKVjE1aEpjR050RUp6WnA3YnlleXBvbHRsRU9HOG5YZWdkblZodzA?oc=5",
       "platform": "Haber",
       "source_links": [
         {
           "platform": "Haber",
-          "title": "Ankara Yenimahalle'de Korku Dolu Anlar: Seyir Halindeki Araç Alev Alev Yandı - NNC Haber",
+          "title": "Ankara Yenimahalle'de Korku Dolu Anlar: Seyir Halindeki Araç Alev Alev Yandı - nnchaber.com",
           "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQWXhDWWJnekZLam9xZ0tmYWptbzhaVUZwUEhwZ2J1MzlxN3lMZGNYbDVWTERDN0R5X2Z4TEh2STFQMHNpZzVldFZPdnZrcUFNRW5KaVhxenFUSlM5OHB3V1dCdk5FVWw3SWc2eVRvcnprc3JBaG5lSzNVQ2wzejdwTGQtRDBhNGhkSlR1cng3YnFrNkxhaXp6eHhPd1Q3dzBkdnfSAacBQVVfeXFMTVdrT3NMaVJEbVB5Q1dtb2E1enl5MUFzVU1MRjZSVENIUXpOSW4wV19PZThwMXhuclplbFp1azVtRHJqeU5EeHZRTFk5ZEJ3dVlpTHNwek11cHNadldjQlkyMlZWQ3E1WV8zSVpqNllEelRITFV1Z0lSQmpPMlZaazJKVjE1aEpjR050RUp6WnA3YnlleXBvbHRsRU9HOG5YZWdkblZodzA?oc=5",
           "published": "2026-05-19T10:00:00+03:00"
         }
@@ -18846,19 +18845,19 @@
         "Sağlık"
       ],
       "icon": "🚑",
-      "title": "Polatlı'da çiftlikte korkunç olay: Yem makinesine kapılan çocuk feci şekilde can verdi, ablası ağır yaralı! - gzt.com",
+      "title": "Polatlı'da çiftlikte korkunç olay: Yem makinesine kapılan çocuk feci şekilde can verdi, ablası ağır yaralı! - GZT",
       "location": "Polatlı / Ankara",
       "published": "2026-05-11T10:00:00+03:00",
       "confidence": 75,
       "sources": 1,
       "status": "Muhtemel",
-      "summary": "gzt.com üzerinden bulunan herkese açık kayıt.",
+      "summary": "GZT üzerinden bulunan herkese açık kayıt.",
       "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPSThqTThwQVRRZWx0VGw4SkR2R3NWR05nRG9qODRhNVhGcE9US1lCTXhpR0lSZktPMjAtMFREaEZLcmQ0RXN6a1BZUWVEclFXalh4bndYYWJxNUE5TWw3d3lqaDloay1fa1hPYXV4RFRud0NSOTBETUhDT2VxSl8wRmY5SERVQ1VQWmdqbF80VXVwUEFNYXh2RGxVWkw5TkVqUmIyZFZ5TkduZnZRODJRVm1ORFhxZDVubTg2XzY1TkVTYkNkekoySGlBQ2hwSWlxVklTZWtTY3A3cWc5?oc=5",
       "platform": "Haber",
       "source_links": [
         {
           "platform": "Haber",
-          "title": "Polatlı'da çiftlikte korkunç olay: Yem makinesine kapılan çocuk feci şekilde can verdi, ablası ağır yaralı! - gzt.com",
+          "title": "Polatlı'da çiftlikte korkunç olay: Yem makinesine kapılan çocuk feci şekilde can verdi, ablası ağır yaralı! - GZT",
           "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPSThqTThwQVRRZWx0VGw4SkR2R3NWR05nRG9qODRhNVhGcE9US1lCTXhpR0lSZktPMjAtMFREaEZLcmQ0RXN6a1BZUWVEclFXalh4bndYYWJxNUE5TWw3d3lqaDloay1fa1hPYXV4RFRud0NSOTBETUhDT2VxSl8wRmY5SERVQ1VQWmdqbF80VXVwUEFNYXh2RGxVWkw5TkVqUmIyZFZ5TkduZnZRODJRVm1ORFhxZDVubTg2XzY1TkVTYkNkekoySGlBQ2hwSWlxVklTZWtTY3A3cWc5?oc=5",
           "published": "2026-05-11T10:00:00+03:00"
         }
@@ -19907,19 +19906,19 @@
         "Cinayet"
       ],
       "icon": "⚫",
-      "title": "Ankara'da 13 yıllık cinayet çözüldü - NTV Haber",
+      "title": "Ankara'da 13 yıllık cinayet çözüldü - ntv.com.tr",
       "location": "Ankara Geneli",
       "published": "2026-05-02T10:00:00+03:00",
       "confidence": 75,
       "sources": 1,
       "status": "Muhtemel",
-      "summary": "NTV Haber üzerinden bulunan herkese açık kayıt.",
+      "summary": "ntv.com.tr üzerinden bulunan herkese açık kayıt.",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE42ZHFOZkZsQ1JBVTJiNlU2S1JWZHNsZHNQM0Zidmc1UTZvWWZ6aEJIRFV1V3Fxc3FjWnI4eHFhZGhBVjRyeUZDc2V3Z1dYZ1ZQd1dLS0ZrQWlHREV3VWtfV3FPX1RSc0x0QzhVcE4tRDllQXdnUjVXdmNPYlhid9IBgwFBVV95cUxPb1RtaXI1bTQtTk9kcWZlak9zZ0FfMDAwMUNoYVBqdlYwTmFoS3JUVEw4VDRiWC1UWDlMUjVEYkc0WVB2ekpTNE5YRjVaZlk4Yms4cmxFMFRjS3Rjd09rNXctVHM5dnIwZWhISzc0WDNQbF93OGJfenlGdy1nYlM4Nk1JZw?oc=5",
       "platform": "Haber",
       "source_links": [
         {
           "platform": "Haber",
-          "title": "Ankara'da 13 yıllık cinayet çözüldü - NTV Haber",
+          "title": "Ankara'da 13 yıllık cinayet çözüldü - ntv.com.tr",
           "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE42ZHFOZkZsQ1JBVTJiNlU2S1JWZHNsZHNQM0Zidmc1UTZvWWZ6aEJIRFV1V3Fxc3FjWnI4eHFhZGhBVjRyeUZDc2V3Z1dYZ1ZQd1dLS0ZrQWlHREV3VWtfV3FPX1RSc0x0QzhVcE4tRDllQXdnUjVXdmNPYlhid9IBgwFBVV95cUxPb1RtaXI1bTQtTk9kcWZlak9zZ0FfMDAwMUNoYVBqdlYwTmFoS3JUVEw4VDRiWC1UWDlMUjVEYkc0WVB2ekpTNE5YRjVaZlk4Yms4cmxFMFRjS3Rjd09rNXctVHM5dnIwZWhISzc0WDNQbF93OGJfenlGdy1nYlM4Nk1JZw?oc=5",
           "published": "2026-05-02T10:00:00+03:00"
         }
@@ -19997,19 +19996,19 @@
         "Trafik Kazası"
       ],
       "icon": "🚗",
-      "title": "Mayıs'ta Ankara'da kahreden kaza: İki işçi feci şekilde can verdi - gzt.com",
+      "title": "Mayıs'ta Ankara'da kahreden kaza: İki işçi feci şekilde can verdi - GZT",
       "location": "Ankara Geneli",
       "published": "2026-05-01T10:00:00+03:00",
       "confidence": 75,
       "sources": 1,
       "status": "Muhtemel",
-      "summary": "gzt.com üzerinden bulunan herkese açık kayıt.",
+      "summary": "GZT üzerinden bulunan herkese açık kayıt.",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPWHpoVzVtbGN6NXNCVERDQ1ZhYWRQdWRaMC1MMF9DNzFMWnlweFBEanZieWtoQk82SHF6dWJIT1RCWU94VHE1X1ZKVU0zOVJHeWZoNWN6QXhiU2llX0xZSklIOHRJZWZsLVZVYXBuVGpocVZQM0d1NDdncVVRSVJTUk5HTGdTQXMzNzl2YTU0QUhWeHp3T3JzZll6NVNjdzdQMGZqRWtxR0xjVXpOQVZES3pIVGkwQXJJMEJlaFlLZkIzVHFiY013YURFaHc?oc=5",
       "platform": "Haber",
       "source_links": [
         {
           "platform": "Haber",
-          "title": "Mayıs'ta Ankara'da kahreden kaza: İki işçi feci şekilde can verdi - gzt.com",
+          "title": "Mayıs'ta Ankara'da kahreden kaza: İki işçi feci şekilde can verdi - GZT",
           "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPWHpoVzVtbGN6NXNCVERDQ1ZhYWRQdWRaMC1MMF9DNzFMWnlweFBEanZieWtoQk82SHF6dWJIT1RCWU94VHE1X1ZKVU0zOVJHeWZoNWN6QXhiU2llX0xZSklIOHRJZWZsLVZVYXBuVGpocVZQM0d1NDdncVVRSVJTUk5HTGdTQXMzNzl2YTU0QUhWeHp3T3JzZll6NVNjdzdQMGZqRWtxR0xjVXpOQVZES3pIVGkwQXJJMEJlaFlLZkIzVHFiY013YURFaHc?oc=5",
           "published": "2026-05-01T10:00:00+03:00"
         }
@@ -20993,19 +20992,19 @@
         "Asayiş"
       ],
       "icon": "⚫",
-      "title": "Ankara'da film gibi olay: Ameliyatla yüzünü değiştirip saç ektiren cinayet zanlısı yedi yıl sonra yakalandı - NTV Haber",
+      "title": "Ankara'da film gibi olay: Ameliyatla yüzünü değiştirip saç ektiren cinayet zanlısı yedi yıl sonra yakalandı - ntv.com.tr",
       "location": "Ankara Geneli",
       "published": "2026-04-18T10:00:00+03:00",
       "confidence": 75,
       "sources": 1,
       "status": "Muhtemel",
-      "summary": "NTV Haber üzerinden bulunan herkese açık kayıt.",
+      "summary": "ntv.com.tr üzerinden bulunan herkese açık kayıt.",
       "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNYmt6bDhzWEhESjY1NWNGOVl5ckwta2s1VGdfYVcyNzJiMU05QlI1VDNfZnFlZWJjZHdtMHMzd1hqSHl0TTRXRnlWZzloYVZUMWhtSnppMTNvc1hDeGJnOUUyb2hKUmVKX2lJZkNKYTd6TDBVTlhfMnJGZThOeGdMSTFSbGVjMmlxUXMyTnNqTm5acFNUeUZ6T21Jc3VYa2hQLWxINW5IWnRBYmhCVGgyNDlHcHl4anJaa2dtZ2hJY2hIUm1KVFFldGFTRWVnTW93NGNrV2pxbE1TMUXSAeABQVVfeXFMUFhvdWYxa0dfYk9Qb2dnR3pmMWFJUVF4RnllZWo3RTR6ZXFqWFNtSmtSZzR1QVZGMklIc2UzTTVCU21IRkZPWWFFd0xHMHU5enhmQ1BlbFlXSFRfaGp2UTYtbExzdVFkTU5aUXI2SDM0R2ZBdnlrSVhwY2lQU214TE1XNm1Eb3pXVHlpWFhqODdYN2tFdnhlcXpERGx2Uk1pT3VOODlRM3BiazRPcEgyOWxmS3BGenJSd3l5SUYtdXo3bUR2Q3JITVN1THUtOEhIdEJOQm5WT0xEdU5fc3FCNW4?oc=5",
       "platform": "Haber",
       "source_links": [
         {
           "platform": "Haber",
-          "title": "Ankara'da film gibi olay: Ameliyatla yüzünü değiştirip saç ektiren cinayet zanlısı yedi yıl sonra yakalandı - NTV Haber",
+          "title": "Ankara'da film gibi olay: Ameliyatla yüzünü değiştirip saç ektiren cinayet zanlısı yedi yıl sonra yakalandı - ntv.com.tr",
           "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNYmt6bDhzWEhESjY1NWNGOVl5ckwta2s1VGdfYVcyNzJiMU05QlI1VDNfZnFlZWJjZHdtMHMzd1hqSHl0TTRXRnlWZzloYVZUMWhtSnppMTNvc1hDeGJnOUUyb2hKUmVKX2lJZkNKYTd6TDBVTlhfMnJGZThOeGdMSTFSbGVjMmlxUXMyTnNqTm5acFNUeUZ6T21Jc3VYa2hQLWxINW5IWnRBYmhCVGgyNDlHcHl4anJaa2dtZ2hJY2hIUm1KVFFldGFTRWVnTW93NGNrV2pxbE1TMUXSAeABQVVfeXFMUFhvdWYxa0dfYk9Qb2dnR3pmMWFJUVF4RnllZWo3RTR6ZXFqWFNtSmtSZzR1QVZGMklIc2UzTTVCU21IRkZPWWFFd0xHMHU5enhmQ1BlbFlXSFRfaGp2UTYtbExzdVFkTU5aUXI2SDM0R2ZBdnlrSVhwY2lQU214TE1XNm1Eb3pXVHlpWFhqODdYN2tFdnhlcXpERGx2Uk1pT3VOODlRM3BiazRPcEgyOWxmS3BGenJSd3l5SUYtdXo3bUR2Q3JITVN1THUtOEhIdEJOQm5WT0xEdU5fc3FCNW4?oc=5",
           "published": "2026-04-18T10:00:00+03:00"
         }
@@ -21293,19 +21292,19 @@
         "Kavga"
       ],
       "icon": "🔫",
-      "title": "Mamak Ekin Mahallesi’nde silahlı saldırı ve araç kundaklama - ankaramasasi.com.tr",
+      "title": "Mamak Ekin Mahallesi’nde silahlı saldırı ve araç kundaklama - Ankara Masası",
       "location": "Ekin / Mamak / Ankara",
       "published": "2026-04-14T10:00:00+03:00",
       "confidence": 75,
       "sources": 1,
       "status": "Muhtemel",
-      "summary": "ankaramasasi.com.tr üzerinden bulunan herkese açık kayıt.",
+      "summary": "Ankara Masası üzerinden bulunan herkese açık kayıt.",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPd2Y3VmxselA4MmVJQ1JELXFsQU1QSGhmbVN6TFFPblJadzdDQUdUaEVpLUR5UkVNd2RlYWpmcDJ1VHRlbHRVa1VUY0dVRlNHZElWeGRfaUZfcTJnZWtIa3hROVhLMGJJOVdmNE5pWldfclQtOV9GMFlXaFhXVmZhMVYySlJqcERkLXJJaTU4Z1Z0WmFSYnFIVFZVSlR3em9NaGxhRWtPekk?oc=5",
       "platform": "Haber",
       "source_links": [
         {
           "platform": "Haber",
-          "title": "Mamak Ekin Mahallesi’nde silahlı saldırı ve araç kundaklama - ankaramasasi.com.tr",
+          "title": "Mamak Ekin Mahallesi’nde silahlı saldırı ve araç kundaklama - Ankara Masası",
           "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPd2Y3VmxselA4MmVJQ1JELXFsQU1QSGhmbVN6TFFPblJadzdDQUdUaEVpLUR5UkVNd2RlYWpmcDJ1VHRlbHRVa1VUY0dVRlNHZElWeGRfaUZfcTJnZWtIa3hROVhLMGJJOVdmNE5pWldfclQtOV9GMFlXaFhXVmZhMVYySlJqcERkLXJJaTU4Z1Z0WmFSYnFIVFZVSlR3em9NaGxhRWtPekk?oc=5",
           "published": "2026-04-14T10:00:00+03:00"
         }
@@ -21854,19 +21853,19 @@
         "Cinayet"
       ],
       "icon": "⚫",
-      "title": "Ankara Sincan'da Cinayet-İntihar: Emekli Uzman Çavuş 3 Kişiyi Öldürdü - Balıkesir Gerçek Haber",
+      "title": "Ankara Sincan'da Cinayet-İntihar: Emekli Uzman Çavuş 3 Kişiyi Öldürdü - balikesirgercek.com",
       "location": "Sincan / Ankara",
       "published": "2026-04-08T10:00:00+03:00",
       "confidence": 75,
       "sources": 1,
       "status": "Muhtemel",
-      "summary": "Balıkesir Gerçek Haber üzerinden bulunan herkese açık kayıt.",
+      "summary": "balikesirgercek.com üzerinden bulunan herkese açık kayıt.",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOMDNBUlF3cGo0c3FMb3ctbFI5aXlXcndzWTl0VFhVY1h3cUxQWmdjTElmekJQM2ZXLXdxTkNFeG1WcXA1aU9BbDh5XzNHZnFmUDNtZ05vS1llMm1aeE9vMzQ3dlA5MHh3ZmJ6Y094N2hDOWo5VnpuM1BTcHdlMjgyT2tSTC1EYU9BNXRNYWd1M0NGSXUza24yTTZ0OWhxRzNUd2V0WHBBUE9qRHdWOWtvRDlyUXhGdw?oc=5",
       "platform": "Haber",
       "source_links": [
         {
           "platform": "Haber",
-          "title": "Ankara Sincan'da Cinayet-İntihar: Emekli Uzman Çavuş 3 Kişiyi Öldürdü - Balıkesir Gerçek Haber",
+          "title": "Ankara Sincan'da Cinayet-İntihar: Emekli Uzman Çavuş 3 Kişiyi Öldürdü - balikesirgercek.com",
           "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOMDNBUlF3cGo0c3FMb3ctbFI5aXlXcndzWTl0VFhVY1h3cUxQWmdjTElmekJQM2ZXLXdxTkNFeG1WcXA1aU9BbDh5XzNHZnFmUDNtZ05vS1llMm1aeE9vMzQ3dlA5MHh3ZmJ6Y094N2hDOWo5VnpuM1BTcHdlMjgyT2tSTC1EYU9BNXRNYWd1M0NGSXUza24yTTZ0OWhxRzNUd2V0WHBBUE9qRHdWOWtvRDlyUXhGdw?oc=5",
           "published": "2026-04-08T10:00:00+03:00"
         }
@@ -21884,7 +21883,7 @@
         "İntihar"
       ],
       "icon": "🟣",
-      "title": "Ankara'da feci olay. Tartıştığı sevgilisini öldürüp intihar etti - NTV Haber",
+      "title": "Ankara'da feci olay. Tartıştığı sevgilisini öldürüp intihar etti - ntv.com.tr",
       "location": "Ankara Geneli",
       "published": "2026-04-08T10:00:00+03:00",
       "confidence": 75,
@@ -21896,7 +21895,7 @@
       "source_links": [
         {
           "platform": "Haber",
-          "title": "Ankara'da feci olay. Tartıştığı sevgilisini öldürüp intihar etti - NTV Haber",
+          "title": "Ankara'da feci olay. Tartıştığı sevgilisini öldürüp intihar etti - ntv.com.tr",
           "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQQUgzeUhOYmhIeGVtalBkVlNJRTJkTS1lVURMaFNQdnBJZmx4Z3ZFbmJvSE1IdFZmcFVvdGJxNVZMQ2tVSWl1U2ZEeGR4RS1sQnhwT3BQbW5VX0t5NTA1Q1QyUTNJZEVMSDczSEFURGs4MENuOWRybUJFUkYwWkhaZng1dmNOM0UtVDREd2xHV2JUVWYwX2hrOVVXOGtzSXR2d3fSAacBQVVfeXFMUHlmbVM0bzhjaDltZ1VwVXpOLW54ZVZ1WFdreG9lLU5qTUZORm5obFVKeHlCeXQ1QU5ydzFveWhmOHFqanlWTklkMGJJeWNHR1VtbWp4SnJGQWVRVDY5TDhaSkE0X0ZCY0JUX1phSTFHSGw4SExfTVJUakROYmRZNjFjZzA3aTNjSzRjWC1fdF80ZHFMX0VvS28yQ0l6ejJLSGY2UUpVTGc?oc=5",
           "published": "2026-04-08T10:00:00+03:00"
         },
@@ -22165,19 +22164,19 @@
         "Sağlık"
       ],
       "icon": "🚗",
-      "title": "Ankara Kahramankazan'da acı olay: Dört kişi öldü 13 yaralı | ANKARA HABERLERİ | VİDEO İZLE - gzt.com",
+      "title": "Ankara Kahramankazan'da acı olay: Dört kişi öldü 13 yaralı | ANKARA HABERLERİ | VİDEO İZLE - GZT",
       "location": "Kahramankazan / Ankara",
       "published": "2026-04-04T10:00:00+03:00",
       "confidence": 75,
       "sources": 1,
       "status": "Muhtemel",
-      "summary": "gzt.com üzerinden bulunan herkese açık kayıt.",
+      "summary": "GZT üzerinden bulunan herkese açık kayıt.",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPMGF6Ri1yWUpHUEFRRVV2cE9mZzdaMlZtVzlzcXVxeXFhTUVKUmdDNDBVTTd4ZVd1cFBTbExEbXdVWTBSTlZvSDFjMXIwSFdFQTFIY0tEWi16Y01qekxHUVZxUFR0WnFwTm9RSGhoN1V6dnpqSnBKekJxTWdMQWkxa2JjZWJnSW9VcWRHU1o5M0NldFhXbkpqSWVwSllRZUlmN2kxV2dnWEtudWZ5?oc=5",
       "platform": "Haber",
       "source_links": [
         {
           "platform": "Haber",
-          "title": "Ankara Kahramankazan'da acı olay: Dört kişi öldü 13 yaralı | ANKARA HABERLERİ | VİDEO İZLE - gzt.com",
+          "title": "Ankara Kahramankazan'da acı olay: Dört kişi öldü 13 yaralı | ANKARA HABERLERİ | VİDEO İZLE - GZT",
           "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPMGF6Ri1yWUpHUEFRRVV2cE9mZzdaMlZtVzlzcXVxeXFhTUVKUmdDNDBVTTd4ZVd1cFBTbExEbXdVWTBSTlZvSDFjMXIwSFdFQTFIY0tEWi16Y01qekxHUVZxUFR0WnFwTm9RSGhoN1V6dnpqSnBKekJxTWdMQWkxa2JjZWJnSW9VcWRHU1o5M0NldFhXbkpqSWVwSllRZUlmN2kxV2dnWEtudWZ5?oc=5",
           "published": "2026-04-04T10:00:00+03:00"
         }
@@ -22405,13 +22404,13 @@
         "Trafik Kazası"
       ],
       "icon": "🚗",
-      "title": "Ankara'da feci kaza: 5 kişi hayatını kaybetti - Hürriyet",
+      "title": "Ankara Kuzey Çevre Yolu'nda feci kaza! İki araç birbirine girdi, 5 kişi hayatını kaybetti! | Video - Sabah",
       "location": "Ankara Geneli",
       "published": "2026-04-01T10:00:00+03:00",
       "confidence": 75,
-      "sources": 1,
+      "sources": 2,
       "status": "Muhtemel",
-      "summary": "Hürriyet üzerinden bulunan herkese açık kayıt.",
+      "summary": "2 farklı açık kaynakta bulunan aynı olay tek kayıtta birleştirildi.",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQNmtPZjVXWW1icEJoSXd5TlhRV2hFUWdxMFluMXBJMVJJMlBORFh0MXhNdTYyTDBQeFIxU3BEMFhvRGdPZGFRRVBlUkUtcTYyYlI1VVdrZXdWUlA5VlBjUHNLcFcza1ZFZEI5SkN5Uk90eFBrYk43U3Q2VVV6dU9lMXY5SURYdXk0QXlzNlQ5UlpmcXpkZTNMc18xNTBndWc?oc=5",
       "platform": "Haber",
       "source_links": [
@@ -22420,8 +22419,15 @@
           "title": "Ankara'da feci kaza: 5 kişi hayatını kaybetti - Hürriyet",
           "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQNmtPZjVXWW1icEJoSXd5TlhRV2hFUWdxMFluMXBJMVJJMlBORFh0MXhNdTYyTDBQeFIxU3BEMFhvRGdPZGFRRVBlUkUtcTYyYlI1VVdrZXdWUlA5VlBjUHNLcFcza1ZFZEI5SkN5Uk90eFBrYk43U3Q2VVV6dU9lMXY5SURYdXk0QXlzNlQ5UlpmcXpkZTNMc18xNTBndWc?oc=5",
           "published": "2026-04-01T10:00:00+03:00"
+        },
+        {
+          "platform": "Haber",
+          "title": "Ankara Kuzey Çevre Yolu'nda feci kaza! İki araç birbirine girdi, 5 kişi hayatını kaybetti! | Video - Sabah",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxONlRvdlRCT3NoYnIxcVFHb2Z5ZXNHUThEQ0FjTDZ5dElxcFFZUEpFOUJXNUpJeDdmTWpPVWFkODVwVGsyWS1mQWJTS09xRHB6SUd4d1YxenROWDNjZS1BS0ppMmhxTHV1SjJxNEx2QzJlaERYeWRBRWFzODBCS0U4T1c2T0otRHp0b3pMZlZEMkV4UlJ1N0x6Q0FrSGJuVElqYjc1NU1nMG84U2IxYVplU01jM1Qtbk9TXy1nM0ZNZXQ1SS1RVlo2aQ?oc=5",
+          "published": "2026-04-01T10:00:00+03:00"
         }
       ],
+      "last_updated": "2026-04-01T10:00:00+03:00",
       "district": "Ankara Geneli",
       "neighborhood": "Ankara Geneli",
       "lat": 39.9334,
@@ -23187,9 +23193,9 @@
       "location": "Elmadağ / Ankara",
       "published": "2026-03-23T10:00:00+03:00",
       "confidence": 75,
-      "sources": 2,
+      "sources": 1,
       "status": "Muhtemel",
-      "summary": "2 farklı açık kaynakta bulunan aynı olay tek kayıtta birleştirildi.",
+      "summary": "Yeni Ankara üzerinden bulunan herkese açık kayıt.",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNZmR4NkFUX25PWFU4SHJ6Szh4R0hWOW9WMmVCdWpiWlV5Y0N1TUpIbHZIek53aXppMGtBbzFSbm5tTTIzRF9qdHg0ckV0YzJMbnl0MHJYLUxXRWtrZ3ZmcTh5d2pSd2gzTFBKU1RPb0dQbHBOeUk1Xy1LOWtDelowRFZpZUlJbnVXTXlZaHpTNGZGd0cy0gGaAUFVX3lxTE5tbUNpaGZMaTd4YTdPbm9zR2ktRHh4RGVnWmtKdlNFaGNkNnlYRlM2WkhMU3BXaU5YNVdzTHludEpmZ0hGWlpBNnRMVEI0S1FTWUNoVzh0MVRzT3pJMkJmV0Vwb01RVXBmVzV3S0dTTFc5WVFPY0ZwZzZ3WGpJb2t4WjRJc0psMnB4N00ydDdPM0RvdHF0VFNNOHc?oc=5",
       "platform": "Haber",
       "source_links": [
@@ -23198,12 +23204,6 @@
           "title": "Ankara Elmadağ'da mahalle bekçisi canına kıydı! 24 saatte ikinci intihar vakası - Yeni Ankara",
           "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNZmR4NkFUX25PWFU4SHJ6Szh4R0hWOW9WMmVCdWpiWlV5Y0N1TUpIbHZIek53aXppMGtBbzFSbm5tTTIzRF9qdHg0ckV0YzJMbnl0MHJYLUxXRWtrZ3ZmcTh5d2pSd2gzTFBKU1RPb0dQbHBOeUk1Xy1LOWtDelowRFZpZUlJbnVXTXlZaHpTNGZGd0cy0gGaAUFVX3lxTE5tbUNpaGZMaTd4YTdPbm9zR2ktRHh4RGVnWmtKdlNFaGNkNnlYRlM2WkhMU3BXaU5YNVdzTHludEpmZ0hGWlpBNnRMVEI0S1FTWUNoVzh0MVRzT3pJMkJmV0Vwb01RVXBmVzV3S0dTTFc5WVFPY0ZwZzZ3WGpJb2t4WjRJc0psMnB4N00ydDdPM0RvdHF0VFNNOHc?oc=5",
           "published": "2026-03-23T10:00:00+03:00"
-        },
-        {
-          "platform": "Haber",
-          "title": "Ankara Elmadağ'da mahalle bekçisi canına kıydı! 24 saatte ikinci intihar vakası - Yeni Ankara",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNZmR4NkFUX25PWFU4SHJ6Szh4R0hWOW9WMmVCdWpiWlV5Y0N1TUpIbHZIek53aXppMGtBbzFSbm5tTTIzRF9qdHg0ckV0YzJMbnl0MHJYLUxXRWtrZ3ZmcTh5d2pSd2gzTFBKU1RPb0dQbHBOeUk1Xy1LOWtDelowRFZpZUlJbnVXTXlZaHpTNGZGd0cy?oc=5",
-          "published": "2026-03-23T10:00:00+03:00"
         }
       ],
       "district": "Elmadağ",
@@ -23211,8 +23211,7 @@
       "lat": 39.92,
       "lon": 33.23,
       "location_precision": "ilçe",
-      "id": 708,
-      "last_updated": "2026-03-23T10:00:00+03:00"
+      "id": 708
     },
     {
       "category": "Uyuşturucu",
@@ -23883,19 +23882,19 @@
         "Trafik Kazası"
       ],
       "icon": "🚗",
-      "title": "Ankara Elmadağ’da Kaza Tıra Çarpan Tanker Sürücüsü Hayatını Kaybetti - NNC Haber",
+      "title": "Ankara Elmadağ’da Kaza Tıra Çarpan Tanker Sürücüsü Hayatını Kaybetti - nnchaber.com",
       "location": "Ankara Geneli",
       "published": "2026-03-07T11:00:00+03:00",
       "confidence": 75,
       "sources": 1,
       "status": "Muhtemel",
-      "summary": "NNC Haber üzerinden bulunan herkese açık kayıt.",
+      "summary": "nnchaber.com üzerinden bulunan herkese açık kayıt.",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQOUl2V05rTG1MVzg3cGNjU3d5djdUMFBtZ3J1WlRKUHprT2dEQk5lZjh1cDYyTVFkZFhWTjZqVGFaQjlrNVppZ1pHNFl4aUJzYk1uWlVhRUtRMERUaElWb1pRd0FLbFRLUENSeU4wbUhFaWtqRnhrdUd6cXYtei1sZW9JT0ZJYTJncHVLcmNpcmNoVEVaYzZoc9IBngFBVV95cUxQQkpsZE9mUXVjWFNlOFVEelliZHp2Ulc1UGktSHB5clRSQkgybEM2Wm9UY2hGRXpXZ1FXVXpyOTg5bjNxRUw1TUJVLWU3SmlTRGFxaGQzM2VBU2pOejg4ekUxa3ZtczMwWGJxUWZyNDZqLWlMVkRqTzBVcTUxZURudHpGajlPQ2xmd1NJNnVOc1dkNXZhVEJrbEZ4VnJPQQ?oc=5",
       "platform": "Haber",
       "source_links": [
         {
           "platform": "Haber",
-          "title": "Ankara Elmadağ’da Kaza Tıra Çarpan Tanker Sürücüsü Hayatını Kaybetti - NNC Haber",
+          "title": "Ankara Elmadağ’da Kaza Tıra Çarpan Tanker Sürücüsü Hayatını Kaybetti - nnchaber.com",
           "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQOUl2V05rTG1MVzg3cGNjU3d5djdUMFBtZ3J1WlRKUHprT2dEQk5lZjh1cDYyTVFkZFhWTjZqVGFaQjlrNVppZ1pHNFl4aUJzYk1uWlVhRUtRMERUaElWb1pRd0FLbFRLUENSeU4wbUhFaWtqRnhrdUd6cXYtei1sZW9JT0ZJYTJncHVLcmNpcmNoVEVaYzZoc9IBngFBVV95cUxQQkpsZE9mUXVjWFNlOFVEelliZHp2Ulc1UGktSHB5clRSQkgybEM2Wm9UY2hGRXpXZ1FXVXpyOTg5bjNxRUw1TUJVLWU3SmlTRGFxaGQzM2VBU2pOejg4ekUxa3ZtczMwWGJxUWZyNDZqLWlMVkRqTzBVcTUxZURudHpGajlPQ2xmd1NJNnVOc1dkNXZhVEJrbEZ4VnJPQQ?oc=5",
           "published": "2026-03-07T11:00:00+03:00"
         }
@@ -24523,19 +24522,19 @@
         "Silahlı Olay"
       ],
       "icon": "🔫",
-      "title": "Ankara Haymana'da Silahlı Saldırgan Kahvehaneyi Bastı: Olay Anında Neler Yaşandı? | Yerel Haberler - gzt.com",
+      "title": "Ankara Haymana'da Silahlı Saldırgan Kahvehaneyi Bastı: Olay Anında Neler Yaşandı? | Yerel Haberler - GZT",
       "location": "Haymana / Ankara",
       "published": "2026-02-16T11:00:00+03:00",
       "confidence": 75,
       "sources": 1,
       "status": "Muhtemel",
-      "summary": "gzt.com üzerinden bulunan herkese açık kayıt.",
+      "summary": "GZT üzerinden bulunan herkese açık kayıt.",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQY1pLeUZ6blQ3dkFZc05jQmxfb2xEaElIT29NdTA2ZnhHRERPVC1TeGl4X19GMXFYZU9IaWk0RHNEV00wYWNLb0hSbE9OdUt4R0tOS0I1SURjbmZxTjlJY1ZndVhuVHZWRkJNUkk2blJwRmZBVlFlUkpmREZhT2Nja1RIV2lWRXlGa3Y2Tldpa0ZtcTdkWk5tLUhsMjIxakV1TU51ZEFMZkdHZWNfX3pjOTl5NA?oc=5",
       "platform": "Haber",
       "source_links": [
         {
           "platform": "Haber",
-          "title": "Ankara Haymana'da Silahlı Saldırgan Kahvehaneyi Bastı: Olay Anında Neler Yaşandı? | Yerel Haberler - gzt.com",
+          "title": "Ankara Haymana'da Silahlı Saldırgan Kahvehaneyi Bastı: Olay Anında Neler Yaşandı? | Yerel Haberler - GZT",
           "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQY1pLeUZ6blQ3dkFZc05jQmxfb2xEaElIT29NdTA2ZnhHRERPVC1TeGl4X19GMXFYZU9IaWk0RHNEV00wYWNLb0hSbE9OdUt4R0tOS0I1SURjbmZxTjlJY1ZndVhuVHZWRkJNUkk2blJwRmZBVlFlUkpmREZhT2Nja1RIV2lWRXlGa3Y2Tldpa0ZtcTdkWk5tLUhsMjIxakV1TU51ZEFMZkdHZWNfX3pjOTl5NA?oc=5",
           "published": "2026-02-16T11:00:00+03:00"
         }
@@ -24865,7 +24864,7 @@
         },
         {
           "platform": "Haber",
-          "title": "Ankara'da seri cinayet! Annesini, kızını ve eski eşini öldürüp intihar etti - nefes.com.tr",
+          "title": "Ankara'da seri cinayet! Annesini, kızını ve eski eşini öldürüp intihar etti - Nefes Gazetesi",
           "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5oODhyZjdoT3ZnNi1EZ3ZCX1RaU1JFcExrenNvdGRPX3BHb3g1TU44V19WRUFacWJXejBJVjN4bHk2eXBiRE1hUVV1NDJIVms1ZkgwQi1uQjhqcmpfdWg2MlZtVW9Fblg0VkE?oc=5",
           "published": "2026-02-09T11:00:00+03:00"
         },
@@ -24980,19 +24979,19 @@
         "İntihar"
       ],
       "icon": "🟣",
-      "title": "Ankara'da dehşete düşüren olay. Annesi, kızı ve eşini öldürüp intihar etti! - NTV Haber",
+      "title": "Ankara'da dehşete düşüren olay. Annesi, kızı ve eşini öldürüp intihar etti! - ntv.com.tr",
       "location": "Ankara Geneli",
       "published": "2026-02-09T11:00:00+03:00",
       "confidence": 75,
       "sources": 1,
       "status": "Muhtemel",
-      "summary": "NTV Haber üzerinden bulunan herkese açık kayıt.",
+      "summary": "ntv.com.tr üzerinden bulunan herkese açık kayıt.",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNXzJFejA1NGNVS1BFbHN5ZDdUT3lNSmtDMGk3UFFqMVFSYVdIdjZXN3UyUHlyeTg5RUxsTVp4UlpmbmVZajJrMFg5SEdkMmZlWGRVYjVYcjIwZ25zVnMyYTdqU0c1LVpGemk1dkE5YXJxLXhBMnctYzRSQ3dZOU5wOWVER3pRenVBMVVfZ3FmM240bWRyYnRVdDZpWmFrVXpVSHM5NWpfQ2I3cHdadllNY9IBtgFBVV95cUxNMnROdmtGRzBJLVQyV1ZVUGU2eGY3c3I2bEJuc2JoRDdUNU9JeE9PczVrZ2EySTZlUVdCMVd2Z2hzS0J0MUJiYU9TSzU1V05tWFVGX2FWTTM1UlFjSHhha1pjaGhlYXB2Q3RDOElxUU1QSnlqME0zYklLSHdmUjRlUE1zeldNdGIxb2VTN1pEMVh4U0hzQkg2MTlSclpDN0FQYnVCbFoyenE0b1p2TnhyRHRSWS1kZw?oc=5",
       "platform": "Haber",
       "source_links": [
         {
           "platform": "Haber",
-          "title": "Ankara'da dehşete düşüren olay. Annesi, kızı ve eşini öldürüp intihar etti! - NTV Haber",
+          "title": "Ankara'da dehşete düşüren olay. Annesi, kızı ve eşini öldürüp intihar etti! - ntv.com.tr",
           "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNXzJFejA1NGNVS1BFbHN5ZDdUT3lNSmtDMGk3UFFqMVFSYVdIdjZXN3UyUHlyeTg5RUxsTVp4UlpmbmVZajJrMFg5SEdkMmZlWGRVYjVYcjIwZ25zVnMyYTdqU0c1LVpGemk1dkE5YXJxLXhBMnctYzRSQ3dZOU5wOWVER3pRenVBMVVfZ3FmM240bWRyYnRVdDZpWmFrVXpVSHM5NWpfQ2I3cHdadllNY9IBtgFBVV95cUxNMnROdmtGRzBJLVQyV1ZVUGU2eGY3c3I2bEJuc2JoRDdUNU9JeE9PczVrZ2EySTZlUVdCMVd2Z2hzS0J0MUJiYU9TSzU1V05tWFVGX2FWTTM1UlFjSHhha1pjaGhlYXB2Q3RDOElxUU1QSnlqME0zYklLSHdmUjRlUE1zeldNdGIxb2VTN1pEMVh4U0hzQkg2MTlSclpDN0FQYnVCbFoyenE0b1p2TnhyRHRSWS1kZw?oc=5",
           "published": "2026-02-09T11:00:00+03:00"
         }
@@ -26559,7 +26558,7 @@
         "Trafik Kazası"
       ],
       "icon": "🚗",
-      "title": "Yenimahalle Yakacık'ta feci kaza: İki otomobil çarpıştı. Durum ağır! - ankaramasasi.com.tr",
+      "title": "Yenimahalle Yakacık'ta feci kaza: İki otomobil çarpıştı. Durum ağır! - Ankara Masası",
       "location": "Yenimahalle / Ankara",
       "published": "2025-12-15T11:00:00+03:00",
       "confidence": 75,
@@ -26571,7 +26570,7 @@
       "source_links": [
         {
           "platform": "Haber",
-          "title": "Yenimahalle Yakacık'ta feci kaza: İki otomobil çarpıştı. Durum ağır! - ankaramasasi.com.tr",
+          "title": "Yenimahalle Yakacık'ta feci kaza: İki otomobil çarpıştı. Durum ağır! - Ankara Masası",
           "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPbF9kSDgwMTJONXcteDBxTDBkekZRX0dvaHpIYnBoY1VTZFF1Q09VRVRIRVJaQnB5MnpmSFh3eWdPcHFQcWNIdTJvaHF5YTVOQ1lpNkdfVDdUVmFOeWc4d20zVmxYU094NXNjVDNnWFc3bGdURFlBd0xHTm5BQ05zLTVQOUFOUzBuVDRiSVRuV1gtWlBHQkl3cl92MnJoZ1lWZkE5eGpCdjNoRm1QbWtVeA?oc=5",
           "published": "2025-12-15T11:00:00+03:00"
         },
@@ -27466,19 +27465,19 @@
         "Kavga"
       ],
       "icon": "🔫",
-      "title": "Ankara Çankaya'da Silahlı Saldırı: Eğlence Mekanı Önünde Dehşet Dolu Anlar - ERTV Malatya",
+      "title": "Ankara Çankaya'da Silahlı Saldırı: Eğlence Mekanı Önünde Dehşet Dolu Anlar - ertv.com.tr",
       "location": "Çankaya / Ankara",
       "published": "2025-11-09T11:00:00+03:00",
       "confidence": 75,
       "sources": 1,
       "status": "Muhtemel",
-      "summary": "ERTV Malatya üzerinden bulunan herkese açık kayıt.",
+      "summary": "ertv.com.tr üzerinden bulunan herkese açık kayıt.",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQTkZ3OXZxbGVEWjlNelhwSHlzbkd5ZnYxbEVuSVFURXViX053ZlJGZ2RsdHpzVHhwMWptNW1razNSWDUzSktlMXFKRmJXd2FBal9OZHdEZlJ1WlMzZjI3a0NZMnFFQ2J6M3BqeFdSaUJCS0NGMTJ6UTd2X1hTUU1mSkhpMTdRZGJjT3NhR19SU3M0SllNY2FVSjBFODMzckpTWDlUREFKWdIBrAFBVV95cUxNYmRuLWJLMUZxdV9PNDN0eWV4OG1GcmdxS0oxcFVsYXFKM2EyQmtKcjEtN3AzUnloNmw1X0dfQTlUOU1mYklIOEZhRnN2RmF4SkU4bW5fSjhIcnlkMm1vc0w1c1B0dDJDekRzQjcwUW5NZWZpRFQtZ1NwYm5ZaFhuUDN2RE9pOWdXM0hHTXJxeEw0bmtvZTI1SGlJQTdYRTRZWEJvLUhYdzRXTjZr?oc=5",
       "platform": "Haber",
       "source_links": [
         {
           "platform": "Haber",
-          "title": "Ankara Çankaya'da Silahlı Saldırı: Eğlence Mekanı Önünde Dehşet Dolu Anlar - ERTV Malatya",
+          "title": "Ankara Çankaya'da Silahlı Saldırı: Eğlence Mekanı Önünde Dehşet Dolu Anlar - ertv.com.tr",
           "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQTkZ3OXZxbGVEWjlNelhwSHlzbkd5ZnYxbEVuSVFURXViX053ZlJGZ2RsdHpzVHhwMWptNW1razNSWDUzSktlMXFKRmJXd2FBal9OZHdEZlJ1WlMzZjI3a0NZMnFFQ2J6M3BqeFdSaUJCS0NGMTJ6UTd2X1hTUU1mSkhpMTdRZGJjT3NhR19SU3M0SllNY2FVSjBFODMzckpTWDlUREFKWdIBrAFBVV95cUxNYmRuLWJLMUZxdV9PNDN0eWV4OG1GcmdxS0oxcFVsYXFKM2EyQmtKcjEtN3AzUnloNmw1X0dfQTlUOU1mYklIOEZhRnN2RmF4SkU4bW5fSjhIcnlkMm1vc0w1c1B0dDJDekRzQjcwUW5NZWZpRFQtZ1NwYm5ZaFhuUDN2RE9pOWdXM0hHTXJxeEw0bmtvZTI1SGlJQTdYRTRZWEJvLUhYdzRXTjZr?oc=5",
           "published": "2025-11-09T11:00:00+03:00"
         }
@@ -27772,7 +27771,7 @@
         "Silahlı Olay"
       ],
       "icon": "⚫",
-      "title": "Ankara'da berber dükkanında cinayet! Kurşunlanarak öldürüldü - ankaramasasi.com.tr",
+      "title": "Ankara'da berber dükkanında cinayet! Kurşunlanarak öldürüldü - Ankara Masası",
       "location": "Ankara Geneli",
       "published": "2025-10-31T10:00:00+03:00",
       "confidence": 75,
@@ -27790,7 +27789,7 @@
         },
         {
           "platform": "Haber",
-          "title": "Ankara'da berber dükkanında cinayet! Kurşunlanarak öldürüldü - ankaramasasi.com.tr",
+          "title": "Ankara'da berber dükkanında cinayet! Kurşunlanarak öldürüldü - Ankara Masası",
           "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRlVlRzFUTGtRTFY4VTUyUHNfY1lLVWZKejRJbHBkUVhxR0R6OFBLZHNBNm5odlFiWEZZdkp6bXMtdmRGbWNDLWxQYnYyLWNLTVZyR2tBUmN4T0VNNjF4bVRZdEhIT2M2RVNXaG40VFlpYnJCcWdwZlBmX0lRNFNVMGNFMGV3TmY1ckVEczlSRDZxamhld1cyRWhIaWo1UEoxQng1aTUwUVk?oc=5",
           "published": "2025-10-31T10:00:00+03:00"
         }
@@ -29187,81 +29186,6 @@
       "location_precision": "il",
       "id": 899,
       "last_updated": "2025-09-09T10:00:00+03:00"
-    },
-    {
-      "category": "Silahlı Olay",
-      "categories": [
-        "Silahlı Olay",
-        "Kavga"
-      ],
-      "icon": "🔫",
-      "title": "Ankara'da silahlı saldırıya uğrayan kişi ağır yaralandı - Son Dakika Haber - hurriyet.com.tr",
-      "location": "Ankara Geneli",
-      "published": "2025-09-08T10:00:00+03:00",
-      "confidence": 75,
-      "sources": 2,
-      "status": "Muhtemel",
-      "summary": "2 farklı açık kaynakta bulunan aynı olay tek kayıtta birleştirildi.",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPRjdyRUZfcHd0dzd4bVM2bDdQS3hZZEdLdmxlOU94cWZyTmJya2tYc2NKNjAwb19hRV8tRkltWEo5LVpxMTJ2UFM1ZEVRMzh4M3RpVWRybzBDSHJZaFNxdEFOeXJkczdtMzFGRnNJUTBUQ0xDV1FVY0ljVktRMWdKMGxrX3dhMGw1dXpjUUxOUVJqVWE0YXJxbG1zeUxFSmfSAaQBQVVfeXFMTWVZQjZaZW96VDZIOTNUWHhSRjVLMjBJa3FPRXljNHN2VV8zZFpLbmRYa2oyem8tWHNyaTJoZ1hvbVVtZWJxRWk2M1l6cE82TlV5WWtHVlRtZUpjVE4zT2NXRkZOSVRKQ0RUVDd5SHBnZkc5TlQ5MUFYSXp0WUlwcFRyaW5UZjA1QUUxdDY3a0RxbzluLWFWb21WVS1QTWppemJkS2s?oc=5",
-      "platform": "Haber",
-      "source_links": [
-        {
-          "platform": "Haber",
-          "title": "Ankara Mamak'ta silahlı saldırı: Bir kişi ağır yaralandı - Yeni Ankara",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPRjdyRUZfcHd0dzd4bVM2bDdQS3hZZEdLdmxlOU94cWZyTmJya2tYc2NKNjAwb19hRV8tRkltWEo5LVpxMTJ2UFM1ZEVRMzh4M3RpVWRybzBDSHJZaFNxdEFOeXJkczdtMzFGRnNJUTBUQ0xDV1FVY0ljVktRMWdKMGxrX3dhMGw1dXpjUUxOUVJqVWE0YXJxbG1zeUxFSmfSAaQBQVVfeXFMTWVZQjZaZW96VDZIOTNUWHhSRjVLMjBJa3FPRXljNHN2VV8zZFpLbmRYa2oyem8tWHNyaTJoZ1hvbVVtZWJxRWk2M1l6cE82TlV5WWtHVlRtZUpjVE4zT2NXRkZOSVRKQ0RUVDd5SHBnZkc5TlQ5MUFYSXp0WUlwcFRyaW5UZjA1QUUxdDY3a0RxbzluLWFWb21WVS1QTWppemJkS2s?oc=5",
-          "published": "2025-09-08T10:00:00+03:00"
-        },
-        {
-          "platform": "Haber",
-          "title": "Ankara'da silahlı saldırıya uğrayan kişi ağır yaralandı - Son Dakika Haber - hurriyet.com.tr",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQRGtzZmdkRkJKWkdPTUhNZ1BlaFFUbEJqNjF5dzE1Z1hLYjBkTU03S2ptS2U4YXRzU2doMzlSUUlIOThibVI4UGhWc3pUTTRNZGphV2pkSmExVEE3U21kMm1XZ3c4dmtVQ0k1d2xIclI1aldBcWlWSi1SVklIeS1CbDJfV0wxUlB2NjZKcF9DOEt4OXdHRklxekxHZ1JnbU0?oc=5",
-          "published": "2025-09-08T10:00:00+03:00"
-        }
-      ],
-      "last_updated": "2025-09-08T10:00:00+03:00",
-      "district": "Ankara Geneli",
-      "neighborhood": "Ankara Geneli",
-      "lat": 39.9334,
-      "lon": 32.8597,
-      "location_precision": "il",
-      "id": 900
-    },
-    {
-      "category": "Trafik Kazası",
-      "categories": [
-        "Trafik Kazası"
-      ],
-      "icon": "🚗",
-      "title": "Keçiören Bağlum girişindeki virajda büyük kaza - x.com",
-      "location": "Keçiören / Ankara",
-      "published": "2025-09-08T10:00:00+03:00",
-      "confidence": 60,
-      "sources": 2,
-      "status": "Sosyal medya / doğrulanmamış",
-      "summary": "2 farklı açık kaynakta bulunan aynı olay tek kayıtta birleştirildi.",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE44TlJBdDktdGo3NXBON1lzZUpXaHowem1ncW9pR29uMUU5cXA1YTBuRmxtNDVJTldibkRqTzJ0MFctdkhaUTdOQ2VJTmtVYmF1czA0dUV6ZDZoYzRvUk1waU9oc01UUzlBdFllTnQ1b0E?oc=5",
-      "platform": "X",
-      "source_links": [
-        {
-          "platform": "X",
-          "title": "Keçiören Bağlum girişindeki virajda büyük kaza - x.com",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE44TlJBdDktdGo3NXBON1lzZUpXaHowem1ncW9pR29uMUU5cXA1YTBuRmxtNDVJTldibkRqTzJ0MFctdkhaUTdOQ2VJTmtVYmF1czA0dUV6ZDZoYzRvUk1waU9oc01UUzlBdFllTnQ1b0E?oc=5",
-          "published": "2025-09-08T10:00:00+03:00"
-        },
-        {
-          "platform": "X",
-          "title": "Keçiören Bağlum girişindeki virajda büyük kaza - x.com",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5qcDJHSzRvbUNnbGVxZjVJazEwcjNiOEprOHhMN0hjSlBiN01FSjU1TmQ1MWlzaVhaejNMTk1FS181ZldpdEozUkZURE84T3ozb1RYU2twWm8tR05JaUZIc1AzckdqZw?oc=5",
-          "published": "2025-09-08T10:00:00+03:00"
-        }
-      ],
-      "district": "Keçiören",
-      "neighborhood": "Keçiören Geneli",
-      "lat": 40.0,
-      "lon": 32.866,
-      "location_precision": "ilçe",
-      "id": 901,
-      "last_updated": "2025-09-08T10:00:00+03:00"
     }
   ],
   "google_alerts_active": true,
@@ -29270,7 +29194,7 @@
   "google_alert_query_count": 9,
   "platform_counts": {
     "X": 171,
-    "Haber": 880,
+    "Haber": 876,
     "YouTube": 15,
     "Facebook": 72,
     "TikTok": 45,
@@ -29296,12 +29220,11 @@
       "TikTok": 2
     },
     "new_results_this_scan": {
-      "Haber": 381,
-      "X": 80,
-      "Facebook": 35,
-      "Instagram": 3,
-      "YouTube": 10,
-      "TikTok": 4
+      "Haber": 380,
+      "X": 76,
+      "Facebook": 34,
+      "YouTube": 9,
+      "TikTok": 3
     },
     "meta_instagram": {
       "configured": false,
