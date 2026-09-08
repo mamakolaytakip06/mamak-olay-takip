@@ -101,12 +101,21 @@ def place_in_text(text,name):
  folded=ascii_text(text);needle=ascii_text(name).strip()
  return bool(re.search(r"(?<![a-z0-9])"+re.escape(needle)+r"(?![a-z0-9])",folded))
 
+def neighborhood_context_match(text,variant):
+ folded=ascii_text(text);name=ascii_text(variant).strip()
+ if not name:return False
+ escaped=re.escape(name)
+ # Kişi/kurum adlarını mahalle sanmamak için konum bildiren bir ek veya sözcük zorunludur.
+ after=r"(?:mah(?:allesi(?:nde|ndeki|nden)?|alle(?:si)?|\s)|semt(?:i|inde)?|bolge(?:si|sinde)?|cadde(?:si)?|sokak(?:i)?|mevki(?:i|sinde)?|da|de|ta|te|nda|nde)"
+ before=r"(?:mahalle(?:si)?|semt|bolge)\s+"
+ return bool(re.search(r"(?<![a-z0-9])"+escaped+r"\s+"+after+r"(?![a-z0-9])",folded) or re.search(r"(?<![a-z0-9])"+before+escaped+r"(?![a-z0-9])",folded))
+
 def detect_neighborhood(text):
  candidates=[]
  for canonical,variants in MAMAK_NEIGHBORHOOD_VARIANTS.items():
   for variant in variants:candidates.append((variant,canonical))
  for variant,canonical in sorted(candidates,key=lambda x:len(x[0]),reverse=True):
-  if place_in_text(text,variant):return canonical
+  if neighborhood_context_match(text,variant):return canonical
  return None
 
 def detect_district(text):
