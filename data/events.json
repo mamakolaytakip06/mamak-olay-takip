@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-08T05:12:29.100064+03:00",
+  "updated_at": "2026-09-08T05:27:39.577266+03:00",
   "events": [
     {
       "category": "Asayiş",
@@ -5925,9 +5925,9 @@
       "location": "Ankara Geneli",
       "published": "2026-08-21T10:00:00+03:00",
       "confidence": 60,
-      "sources": 1,
+      "sources": 2,
       "status": "Sosyal medya / doğrulanmamış",
-      "summary": "x.com üzerinden bulunan herkese açık kayıt.",
+      "summary": "2 farklı açık kaynakta bulunan aynı olay tek kayıtta birleştirildi.",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFA5cDh0a1lIVEZmRXFaS0lqVnFxRTVSN1RoTV9ZMU1GdmwxTWlDYVNjUlJlVVpfOGNvRmp6QmQ0ZGVjaTA1YnAzTFQ1ZDNBS2o0REZVNFQ2cEViQVlUV21HODBB?oc=5",
       "platform": "X",
       "source_links": [
@@ -5936,8 +5936,15 @@
           "title": "SON DAKİKA | Ankara'da bir maden ocağında göçük meydana geldi. ▪️Bir işçi hayatını kaybetti, çok sayıda yaralı var. - x.com",
           "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFA5cDh0a1lIVEZmRXFaS0lqVnFxRTVSN1RoTV9ZMU1GdmwxTWlDYVNjUlJlVVpfOGNvRmp6QmQ0ZGVjaTA1YnAzTFQ1ZDNBS2o0REZVNFQ2cEViQVlUV21HODBB?oc=5",
           "published": "2026-08-21T10:00:00+03:00"
+        },
+        {
+          "platform": "X",
+          "title": "SON DAKİKA | Ankara'da bir maden ocağında göçük meydana geldi. ▪️Bir işçi hayatını kaybetti, çok sayıda yaralı var. - x.com",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1Mell4cjRVMDlsWkRFdVV1VFhMSGpKUjlsalVDU0RpeGx6UzJITndLVGx5Rzd0N0lUTDRJbUltMnFwdlJCT3R1RlE4UE5EcmpMRXNod2VYdFg2Sy1ZdEl2dGE5VmVVVkpHTFYwYQ?oc=5",
+          "published": "2026-08-21T10:00:00+03:00"
         }
       ],
+      "last_updated": "2026-08-21T10:00:00+03:00",
       "district": "Ankara Geneli",
       "neighborhood": "Ankara Geneli",
       "lat": 39.9334,
@@ -21930,7 +21937,7 @@
         "İntihar"
       ],
       "icon": "🟣",
-      "title": "Ankara'da feci olay. Tartıştığı sevgilisini öldürüp intihar etti - NTV Haber",
+      "title": "Ankara'da korkunç olay: Kız arkadaşını öldürüp, intihar etti - haberglobal.com",
       "location": "Ankara Geneli",
       "published": "2026-04-08T10:00:00+03:00",
       "confidence": 75,
@@ -21948,7 +21955,7 @@
         },
         {
           "platform": "Haber",
-          "title": "Ankara'da korkunç olay: Kız arkadaşını öldürüp, intihar etti - Haber Global",
+          "title": "Ankara'da korkunç olay: Kız arkadaşını öldürüp, intihar etti - haberglobal.com",
           "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQVERlWG03TW1GaTBfRXNDbHhMNzJCdnVTNExCU2I2WHEyOGlPRzIxaWVtZ1lEN1JrZkJxM0dlQUZwVnFfdllJOVltXzhVSFFrd21heTJGV2RDanhtLW1BQTMycHNxRjhBQTJJckRsZUJFZ2ZqR2x5NXFNTmw5aGg3djFGTVYxT09WRmlvYTZjVHRYdG5WNEl1VXhRRdIBoAFBVV95cUxQT1JIX2lSUE1RUEJHNE1zelV1ZjFublBCay1XZV9QaTR6d0JkNzlZNEhuOTA4UWFzaXZUeEdhNms0SXl1OWNxWTVmVzJtamR6RzV6Q3FsQkkxNkl3blJ2aHJ5UHJTSklWdmhpdzc0MnYyeU9tQzBkbzRqdVJrR1hZdmpGcXlXVDRKUnJMUE5NVENTem1OV0ZhSTZlT3RaSDha?oc=5",
           "published": "2026-04-08T10:00:00+03:00"
         }
@@ -29218,7 +29225,7 @@
   "google_alert_invalid_count": 0,
   "google_alert_query_count": 9,
   "platform_counts": {
-    "X": 172,
+    "X": 173,
     "Haber": 881,
     "YouTube": 15,
     "Facebook": 71,
@@ -29245,10 +29252,10 @@
       "TikTok": 2
     },
     "new_results_this_scan": {
-      "Haber": 381,
-      "X": 77,
+      "Haber": 380,
+      "X": 78,
       "Facebook": 32,
-      "YouTube": 9,
+      "YouTube": 8,
       "TikTok": 4
     },
     "meta_instagram": {
