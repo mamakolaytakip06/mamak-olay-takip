@@ -13,22 +13,9 @@ NEWS=[
 "Şereflikoçhisar OR Yenimahalle Ankara olay"
 ]
 IG_ACCOUNTS=["ankaradatrafik","ankara.sondakika","ankaradantrafik","ankaradansondakika","mamak.haber","mamak.sondakika"]
-IG_DISTRICT_TERMS="(Mamak OR Altındağ OR Çankaya OR Şirintepe OR Tuzluçayır OR Akdere OR Fahri Korutürk OR Fahrikorutürk OR Keçiören)"
 IG_EVENT_TERMS="(yangın OR kaza OR cinayet OR kavga OR polis OR asayiş OR silahlı OR taciz OR hırsızlık OR uyuşturucu OR ambulans OR son dakika)"
-SOCIAL=[
-("X","site:x.com Ankara (kaza OR yangın OR polis OR kavga OR cinayet OR son dakika)"),
-("X","site:x.com/ankara_cevirme Ankara"),("X","site:x.com/EmniyetAnkara Ankara"),
-("X","site:x.com/radyotrafik06 Ankara"),("X","site:x.com/ankaratrafikcev Ankara"),
-("Facebook","site:facebook.com Ankara son dakika olay"),
-("YouTube","site:youtube.com Ankara son dakika olay"),
-("TikTok","site:tiktok.com Ankara kaza yangın polis")
-]+[
-("Instagram","site:instagram.com/"+account+path+" "+IG_DISTRICT_TERMS+" "+IG_EVENT_TERMS)
-for account in IG_ACCOUNTS for path in ("","/p/","/reel/")
-]+[
-("Instagram","site:instagram.com/ankaradansondakika/reel/ \"Fahri Korutürk\""),
-("Instagram","site:instagram.com/ankaradansondakika \"Fahrikorutürk\" (yangın OR itfaiye OR kaza OR polis OR asayiş)")
-]
+# Mahalle temelli sosyal medya sorguları Ankara mahalle kataloğu yüklendikten sonra otomatik oluşturulur.
+SOCIAL=[]
 
 ALERT_QUERY_TEMPLATES=[
 "site:x.com Mamak (cinayet OR kavga OR kaza OR yangın OR polis)",
@@ -395,9 +382,59 @@ def deduplicate_events(events):
  for e in final:e.pop("_bucket",None)
  return final
 
+def chunks(values,size):
+ return [values[i:i+size] for i in range(0,len(values),size)]
+
+def build_social_queries(catalog,now):
+ # Her 5 dakikada bir Mamak'ın tamamı; diğer ilçeler dönüşümlü taranır.
+ # Böylece yaklaşık 1.500 mahalle tek çalışmada binlerce isteğe dönüşüp Actions'ı durdurmaz.
+ sites=[("X","site:x.com"),("Facebook","site:facebook.com"),("Instagram","site:instagram.com"),("YouTube","site:youtube.com"),("TikTok","site:tiktok.com")]
+ queries=[
+  ("X","site:x.com Ankara (kaza OR yangın OR polis OR kavga OR cinayet OR son dakika)"),
+  ("X","site:x.com/ankara_cevirme Ankara"),("X","site:x.com/EmniyetAnkara Ankara"),
+  ("X","site:x.com/radyotrafik06 Ankara"),("X","site:x.com/ankaratrafikcev Ankara"),
+  ("Facebook","site:facebook.com Ankara son dakika olay"),
+  ("YouTube","site:youtube.com Ankara son dakika olay"),
+  ("TikTok","site:tiktok.com Ankara kaza yangın polis")]
+ # İlçe adlarının tamamı her taramada sorgulanır.
+ districts=sorted(catalog,key=ascii_text)
+ for district_group in chunks(districts,5):
+  place_terms="("+" OR ".join('\"'+x+'\"' for x in district_group)+")"
+  for platform,site in sites:queries.append((platform,site+" Ankara "+place_terms+" "+IG_EVENT_TERMS))
+ # Mahalleleri ilçe bazında gruplandır; aynı adlı mahallelerin yanlış ilçeye bağlanmasını engelle.
+ mamak_groups=[];other_groups=[];focus_groups=[]
+ for district in districts:
+  names=sorted(set(catalog.get(district,[])),key=ascii_text)
+  district_groups=[(district,g) for g in chunks(names,10)]
+  if district=="Mamak":mamak_groups.extend(district_groups)
+  elif district in ("Altındağ","Çankaya"):focus_groups.extend(district_groups)
+  else:other_groups.extend(district_groups)
+ cycle=int(now.timestamp()//300)
+ def rotating_window(groups,count,offset=0):
+  if not groups:return []
+  start=(cycle*count+offset)%len(groups)
+  return [groups[(start+i)%len(groups)] for i in range(min(count,len(groups)))]
+ selected=mamak_groups+rotating_window(focus_groups,4)+rotating_window(other_groups,10,3)
+ for district,names in selected:
+  place_terms="("+" OR ".join('\"'+x+'\"' for x in names)+")"
+  for platform,site in sites:
+   queries.append((platform,site+" Ankara \""+district+"\" "+place_terms+" "+IG_EVENT_TERMS))
+ # İzlenen Instagram hesaplarını hesap adıyla da sorgula; mahalle sorguları yukarıdaki genel Instagram taramasındadır.
+ for account in IG_ACCOUNTS:
+  for path in ("","/p/","/reel/"):
+   queries.append(("Instagram","site:instagram.com/"+account+path+" Ankara "+IG_EVENT_TERMS))
+ unique=[];seen=set()
+ for item in queries:
+  if item[1] not in seen:seen.add(item[1]);unique.append(item)
+ total=sum(len(v) for v in catalog.values())
+ covered=sum(len(names) for _,names in selected)
+ coverage={"catalog_neighborhoods":total,"neighborhoods_this_scan":covered,"mamak_every_scan":True,"rotating_other_districts":True,"rotation_cycle":cycle}
+ return unique,coverage
+
 tz=timezone(timedelta(hours=3));now=datetime.now(tz);new=[]
 ANKARA_NEIGHBORHOOD_CATALOG,CATALOG_STATUS=load_ankara_neighborhood_catalog(now)
 UNIQUE_NEIGHBORHOOD_INDEX=rebuild_unique_neighborhood_index()
+SOCIAL,SOCIAL_COVERAGE=build_social_queries(ANKARA_NEIGHBORHOOD_CATALOG,now)
 def collect_feed_job(url,platform,now,target=None,ingestion=None):
  found=[];add_feed(url,platform,now,found)
  if target:
@@ -448,5 +485,5 @@ for account in IG_ACCOUNTS:
  dates=sorted((e.get("published","") for e in account_items if e.get("published")),reverse=True)
  query_count=sum(2 for platform,q in SOCIAL if platform=="Instagram" and "instagram.com/"+account.lower() in q.lower())
  instagram_accounts[account]={"queries":query_count,"records":len({e.get("url") or e.get("title") for e in account_items}),"last_seen":dates[0] if dates else None,"indexed":bool(account_items)}
-scan_status={"social_queries":len(SOCIAL)*2+len(alert_urls),"bing_social_queries":len(SOCIAL),"google_news_social_queries":len(SOCIAL),"google_alert_feeds":len(alert_urls),"social_targets":social_targets,"social_attempts":social_attempts,"new_results_this_scan":new_platform_counts,"instagram_accounts":instagram_accounts,"neighborhood_catalog":CATALOG_STATUS}
+scan_status={"social_queries":len(SOCIAL)*2+len(alert_urls),"bing_social_queries":len(SOCIAL),"google_news_social_queries":len(SOCIAL),"google_alert_feeds":len(alert_urls),"social_targets":social_targets,"social_attempts":social_attempts,"new_results_this_scan":new_platform_counts,"instagram_accounts":instagram_accounts,"neighborhood_catalog":CATALOG_STATUS,"social_neighborhood_coverage":SOCIAL_COVERAGE}
 with open("data/events.json","w",encoding="utf-8") as f:json.dump({"updated_at":now.isoformat(),"events":items,"google_alerts_active":bool(alert_urls),"google_alert_feed_count":len(alert_urls),"google_alert_invalid_count":len(raw_alert_urls)-len(alert_urls),"google_alert_query_count":len(ALERT_QUERY_TEMPLATES),"platform_counts":platform_counts,"scan_status":scan_status,"sources":["Google Alerts RSS","Google News RSS","Bing RSS","X (indekslenen açık gönderiler)","Facebook (indekslenen açık sayfa/gruplar)","Instagram","YouTube","TikTok"]},f,ensure_ascii=False,indent=2)
