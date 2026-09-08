@@ -13,7 +13,7 @@ NEWS=[
 "Şereflikoçhisar OR Yenimahalle Ankara olay"
 ]
 IG_ACCOUNTS=["ankaradatrafik","ankara.sondakika","ankaradantrafik","ankaradansondakika"]
-IG_DISTRICT_TERMS="(Mamak OR Altındağ OR Çankaya OR Şirintepe OR Tuzluçayır OR Akdere OR Keçiören)"
+IG_DISTRICT_TERMS="(Mamak OR Altındağ OR Çankaya OR Şirintepe OR Tuzluçayır OR Akdere OR Fahri Korutürk OR Fahrikorutürk OR Keçiören)"
 IG_EVENT_TERMS="(yangın OR kaza OR cinayet OR kavga OR polis OR asayiş OR silahlı OR taciz OR hırsızlık OR uyuşturucu OR ambulans OR son dakika)"
 SOCIAL=[
 ("X","site:x.com Ankara (kaza OR yangın OR polis OR kavga OR cinayet OR son dakika)"),
@@ -25,6 +25,9 @@ SOCIAL=[
 ]+[
 ("Instagram","site:instagram.com/"+account+path+" "+IG_DISTRICT_TERMS+" "+IG_EVENT_TERMS)
 for account in IG_ACCOUNTS for path in ("","/p/","/reel/")
+]+[
+("Instagram","site:instagram.com/ankaradansondakika/reel/ \"Fahri Korutürk\""),
+("Instagram","site:instagram.com/ankaradansondakika \"Fahrikorutürk\" (yangın OR itfaiye OR kaza OR polis OR asayiş)")
 ]
 
 ALERT_QUERY_TEMPLATES=[
@@ -61,7 +64,8 @@ NEIGHBORHOODS={
 "Şafaktepe":(39.9297,32.9302),"Şahintepe":(39.9482,32.9830),"Türközü":(39.9009,32.9144),
 "Üreğil":(39.9370,32.9820),"Altıağaç":(39.9453,32.9285),"Ekin":(39.9467,32.9490),
 "Hüseyingazi":(39.9587,32.9440),"Gülveren":(39.9361,32.9161),"Misket":(39.9585,32.9683),
-"Natoyolu":(39.9087,32.9488),"Yeşilbayır":(39.9496,33.0065),"Şirintepe":(39.9148,32.9237)
+"Natoyolu":(39.9087,32.9488),"Yeşilbayır":(39.9496,33.0065),"Şirintepe":(39.9148,32.9237),
+"Fahri Korutürk":(39.9670,32.9580),"Fahrikorutürk":(39.9670,32.9580)
 }
 
 C=[("Cinayet","⚫",["cinayet","öldürüldü","öldürdü","ölü bulundu","ceset"]),("İntihar","🟣",["intihar","yaşamına son"]),("Terör","🚨",["terör","terörist","örgüt operasyon","bombalı"]),("Taciz","🟣",["taciz","cinsel saldırı","istismar"]),("Düğünde Silah","🔫",["düğünde silah","havaya ateş","maganda"]),("Silahlı Olay","🔫",["silahlı","silah","kurşun","ateş aç"]),("Kavga","🥊",["kavga","darp","saldırı"]),("Trafik Kazası","🚗",["trafik kazası","kaza","çarpış","araç devr"]),("Hırsızlık","🕵️",["hırsız","çaldı","gasp","soygun"]),("Dolandırıcılık","💳",["dolandır"]),("Uyuşturucu","🚔",["uyuşturucu","narkotik"]),("Kayıp Kişi","👤",["kayıp","aranıyor"]),("Yangın","🔥",["yangın","duman","alev","yanıyor","yanmakta","itfaiye"]),("Sağlık","🚑",["ambulans","yaralı","sağlık"]),("Yol","🚧",["yol kapalı","yol çalışma"]),("Altyapı","⚡",["elektrik","su kesinti","doğalgaz"]),("Asayiş","👮",["polis","emniyet","asayiş","gözaltı","tutuklandı","yakalandı","operasyon","şüpheli","suç"])]
