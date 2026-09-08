@@ -354,15 +354,21 @@ def deduplicate_events(events):
 
 tz=timezone(timedelta(hours=3));now=datetime.now(tz);new=[]
 ANKARA_NEIGHBORHOOD_CATALOG,CATALOG_STATUS=load_ankara_neighborhood_catalog(now)
-for q in NEWS:add_feed("https://news.google.com/rss/search?q="+urllib.parse.quote(q)+"&hl=tr&gl=TR&ceid=TR:tr","Haber",now,new)
+def collect_feed_job(url,platform,now,target=None,ingestion=None):
+ found=[];add_feed(url,platform,now,found)
+ if target:
+  for e in found:e["instagram_target"]=target;e["ingestion"]=ingestion
+ return found
+
+feed_jobs=[]
+for q in NEWS:feed_jobs.append(("https://news.google.com/rss/search?q="+urllib.parse.quote(q)+"&hl=tr&gl=TR&ceid=TR:tr","Haber",None,"Google News RSS"))
 for platform,q in SOCIAL:
  target=next((account for account in IG_ACCOUNTS if "instagram.com/"+account.lower() in q.lower()),None)
- before=len(new);add_feed("https://www.bing.com/search?format=rss&q="+urllib.parse.quote(q),platform,now,new)
- if target:
-  for e in new[before:]:e["instagram_target"]=target;e["ingestion"]="Bing RSS"
- before=len(new);add_feed("https://news.google.com/rss/search?q="+urllib.parse.quote(q)+"&hl=tr&gl=TR&ceid=TR:tr",platform,now,new)
- if target:
-  for e in new[before:]:e["instagram_target"]=target;e["ingestion"]="Google News RSS"
+ feed_jobs.append(("https://www.bing.com/search?format=rss&q="+urllib.parse.quote(q),platform,target,"Bing RSS"))
+ feed_jobs.append(("https://news.google.com/rss/search?q="+urllib.parse.quote(q)+"&hl=tr&gl=TR&ceid=TR:tr",platform,target,"Google News RSS"))
+with concurrent.futures.ThreadPoolExecutor(max_workers=12) as pool:
+ futures=[pool.submit(collect_feed_job,url,platform,now,target,ingestion) for url,platform,target,ingestion in feed_jobs]
+ for future in concurrent.futures.as_completed(futures):new.extend(future.result())
 # Google normal web aramasında doğrulanmış, RSS akışlarının kaçırdığı açık Instagram kaydı.
 # Paylaşım zamanı Instagram kısa kodundaki medya kimliğinden UTC olarak çözümlenmiştir.
 new.append({"category":"Yangın","categories":["Yangın","Asayiş"],"icon":"🔥","title":"Ankara'nın Mamak ilçesi Fahri Korutürk Mahallesi'nde bir apartmanda yangın","location":"Fahri Korutürk / Mamak / Ankara","published":"2026-09-06T12:08:32+03:00","confidence":65,"sources":1,"status":"Sosyal medya / doğrulanmamış","summary":"Google web indeksinde @ankaradansondakika hesabına ait herkese açık Instagram Reels kaydı.","url":"https://www.instagram.com/reel/Dc8LfFlJhuz/","platform":"Instagram","instagram_target":"ankaradansondakika","ingestion":"Google web indeksi"})
