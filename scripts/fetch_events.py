@@ -1,4 +1,4 @@
-import json,re,os,urllib.parse,urllib.request,xml.etree.ElementTree as ET,unicodedata,html,concurrent.futures
+import json,re,os,urllib.parse,urllib.request,xml.etree.ElementTree as ET,unicodedata,html,concurrent.futures,functools
 from difflib import SequenceMatcher
 from datetime import datetime,timezone,timedelta
 NEWS=[
@@ -102,6 +102,7 @@ ANKARA_DISTRICT_SLUGS={
 }
 ANKARA_NEIGHBORHOOD_CATALOG={"Mamak":list(MAMAK_NEIGHBORHOOD_VARIANTS)}
 CATALOG_STATUS={"active":False,"districts":1,"neighborhoods":len(MAMAK_NEIGHBORHOOD_VARIANTS),"source":"yerleşik Mamak listesi"}
+UNIQUE_NEIGHBORHOOD_INDEX={}
 
 
 C=[("Cinayet","⚫",["cinayet","öldürüldü","öldürdü","ölü bulundu","ceset"]),("İntihar","🟣",["intihar","yaşamına son"]),("Terör","🚨",["terör","terörist","örgüt operasyon","bombalı"]),("Taciz","🟣",["taciz","cinsel saldırı","istismar"]),("Düğünde Silah","🔫",["düğünde silah","havaya ateş","maganda"]),("Silahlı Olay","🔫",["silahlı","silah","kurşun","ateş aç"]),("Kavga","🥊",["kavga","darp","saldırı"]),("Trafik Kazası","🚗",["trafik kazası","kaza","çarpış","araç devr"]),("Hırsızlık","🕵️",["hırsız","çaldı","gasp","soygun"]),("Dolandırıcılık","💳",["dolandır"]),("Uyuşturucu","🚔",["uyuşturucu","narkotik"]),("Kayıp Kişi","👤",["kayıp","aranıyor"]),("Yangın","🔥",["yangın","duman","alev","yanıyor","yanmakta","itfaiye"]),("Sağlık","🚑",["ambulans","yaralı","sağlık"]),("Yol","🚧",["yol kapalı","yol çalışma"]),("Altyapı","⚡",["elektrik","su kesinti","doğalgaz"]),("Asayiş","👮",["polis","emniyet","asayiş","gözaltı","tutuklandı","yakalandı","operasyon","şüpheli","suç"])]
@@ -126,20 +127,31 @@ def neighborhood_candidates(district):
   return [(variant,canonical) for canonical,variants in MAMAK_NEIGHBORHOOD_VARIANTS.items() for variant in variants]
  return [(name,name) for name in ANKARA_NEIGHBORHOOD_CATALOG.get(district,[])]
 
+@functools.lru_cache(maxsize=6000)
 def detect_neighborhood(text,district):
  candidates=neighborhood_candidates(district)
  for variant,canonical in sorted(candidates,key=lambda x:len(x[0]),reverse=True):
   if neighborhood_context_match(text,variant):return canonical
  return None
 
-def detect_unique_neighborhood_district(text):
- hits=[]
+def rebuild_unique_neighborhood_index():
+ index={}
  for district in ANKARA_DISTRICT_SLUGS:
-  neighborhood=detect_neighborhood(text,district)
-  if neighborhood:hits.append((district,neighborhood))
- districts={x[0] for x in hits}
- return hits[0] if len(districts)==1 else None
+  for variant,canonical in neighborhood_candidates(district):
+   key=ascii_text(variant).strip()
+   if key:index.setdefault(key,[]).append((district,canonical))
+ return {key:values[0] for key,values in index.items() if len({x[0] for x in values})==1}
 
+def detect_unique_neighborhood_district(text):
+ folded=ascii_text(text)
+ for match in re.finditer(r"([a-z0-9 ]{2,90}?)\s+mah(?:allesi(?:nde|ndeki|nden)?|alle(?:si)?)\b",folded):
+  words=match.group(1).split()
+  for size in range(min(8,len(words)),0,-1):
+   found=UNIQUE_NEIGHBORHOOD_INDEX.get(" ".join(words[-size:]))
+   if found:return found
+ return None
+
+@functools.lru_cache(maxsize=6000)
 def detect_district(text):
  folded=ascii_text(text)
  for name in DISTRICT_CENTERS:
@@ -366,6 +378,7 @@ def deduplicate_events(events):
 
 tz=timezone(timedelta(hours=3));now=datetime.now(tz);new=[]
 ANKARA_NEIGHBORHOOD_CATALOG,CATALOG_STATUS=load_ankara_neighborhood_catalog(now)
+UNIQUE_NEIGHBORHOOD_INDEX=rebuild_unique_neighborhood_index()
 def collect_feed_job(url,platform,now,target=None,ingestion=None):
  found=[];add_feed(url,platform,now,found)
  if target:
