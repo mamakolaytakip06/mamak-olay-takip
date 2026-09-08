@@ -176,7 +176,7 @@ def parse_date(s,tz):
 def add_feed(url,platform,now,out):
  try:
   req=urllib.request.Request(url,headers={"User-Agent":"Mozilla/5.0"})
-  root=ET.fromstring(urllib.request.urlopen(req,timeout=25).read())
+  root=ET.fromstring(urllib.request.urlopen(req,timeout=12).read())
   for x in root.findall(".//item"):
    title=clean(x.findtext("title"));desc=clean(x.findtext("description"));link=x.findtext("link") or "";dt=parse_date(x.findtext("pubDate") or "",now.tzinfo)
    headline=title.rsplit(" - ",1)[0]
@@ -227,7 +227,7 @@ def fetch_abb_district_neighborhoods(district,slug):
   try:
    url="https://www.ankara.bel.tr/muhtarlar/"+slug+("?page="+str(page) if page>1 else "")
    req=urllib.request.Request(url,headers={"User-Agent":"Mozilla/5.0 AnkaraOlayTakip/3.3"})
-   raw=urllib.request.urlopen(req,timeout=12).read().decode("utf-8","ignore")
+   raw=urllib.request.urlopen(req,timeout=8).read().decode("utf-8","ignore")
    plain=re.sub(r"\s+"," ",clean(html.unescape(raw)))
    page_names=set()
    for match in re.finditer(re.escape(district)+r"\s+(.{1,90}?)\s+Mahallesi",plain,re.I):
@@ -249,7 +249,7 @@ def load_ankara_neighborhood_catalog(now):
    return catalog,{"active":True,"districts":len(catalog),"neighborhoods":sum(len(x) for x in catalog.values()),"source":"ABB önbelleği","updated_at":cached.get("updated_at")}
  except Exception:pass
  catalog={}
- with concurrent.futures.ThreadPoolExecutor(max_workers=8) as pool:
+ with concurrent.futures.ThreadPoolExecutor(max_workers=16) as pool:
   futures=[pool.submit(fetch_abb_district_neighborhoods,district,slug) for district,slug in ANKARA_DISTRICT_SLUGS.items()]
   for future in concurrent.futures.as_completed(futures):
    district,names=future.result()
