@@ -1,4 +1,4 @@
-import json,re,os,urllib.parse,urllib.request,xml.etree.ElementTree as ET,unicodedata
+import json,re,os,urllib.parse,urllib.request,xml.etree.ElementTree as ET,unicodedata,html,concurrent.futures
 from difflib import SequenceMatcher
 from datetime import datetime,timezone,timedelta
 NEWS=[
@@ -93,6 +93,17 @@ MAMAK_NEIGHBORHOOD_VARIANTS={
 }
 
 
+ANKARA_DISTRICT_SLUGS={
+"Akyurt":"akyurt","Altındağ":"altindag","Ayaş":"ayas","Bala":"bala","Beypazarı":"beypazari",
+"Çamlıdere":"camlidere","Çankaya":"cankaya","Çubuk":"cubuk","Elmadağ":"elmadag","Etimesgut":"etimesgut",
+"Evren":"evren","Gölbaşı":"golbasi","Güdül":"gudul","Haymana":"haymana","Kahramankazan":"kahramankazan",
+"Kalecik":"kalecik","Keçiören":"kecioren","Kızılcahamam":"kizilcahamam","Mamak":"mamak","Nallıhan":"nallihan",
+"Polatlı":"polatli","Pursaklar":"pursaklar","Sincan":"sincan","Şereflikoçhisar":"sereflikochisar","Yenimahalle":"yenimahalle"
+}
+ANKARA_NEIGHBORHOOD_CATALOG={"Mamak":list(MAMAK_NEIGHBORHOOD_VARIANTS)}
+CATALOG_STATUS={"active":False,"districts":1,"neighborhoods":len(MAMAK_NEIGHBORHOOD_VARIANTS),"source":"yerleşik Mamak listesi"}
+
+
 C=[("Cinayet","⚫",["cinayet","öldürüldü","öldürdü","ölü bulundu","ceset"]),("İntihar","🟣",["intihar","yaşamına son"]),("Terör","🚨",["terör","terörist","örgüt operasyon","bombalı"]),("Taciz","🟣",["taciz","cinsel saldırı","istismar"]),("Düğünde Silah","🔫",["düğünde silah","havaya ateş","maganda"]),("Silahlı Olay","🔫",["silahlı","silah","kurşun","ateş aç"]),("Kavga","🥊",["kavga","darp","saldırı"]),("Trafik Kazası","🚗",["trafik kazası","kaza","çarpış","araç devr"]),("Hırsızlık","🕵️",["hırsız","çaldı","gasp","soygun"]),("Dolandırıcılık","💳",["dolandır"]),("Uyuşturucu","🚔",["uyuşturucu","narkotik"]),("Kayıp Kişi","👤",["kayıp","aranıyor"]),("Yangın","🔥",["yangın","duman","alev","yanıyor","yanmakta","itfaiye"]),("Sağlık","🚑",["ambulans","yaralı","sağlık"]),("Yol","🚧",["yol kapalı","yol çalışma"]),("Altyapı","⚡",["elektrik","su kesinti","doğalgaz"]),("Asayiş","👮",["polis","emniyet","asayiş","gözaltı","tutuklandı","yakalandı","operasyon","şüpheli","suç"])]
 RELEVANT=["cinayet","öldür","ceset","intihar","terör","bomba","taciz","cinsel saldırı","istismar","silah","kurşun","ateş aç","kavga","darp","saldırı","trafik kazası","kaza","çarpış","devrildi","hırsız","gasp","soygun","dolandır","uyuşturucu","narkotik","kayıp","yangın","alev","yanıyor","yanmakta","itfaiye","ambulans","yaralı","polis","emniyet","asayiş","gözaltı","tutuk","yakalandı","operasyon","şüpheli","suç","patlama","rehin","kaçakçılık","bıçak"]
 BLOCK=["menu","food","restaurant","restoran","yemek","kampanya","indirim","satılık","kiralık","maç","transfer","konser","etkinlik","iş ilanı","job"]
@@ -110,20 +121,32 @@ def neighborhood_context_match(text,variant):
  before=r"(?:mahalle(?:si)?|semt|bolge)\s+"
  return bool(re.search(r"(?<![a-z0-9])"+escaped+r"\s+"+after+r"(?![a-z0-9])",folded) or re.search(r"(?<![a-z0-9])"+before+escaped+r"(?![a-z0-9])",folded))
 
-def detect_neighborhood(text):
- candidates=[]
- for canonical,variants in MAMAK_NEIGHBORHOOD_VARIANTS.items():
-  for variant in variants:candidates.append((variant,canonical))
+def neighborhood_candidates(district):
+ if district=="Mamak":
+  return [(variant,canonical) for canonical,variants in MAMAK_NEIGHBORHOOD_VARIANTS.items() for variant in variants]
+ return [(name,name) for name in ANKARA_NEIGHBORHOOD_CATALOG.get(district,[])]
+
+def detect_neighborhood(text,district):
+ candidates=neighborhood_candidates(district)
  for variant,canonical in sorted(candidates,key=lambda x:len(x[0]),reverse=True):
   if neighborhood_context_match(text,variant):return canonical
  return None
+
+def detect_unique_neighborhood_district(text):
+ hits=[]
+ for district in ANKARA_DISTRICT_SLUGS:
+  neighborhood=detect_neighborhood(text,district)
+  if neighborhood:hits.append((district,neighborhood))
+ districts={x[0] for x in hits}
+ return hits[0] if len(districts)==1 else None
 
 def detect_district(text):
  folded=ascii_text(text)
  for name in DISTRICT_CENTERS:
   if place_in_text(folded,name):return name
  if place_in_text(folded,"Kazan"):return "Kahramankazan"
- if detect_neighborhood(text):return "Mamak"
+ unique=detect_unique_neighborhood_district(text)
+ if unique:return unique[0]
  return "Ankara Geneli" if place_in_text(folded,"Ankara") else None
 
 POLITICAL_IDENTITIES=["belediye baskani","eski belediye baskani","abb baskani","baskan ","baskani","cumhurbaskani","milletvekili","genel baskan","siyasi","siyasetci","bakan ","parti yoneticisi","melih gokcek","mansur yavas","chp","akp","ak parti","mhp","iyi parti","dem parti"]
@@ -198,6 +221,46 @@ def ascii_text(value):
  value=unicodedata.normalize("NFKD",value).encode("ascii","ignore").decode().lower()
  return re.sub(r"[^a-z0-9 ]+"," ",value)
 
+def fetch_abb_district_neighborhoods(district,slug):
+ names=set();empty_pages=0
+ for page in range(1,5):
+  try:
+   url="https://www.ankara.bel.tr/muhtarlar/"+slug+("?page="+str(page) if page>1 else "")
+   req=urllib.request.Request(url,headers={"User-Agent":"Mozilla/5.0 AnkaraOlayTakip/3.3"})
+   raw=urllib.request.urlopen(req,timeout=12).read().decode("utf-8","ignore")
+   plain=re.sub(r"\s+"," ",clean(html.unescape(raw)))
+   page_names=set()
+   for match in re.finditer(re.escape(district)+r"\s+(.{1,90}?)\s+Mahallesi",plain,re.I):
+    name=re.sub(r"\s+"," ",match.group(1)).strip(" -–|")
+    if 1<=len(name.split())<=8 and not re.search(r"(Muhtarlar|İlçe|Select|Telefon|Ankara)",name,re.I):page_names.add(name)
+   before=len(names);names.update(page_names)
+   empty_pages=empty_pages+1 if len(names)==before else 0
+   if empty_pages>=1:break
+  except Exception:break
+ return district,sorted(names,key=lambda x:ascii_text(x))
+
+def load_ankara_neighborhood_catalog(now):
+ cache_path="data/ankara_neighborhoods.json"
+ try:
+  with open(cache_path,encoding="utf-8") as f:cached=json.load(f)
+  fetched=datetime.fromisoformat(cached.get("updated_at",""))
+  if now-fetched<timedelta(days=30) and len(cached.get("districts",{}))>=20:
+   catalog=cached["districts"];catalog["Mamak"]=list(MAMAK_NEIGHBORHOOD_VARIANTS)
+   return catalog,{"active":True,"districts":len(catalog),"neighborhoods":sum(len(x) for x in catalog.values()),"source":"ABB önbelleği","updated_at":cached.get("updated_at")}
+ except Exception:pass
+ catalog={}
+ with concurrent.futures.ThreadPoolExecutor(max_workers=8) as pool:
+  futures=[pool.submit(fetch_abb_district_neighborhoods,district,slug) for district,slug in ANKARA_DISTRICT_SLUGS.items()]
+  for future in concurrent.futures.as_completed(futures):
+   district,names=future.result()
+   if names:catalog[district]=names
+ catalog["Mamak"]=list(MAMAK_NEIGHBORHOOD_VARIANTS)
+ if len(catalog)>=20:
+  payload={"updated_at":now.isoformat(),"source":"Ankara Büyükşehir Belediyesi Muhtarlar","districts":catalog}
+  with open(cache_path,"w",encoding="utf-8") as f:json.dump(payload,f,ensure_ascii=False,indent=2)
+  return catalog,{"active":True,"districts":len(catalog),"neighborhoods":sum(len(x) for x in catalog.values()),"source":"ABB canlı katalog","updated_at":now.isoformat()}
+ return catalog,{"active":False,"districts":len(catalog),"neighborhoods":sum(len(x) for x in catalog.values()),"source":"ABB kataloğu kısmen alınabildi"}
+
 def title_tokens(title):
  base=(title or "").rsplit(" - ",1)[0]
  words=[]
@@ -235,10 +298,10 @@ def same_event(a,b):
 def add_location(e):
  text=e.get("title","").rsplit(" - ",1)[0]
  district=detect_district(text) or "Ankara Geneli"
- neighborhood=detect_neighborhood(text) if district=="Mamak" else None
+ neighborhood=detect_neighborhood(text,district) if district in ANKARA_DISTRICT_SLUGS else None
  if neighborhood:
-  coords=NEIGHBORHOODS.get(neighborhood,DISTRICT_CENTERS["Mamak"])
-  e["district"]="Mamak";e["neighborhood"]=neighborhood;e["lat"],e["lon"]=coords;e["location"]=neighborhood+" / Mamak / Ankara";e["location_precision"]="mahalle" if neighborhood in NEIGHBORHOODS else "mahalle_yaklaşık"
+  coords=NEIGHBORHOODS.get(neighborhood,DISTRICT_CENTERS[district]) if district=="Mamak" else DISTRICT_CENTERS[district]
+  e["district"]=district;e["neighborhood"]=neighborhood;e["lat"],e["lon"]=coords;e["location"]=neighborhood+" / "+district+" / Ankara";e["location_precision"]="mahalle" if district=="Mamak" and neighborhood in NEIGHBORHOODS else "mahalle_yaklaşık"
  elif district in DISTRICT_CENTERS:
   e["district"]=district;e["neighborhood"]=district+" Geneli";e["lat"],e["lon"]=DISTRICT_CENTERS[district];e["location"]=district+" / Ankara";e["location_precision"]="ilçe"
  else:
@@ -290,6 +353,7 @@ def deduplicate_events(events):
  return final
 
 tz=timezone(timedelta(hours=3));now=datetime.now(tz);new=[]
+ANKARA_NEIGHBORHOOD_CATALOG,CATALOG_STATUS=load_ankara_neighborhood_catalog(now)
 for q in NEWS:add_feed("https://news.google.com/rss/search?q="+urllib.parse.quote(q)+"&hl=tr&gl=TR&ceid=TR:tr","Haber",now,new)
 for platform,q in SOCIAL:
  target=next((account for account in IG_ACCOUNTS if "instagram.com/"+account.lower() in q.lower()),None)
@@ -334,5 +398,5 @@ for account in IG_ACCOUNTS:
  dates=sorted((e.get("published","") for e in account_items if e.get("published")),reverse=True)
  query_count=sum(2 for platform,q in SOCIAL if platform=="Instagram" and "instagram.com/"+account.lower() in q.lower())
  instagram_accounts[account]={"queries":query_count,"records":len({e.get("url") or e.get("title") for e in account_items}),"last_seen":dates[0] if dates else None,"indexed":bool(account_items)}
-scan_status={"social_queries":len(SOCIAL)*2+len(alert_urls),"bing_social_queries":len(SOCIAL),"google_news_social_queries":len(SOCIAL),"google_alert_feeds":len(alert_urls),"social_targets":social_targets,"social_attempts":social_attempts,"new_results_this_scan":new_platform_counts,"instagram_accounts":instagram_accounts}
+scan_status={"social_queries":len(SOCIAL)*2+len(alert_urls),"bing_social_queries":len(SOCIAL),"google_news_social_queries":len(SOCIAL),"google_alert_feeds":len(alert_urls),"social_targets":social_targets,"social_attempts":social_attempts,"new_results_this_scan":new_platform_counts,"instagram_accounts":instagram_accounts,"neighborhood_catalog":CATALOG_STATUS}
 with open("data/events.json","w",encoding="utf-8") as f:json.dump({"updated_at":now.isoformat(),"events":items,"google_alerts_active":bool(alert_urls),"google_alert_feed_count":len(alert_urls),"google_alert_invalid_count":len(raw_alert_urls)-len(alert_urls),"google_alert_query_count":len(ALERT_QUERY_TEMPLATES),"platform_counts":platform_counts,"scan_status":scan_status,"sources":["Google Alerts RSS","Google News RSS","Bing RSS","X (indekslenen açık gönderiler)","Facebook (indekslenen açık sayfa/gruplar)","Instagram","YouTube","TikTok"]},f,ensure_ascii=False,indent=2)
