@@ -31,7 +31,8 @@ jobs:
         run: |
           git config user.name "mamak-bot"
           git config user.email "actions@users.noreply.github.com"
-          git add data/events.json data/ankara_neighborhoods.json
+          git add data/events.json
+          test ! -f data/ankara_neighborhoods.json || git add data/ankara_neighborhoods.json
           git diff --cached --quiet || (git commit -m "Olay verisini güncelle" && git push)
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3
