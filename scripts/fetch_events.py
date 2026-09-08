@@ -12,16 +12,19 @@ NEWS=[
 "Nallıhan OR Polatlı OR Pursaklar OR Sincan Ankara olay",
 "Şereflikoçhisar OR Yenimahalle Ankara olay"
 ]
+IG_ACCOUNTS=["ankaradatrafik","ankara.sondakika","ankaradantrafik","ankaradansondakika"]
+IG_DISTRICT_TERMS="(Mamak OR Altındağ OR Çankaya OR Şirintepe OR Tuzluçayır OR Akdere OR Keçiören)"
+IG_EVENT_TERMS="(yangın OR kaza OR cinayet OR kavga OR polis OR asayiş OR silahlı OR taciz OR hırsızlık OR uyuşturucu OR ambulans OR son dakika)"
 SOCIAL=[
 ("X","site:x.com Ankara (kaza OR yangın OR polis OR kavga OR cinayet OR son dakika)"),
 ("X","site:x.com/ankara_cevirme Ankara"),("X","site:x.com/EmniyetAnkara Ankara"),
 ("X","site:x.com/radyotrafik06 Ankara"),("X","site:x.com/ankaratrafikcev Ankara"),
 ("Facebook","site:facebook.com Ankara son dakika olay"),
-("Instagram","site:instagram.com/ankaradatrafik Ankara"),("Instagram","site:instagram.com/ankara.sondakika Ankara"),
-("Instagram","site:instagram.com/ankaradantrafik Ankara"),
-("Instagram","site:instagram.com/ankaradansondakika (Mamak OR Şirintepe) (yangın OR yanıyor OR itfaiye OR kaza OR polis OR kavga OR cinayet)"),
-("Instagram","site:instagram.com/ankaradansondakika/reel Mamak"),("YouTube","site:youtube.com Ankara son dakika olay"),
+("YouTube","site:youtube.com Ankara son dakika olay"),
 ("TikTok","site:tiktok.com Ankara kaza yangın polis")
+]+[
+("Instagram","site:instagram.com/"+account+path+" "+IG_DISTRICT_TERMS+" "+IG_EVENT_TERMS)
+for account in IG_ACCOUNTS for path in ("","/p/","/reel/")
 ]
 
 ALERT_QUERY_TEMPLATES=[
@@ -242,8 +245,13 @@ def deduplicate_events(events):
 tz=timezone(timedelta(hours=3));now=datetime.now(tz);new=[]
 for q in NEWS:add_feed("https://news.google.com/rss/search?q="+urllib.parse.quote(q)+"&hl=tr&gl=TR&ceid=TR:tr","Haber",now,new)
 for platform,q in SOCIAL:
- add_feed("https://www.bing.com/search?format=rss&q="+urllib.parse.quote(q),platform,now,new)
- add_feed("https://news.google.com/rss/search?q="+urllib.parse.quote(q)+"&hl=tr&gl=TR&ceid=TR:tr",platform,now,new)
+ target=next((account for account in IG_ACCOUNTS if "instagram.com/"+account.lower() in q.lower()),None)
+ before=len(new);add_feed("https://www.bing.com/search?format=rss&q="+urllib.parse.quote(q),platform,now,new)
+ if target:
+  for e in new[before:]:e["instagram_target"]=target;e["ingestion"]="Bing RSS"
+ before=len(new);add_feed("https://news.google.com/rss/search?q="+urllib.parse.quote(q)+"&hl=tr&gl=TR&ceid=TR:tr",platform,now,new)
+ if target:
+  for e in new[before:]:e["instagram_target"]=target;e["ingestion"]="Google News RSS"
 raw_alert_urls=[u.strip() for u in re.split(r"[\n,;]+",os.getenv("GOOGLE_ALERT_FEEDS","")) if u.strip()]
 alert_urls=list(dict.fromkeys(u for u in raw_alert_urls if re.match(r"^https://[^/]*google[^/]*/alerts/feeds/",u,re.I)))
 for alert_url in alert_urls:add_alert_feed(alert_url,now,new)
@@ -270,5 +278,10 @@ for e in new:
 social_targets={};social_attempts={}
 for platform,_ in SOCIAL:
  social_targets[platform]=social_targets.get(platform,0)+1;social_attempts[platform]=social_attempts.get(platform,0)+2
-scan_status={"social_queries":len(SOCIAL)*2+len(alert_urls),"bing_social_queries":len(SOCIAL),"google_news_social_queries":len(SOCIAL),"google_alert_feeds":len(alert_urls),"social_targets":social_targets,"social_attempts":social_attempts,"new_results_this_scan":new_platform_counts}
+instagram_accounts={}
+for account in IG_ACCOUNTS:
+ account_items=[e for e in new+items if e.get("instagram_target")==account]
+ dates=sorted((e.get("published","") for e in account_items if e.get("published")),reverse=True)
+ instagram_accounts[account]={"queries":6,"records":len({e.get("url") or e.get("title") for e in account_items}),"last_seen":dates[0] if dates else None,"indexed":bool(account_items)}
+scan_status={"social_queries":len(SOCIAL)*2+len(alert_urls),"bing_social_queries":len(SOCIAL),"google_news_social_queries":len(SOCIAL),"google_alert_feeds":len(alert_urls),"social_targets":social_targets,"social_attempts":social_attempts,"new_results_this_scan":new_platform_counts,"instagram_accounts":instagram_accounts}
 with open("data/events.json","w",encoding="utf-8") as f:json.dump({"updated_at":now.isoformat(),"events":items,"google_alerts_active":bool(alert_urls),"google_alert_feed_count":len(alert_urls),"google_alert_invalid_count":len(raw_alert_urls)-len(alert_urls),"google_alert_query_count":len(ALERT_QUERY_TEMPLATES),"platform_counts":platform_counts,"scan_status":scan_status,"sources":["Google Alerts RSS","Google News RSS","Bing RSS","X (indekslenen açık gönderiler)","Facebook (indekslenen açık sayfa/gruplar)","Instagram","YouTube","TikTok"]},f,ensure_ascii=False,indent=2)
