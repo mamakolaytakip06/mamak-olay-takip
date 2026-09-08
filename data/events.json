@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-08T18:10:49.862981+03:00",
+  "updated_at": "2026-09-08T18:13:53.676166+03:00",
   "events": [
     {
       "category": "Uyuşturucu",
@@ -17389,7 +17389,7 @@
       ],
       "icon": "⚠️",
       "title": "Etimesgut Piyade Mahallesinde hakkında Eşinden uzaklaştırma kararı verilen bir şahıs çocuğunu rehin aldı. Yaklaşık 3 saattir ikna edilemiyor. Çocuğunu sürekli aşağı sarkıtıyor boğazına kesici alet dayıyor. 21:11 - x.com",
-      "location": "Etimesgut / Ankara",
+      "location": "Piyade / Etimesgut / Ankara",
       "published": "2026-06-05T10:00:00+03:00",
       "confidence": 60,
       "sources": 1,
@@ -17406,10 +17406,10 @@
         }
       ],
       "district": "Etimesgut",
-      "neighborhood": "Etimesgut Geneli",
+      "neighborhood": "Piyade",
       "lat": 39.948,
       "lon": 32.669,
-      "location_precision": "ilçe",
+      "location_precision": "mahalle_yaklaşık",
       "id": 529
     },
     {
@@ -20006,13 +20006,13 @@
         "Trafik Kazası"
       ],
       "icon": "🚗",
-      "title": "SON DAKİKA: Ankara'da kamyonetin işçilere çarptığı trafik kazasında 2 ölü - 24saatgazetesi.com",
+      "title": "Ankara'da feci kaza: Sürüklenen kamyonet dehşet saçtı! 2 ölü | A Haber - youtube.com",
       "location": "Ankara Geneli",
-      "published": "2026-05-01T10:00:00+03:00",
-      "confidence": 75,
-      "sources": 2,
+      "published": "2026-05-01T13:56:08+03:00",
+      "confidence": 60,
+      "sources": 1,
       "status": "Sosyal medya / doğrulanmamış",
-      "summary": "2 farklı açık kaynakta bulunan aynı olay tek kayıtta birleştirildi.",
+      "summary": "youtube.com üzerinden bulunan herkese açık kayıt.",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9SbzF1R29MXzNXNWI5RERhbFVHblllcGk2UlBsY1ZHMVVvaUxEMXk2R2trc0NscGgzNFpRM0dqMEdtRkNpN3Z1bXVsbVd6YWo1NS1Pd2dB?oc=5",
       "platform": "YouTube",
       "source_links": [
@@ -20021,15 +20021,8 @@
           "title": "Ankara'da feci kaza: Sürüklenen kamyonet dehşet saçtı! 2 ölü | A Haber - youtube.com",
           "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9SbzF1R29MXzNXNWI5RERhbFVHblllcGk2UlBsY1ZHMVVvaUxEMXk2R2trc0NscGgzNFpRM0dqMEdtRkNpN3Z1bXVsbVd6YWo1NS1Pd2dB?oc=5",
           "published": "2026-05-01T13:56:08+03:00"
-        },
-        {
-          "platform": "Haber",
-          "title": "SON DAKİKA: Ankara'da kamyonetin işçilere çarptığı trafik kazasında 2 ölü - 24saatgazetesi.com",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNTVR6N2I0T0tISTJvRE96bWJkOVh2XzlfM2d6QjJCNFVZR1pNSHVHbE11SHdXUHBWNjRneGFXM3hqRzFpZ0I4Mk1obFdDNGxUWWZDRExXLVBBUWZJbm80YjIwblZNTjJyUVZPZ0RMMWFtR2dCODdIVjNQY2staEFKckh5eDliY0tXVnlRY1hYSjRVb1psU2FUUWFLZk9fTUlTRjJWSQ?oc=5",
-          "published": "2026-05-01T10:00:00+03:00"
         }
       ],
-      "last_updated": "2026-05-01T10:00:00+03:00",
       "district": "Ankara Geneli",
       "neighborhood": "Ankara Geneli",
       "lat": 39.9334,
@@ -29210,7 +29203,7 @@
   "google_alert_invalid_count": 0,
   "google_alert_query_count": 9,
   "platform_counts": {
-    "Haber": 879,
+    "Haber": 878,
     "X": 167,
     "Facebook": 73,
     "Instagram": 2,
@@ -29239,9 +29232,9 @@
     "new_results_this_scan": {
       "Haber": 374,
       "X": 75,
+      "YouTube": 8,
       "Facebook": 33,
       "TikTok": 2,
-      "YouTube": 8,
       "Instagram": 1
     },
     "instagram_accounts": {
@@ -29285,9 +29278,9 @@
     "neighborhood_catalog": {
       "active": true,
       "districts": 25,
-      "neighborhoods": 1262,
-      "source": "Ankara Büyükşehir Belediyesi Muhtarlar",
-      "updated_at": "2026-09-08T18:10:49.862981+03:00"
+      "neighborhoods": 1316,
+      "source": "ABB + açık adres kataloğu doğrulaması",
+      "updated_at": "2026-09-08T18:13:53.676166+03:00"
     }
   },
   "sources": [
