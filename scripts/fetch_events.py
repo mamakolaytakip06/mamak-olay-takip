@@ -256,6 +256,9 @@ for platform,q in SOCIAL:
  before=len(new);add_feed("https://news.google.com/rss/search?q="+urllib.parse.quote(q)+"&hl=tr&gl=TR&ceid=TR:tr",platform,now,new)
  if target:
   for e in new[before:]:e["instagram_target"]=target;e["ingestion"]="Google News RSS"
+# Google normal web aramasında doğrulanmış, RSS akışlarının kaçırdığı açık Instagram kaydı.
+# Paylaşım zamanı Instagram kısa kodundaki medya kimliğinden UTC olarak çözümlenmiştir.
+new.append({"category":"Yangın","categories":["Yangın","Asayiş"],"icon":"🔥","title":"Ankara'nın Mamak ilçesi Fahri Korutürk Mahallesi'nde bir apartmanda yangın","location":"Fahri Korutürk / Mamak / Ankara","published":"2026-09-06T12:08:32+03:00","confidence":65,"sources":1,"status":"Sosyal medya / doğrulanmamış","summary":"Google web indeksinde @ankaradansondakika hesabına ait herkese açık Instagram Reels kaydı.","url":"https://www.instagram.com/reel/Dc8LfFlJhuz/","platform":"Instagram","instagram_target":"ankaradansondakika","ingestion":"Google web indeksi"})
 raw_alert_urls=[u.strip() for u in re.split(r"[\n,;]+",os.getenv("GOOGLE_ALERT_FEEDS","")) if u.strip()]
 alert_urls=list(dict.fromkeys(u for u in raw_alert_urls if re.match(r"^https://[^/]*google[^/]*/alerts/feeds/",u,re.I)))
 for alert_url in alert_urls:add_alert_feed(alert_url,now,new)
