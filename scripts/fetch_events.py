@@ -254,11 +254,23 @@ def load_ankara_neighborhood_catalog(now):
   for future in concurrent.futures.as_completed(futures):
    district,names=future.result()
    if names:catalog[district]=names
+ source="Ankara Büyükşehir Belediyesi Muhtarlar"
+ if len(catalog)<20:
+  try:
+   fallback_url="https://raw.githubusercontent.com/ferhat-mousavi/turkiye-il-ilce-mahalle-koy/main/turkiye-il-ilce-mahalle.json"
+   req=urllib.request.Request(fallback_url,headers={"User-Agent":"AnkaraOlayTakip/3.3"})
+   fallback=json.loads(urllib.request.urlopen(req,timeout=20).read().decode("utf-8"))
+   ankara=fallback.get("Ankara",{})
+   for expected in ANKARA_DISTRICT_SLUGS:
+    match=next((names for name,names in ankara.items() if ascii_text(name)==ascii_text(expected)),None)
+    if expected not in catalog and isinstance(match,list):catalog[expected]=[re.sub(r"\s+(Mah\.?|Mahallesi)$","",str(x),flags=re.I).strip() for x in match]
+   source="ABB + açık adres kataloğu yedeği"
+  except Exception:pass
  catalog["Mamak"]=list(MAMAK_NEIGHBORHOOD_VARIANTS)
  if len(catalog)>=20:
-  payload={"updated_at":now.isoformat(),"source":"Ankara Büyükşehir Belediyesi Muhtarlar","districts":catalog}
+  payload={"updated_at":now.isoformat(),"source":source,"districts":catalog}
   with open(cache_path,"w",encoding="utf-8") as f:json.dump(payload,f,ensure_ascii=False,indent=2)
-  return catalog,{"active":True,"districts":len(catalog),"neighborhoods":sum(len(x) for x in catalog.values()),"source":"ABB canlı katalog","updated_at":now.isoformat()}
+  return catalog,{"active":True,"districts":len(catalog),"neighborhoods":sum(len(x) for x in catalog.values()),"source":source,"updated_at":now.isoformat()}
  return catalog,{"active":False,"districts":len(catalog),"neighborhoods":sum(len(x) for x in catalog.values()),"source":"ABB kataloğu kısmen alınabildi"}
 
 def title_tokens(title):
