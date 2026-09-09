@@ -40,6 +40,6 @@ $("#allDistricts").addEventListener("change",e=>{if(e.target.checked)selectedDis
 $("#sourceFilters").addEventListener("change",e=>{if(!e.target.matches("input"))return;e.target.checked?selectedSources.add(e.target.value):selectedSources.delete(e.target.value);render()});
 $("#allSources").addEventListener("change",e=>{if(e.target.checked)selectedSources.clear();else if(!selectedSources.size)e.target.checked=true;render()});
 $("#sound").onclick=()=>{audioOn=!audioOn;localStorage.setItem("mamakAudio",audioOn?"1":"0");soundLabel();if(audioOn)beep()};
-$("#query").addEventListener("input",render);$("#refresh").onclick=load;
+$("#query").addEventListener("input",render);$("#refresh").onclick=()=>location.reload();
 setInterval(()=>{left--;if(left<=0)load();$("#next").textContent=String(Math.floor(left/60)).padStart(2,"0")+":"+String(left%60).padStart(2,"0")},1000);
 soundLabel();load();
