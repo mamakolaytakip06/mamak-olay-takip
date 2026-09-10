@@ -12,7 +12,7 @@ NEWS=[
 "Nallıhan OR Polatlı OR Pursaklar OR Sincan Ankara olay",
 "Şereflikoçhisar OR Yenimahalle Ankara olay"
 ]
-IG_ACCOUNTS=["ankaradatrafik","ankara.sondakika","ankaradantrafik","ankaradansondakika","mamak.haber","mamak.sondakika"]
+IG_ACCOUNTS=["ankaradatrafik","ankara.sondakika","ankaradantrafik","ankaradansondakika","mamak.haber","mamak.sondakika","mamak.sondakika2"]
 IG_EVENT_TERMS="(yangın OR kaza OR cinayet OR kavga OR polis OR asayiş OR silahlı OR taciz OR hırsızlık OR uyuşturucu OR ambulans OR son dakika)"
 # Mahalle temelli sosyal medya sorguları Ankara mahalle kataloğu yüklendikten sonra otomatik oluşturulur.
 SOCIAL=[]
