@@ -394,6 +394,7 @@ def build_social_queries(catalog,now):
   ("X","site:x.com/ankara_cevirme Ankara"),("X","site:x.com/EmniyetAnkara Ankara"),
   ("X","site:x.com/radyotrafik06 Ankara"),("X","site:x.com/ankaratrafikcev Ankara"),
   ("X","site:x.com/Bulvarpress Ankara "+IG_EVENT_TERMS),
+  ("X","site:x.com/Trafik_Cezasi Ankara "+IG_EVENT_TERMS),
   ("Facebook","site:facebook.com Ankara son dakika olay"),
   ("YouTube","site:youtube.com Ankara son dakika olay"),
   ("TikTok","site:tiktok.com Ankara kaza yangın polis")]
