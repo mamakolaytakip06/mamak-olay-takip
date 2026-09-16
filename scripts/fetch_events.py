@@ -396,6 +396,10 @@ def build_social_queries(catalog,now):
   ("X","site:x.com/Bulvarpress Ankara "+IG_EVENT_TERMS),
   ("X","site:x.com/Trafik_Cezasi Ankara "+IG_EVENT_TERMS),
   ("Facebook","site:facebook.com Ankara son dakika olay"),
+  ("Facebook","site:facebook.com/mamak.haber Ankara "+IG_EVENT_TERMS),
+  ("Facebook","site:facebook.com/mamak.haber/posts Ankara "+IG_EVENT_TERMS),
+  ("Facebook","site:facebook.com/mamak.haber/videos Ankara "+IG_EVENT_TERMS),
+  ("Facebook","site:facebook.com/mamak.haber/reels Ankara "+IG_EVENT_TERMS),
   ("YouTube","site:youtube.com Ankara son dakika olay"),
   ("TikTok","site:tiktok.com Ankara kaza yangın polis")]
  # İlçe adlarının tamamı her taramada sorgulanır.
