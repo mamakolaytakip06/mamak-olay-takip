@@ -12,7 +12,8 @@ NEWS=[
 "Nallıhan OR Polatlı OR Pursaklar OR Sincan Ankara olay",
 "Şereflikoçhisar OR Yenimahalle Ankara olay"
 ]
-IG_ACCOUNTS=["ankaradatrafik","ankara.sondakika","ankaradantrafik","ankaradansondakika","mamak.haber","mamak.sondakika","mamak.sondakika2"]
+IG_ACCOUNTS=["ankaradatrafik","ankara.sondakika","ankaradantrafik","ankaradansondakika","mamak.haber","mamakhaber06","mamak.sondakika","mamak.sondakika2"]
+MAMAK_IG_ACCOUNTS={"mamak.haber","mamakhaber06","mamak.sondakika","mamak.sondakika2"}
 IG_EVENT_TERMS="(yangın OR kaza OR cinayet OR kavga OR polis OR asayiş OR silahlı OR taciz OR hırsızlık OR uyuşturucu OR ambulans OR son dakika)"
 # Mahalle temelli sosyal medya sorguları Ankara mahalle kataloğu yüklendikten sonra otomatik oluşturulur.
 SOCIAL=[]
@@ -172,16 +173,18 @@ def parse_date(s,tz):
   try:return datetime.strptime(s,fmt).replace(tzinfo=timezone.utc).astimezone(tz) if fmt.endswith("%Z") else datetime.strptime(s,fmt).astimezone(tz)
   except:pass
  return None
-def add_feed(url,platform,now,out):
+def add_feed(url,platform,now,out,target=None):
  try:
   req=urllib.request.Request(url,headers={"User-Agent":"Mozilla/5.0"})
   root=ET.fromstring(urllib.request.urlopen(req,timeout=12).read())
   for x in root.findall(".//item"):
    title=clean(x.findtext("title"));desc=clean(x.findtext("description"));link=x.findtext("link") or "";dt=parse_date(x.findtext("pubDate") or "",now.tzinfo)
    headline=title.rsplit(" - ",1)[0]
-   if not dt or now-dt>timedelta(days=365) or not detect_district(headline) or not relevant(title+" "+desc):continue
+   district_hint=detect_district(headline)
+   forced_district="Mamak" if target in MAMAK_IG_ACCOUNTS else None
+   if not dt or now-dt>timedelta(days=365) or not (district_hint or forced_district) or not relevant(title+" "+desc):continue
    categories,icon=classify_all(title+" "+desc);cat=categories[0];src=x.find("source");source=src.text if src is not None and src.text else platform
-   out.append({"category":cat,"categories":categories,"icon":icon,"title":title,"location":"Mamak / Ankara","published":dt.isoformat(),"confidence":75 if platform=="Haber" else 60,"sources":1,"status":"Muhtemel" if platform=="Haber" else "Sosyal medya / doğrulanmamış","summary":source+" üzerinden bulunan herkese açık kayıt.","url":link,"platform":platform})
+   out.append({"category":cat,"categories":categories,"icon":icon,"title":title,"location":"Mamak / Ankara","published":dt.isoformat(),"confidence":75 if platform=="Haber" else 60,"sources":1,"status":"Muhtemel" if platform=="Haber" else "Sosyal medya / doğrulanmamış","summary":source+" üzerinden bulunan herkese açık kayıt.","url":link,"platform":platform,"forced_district":forced_district})
  except Exception:pass
 def detect_platform(link):
  low=link.lower()
@@ -327,7 +330,7 @@ def same_event(a,b):
 
 def add_location(e):
  text=e.get("title","").rsplit(" - ",1)[0]
- district=detect_district(text) or "Ankara Geneli"
+ district=e.get("forced_district") or detect_district(text) or "Ankara Geneli"
  neighborhood=detect_neighborhood(text,district) if district in ANKARA_DISTRICT_SLUGS else None
  if neighborhood:
   coords=NEIGHBORHOODS.get(neighborhood,DISTRICT_CENTERS[district]) if district=="Mamak" else DISTRICT_CENTERS[district]
@@ -428,7 +431,7 @@ def build_social_queries(catalog,now):
  # İzlenen Instagram hesaplarını hesap adıyla da sorgula; mahalle sorguları yukarıdaki genel Instagram taramasındadır.
  for account in IG_ACCOUNTS:
   for path in ("","/p/","/reel/"):
-   queries.append(("Instagram","site:instagram.com/"+account+path+" Ankara "+IG_EVENT_TERMS))
+   queries.append(("Instagram","site:instagram.com/"+account+path+(" " if account in MAMAK_IG_ACCOUNTS else " Ankara ")+IG_EVENT_TERMS))
  unique=[];seen=set()
  for item in queries:
   if item[1] not in seen:seen.add(item[1]);unique.append(item)
@@ -442,7 +445,7 @@ ANKARA_NEIGHBORHOOD_CATALOG,CATALOG_STATUS=load_ankara_neighborhood_catalog(now)
 UNIQUE_NEIGHBORHOOD_INDEX=rebuild_unique_neighborhood_index()
 SOCIAL,SOCIAL_COVERAGE=build_social_queries(ANKARA_NEIGHBORHOOD_CATALOG,now)
 def collect_feed_job(url,platform,now,target=None,ingestion=None):
- found=[];add_feed(url,platform,now,found)
+ found=[];add_feed(url,platform,now,found,target)
  if target:
   for e in found:e["instagram_target"]=target;e["ingestion"]=ingestion
  return found
@@ -467,7 +470,7 @@ try:
 except:old=[]
 merged={};cut=now-timedelta(days=365)
 for e in old+new:
- if e.get("platform") in ("Telegram","Threads") or political_legal_news(e.get("title","")+" "+e.get("summary","")) or not relevant(e.get("title","")+" "+e.get("summary","")) or not detect_district(e.get("title","").rsplit(" - ",1)[0]):continue
+ if e.get("platform") in ("Telegram","Threads") or political_legal_news(e.get("title","")+" "+e.get("summary","")) or not relevant(e.get("title","")+" "+e.get("summary","")) or not (e.get("forced_district") or detect_district(e.get("title","").rsplit(" - ",1)[0])):continue
  try:
   if datetime.fromisoformat(e["published"])<cut:continue
  except:continue
