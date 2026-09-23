@@ -95,7 +95,7 @@ UNIQUE_NEIGHBORHOOD_INDEX={}
 
 C=[("Cinayet","⚫",["cinayet","öldürüldü","öldürdü","ölü bulundu","ceset"]),("İntihar","🟣",["intihar","yaşamına son"]),("Terör","🚨",["terör","terörist","örgüt operasyon","bombalı"]),("Taciz","🟣",["taciz","cinsel saldırı","istismar"]),("Düğünde Silah","🔫",["düğünde silah","havaya ateş","maganda"]),("Silahlı Olay","🔫",["silahlı","silah","kurşun","ateş aç"]),("Kavga","🥊",["kavga","darp","saldırı"]),("Trafik Kazası","🚗",["trafik kazası","kaza","çarpış","araç devr"]),("Hırsızlık","🕵️",["hırsız","çaldı","gasp","soygun"]),("Dolandırıcılık","💳",["dolandır"]),("Uyuşturucu","🚔",["uyuşturucu","narkotik"]),("Kayıp Kişi","👤",["kayıp","aranıyor"]),("Yangın","🔥",["yangın","duman","alev","yanıyor","yanmakta","itfaiye"]),("Sağlık","🚑",["ambulans","yaralı","sağlık"]),("Yol","🚧",["yol kapalı","yol çalışma"]),("Altyapı","⚡",["elektrik","su kesinti","doğalgaz"]),("Asayiş","👮",["polis","emniyet","asayiş","gözaltı","tutuklandı","yakalandı","operasyon","şüpheli","suç"])]
 RELEVANT=["cinayet","öldür","ceset","intihar","terör","bomba","taciz","cinsel saldırı","istismar","silah","kurşun","ateş aç","kavga","darp","saldırı","trafik kazası","kaza","çarpış","devrildi","hırsız","gasp","soygun","dolandır","uyuşturucu","narkotik","kayıp","yangın","alev","yanıyor","yanmakta","itfaiye","ambulans","yaralı","polis","emniyet","asayiş","gözaltı","tutuk","yakalandı","operasyon","şüpheli","suç","patlama","rehin","kaçakçılık","bıçak"]
-BLOCK=["menu","food","restaurant","restoran","yemek","kampanya","indirim","satılık","kiralık","maç","transfer","konser","etkinlik","iş ilanı","job"]
+BLOCK=["menu","food","restaurant","restoran","yemek","kampanya","indirim","satılık","kiralık","maç","transfer","konser","etkinlik","iş ilanı","job","odds","betting","expert picks","sportsbook","nfl","nba","mlb","nhl","bahis","iddaa","maç tahmini","match prediction"]
 def clean(s): return re.sub(r"<[^>]+>"," ",s or "").strip()
 def place_in_text(text,name):
  folded=ascii_text(text);needle=ascii_text(name).strip()
@@ -155,13 +155,29 @@ def political_legal_news(t):
  folded=ascii_text(t)
  return any(x in folded for x in POLITICAL_IDENTITIES) and any(x in folded for x in LEGAL_PROCESS)
 
+def keyword_match(text,keyword):
+ low=text.lower()
+ # Alt dize eşleşmeleri Indianapolis -> polis ve Kahramankazan -> kaza gibi hatalar üretmesin.
+ if keyword=="polis":
+  return bool(re.search(r"(?<![a-zçğıöşü])polis(?:i|in|ler|lere|lerin)?(?![a-zçğıöşü])",low))
+ if keyword=="kaza":
+  return bool(re.search(r"(?<![a-zçğıöşü])kaza(?:sı|si|da|de|dan|den|ya|yı|yi|nın|nin|lar|ları)?(?![a-zçğıöşü])",low))
+ return keyword in low
+
+def instagram_target_match(target,title,raw_desc,link):
+ if not target:return False
+ haystack=html.unescape(" ".join((title or "",raw_desc or "",link or ""))).lower()
+ account=target.lower().strip().lstrip("@")
+ # Arama motoru site: kısıtını yok sayabilir. Hesap yolu/etiketi gerçekten sonuçta yoksa hedef doğrulanmış sayılmaz.
+ return ("instagram.com/"+account in haystack or "instagram.com%2f"+account in haystack or "@"+account in haystack)
+
 def relevant(t):
  low=t.lower()
- return any(k in low for k in RELEVANT) and not any(k in low for k in BLOCK) and not political_legal_news(t)
+ return any(keyword_match(t,k) for k in RELEVANT) and not any(k in low for k in BLOCK) and not political_legal_news(t)
 def classify_all(t):
  t=t.lower();found=[];icon="⚠️"
  for c,i,ks in C:
-  if any(k in t for k in ks):
+  if any(keyword_match(t,k) for k in ks):
    found.append(c)
    if icon=="⚠️":icon=i
  return (found or ["Diğer"]),icon
@@ -178,13 +194,17 @@ def add_feed(url,platform,now,out,target=None):
   req=urllib.request.Request(url,headers={"User-Agent":"Mozilla/5.0"})
   root=ET.fromstring(urllib.request.urlopen(req,timeout=12).read())
   for x in root.findall(".//item"):
-   title=clean(x.findtext("title"));desc=clean(x.findtext("description"));link=x.findtext("link") or "";dt=parse_date(x.findtext("pubDate") or "",now.tzinfo)
+   raw_desc=x.findtext("description") or ""
+   title=clean(x.findtext("title"));desc=clean(raw_desc);link=x.findtext("link") or "";dt=parse_date(x.findtext("pubDate") or "",now.tzinfo)
    headline=title.rsplit(" - ",1)[0]
    district_hint=detect_district(headline)
-   forced_district="Mamak" if target in MAMAK_IG_ACCOUNTS else None
+   verified_target=target if instagram_target_match(target,title,raw_desc,link) else None
+   forced_district="Mamak" if verified_target in MAMAK_IG_ACCOUNTS else None
    if not dt or now-dt>timedelta(days=365) or not (district_hint or forced_district) or not relevant(title+" "+desc):continue
    categories,icon=classify_all(title+" "+desc);cat=categories[0];src=x.find("source");source=src.text if src is not None and src.text else platform
-   out.append({"category":cat,"categories":categories,"icon":icon,"title":title,"location":"Mamak / Ankara","published":dt.isoformat(),"confidence":75 if platform=="Haber" else 60,"sources":1,"status":"Muhtemel" if platform=="Haber" else "Sosyal medya / doğrulanmamış","summary":source+" üzerinden bulunan herkese açık kayıt.","url":link,"platform":platform,"forced_district":forced_district})
+   item={"category":cat,"categories":categories,"icon":icon,"title":title,"location":"Mamak / Ankara","published":dt.isoformat(),"confidence":75 if platform=="Haber" else 60,"sources":1,"status":"Muhtemel" if platform=="Haber" else "Sosyal medya / doğrulanmamış","summary":source+" üzerinden bulunan herkese açık kayıt.","url":link,"platform":platform,"forced_district":forced_district}
+   if verified_target:item["instagram_target"]=verified_target
+   out.append(item)
  except Exception:pass
 def detect_platform(link):
  low=link.lower()
@@ -447,7 +467,8 @@ SOCIAL,SOCIAL_COVERAGE=build_social_queries(ANKARA_NEIGHBORHOOD_CATALOG,now)
 def collect_feed_job(url,platform,now,target=None,ingestion=None):
  found=[];add_feed(url,platform,now,found,target)
  if target:
-  for e in found:e["instagram_target"]=target;e["ingestion"]=ingestion
+  for e in found:
+   if e.get("instagram_target")==target:e["ingestion"]=ingestion
  return found
 
 feed_jobs=[]
