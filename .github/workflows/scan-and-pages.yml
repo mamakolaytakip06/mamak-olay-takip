@@ -1,44 +1,25 @@
-name: Mamak tarama ve yayın
+name: Kapalı sistem sayfasını yayınla
 on:
-  schedule:
-    - cron: "*/5 * * * *"
-  workflow_dispatch:
   push:
     branches: [main]
 permissions:
-  contents: write
+  contents: read
   pages: write
   id-token: write
 concurrency:
   group: pages
   cancel-in-progress: true
 jobs:
-  scan:
+  deploy:
     runs-on: ubuntu-latest
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
     steps:
       - uses: actions/checkout@v4
-      - uses: actions/setup-python@v5
-        with:
-          python-version: "3.12"
-      - name: Açık kaynakları tara
-        env:
-          GOOGLE_ALERT_FEEDS: ${{ secrets.GOOGLE_ALERT_FEEDS }}
-        run: python scripts/fetch_events.py
-      - name: Sonuç değiştiyse kaydet
-        run: |
-          git config user.name "mamak-bot"
-          git config user.email "actions@users.noreply.github.com"
-          git add data/events.json
-          test ! -f data/ankara_neighborhoods.json || git add data/ankara_neighborhoods.json
-          git diff --cached --quiet || (git commit -m "Olay verisini güncelle" && git push)
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3
         with:
           path: .
       - id: deployment
         uses: actions/deploy-pages@v4
-
-# Google Alerts: dokuz gerçek RSS beslemesi etkin
