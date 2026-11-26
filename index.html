@@ -3,69 +3,19 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
-<meta name="theme-color" content="#07111f">
-<title>Ankara Olay Takip V3.3</title>
-<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
-<link rel="stylesheet" href="styles.css">
+<meta name="theme-color" content="#101827">
+<title>Mamak Olay Takip — Sistem Kapalı</title>
+<style>
+*{box-sizing:border-box}body{margin:0;min-height:100vh;display:grid;place-items:center;padding:24px;background:#101827;color:#eef2f7;font:16px/1.6 system-ui,-apple-system,Segoe UI,sans-serif}.panel{width:min(100%,560px);padding:36px 28px;border:1px solid #344256;border-radius:18px;background:#182437;text-align:center}h1{margin:0 0 12px;font-size:clamp(26px,6vw,36px)}p{margin:8px 0;color:#c5cfdd}.status{display:inline-block;margin-bottom:18px;padding:6px 12px;border-radius:999px;background:#3a2630;color:#ffb8c2;font-weight:700;letter-spacing:.04em}.small{margin-top:22px;font-size:13px;color:#91a0b4}
+</style>
 </head>
 <body>
-<header>
-  <div>
-    <span class="live">● CANLI İZLEME</span>
-    <button id="homeTitle" class="brand-title" title="Sayfayı yenile">ANKARA OLAY TAKİP <b>V3.3</b></button>
-    <button id="last24" class="last24"><span id="periodCountLabel">SON 24 SAATTEKİ HABER SAYISI:</span><strong id="last24Count">0</strong></button><div id="last24Summary" class="last24-summary">Henüz olay özeti yok</div><div id="quickDistricts" class="quick-districts" aria-label="Hızlı ilçe seçimi"><label><input type="checkbox" value="Mamak" checked><span>Mamak</span></label><label><input type="checkbox" value="Altındağ"><span>Altındağ</span></label><label><input type="checkbox" value="Çankaya"><span>Çankaya</span></label></div>
-  </div>
-  <div class="head-actions">
-    <button id="notifySettings">⚙️ Akıllı Bildirim</button>
-    <button id="sound"><img class="alarm-button-icon" src="assets/alarm-icon.png" alt=""> <span>Sesi Aç</span></button>
-    <div class="refresh-group"><button id="refresh">↻ Yenile</button><span class="active-users" title="Gerçek zamanlı toplam için sayaç servisi gerekir">Aktif Kullanıcı: <strong id="activeUserCount">1+</strong></span></div>
-  </div>
-</header>
-<main>
-<aside>
-  <section><label>OLAY TARAMA DURUMU</label><div class="metrics"><div><strong id="last">—</strong><small>Son tarama</small></div><div><strong id="next">05:00</strong><small>Sonraki</small></div></div><p>Veriler GitHub tarafından yaklaşık 5 dakikada bir yenilenir.</p><div id="sourceScanStatus" class="source-scan-status">Kaynak tarama sonuçları yükleniyor…</div></section>
-  <section><label>ZAMAN ARALIĞI</label><div id="ranges" class="filters"><button class="active" data-range="last24">Son 24 Saat</button><button data-range="30">30 dk</button><button data-range="60">1 saat</button><button data-range="180">3 saat</button><button data-range="today">Bugün</button><button data-range="yesterday">Dün</button><button data-range="4320">Son 3 Gün</button><button data-range="10080">Son 1 Hafta</button><button data-range="43200">Son 1 Ay</button><button data-range="525600">Son 1 Yıl</button></div></section>
-  <section><label>HABER KAYNAKLARI</label><label class="source-all"><input id="allSources" type="checkbox" checked> <span class="source-icon all-icon">✓</span> HEPSİ</label><div id="sourceFilters" class="source-filters"><label><input type="checkbox" value="X"><span class="source-icon x-icon">𝕏</span> Twitter</label><label><input type="checkbox" value="Facebook"><span class="source-icon fb-icon">f</span> Facebook</label><label><input type="checkbox" value="Instagram"><span class="source-icon ig-icon">◎</span> Instagram</label><label><input type="checkbox" value="Diğer"><span class="source-icon other-icon">🌐</span> Diğer</label></div></section>
-  <section><label>ANKARA İLÇELERİ</label><label class="district-all"><input id="allDistricts" type="checkbox" checked> Tüm ilçeler</label><div id="districts" class="district-filters"></div></section>
-  <section><label>KATEGORİLER</label><div id="cats" class="filters"></div></section>
-</aside>
-<article>
-  <div class="search"><input id="query" placeholder="Mahalle, cadde veya olay ara…"><span id="count">0 olay</span></div>
-  <div id="notice"></div>
-  <section class="map-panel">
-    <div class="panel-head"><div><label>OLAY HARİTASI</label><h2>İlçe, mahalle ve olay konumları</h2></div><span id="mapCount">0 işaret</span></div>
-    <div id="map" aria-label="Mamak olay haritası"></div>
-    <p class="map-note">Kesin adres bulunmayan kayıtlar ilgili ilçe merkezinde yaklaşık konumla gösterilir.</p>
-  </section>
-  <section id="stats" class="stats">
-    <div class="stats-head"><div><label>OLAY İSTATİSTİKLERİ</label><h2 id="statsTitle">Bugünkü olay dağılımı</h2></div><strong id="statsTotal">0</strong></div>
-    <div id="statExtras" class="stat-extras"></div>
-    <div id="statBars"></div>
-  </section>
-  <div id="events"></div>
-</article>
+<main class="panel">
+<div class="status">SİSTEM KAPALI</div>
+<h1>Mamak Olay Takip</h1>
+<p>Sistem, yönetici tarafından tamamen devre dışı bırakılmıştır.</p>
+<p>Olay taraması, otomatik veri güncelleme ve kullanıcı arayüzü kullanıma kapatılmıştır.</p>
+<div class="small">Mevcut proje dosyaları ve kayıtlı veriler korunmaktadır.</div>
 </main>
-<footer>Yalnızca herkese açık kaynakları izler. Konumu ve tek kaynaklı kayıtları kesinleşmiş olay kabul etmeyiniz.</footer>
-
-<dialog id="detailModal" class="modal">
-  <button class="modal-close" data-close="detailModal" aria-label="Kapat">✕</button>
-  <div id="detailContent"></div>
-</dialog>
-<dialog id="notifyModal" class="modal">
-  <button class="modal-close" data-close="notifyModal" aria-label="Kapat">✕</button>
-  <h2>Akıllı Bildirim Ayarları</h2>
-  <p class="meta">Bu bildirimler web uygulaması açıkken çalışır.</p>
-  <label class="field">En düşük güven
-    <select id="notifyConfidence"><option value="0">Tümü</option><option value="60">%60 ve üzeri</option><option value="75">%75 ve üzeri</option><option value="85">%85 ve üzeri</option></select>
-  </label>
-  <label class="check"><input type="checkbox" id="notifySound"> Sesli uyarı ver</label>
-  <label class="check"><input type="checkbox" id="notifyBrowser"> Tarayıcı bildirimi göster</label>
-  <label>BİLDİRİM KATEGORİLERİ</label>
-  <div id="notifyCats" class="notify-cats"></div>
-  <button id="saveNotify" class="primary">Ayarları Kaydet</button>
-</dialog>
-
-<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
-<script src="app.js?v=20260909-last24-refresh"></script>
 </body>
 </html>
